@@ -1,21 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="City" eid="Id2" shape="(X (X (X (X))))" shape_type="chain" size="3">
-      <originaltripleset>
-        <otriple>Abilene,_Texas | isPartOf | Texas</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>Texas | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abilene,_Texas | isPartOf | Texas</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>Texas | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abilene is located in Texas in the United States. Washington, D. C. is the country's capital.</lex>
-      <lex comment="good" lid="Id2">Abilene is part of Texas which is in the US, the capital of which is Washington DC.</lex>
-      <lex comment="good" lid="Id3">Abilene is a part of Texas, in the United States, of which Washington, D.C. is the capital.</lex>
-    </entry>
     <entry category="City" eid="Id6" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Albuquerque_City_Council | leader | Richard_J._Berry</otriple>
@@ -66,20 +51,6 @@
       <lex comment="good" lid="Id2">Amarillo, Texas, is part of Randall County, Texas, United States, where Native Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id3">Native Americans are one of the ethnic groups in the United States of America which is where Amarillo Texas, part of Randall County, is located.</lex>
     </entry>
-    <entry category="City" eid="Id11" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Anaheim,_California | isPartOf | Orange_County,_California</otriple>
-        <otriple>Orange_County,_California | subdivisionName | Greater_Los_Angeles_Area</otriple>
-        <otriple>Orange_County,_California | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anaheim,_California | isPartOf | Orange_County,_California</mtriple>
-        <mtriple>Orange_County,_California | isPartOf | Greater_Los_Angeles_Area</mtriple>
-        <mtriple>Orange_County,_California | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Orange County in California is part of the Greater Los Angeles area, where Anaheim is located in the United States.</lex>
-      <lex comment="good" lid="Id2">Anaheim is a city in Orange County, which is part of the Greater Los Angeles area in California, United States.</lex>
-    </entry>
     <entry category="City" eid="Id14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Atlanta | areaCode | "404/678/470"</otriple>
@@ -100,21 +71,6 @@
       <lex comment="good" lid="Id2">Atlanta has the area codes 404, 678, and 470 and its total area is 347.1 km. The population density there is 1299 people per sq. km.</lex>
       <lex comment="good" lid="Id3">Atlanta; has a total area of 347.1 square kilometres, a population density of 1299.0 inhabitants per square kilometre, and the area codes: 404, 678, and 470.</lex>
     </entry>
-    <entry category="City" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Atlanta | isPartOf | DeKalb_County,_Georgia</otriple>
-        <otriple>Atlanta | country | United_States</otriple>
-        <otriple>Atlanta | subdivisionName | "Georgia"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Atlanta | isPartOf | DeKalb_County,_Georgia</mtriple>
-        <mtriple>Atlanta | country | United_States</mtriple>
-        <mtriple>Atlanta | isPartOf | "Georgia"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Most of Atlanta is part of DeKalb County in Georgia, United States.</lex>
-      <lex comment="good" lid="Id2">Atlanta is part of DeKalb County in Georgia, United States.</lex>
-      <lex comment="good" lid="Id3">Most of Atlanta is part of DeKalb County in Georgia, in the U.S.</lex>
-    </entry>
     <entry category="City" eid="Id20" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Anderson,_Indiana | isPartOf | Indiana</otriple>
@@ -134,20 +90,6 @@
       <lex comment="good" lid="Id1">Anderson is part of Madison County, Indiana in the U.S.</lex>
       <lex comment="good" lid="Id2">Anderson is part of Madison County which is located in Indiana in the United States.</lex>
       <lex comment="good" lid="Id3">Anderson, Indiana is in Madison County in the United States.</lex>
-    </entry>
-    <entry category="City" eid="Id21" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Madison_County,_Indiana | country | United_States</otriple>
-        <otriple>Alexandria,_Indiana | isPartOf | Madison_County,_Indiana</otriple>
-        <otriple>Madison_County,_Indiana | largestCity | Anderson,_Indiana</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Madison_County,_Indiana | country | United_States</mtriple>
-        <mtriple>Alexandria,_Indiana | isPartOf | Madison_County,_Indiana</mtriple>
-        <mtriple>Madison_County,_Indiana | largestCity | Anderson,_Indiana</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alexandria, Indiana is part of Madison County Indiana in the United States. The largest city in Madison County is Anderson.</lex>
-      <lex comment="good" lid="Id2">Alexandria in the United States is part of Madison County, Indiana which has the largest city of Anderson.</lex>
     </entry>
     <entry category="City" eid="Id23" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

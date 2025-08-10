@@ -1,21 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="University" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | nickname | Uab</otriple>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | state | Alba</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1_Decembrie_1918_University | nickname | Uab</mtriple>
-        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
-        <mtriple>1_Decembrie_1918_University | state | Alba</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is located in Alba Iulia, Alba. Its nickname is Uab.</lex>
-      <lex comment="good" lid="Id2">The nickname of the 1 Decembrie 1918 University in Alba Iulia, Alba, is Uab.</lex>
-      <lex comment="good" lid="Id3">The 1 Decembrie 1918 University is also known as Uab and located in Alba Iulia, Alba.</lex>
-    </entry>
     <entry category="University" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>AWH_Engineering_College | country | India</otriple>
@@ -29,21 +14,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AWH Engineering College was established in India in 2001 and has 250 academic staff.</lex>
       <lex comment="good" lid="Id2">AWH Engineering College was established in 2001 and is located in India. It currently has 250 members of staff.</lex>
-    </entry>
-    <entry category="University" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>AWH_Engineering_College | established | 2001</otriple>
-        <otriple>AWH_Engineering_College | faculty | 250</otriple>
-        <otriple>AWH_Engineering_College | state | Kerala</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AWH_Engineering_College | established | 2001</mtriple>
-        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
-        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">There are 250 academic staff at the AWH Engineering College in the state of Kerala. The College was established in 2001.</lex>
-      <lex comment="good" lid="Id2">AWH Engineering College was established in 2001 in Kerala. It has an academic staff of 250.</lex>
-      <lex comment="good" lid="Id3">The AWH Engineering College was established in 2001 in Kerala and has a staff compliment of 250.</lex>
     </entry>
     <entry category="University" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -89,21 +59,6 @@
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is in Switzerland. The Swiss anthem is the Swiss Psalm and its leader is Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id2">Accademia di Architettura di Mendrisio is located in Switzerland. The country's leader is Johann Schneider-Ammann and their national anthem is the Swiss Psalm.</lex>
     </entry>
-    <entry category="University" eid="Id18" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio was established in Mendrisio in 1996. Its dean is Mario Botta.</lex>
-      <lex comment="good" lid="Id2">Mario Botta is Dean of the Accademia di Architettura di Mendrisio which is located in the city of Mendrisio and was established in 1996.</lex>
-      <lex comment="good" lid="Id3">The dean of the Accademia di Architettura di Mendrisio is Mario Botta and the university was established in 1996.</lex>
-    </entry>
     <entry category="University" eid="Id21" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
@@ -124,21 +79,6 @@
       <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio is located in Ticino. There are 600 students and 100 staff members.</lex>
       <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio in Ticino has a staff of 100 and 600 students.</lex>
     </entry>
-    <entry category="University" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio. Its dean is called Mario Botta and it has 600 students.</lex>
-      <lex comment="good" lid="Id2">There are 600 students at the Accademia di Architettura di Mendrisio which has Mario Botta as Dean and is situated in the city of Mendrisio.</lex>
-      <lex comment="good" lid="Id3">The dean of Accademia di Architettura di Mendrisio is Mario Botta and it has 600 students.</lex>
-    </entry>
     <entry category="University" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Acharya_Institute_of_Technology | academicStaff | "~500"@en</otriple>
@@ -154,20 +94,6 @@
       <lex comment="good" lid="Id2">The Acharya Institute of Technology in India has an academic staff of approximately 500. Its motto is "Nurturing Excellence".</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology in India has a staff of about 500, the university's motto is "Nurturing Excellence".</lex>
     </entry>
-    <entry category="University" eid="Id26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
-        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
-        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology is in Bangalore, Karnataka. It is associated with the Visvesvaraya Technological University.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology of Bangalore, Karnataka is affiliated with Visvesvaraya Technological University.</lex>
-    </entry>
     <entry category="University" eid="Id27" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
@@ -181,21 +107,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology is in Soldevanahalli, its address is Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University in Belgaum and is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
-    </entry>
-    <entry category="University" eid="Id28" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
-        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090. It is affiliated with the Visvesvaraya Technological University.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology is located in Soldevanahalli, at the address Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It's affiliated with the Visvesvaraya Technological University.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University. Its campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
     </entry>
     <entry category="University" eid="Id31" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -254,21 +165,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in Bangalore. Its founder is Kempe Gowda.</lex>
       <lex comment="good" lid="Id2">Bangalore was founded by Kempe Gowda and is the location of the Acharya Institute of Technology which is affiliated with Visvesvaraya Technological University.</lex>
-    </entry>
-    <entry category="University" eid="Id41" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Kerala | leaderName | Kochi</otriple>
-        <otriple>AWH_Engineering_College | facultySize | "250"^^xsd:nonNegativeInteger</otriple>
-        <otriple>AWH_Engineering_College | state | Kerala</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Kerala | leader | Kochi</mtriple>
-        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
-        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AWH Engineering College at Kerala has 250 academic staff. Kerala's leader is Kochi.</lex>
-      <lex comment="good" lid="Id2">Kochi is the leader of Kerala which is the location of the AWH Engineering College that has an academic staff of 250.</lex>
-      <lex comment="good" lid="Id3">With a staff compliment of 250, AWH Engineering College is located in Kerala, the leader of that state is named Kochi.</lex>
     </entry>
     <entry category="University" eid="Id44" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -338,21 +234,6 @@
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University at Arhus was established in 1928. Arhus has a Magistrate government.</lex>
       <lex comment="good" lid="Id2">The city of Aarhus has a magistrate type of government and is the location of the School of Business and Social Sciences at Aarhus University which was established in 1928.</lex>
       <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University was established in 1928. Aarus is governed by a magistrate.</lex>
-    </entry>
-    <entry category="University" eid="Id55" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | "Universitas Aarhusiensis"@en</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | latinName | "Universitas Aarhusiensis"</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University (Latin name - "Universitas Aarhusiensis" was established in 1928 and it is affiliated with the European University Association.</lex>
-      <lex comment="good" lid="Id2">"Universitas Aarhusiensis" is the latin name of the School of Business and Social Sciences at Aarhus University which is affiliated to the European University Association. The School was established in 1928.</lex>
-      <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University, affiliated with the European University Association, was established in 1928. Its Latin name is Universitas Aarhusiensis.</lex>
     </entry>
     <entry category="University" eid="Id58" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

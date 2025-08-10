@@ -1,19 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="SportsTeam" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
-        <otriple>Jorge_Humberto_Rodríguez | team | C.D._FAS</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</mtriple>
-        <mtriple>Jorge_Humberto_Rodríguez | club | C.D._FAS</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan, he played for the C.D. FAS.</lex>
-      <lex comment="good" lid="Id2">Jorge Humberto Rodriguez manages A.D. Isidro Metapan. He is in the C.D. FAS.</lex>
-      <lex comment="good" lid="Id3">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan and plays for C.D. FAS.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
@@ -40,19 +27,6 @@
       <lex comment="good" lid="Id2">AFC Fylde has the home ground called The Fylde, which holds 3180 fans.</lex>
       <lex comment="good" lid="Id3">The Fylde, (capacity 3180) is the home ground of AFC Fylde.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>A.F.C._Fylde | capacity | "3180"^^xsd:nonNegativeInteger</otriple>
-        <otriple>A.F.C._Fylde | ground | "Bryning Lane"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
-        <mtriple>A.F.C._Fylde | ground | "Bryning Lane"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.F.C. Fylde has 3180 members and are based at Bryning Lane.</lex>
-      <lex comment="good" lid="Id2">AFC Fylde has 3180 members and are based at Bryning Lane.</lex>
-      <lex comment="good" lid="Id3">A.F.C. Fylde are based at Bryning Lane and they have 3180 members.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>A.S._Roma | ground | "Rome, Italy"@en</otriple>
@@ -78,27 +52,6 @@
       <lex comment="good" lid="Id1">The manager of AFC Ajax is Frank de Boer who is in the Ajax Youth Academy.</lex>
       <lex comment="good" lid="Id2">AFC Ajax's manager is Frank de Boer, who played for the Ajax Youth Academy.</lex>
       <lex comment="good" lid="Id3">Frank de Boer is in the Ajax Youth Academy and manages AFC Ajax.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>AFC_Ajax | owner | "AFC Ajax NV"@en</otriple>
-        <otriple>AFC_Ajax | capacity | "53502"^^xsd:nonNegativeInteger</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>AFC_Ajax | owner | AFC_Ajax_N.V.</otriple>
-        <otriple>AFC_Ajax | capacity | 53502</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>AFC_Ajax | owner | AFC_Ajax_N.V.</otriple>
-        <otriple>AFC_Ajax | capacity | "53502"^^xsd:nonNegativeInteger</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AFC_Ajax | owner | AFC_Ajax_N.V.</mtriple>
-        <mtriple>AFC_Ajax | numberOfMembers | 53502</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AFC Ajax has 53502 members and is the owner of AFC Ajax NV.</lex>
-      <lex comment="good" lid="Id2">AFC Ajax has 53502 members and is owned by AFC Ajax NV.</lex>
-      <lex comment="good" lid="Id3">AFC Ajax has 53502 members and is owned by AFC Ajax N.V.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

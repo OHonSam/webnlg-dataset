@@ -20,25 +20,6 @@
       <lex comment="good" lid="Id2">Alaa Abdul-Zahra's clubs are Shabab Al-Ordon Club and Al Kharaitiyat SC. The latter team have their ground at Al Khor, are managed by Amar Osim and play in the Qatar Stars League.</lex>
       <lex comment="good" lid="Id3">Alaa Abdul Zahra's club is Shabab Al-Ordon and he also plays for Al Kharaitiyat SC. This latter club plays in the Qatar Stars league, is located in Al Khor and is managed by Amar Osim.</lex>
     </entry>
-    <entry category="Athlete" eid="Id4" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Aleksandr_Prudnikov | clubs | FC_Amkar_Perm</otriple>
-        <otriple>FC_Terek_Grozny | ground | Grozny</otriple>
-        <otriple>Aleksandr_Prudnikov | youthclubs | FC_Spartak_Moscow</otriple>
-        <otriple>Aleksandr_Prudnikov | team | FC_Terek_Grozny</otriple>
-        <otriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksandr_Prudnikov | club | FC_Amkar_Perm</mtriple>
-        <mtriple>FC_Terek_Grozny | ground | Grozny</mtriple>
-        <mtriple>Aleksandr_Prudnikov | youthclub | FC_Spartak_Moscow</mtriple>
-        <mtriple>Aleksandr_Prudnikov | club | FC_Terek_Grozny</mtriple>
-        <mtriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandr Prudnikov is an associate of the youth side of FC Spartak Moscow. He plays for the Amkar Perm football club and the Terek Grozny FC which is managed by Rashid Rakhimov. The latter football club is in Grozny.</lex>
-      <lex comment="good" lid="Id2">Aleksandr Prudnikov once played for FC Spartak Moscow's youth team. He plays with the FC Amkar Perm and the FC Terek Grozny which is managed by Rashid Rakhimov and has its home territory in Grozny.</lex>
-      <lex comment="good" lid="Id3">Aleksandr Prudnikov, who represented FC Spartak Moscow at youth level, later played for Grozny based FC Terek Grozny - managed by Rashid Rakhimov - and FC Amkar Perm football club.</lex>
-    </entry>
     <entry category="Athlete" eid="Id7" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>FC_Terek_Grozny | ground | Grozny</otriple>

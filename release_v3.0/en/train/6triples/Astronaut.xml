@@ -21,25 +21,6 @@
       <lex comment="good" lid="Id1">Alan Bean was born in Wheeler, Texas, the United States. He was a member of Apollo 12 and also served as a test pilot. He graduated from UT Austin 1955 with a B.S. and is now retired.</lex>
       <lex comment="good" lid="Id2">Alan Bean was originally from Wheeler, Texas, USA, and graduated from UT Austin in 1955 with a B.S. He went on to work as a test pilot and became a crew member of the Apollo 12 mission before he retired .</lex>
     </entry>
-    <entry category="Astronaut" eid="Id5" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>Alan_Bean | nationality | United_States</otriple>
-        <otriple>Alan_Bean | occupation | Test_pilot</otriple>
-        <otriple>Alan_Bean | birthDate | "1932-03-15"^^xsd:date</otriple>
-        <otriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"@en</otriple>
-        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
-        <otriple>Alan_Bean | timeInSpace | "100305.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Bean | nationality | United_States</mtriple>
-        <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
-        <mtriple>Alan_Bean | birthDate | "1932-03-15"</mtriple>
-        <mtriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"</mtriple>
-        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
-        <mtriple>Alan_Bean | timeInSpace | "100305.0"(minutes)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">US national Alan Bean was born in Wheeler Texas on March 15th 1932. After being awarded a Bachelor of Science degree at the University of Texas, Austin in 1955, he became a test pilot for NASA and enjoyed 100305.0 minutes in space.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id7" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
         <otriple>Alan_Bean | nationality | United_States</otriple>
@@ -81,27 +62,6 @@
       <lex comment="good" lid="Id1">Alan Bean was born in Wheeler Texas and is from the United States. He earned a BSc from the University of Texas at Austin in 1955. He was a test pilot and a member of Apollo 12, which is operated by NASA.</lex>
       <lex comment="good" lid="Id2">Alan Bean was an American, born in Wheeler Texas. He graduated from UT Austin in 1955 with a Bachelor of Science and became a test pilot. He was a crew member aboard Apollo 12, operated by NASA.</lex>
       <lex comment="good" lid="Id3">Alan Bean, an American was born in Wheeler Texas and graduated from UT Austin in 1955 with a BSc. He was a test pilot and a crew member on NASA's Apollo 12.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id13" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"@en</otriple>
-        <otriple>Alan_Shepard | deathPlace | California</otriple>
-        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
-        <otriple>Alan_Shepard | dateOfRet | "1974-08-01"^^xsd:date</otriple>
-        <otriple>Alan_Shepard | birthDate | "1923-11-18"^^xsd:date</otriple>
-        <otriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"</mtriple>
-        <mtriple>Alan_Shepard | deathPlace | California</mtriple>
-        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
-        <mtriple>Alan_Shepard | dateOfRetirement | "1974-08-01"</mtriple>
-        <mtriple>Alan_Shepard | birthDate | "1923-11-18"</mtriple>
-        <mtriple>Alan_Shepard | award | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire on 18th November 1923, graduated from NWC with an M.A. in 1957, retired on 1st August 1974 and died in California. He was awarded the Distinguished Service Medal by The United States Navy.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire on Nov 18, 1923, retired on August 1st, 1974 and died in California. He was graduated from NWC in 1957 with an M.A. and was awarded the Distinguished Service Medal by The United States Navy.</lex>
-      <lex comment="good" lid="Id3">Alan Shepard (born on Nov 18, 1923 in New Hampshire) graduated from NWC, M.A. in 1957 and been awarded the Distinguished Service Medal by the United States Navy. He retired 1st of August 1974 and has died in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id14" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -185,26 +145,6 @@
       <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire and died in California. He graduated from NWC, M.A. in 1957, was a test pilot and crew member of the Apollo 14, which was operated by NASA.</lex>
       <lex comment="good" lid="Id3">Alan Shepard (born in New Hampshire) graduated from NWC with an M.A. in 1957. Alan was a crew member of the NASA-operated Apollo 14 where he served as a test pilot. Alan died in California.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id23" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
-      <originaltripleset>
-        <otriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"@en</otriple>
-        <otriple>Alan_Shepard | mission | Apollo_14</otriple>
-        <otriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</otriple>
-        <otriple>Alan_Shepard | deathPlace | California</otriple>
-        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
-        <otriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"</mtriple>
-        <mtriple>Alan_Shepard | mission | Apollo_14</mtriple>
-        <mtriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</mtriple>
-        <mtriple>Alan_Shepard | deathPlace | California</mtriple>
-        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
-        <mtriple>Alan_Shepard | award | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Apollo 14 crew member Alan Shepard was born in New Hampshire and died in California. He graduated with an M.A. from NWC in 1957. The United States Navy awarded Shepard the Distinguished Service Medal. The precedence of the Navy's Distinguished Service Medal is above that of the Department of Commerce Gold Medal.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire and graduated from NWC with an MA in 1957. He served as a crew member of Apollo14. He was awarded the United States Distinguished Service Medal which ranks higher than the Department of Commerce Gold Medal. He died in California.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id25" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
         <otriple>Alan_Shepard | status | "Deceased"@en</otriple>
@@ -263,27 +203,6 @@
       <lex comment="good" lid="Id1">Alan Shepard was a member of Apollo 14, which is operated by NASA. He was awarded the distinguished service medal in the US Navy, which ranks higher than the Dept of Commerce Gold Medal. He died in California, where Dianne Feinstein is a senator.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was a crew member of the NASA operated Apollo 14. The United States Navy awarded him their Distinguished Service Medal, which is considered higher than the Department of Commerce Gold Medal. Alan Shepard passed away in California, which was represented by Senator Dianne Feinstein.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id33" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
-      <originaltripleset>
-        <otriple>Apollo_12 | crew2Up | Alfred_Worden</otriple>
-        <otriple>Alan_Bean | mission | Apollo_12</otriple>
-        <otriple>Apollo_12 | operator | NASA</otriple>
-        <otriple>Apollo_12 | crew1Up | David_Scott</otriple>
-        <otriple>Alan_Bean | status | "Retired"@en</otriple>
-        <otriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Apollo_12 | backupPilot | Alfred_Worden</mtriple>
-        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
-        <mtriple>Apollo_12 | operator | NASA</mtriple>
-        <mtriple>Apollo_12 | commander | David_Scott</mtriple>
-        <mtriple>Alan_Bean | status | "Retired"</mtriple>
-        <mtriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Bean was part of NASA's Apollo 12 crew which has Alfred Worden as its backup pilot and was commanded by David Scott. Bean graduated from the University of Texas in Austin in 1955 with a Bachelor of Science degree. He is now retired.</lex>
-      <lex comment="good" lid="Id2">The Apollo 12 mission was operated by NASA. Alan Bean, who graduated from UT Austin in 1955 with a B.Sc., was a crew member and is now retired. David Scott commanded the mission and the backup pilot was Alfred Worden.</lex>
-      <lex comment="good" lid="Id3">Apollo 12 was a NASA operated mission commanded by David Scott. Alan Bean, who graduated from UT Austin in 1955 with a Bachelor of Science degree, served as a crew member but is now retired. Alfred Worden served as backup pilot of Apollo 12.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id37" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
         <otriple>Buzz_Aldrin | alternativeNames | "Edwin E. Aldrin, Jr."@en</otriple>
@@ -303,27 +222,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was born on Jan 20th, 1930 and his full name is Edwin E. Aldrin Jr. He graduated from MIT in 1963 with a doctorate in Science. He was a fighter pilot and a crew member of Apollo 11. He is now retired.</lex>
       <lex comment="good" lid="Id2">Edwin E.Aldrin Jr. otherwise know as Buzz Aldrin was born in 1930 and graduated in 1963 from MIT. He then went on to become a fighter pilot and became a member of the Apollo 11 crew before he retired.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id39" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
-        <otriple>Buzz_Aldrin | nationality | United_States</otriple>
-        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
-        <otriple>Buzz_Aldrin | occupation | Fighter_pilot</otriple>
-        <otriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"@en</otriple>
-        <otriple>Buzz_Aldrin | birthDate | "1930-01-20"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
-        <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
-        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
-        <mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
-        <mtriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</mtriple>
-        <mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">American Buzz Aldrin was born in Glen Ridge, New Jersey on January 20th, 1930. In 1963 he graduated from MIT with a Sc. D then became a fighter pilot and later a member of the Apollo 11 crew.</lex>
-      <lex comment="good" lid="Id2">American Buzz Aldrin was born on the 20th of January 1930 in Glen Ridge, New Jersey. He graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science, was a fighter pilot and was a crew member of Apollo 11.</lex>
-      <lex comment="good" lid="Id3">American fighter pilot Buzz Aldrin, who was born January 20 1930 in Glen Ridge, NJ, graduated from Massachusetts Institute of Technology, Sc.D. 1963 and became a crew member of Apollo 11.</lex>
     </entry>
     <entry category="Astronaut" eid="Id43" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -346,26 +244,6 @@
       <lex comment="good" lid="Id2">Buzz Aldrin is originally from Glen Ridge, New Jersey, U.S.A., and graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science. Buzz Aldrin went on to work for NASA in 1963 where he became a member of the Apollo 11's crew.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin is originally from Glen Ridge, New Jersey, United States and graduated from MIT with a Sc.D in 1963. Buzz then went on to join NASA in 1963 and became a crew member of Apollo 11.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id45" shape="(X (X) (X (X)) (X (X) (X)))" shape_type="mixed" size="6">
-      <originaltripleset>
-        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
-        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
-        <otriple>Buzz_Aldrin | nationality | United_States</otriple>
-        <otriple>United_States | leaderName | Joe_Biden</otriple>
-        <otriple>Apollo_11 | crew2Up | William_Anders</otriple>
-        <otriple>Apollo_11 | operator | NASA</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
-        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
-        <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
-        <mtriple>United_States | leader | Joe_Biden</mtriple>
-        <mtriple>Apollo_11 | backupPilot | William_Anders</mtriple>
-        <mtriple>Apollo_11 | operator | NASA</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin is an American who was born in Glen Ridge, New Jersey. He served as a crew member on the NASA-operated Apollo 11 mission alongside backup pilot William Anders. Another notable American is the leader Joe Biden.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge, New Jersey. Buzz Aldrin was a crew member of Apollo 11 which was operated by NASA and its backup pilot was William Anders. Buzz Aldrin's nationality is American, and the country's leader was called Joe Biden.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id48" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
         <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
@@ -385,26 +263,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, New Jersey and graduated from MIT in 1963. He performed as a fighter pilot and was a member of the Apollo 11 crew, operated by NASA. He is now retired.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge, New Jersey, graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science, his occupation was a fighter pilot and is now retired. Buzz Aldrin was a crew member of Apollo 11 which was operated by NASA.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id49" shape="(X (X) (X (X)) (X (X) (X)))" shape_type="mixed" size="6">
-      <originaltripleset>
-        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
-        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
-        <otriple>Buzz_Aldrin | selection | 1963</otriple>
-        <otriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</otriple>
-        <otriple>Apollo_11 | crew2Up | William_Anders</otriple>
-        <otriple>Apollo_11 | operator | NASA</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
-        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
-        <mtriple>Buzz_Aldrin | selectedByNasa | 1963</mtriple>
-        <mtriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</mtriple>
-        <mtriple>Apollo_11 | backupPilot | William_Anders</mtriple>
-        <mtriple>Apollo_11 | operator | NASA</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, Essex County, New Jersey. He joined NASA in 1963, where he would go on to serve as a crew member aboard the Apollo 11 mission. That mission also included backup pilot William Anders.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge, Essex County, New Jersey. In 1963, he was selected to be part of NASA's Apollo 11 crew. William Anders was an Apollo 11 backup pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id51" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -488,27 +346,6 @@
       <lex comment="good" lid="Id2">Elliot See was born in Dallas on the 23rd July 1927. He was a student at the University of Texas at Austin. He was selected by NASA in 1962 and died in St Louis.</lex>
       <lex comment="good" lid="Id3">Elliot See was born on July 23rd, 1927 in Dallas, Texas. After graduating from the University of Texas at Austin, he was selected by NASA in 1962. He died in St. Louis.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id60" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
-        <otriple>Elliot_See | status | "Deceased"@en</otriple>
-        <otriple>Elliot_See | deathPlace | St._Louis</otriple>
-        <otriple>Elliot_See | birthPlace | Dallas</otriple>
-        <otriple>Elliot_See | nationality | United_States</otriple>
-        <otriple>Elliot_See | selection | 1962</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
-        <mtriple>Elliot_See | status | "Deceased"</mtriple>
-        <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
-        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
-        <mtriple>Elliot_See | nationality | United_States</mtriple>
-        <mtriple>Elliot_See | selectedByNasa | 1962</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">American Elliot See was born in Dallas, was a student at the University of Texas in Austin and in 1962 was picked to join the space mission by NASA. See later died in St. Louis.</lex>
-      <lex comment="good" lid="Id2">Elliot See was an American who studied at the University of Texas in Austin and was selected by NASA in 1962. He was born in Dallas and died in St. Louis.</lex>
-      <lex comment="good" lid="Id3">Former NASA Astronaut Elliot See has died in Saint Louis. The American was born in Dallas and graduated from the University of Texas in Austin before being chosen by NASA in 1962.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id61" shape="(X (X (X)) (X (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
         <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
@@ -528,27 +365,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See attended the University of Texas at Austin. The university is affiliated with the University of Texas System and it competed in the Big 12 Conference in Austin. The president of the university was Gregory L. Fenves. Elliot See died in St Louis. The leader of St. Louis was Francis G. Slay.</lex>
       <lex comment="good" lid="Id2">Elliot See graduated from UT at Austin, which is affiliated to with the University of Texas System and will compete in the Big 12 Conference. Gregory L Fenves is the appointed president. Elliot See died in St Louis where Francis G Slay is the mayor.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id62" shape="(X (X (X)) (X (X) (X) (X)))" shape_type="mixed" size="6">
-      <originaltripleset>
-        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
-        <otriple>University_of_Texas_at_Austin | affiliations | University_of_Texas_System</otriple>
-        <otriple>Dallas | partsType | List_of_counties_in_Texas</otriple>
-        <otriple>Elliot_See | birthPlace | Dallas</otriple>
-        <otriple>University_of_Texas_at_Austin | athletics | Big_12_Conference</otriple>
-        <otriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
-        <mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
-        <mtriple>Dallas | partsType | List_of_counties_in_Texas</mtriple>
-        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
-        <mtriple>University_of_Texas_at_Austin | competeIn | Big_12_Conference</mtriple>
-        <mtriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot see was born in Dallas, Texas. He attended the University of Texas at Austin which is affiliated with the University of Texas system. The school is part of the big 12 conference and the president of the school is Gregory L. Fenves.</lex>
-      <lex comment="good" lid="Id2">Elliot See was born in Dallas, Texas. He graduated from the University of Texas at Austin, which is affiliated to the University of Texas system and will compete in the Big 12 Conference. Gregory L. Fenves is the appointed president of the University of Texas at Austin.</lex>
-      <lex comment="good" lid="Id3">Elliot See was born in Dallas, Texas. He was a student at the University of Texas at Austin (a part of the University of Texas System), where Gregory L. Fenves was appointed as the president. They will be competing in the Big 12 Conference.</lex>
     </entry>
     <entry category="Astronaut" eid="Id63" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -591,27 +407,6 @@
       <lex comment="good" lid="Id1">American Elliot See attended the University of Texas in Austin, the school that is part of the University of Texas system and competes in the Big 12 Conference. He was born in Dallas on July 23rd, 1927.</lex>
       <lex comment="good" lid="Id2">Elliot See was born in Dallas, USA on the 23rd of July 1927. He attended the University of Texas at Austin who are competing in the Big 12 Conference. The University of Texas is affiliated to the University of Texas System.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id67" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
-      <originaltripleset>
-        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
-        <otriple>University_of_Texas_at_Austin | affiliations | University_of_Texas_System</otriple>
-        <otriple>Elliot_See | occupation | Test_pilot</otriple>
-        <otriple>Elliot_See | birthPlace | Dallas</otriple>
-        <otriple>University_of_Texas_at_Austin | athletics | Big_12_Conference</otriple>
-        <otriple>Elliot_See | status | "Deceased"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
-        <mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
-        <mtriple>Elliot_See | occupation | Test_pilot</mtriple>
-        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
-        <mtriple>University_of_Texas_at_Austin | competeIn | Big_12_Conference</mtriple>
-        <mtriple>Elliot_See | status | "Deceased"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See, now deceased, was born in Dallas and became a test pilot. He studied at University of Texas in Austin which is affiliated to the University of Texas system and is competing in the Big 12 conference.</lex>
-      <lex comment="good" lid="Id2">Elliot See was born in Dallas and is dead, was a test pilot. He was a student at the University of Texas at Austin, which is affiliated to the University Of Texas system and will compete in the Big 12 Conference.</lex>
-      <lex comment="good" lid="Id3">Elliot See was born in Dallas, was a test pilot and is dead. He graduated from the University of Texas at Austin, which is affiliated to the University Of Texas system and will compete in the Big 12 Conference.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id69" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
         <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
@@ -632,25 +427,6 @@
       <lex comment="good" lid="Id1">Elliot See was a test pilot who was a student at the University of Texas in Austin, a school that competes in the Big 12 Conference. The school is affiliated with the university of Texas system and See died on February 28th, 1966 in St. Louis.</lex>
       <lex comment="good" lid="Id2">Test pilot Elliot See attended the University of Texas at Austin, which is affiliated with the university of Texas system and part of the big 12 conference. He passed away on Feb 28, 1966 in St. Louis.</lex>
       <lex comment="good" lid="Id3">Elliot See died in St Louis on 28 February, 1966 and was a test pilot. He graduated from the University of Texas at Austin, which is affiliated to the University Of Texas system and will compete in the Big 12 Conference.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id71" shape="(X (X (X)) (X (X) (X) (X)))" shape_type="mixed" size="6">
-      <originaltripleset>
-        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
-        <otriple>University_of_Texas_at_Austin | affiliations | University_of_Texas_System</otriple>
-        <otriple>University_of_Texas_at_Austin | athletics | Big_12_Conference</otriple>
-        <otriple>Elliot_See | deathPlace | St._Louis</otriple>
-        <otriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</otriple>
-        <otriple>St._Louis | isPartOf | Kingdom_of_France</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
-        <mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
-        <mtriple>University_of_Texas_at_Austin | competeIn | Big_12_Conference</mtriple>
-        <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
-        <mtriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</mtriple>
-        <mtriple>St._Louis | isPartOf | Kingdom_of_France</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See was a student of the University of Texas in Austin, the same school that has Gregory L. Fenves as its president, is affiliated with the University of Texas system and competes in the Big 12 Conference. See died in St. Louis which was once part of the Kingdom of France.</lex>
     </entry>
     <entry category="Astronaut" eid="Id72" shape="(X (X (X)) (X (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -755,26 +531,6 @@
       <lex comment="good" lid="Id1">William Anders was born in in British Hong Kong on October 17th, 1933, was a Fighter pilot, was a member of Apollo 8's crew and retired on 1st September 1969.</lex>
       <lex comment="good" lid="Id2">William Anders was born in British Hong Kong on October 17th 1933. He served as a fighter pilot and became a crew member on Apollo 8 before he retired in 1969.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id82" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
-        <otriple>William_Anders | selection | 1963</otriple>
-        <otriple>William_Anders | nationality | United_States</otriple>
-        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
-        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
-        <otriple>William_Anders | mission | Apollo_8</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>William_Anders | dateOfRetirement | "1969-09-01"</mtriple>
-        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
-        <mtriple>William_Anders | nationality | United_States</mtriple>
-        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
-        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
-        <mtriple>William_Anders | mission | Apollo_8</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">American William Anders was a fighter pilot who became a member of the Apollo 8 crew when NASA picked him in 1963. He was born in British Hong Kong and retired on September 1st, 1969.</lex>
-      <lex comment="good" lid="Id2">William Anders was born in British Hong Kong and is an American. He was chosen by NASA in 1963 and was a fighter pilot as well as a member of Apollo 8. He retired on Sept 1 1969.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id85" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
         <otriple>William_Anders | occupation | Fighter_pilot</otriple>
@@ -817,24 +573,5 @@
       <lex comment="good" lid="Id2">Despite being born in British Hong Kong, Williams Anders was a United States national. His birth date is October 17th, 1933. In 1963, he was chosen by NASA and served as a fighter pilot and crew member on Apollo 8.</lex>
       <lex comment="good" lid="Id3">American William Anders (born on October 17, 1933 in British Hong Kong) joined NASA in 1963 as a Fighter pilot and as a crew member on Apollo 8 .</lex>
     </entry>
-    <entry category="Astronaut" eid="Id90" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>William_Anders | selection | 1963</otriple>
-        <otriple>William_Anders | nationality | United_States</otriple>
-        <otriple>William_Anders | status | "Retired"@en</otriple>
-        <otriple>William_Anders | birthDate | "1933-10-17"^^xsd:date</otriple>
-        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
-        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
-        <mtriple>William_Anders | nationality | United_States</mtriple>
-        <mtriple>William_Anders | status | "Retired"</mtriple>
-        <mtriple>William_Anders | birthDate | "1933-10-17"</mtriple>
-        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
-        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">American William Anders was born on October 17th 1933 in British Hong Kong. He joined NASA in 1963 where he worked as a fighter pilot before he retired.</lex>
-    </entry>
-  </entries>
+    </entries>
 </benchmark>

@@ -1,24 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Building" eid="Id1" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>20_Fenchurch_Street | location | United_Kingdom</otriple>
-        <otriple>United_Kingdom | capital | London</otriple>
-        <otriple>London | leaderName | Boris_Johnson</otriple>
-        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
-        <otriple>United_Kingdom | currency | Pound_sterling</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>20_Fenchurch_Street | location | United_Kingdom</mtriple>
-        <mtriple>United_Kingdom | capital | London</mtriple>
-        <mtriple>London | leader | Boris_Johnson</mtriple>
-        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
-        <mtriple>United_Kingdom | currency | Pound_sterling</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">20 Fenchurch Street is located within the United Kingdom, where London is the capital, and the currency is pounds sterling. Boris Johnson is the leader in London, and one of the leaders of the United Kingdom is Elizabeth II.</lex>
-      <lex comment="good" lid="Id2">The United Kingdom uses the currency of the pound sterling and is led by Elizabeth II along with Boris Johnson. The capital city is London and the country is also the location of 20 Fenchurch Street.</lex>
-    </entry>
     <entry category="Building" eid="Id4" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>3Arena | owner | Live_Nation_Entertainment</otriple>
@@ -81,32 +63,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amdavad ni Gufa is located in Ahmedabad, Gujarat, India; led by the Gujarat Legislative Assembly, including leader T S Thakur.</lex>
     </entry>
-    <entry category="Building" eid="Id11" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
-        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
-        <otriple>Ampara_Hospital | beds | 476</otriple>
-        <otriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</otriple>
-        <otriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
-        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
-        <otriple>Ampara_Hospital | bedCount | "476"^^xsd:nonNegativeInteger</otriple>
-        <otriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</otriple>
-        <otriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ampara_Hospital | country | Sri_Lanka</mtriple>
-        <mtriple>Sri_Lanka | leader | Ranil_Wickremesinghe</mtriple>
-        <mtriple>Ampara_Hospital | bedCount | 476</mtriple>
-        <mtriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</mtriple>
-        <mtriple>Eastern_Province,_Sri_Lanka | leader | Austin_Fernando</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 476 bed Ampara Hospital is situated in the Eastern Province state of Sri Lanka where Austin Fernando is the leader. The country's leader is Ranil Wickremesinghe.</lex>
-      <lex comment="good" lid="Id2">Ampara Hospital, which has 476 beds, is located in the Eastern Province of Sri Lanka led by Austin Fernando. The leader of Sri Lanka is Ranil Wickremesinghe.</lex>
-      <lex comment="good" lid="Id3">There are 476 beds at Ampara Hospital in the Eastern Province of Sri Lanka where Austin Fernando is the leader. Another leader within the country is Ranil Wickremesinghe.</lex>
-    </entry>
     <entry category="Building" eid="Id13" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
@@ -125,25 +81,6 @@
       <lex comment="good" lid="Id1">Asilomar Conference Grounds were designed by Julia Morgan (born in California), who is known for a number of buildings, including Hearst Castle and The Riverside Art Museum, and her work in San Francisco's Chinatown.</lex>
       <lex comment="good" lid="Id2">Julia Morgan, the architect, was born in California and some of her significant projects include: the Asilomar Conference Grounds, The Riverside Art Museum, Hearst Castle and some buildings in Chinatown, San Francisco.</lex>
       <lex comment="good" lid="Id3">Julia Morgan, born in California, was the architect behind the grounds of Asilomar Conference, the Riverside Art Museum, Hearst Castle and Chinatown in San Francisco.</lex>
-    </entry>
-    <entry category="Building" eid="Id17" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Birmingham | postalCode | B_postcode_area</otriple>
-        <otriple>103_Colmore_Row | architect | John_Madin</otriple>
-        <otriple>John_Madin | birthPlace | Birmingham</otriple>
-        <otriple>Birmingham | governingBody | Birmingham_City_Council</otriple>
-        <otriple>Birmingham | leaderName | Andrew_Mitchell</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Birmingham | postalCode | B_postcode_area</mtriple>
-        <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
-        <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
-        <mtriple>Birmingham | governingBody | Birmingham_City_Council</mtriple>
-        <mtriple>Birmingham | leader | Andrew_Mitchell</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">103 Colmore Row was designed by the architect John Madin, who was born in Birmingham, where the postal code is 'B'. Andrew Mitchell is the leader of the city and Birmingham City Council is the governing body.</lex>
-      <lex comment="good" lid="Id2">The City Council is the governing body for Birmingham where Andrew Mitchell is a leader. The city has the B postcode and is the birthplace of the Architect John Madin who designed 103 Colmore Row.</lex>
-      <lex comment="good" lid="Id3">Birmingham is led by Andrew Mitchell and the Birmingham City Council. The town, which has the B postcode, is the birthplace of architect John Madin who designed 103 Colmore Row.</lex>
     </entry>
     <entry category="Building" eid="Id19" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

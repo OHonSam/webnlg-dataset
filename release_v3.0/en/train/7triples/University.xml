@@ -1,29 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="University" eid="Id3" shape="(X (X) (X) (X (X)) (X (X) (X)))" shape_type="mixed" size="7">
-      <originaltripleset>
-        <otriple>AWH_Engineering_College | country | India</otriple>
-        <otriple>Kerala | leaderName | Kochi</otriple>
-        <otriple>AWH_Engineering_College | faculty | 250</otriple>
-        <otriple>AWH_Engineering_College | state | Kerala</otriple>
-        <otriple>Kerala | northwest | Mahé,_India</otriple>
-        <otriple>AWH_Engineering_College | city | "Kuttikkattoor"@en</otriple>
-        <otriple>India | river | Ganges</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AWH_Engineering_College | country | India</mtriple>
-        <mtriple>Kerala | leader | Kochi</mtriple>
-        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
-        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
-        <mtriple>Kerala | hasToItsNorthwest | Mahé,_India</mtriple>
-        <mtriple>AWH_Engineering_College | city | "Kuttikkattoor"</mtriple>
-        <mtriple>India | river | Ganges</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">India is the location of the River Ganges and the state of Kerala which is southeast of Mahe and is led by Kochi. The city of Kuttikkattoor in Kerala is the location of the AWH Engineering College which has 250 academic staff.</lex>
-      <lex comment="good" lid="Id2">The AWH Engineering College is located in the city of Kuttikkattoor, Kerala, India. The AWH Engineering College has 250 academic staff. The leader of Kerala is Kochi, and the state has Mahé to its northwest. The Ganges is a river in India.</lex>
-      <lex comment="good" lid="Id3">India which is known for the river Ganges is also home to the state of Kerala which is positioned with Mahe to its northeast and is governed by Kochi. Kerala is also where the AWH Engineering College is located in the city of Kuttikkattoor. The college currently has 250 members of staff.</lex>
-    </entry>
     <entry category="University" eid="Id5" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="7">
       <originaltripleset>
         <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
@@ -46,38 +23,6 @@
       <lex comment="good" lid="Id1">Federal Chancellor Johann Schneider-Ammann is the leader of Switzerland which is the location of the Accademia di Architettura di Mendrisio in the city of Mendrisio. The Accademia was established in 1996 and has 100 academic staff led by Dean Mario Botta.</lex>
       <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland. It was established in 1996 and its dean is Mario Botta. It has 100 academic staff. The leader of Switzerland is Federal Chancellor Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio (dean Mario Botta) is located in the city of Mendrisio, Switzerland, was established in 1996 and has an academic staff of 100. Johann Schneider-Ammann is the country's leader and his title is the Federal Chancellor of Switzerland.</lex>
-    </entry>
-    <entry category="University" eid="Id9" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | facultySize | "100"^^xsd:nonNegativeInteger</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The city of Mendrisio in Ticino, Switzerland is the location of the Accademia di Architettura di Mendrisio which was established in 1996. The Dean is Mario Botta and there are 600 students and 100 academic staff.</lex>
-      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio is located in Mendrisio, Ticino, Switzerland. It has 100 academic staff and 600 students. Its dean is Mario Botta and it was established in 1996.</lex>
-      <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio in Mendrisio, Switzerland is located in Ticino. Its was created in 1996, has 600 students and 100 employees and its dean is Mario Botta.</lex>
     </entry>
     <entry category="University" eid="Id13" shape="(X (X) (X (X)) (X (X)) (X (X)))" shape_type="mixed" size="7">
       <originaltripleset>
@@ -134,38 +79,6 @@
       <lex comment="good" lid="Id2">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090 is the location of the Acharya Institute of Technology in India. The Director of the Institute which was established in the year 2000 is Dr G P Prabhukumar and there are 700 postgraduate students. The Institute is affiliated with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology, Bangalore, India, was established in 2000 and has 700 postgraduate students. Its director is Dr G. P. Prabhukumar and its campus can be found in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It is affiliated with Visvesvaraya Technological University.</lex>
     </entry>
-    <entry category="University" eid="Id16" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
-        <otriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
-        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
-        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
-        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
-        <otriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
-        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
-        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">In the year 2000 the Acharya Institute of Technology was established in the state of Karnataka, India. The current campus address is "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090." The Director is Dr G P Prabhukumar and it is affiliated with the Visvesvaraya Technological University.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology's campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Karnataka, 560090, India. Its director is Dr. G.P. Prabhukumar and it is affiliated to the Visvesvaraya Technological University. The foundation year of the Institute is 2000.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology in Bangalore, India is affiliated with Visvesvaraya Technological University. The school's full address is In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090 in the state of Karnataka. Its director is Dr. G. P. Prabhukumar and it was created in 2000.</lex>
-    </entry>
     <entry category="University" eid="Id17" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
       <originaltripleset>
         <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
@@ -211,29 +124,6 @@
       <lex comment="good" lid="Id1">The location of the Acharya Institute of Technology is "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090." The Institute was established in 2000 in the state of Karnataka, India and has the motto "Nurturing Excellence. It is affiliated with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology's campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Karnataka, India, 560090. It was established in 2000 and its motto is "Nurturing Excellence". It is affiliated to the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology in Bangalor, India is affiliated with Visvesvaraya Technological University. The school can be found in the state of Karnataka and was created in 2000. It uses the phrase Nurturing Excellence as its motto and its full address is In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
-    </entry>
-    <entry category="University" eid="Id21" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | president | "B.M. Reddy"@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
-        <otriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
-        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | "700"^^xsd:nonNegativeInteger</otriple>
-        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | president | "B.M. Reddy"</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acharya Institute of Technology in Bangalore, India was created in 2000 and has 700 post graduate students. Its president is B. M. Reddy and its director is Dr. G. P. Prabhukumar. The school's full address is In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology campus is at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. That address is in Bangalore, India. The Acharya Institute of Technology was established in 2000, its president is B.M. Reddy, its director is Dr. G. P. Prabhukumar, and it has 700 postgraduate students.</lex>
-      <lex comment="good" lid="Id3">Acharya Institute of Technology's campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore 560090, India. It was established in 2000, with B.M. Reddy as its president and Dr. G. P. Prabhukumar as director, and 700 postgraduate students are in attendance.</lex>
     </entry>
     <entry category="University" eid="Id23" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
       <originaltripleset>
@@ -312,38 +202,6 @@
       <lex comment="good" lid="Id1">Acharya Institute of Technology (president B M Reddy) was established in 2000 and has 700 postgraduate students. The campus is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, Karnataka, India.</lex>
       <lex comment="good" lid="Id2">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090 is the location of the Acharya Institute of Technology in the state of Karnataka, India. The President of the Institute which was established in the year 2000 is B M Reddy and there are 700 postgraduate students.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology's campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Karnataka, India, 560090. It was established in 2000, its president is B. M. Reddy and it has 700 postgraduate students.</lex>
-    </entry>
-    <entry category="University" eid="Id29" shape="(X (X (X)) (X (X)) (X (X) (X)))" shape_type="mixed" size="7">
-      <originaltripleset>
-        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
-        <otriple>European_University_Association | headquarters | Brussels</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
-        <otriple>Aarhus | northeast | Mols</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
-        <otriple>Denmark | religion | Church_of_Denmark</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
-        <otriple>European_University_Association | headquarters | Brussels</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
-        <otriple>Aarhus | northeast | Mols</otriple>
-        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
-        <otriple>Denmark | religion | Church_of_Denmark</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
-        <mtriple>European_University_Association | headquarter | Brussels</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
-        <mtriple>Aarhus | hasToItsNortheast | Mols</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
-        <mtriple>Denmark | religion | Church_of_Denmark</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The religion of Denmark is the Church of Denmark and the country is led by Lars Lokke Rasmussen. The city of Aarhus which is located southwest of Mols is the location of the School of Business and Social Sciences at the Aarhus University. The School is affiliated with the European University Association headquartered in Brussels.</lex>
-      <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University in Aarhus, Denmark is affiliated to the European University Association with its headquarters in Brussels. The leader of Denmark is Lars Lokke Rasmussen and the religion is the Church of Denmark. Aarhus has Mols to its northeast.</lex>
-      <lex comment="good" lid="Id3">Mols is a city that sits northeast of Aarhus, Denmark, where the School of Business and Social Sciences is located, at the Aarhus University. It is associated with the European University Association, headquartered in Brussels. The leader of the country is Lars Lokke Rasmussen and the religion, the Church of Denmark.</lex>
     </entry>
     <entry category="University" eid="Id33" shape="(X (X) (X) (X (X)) (X (X) (X)))" shape_type="mixed" size="7">
       <originaltripleset>
@@ -545,47 +403,6 @@
       <lex comment="good" lid="Id1">In 1928 the School of Business and Social Sciences at the Aarhus University was established in the city of Aarhus, Denmark. Dean Thomas Pallesen heads the School which has the Latin name of "Universitas Aarhusiensis" . There are 737 academic staff and it is affiliated with the European University Association.</lex>
       <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University in Aarhus, Denmark was established in 1928. It has 737 academic staff and its Latin name is "Universitas Aarhusiensis". Its dean is Thomas Pallesen and it is affiliated with the European University Association.</lex>
       <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University, in Aarhus, Denmark, is affiliated with the European University Association. The school was created in 1928 and uses Universitas Aarhusiensis as its Latin name. Its dean is Thomas Pallesen and it has 737 employees.</lex>
-    </entry>
-    <entry category="University" eid="Id49" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | "Thomas Pallesen"@en</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | numberOfStudents | "16000"^^xsd:nonNegativeInteger</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | "Thomas Pallesen"@en</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | "Thomas Pallesen"@en</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | dean | "Thomas Pallesen"</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">In 1928 the School of Business and Social Sciences at the Aarhus University was established in the city of Aarhus, Denmark. The School is affiliated with the European University Association and is led by Dean Thomas Pallesen. There are 16000 students and an academic staff of 737.</lex>
-      <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark and it was established in 1928. Its dean is Thomas Pallesen; it has 737 academic staff and 16,000 students. It is affiliated to the European University Association.</lex>
-      <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University in Aarhus, Denmark is affiliated with the European University Association. It was created in 1928 and its dean today is Thomas Pallesen. It has 16,000 students and 737 employees.</lex>
     </entry>
     <entry category="University" eid="Id52" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
       <originaltripleset>

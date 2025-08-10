@@ -15,22 +15,5 @@
       <lex comment="good" lid="Id3">Buzz Aldrin has since retired but he once served as a fighter pilot.</lex>
       <lex comment="good" lid="Id4">Buzz Aldrin served as a fighter pilot and is now retired.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
-        <otriple>Apollo_11 | operator | NASA</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
-        <mtriple>Apollo_11 | operator | NASA</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Apollo 11 program was organized by NASA and included Buzz Aldrin as one of its crew members.</lex>
-      <lex comment="good" lid="Id2">NASA operated the Apollo 11 program of which Buzz Aldrin was a member.</lex>
-      <lex comment="good" lid="Id3">Buzz Aldrin was on Apollo 11 which NASA operated.</lex>
-      <lex comment="good" lid="Id4">Buzz Aldrin served as a crew member of Apollo 11 which is operated by NASA.</lex>
-      <lex comment="good" lid="Id5">Buzz Aldrin was a crew member of Apollo 11 - whose operator was NASA.</lex>
-      <lex comment="good" lid="Id6">Buzz aldrin was a crew member of apollo 11, which was operated by NASA.</lex>
-      <lex comment="good" lid="Id7">Buzz Aldrin was a crew member of NASA's Apollo 11.</lex>
-    </entry>
     </entries>
 </benchmark>

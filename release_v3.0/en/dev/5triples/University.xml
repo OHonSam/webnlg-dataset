@@ -1,32 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="University" eid="Id2" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
-        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
-        <otriple>Switzerland | leader | Johann_Schneider-Ammann</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
-        <mtriple>Switzerland | leader | Johann_Schneider-Ammann</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Ticino, Switzerland. It was established in 1996 and it has 600 students. The leader of Switzerland is Johann Schneider-Ammann.</lex>
-      <lex comment="good" lid="Id2">The leader of Switzerland is Johann Schneider-Ammann. The country is the location of the Accademia di Architettura di Mendrisio in Ticino which was established in 1996 and has 600 students.</lex>
-      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio, which has 600 students, was founded in 1996 in Ticino, Switzerland. The leader of Switzerland is Johann Schneider-Ammann.</lex>
-    </entry>
     <entry category="University" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>

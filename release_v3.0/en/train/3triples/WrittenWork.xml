@@ -46,20 +46,6 @@
       <lex comment="good" lid="Id2">1634: The Bavarian Crisis and its predecessor 1634: The Ram Rebellion is written in English by Eric Flint.</lex>
       <lex comment="good" lid="Id3">1634: The Bavarian Crisis was written in English by Eric Flint. The book was preceded by 1634 The Ram Rebellion.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id9" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
-        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_II</otriple>
-        <otriple>Grantville_Gazette_II | precededBy | The_Grantville_Gazette</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
-        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_II</mtriple>
-        <mtriple>Grantville_Gazette_II | precededBy | The_Grantville_Gazette</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Grantville Gazette preceded Grantville Gazette II and 1634: The Bavarian Crisis written by Eric Flint.</lex>
-      <lex comment="good" lid="Id2">Written by Eric Flint, 1634: The Bavarian Crisis was preceded by Grantville Gazette II which itself was preceded by The Grantville Gazette.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
@@ -89,21 +75,6 @@
       <lex comment="good" lid="Id2">1634: The Bavarian Crisis was preceded by 1634: The Ram Rebellion. The author, Eric Flint, was influenced by Robert A. Heinlein.</lex>
       <lex comment="good" lid="Id3">1634: The Bavarian Crisis is the sequel to 1634:The Ram Rebellion written by Eric Flint and influenced by Robert A. Heinlein.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id16" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
-        <otriple>Eric_Flint | influencedBy | Robert_A._Heinlein</otriple>
-        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_III</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
-        <mtriple>Eric_Flint | influencedBy | Robert_A._Heinlein</mtriple>
-        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_III</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1634: The Bavarian Crisis, which was preceded by Grantville Gazette III, was written by Eric Flint, who was influenced by Robert A. Heinlein.</lex>
-      <lex comment="good" lid="Id2">Eric Flint, influenced by Robert A. Heinlein, wrote 1634: The Bavarian Crisis. It is the sequel to Grantville Gazette III.</lex>
-      <lex comment="good" lid="Id3">Eric Flint, influenced by Robert A Heinlein, is the author of 1634: The Bavarian Crisis. This book follows the publication of Grantville Gazette III.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id20" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>1634:_The_Bavarian_Crisis | previousWork | 1634:_The_Baltic_War</otriple>
@@ -118,21 +89,6 @@
       <lex comment="good" lid="Id1">The Grantville Gazettes preceded 1634: The Baltic War (written by David Weber) and 1634: The Bavarian Crisis.</lex>
       <lex comment="good" lid="Id2">The sequel to The Grantville Gazettes, 1634: The Bavarian Crisis was preceded by 1634: The Baltic War (written by David Weber).</lex>
       <lex comment="good" lid="Id3">1634:The Bavarian Crisis, preceded by David Weber's 1634: The Baltic war, is the sequel to The Grantville Gazettes.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_III</otriple>
-        <otriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and"@en</otriple>
-        <otriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_III</mtriple>
-        <mtriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"</mtriple>
-        <mtriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Bavarian Crisis of 1634, written by Virginia DeMarce and Eric Flint, occurred after Grantville Gazette III and the Grantville Gazettes.</lex>
-      <lex comment="good" lid="Id2">Preceded by The Grantville Gazettes, 1634: The Bavarian Crisis (by Virginia DeMarce and Eric Flint) is the sequel to Grantville Gazette III.</lex>
-      <lex comment="good" lid="Id3">1634: The Bavarian Crisis was preceded by The Grantville Gazettes including Grantville Gazette III and is written by Virginia DeMarce and Eric Flint.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id26" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -177,21 +133,6 @@
       <lex comment="good" lid="Id1">"1634: The Ram Rebellion" is the sequel to "1634: The Galileo Affair", written by Eric Flint, who was born in Burbank, California.</lex>
       <lex comment="good" lid="Id2">Eric Flint was born in Burbank California and wrote 1634: The Ram Rebellion which was preceded by 1634 The Galileo Affair.</lex>
       <lex comment="good" lid="Id3">Eric Flint was born in Burbank, California and wrote 1634: The Ram Rebellion which was preceded by 1634: The Galileo Affair.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id33" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>1634:_The_Ram_Rebellion | mediaType | "Print"@en</otriple>
-        <otriple>1634:_The_Ram_Rebellion | author | Virginia_DeMarce</otriple>
-        <otriple>1634:_The_Ram_Rebellion | isbn | "1-4165-2060-0"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1634:_The_Ram_Rebellion | mediaType | "Print"</mtriple>
-        <mtriple>1634:_The_Ram_Rebellion | author | Virginia_DeMarce</mtriple>
-        <mtriple>1634:_The_Ram_Rebellion | isbnNumber | "1-4165-2060-0"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Virginia DeMarce is the author of 1634: The Ram Rebellion which was published in print and has the ISBN number 1-4165-2060-0.</lex>
-      <lex comment="good" lid="Id2">"1634: The Ram Rebellion" was written by Virginia DeMarce and appeared in print. It can be found by ISBN number 1-4165-2060-0.</lex>
-      <lex comment="good" lid="Id3">1634: The Ram Rebellion was published in print and written by Virginia DeMarce. The ISBN number is 1-4165-2060-0.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id37" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -272,20 +213,6 @@
       <lex comment="good" lid="Id2">The AIDS journal is published in the United Kingdom by Lippincott, Williams &amp; Wilkins, the parent company of which is Wolters Kluwer.</lex>
       <lex comment="good" lid="Id3">Wolters Kluwer is the parent company of Lippincott Williams &amp; Wilkins, which publishes the AIDS Journal in the United Kingdom.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id45" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>AIDS_(journal) | history | 1987</otriple>
-        <otriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</otriple>
-        <otriple>AIDS_(journal) | issn | "0269-9370"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDS_(journal) | firstPublicationYear | 1987</mtriple>
-        <mtriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</mtriple>
-        <mtriple>AIDS_(journal) | issnNumber | "0269-9370"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDS (journal) belongs to the academic discipline, HIV/AIDS and was first published in 1987. It has the ISSN number 0269-9370.</lex>
-      <lex comment="good" lid="Id2">The first AIDS journal was published in 1987; it studies HIV/AIDS and the ISSN number is 0269-9370.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id46" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
@@ -306,21 +233,6 @@
       <lex comment="good" lid="Id2">Lippincott Williams &amp; Wilkins, whose parent company is Wolters Kluwer, is based in the United States and published the AIDS (journal).</lex>
       <lex comment="good" lid="Id3">AIDS (journal) was published by Lippincott, Williams &amp; Wilkins, parent company Wolters Kluwer, from the United States.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id50" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>AIP_Advances | editor | A.T._Charlie_Johnson</otriple>
-        <otriple>A.T._Charlie_Johnson | almaMater | Harvard_University</otriple>
-        <otriple>A.T._Charlie_Johnson | nationality | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIP_Advances | editor | A.T._Charlie_Johnson</mtriple>
-        <mtriple>A.T._Charlie_Johnson | almaMater | Harvard_University</mtriple>
-        <mtriple>A.T._Charlie_Johnson | nationality | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A T Charlie Johnson is from the US and his alma mater is Harvard University. He is the editor of AIP Advances.</lex>
-      <lex comment="good" lid="Id2">A T Charlie Johnson from the United States and studied at Harvard University, is the editor of AIP Advances.</lex>
-      <lex comment="good" lid="Id3">AIP Advances was edited by A.T. Charlie Johnson who is a United States national and studied at Harvard University.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id53" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>AIP_Advances | editor | A.T._Charlie_Johnson</otriple>
@@ -335,21 +247,6 @@
       <lex comment="good" lid="Id1">Harvard University is the alma mater of A T Charlie Johnson, who is the editor of AIP Advances, published by American Institute of Physics.</lex>
       <lex comment="good" lid="Id2">AIP Advances was edited by A.T. Charlie Johnson and published by American Institute of Physics. A.T. Charlie Johnson graduated from Harvard.</lex>
       <lex comment="good" lid="Id3">AIP Advances publisher is American Institute of Physics and his editor is A T Charlie Johnson, his alma mater is Harvard University .</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id55" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>AIP_Advances | editor | A.T._Charlie_Johnson</otriple>
-        <otriple>A.T._Charlie_Johnson | doctoralAdvisor | Michael_Tinkham</otriple>
-        <otriple>A.T._Charlie_Johnson | almaMater | Stanford_University</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIP_Advances | editor | A.T._Charlie_Johnson</mtriple>
-        <mtriple>A.T._Charlie_Johnson | doctoralAdvisor | Michael_Tinkham</mtriple>
-        <mtriple>A.T._Charlie_Johnson | almaMater | Stanford_University</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A T Charlie Johnson, whose alma mater is Stanford University, is the doctoral advisor for Michael Tinkham and the editor of AIP Advances.</lex>
-      <lex comment="good" lid="Id2">AIP Advances was edited by A.T. Charlie Johnson who studied at Stanford University and is the doctoral advisor for Michael Tinkham.</lex>
-      <lex comment="good" lid="Id3">A T Charlie Johnson is the editor of AIP Advances. His alma mater was Stanford University and he is doctoral advisor to Michael Tinkham.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id58" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -366,21 +263,6 @@
       <lex comment="good" lid="Id2">A T Charlie Johnson is a United States national whose alma mater was Stanford University. He is the editor of AIP Advances.</lex>
       <lex comment="good" lid="Id3">AIP Advances was edited by A.T. Charlie Johnson who is from the United States. Stanford University is his alma mater.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id61" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
-        <otriple>A_Fortress_of_Grey_Ice | mediaType | "Print"@en</otriple>
-        <otriple>A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</mtriple>
-        <mtriple>A_Fortress_of_Grey_Ice | mediaType | "Print"</mtriple>
-        <mtriple>A_Fortress_of_Grey_Ice | isbnNumber | "0-7653-0633-6"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Fortress of Grey Ice, authored by J.V. Jones, has a ISBN number of 0-7653-0633-6 and is available in print.</lex>
-      <lex comment="good" lid="Id2">A Fortress of Grey Ice, by J. V. Jones, is in print with the ISBN number 0-7653-0633-6.</lex>
-      <lex comment="good" lid="Id3">A Fortress of Grey Ice, written by J V Jones, is available in print with the ISBN number 0-7653-0633-6.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id63" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>A_Fortress_of_Grey_Ice | language | English_language</otriple>
@@ -395,26 +277,6 @@
       <lex comment="good" lid="Id1">A Fortress of Grey Ice was written in the United States in English which is spoken in Great Britain.</lex>
       <lex comment="good" lid="Id2">A Fortress of Grey Ice, from the United States, is written in English which is the language spoken in Great Britain.</lex>
       <lex comment="good" lid="Id3">From the United States, A Fortress of Grey Ice was originally published in English which is the language spoken in Great Britain.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id64" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>A_Fortress_of_Grey_Ice | mediaType | Hardcover</otriple>
-        <otriple>A_Fortress_of_Grey_Ice | oclc | "51969173"</otriple>
-        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>A_Fortress_of_Grey_Ice | mediaType | Hardcover</otriple>
-        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
-        <otriple>A_Fortress_of_Grey_Ice | oclc | 51969173</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Fortress_of_Grey_Ice | mediaType | Hardcover</mtriple>
-        <mtriple>A_Fortress_of_Grey_Ice | oclcNumber | 51969173</mtriple>
-        <mtriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Fortress of Grey Ice was written by J. V. Jones and is found in hardcover with the OCLC number 51969173.</lex>
-      <lex comment="good" lid="Id2">A Fortress of Grey Ice by J.V. Jones has the OCLC number 51969173 and is available in hardcover.</lex>
-      <lex comment="good" lid="Id3">JV Jones is the author of A Fortress of Grey Ice which was published in hardcover and has the OCLC number 51969173.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id65" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -465,21 +327,6 @@
       <lex comment="good" lid="Id1">A Glastonbury Romance has 1174 pages can be found in hardcover and has the OCLC number 76798317.</lex>
       <lex comment="good" lid="Id2">A Glastonbury Romance, OCLC number 76798317, is available in hard cover and is 1174 pages.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id72" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>A_Glastonbury_Romance | numberOfPages | "1174"^^xsd:positiveInteger</otriple>
-        <otriple>A_Glastonbury_Romance | mediaType | "Print"@en</otriple>
-        <otriple>A_Glastonbury_Romance | isbn | "0-7156-3648-0"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Glastonbury_Romance | numberOfPages | "1174"</mtriple>
-        <mtriple>A_Glastonbury_Romance | mediaType | "Print"</mtriple>
-        <mtriple>A_Glastonbury_Romance | isbnNumber | "0-7156-3648-0"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Glastonbury Romance is in print and has 1174 pages and the ISBN number 0-7156-3648-0.</lex>
-      <lex comment="good" lid="Id2">A Glastonbury Romance is in print and has 1174 pages. The ISBN number of A Glastonbury Romance is 0-7156-3648-0.</lex>
-      <lex comment="good" lid="Id3">The ISBN number of A Glastonbury Romance, which is now in print and has 1174 pages, is 0-7156-3648-0.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id75" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>A_Long_Long_Way | precededBy | "Annie Dunne"@en</otriple>
@@ -499,21 +346,6 @@
       <lex comment="good" lid="Id1">A Long Long Way, which was published in Print &amp; Paperback, was preceded by Annie Dunne, it has an OCLC number of 57392246.</lex>
       <lex comment="good" lid="Id2">A Long Long Way, preceded by Annie Dunne, was published in print &amp; paperback. Its OCLC number is 57392246.</lex>
       <lex comment="good" lid="Id3">Preceded by Annie Dunne, A Long Long Way was published in print &amp; paperback with the OCLC number 57392246.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id79" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>A_Long_Long_Way | country | Ireland</otriple>
-        <otriple>The_Secret_Scripture | publisher | Faber_and_Faber</otriple>
-        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Long_Long_Way | country | Ireland</mtriple>
-        <mtriple>The_Secret_Scripture | publisher | Faber_and_Faber</mtriple>
-        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Secret Scripture, published by Faber and Faber is the follow up book to the Irish novel A Long Long Way.</lex>
-      <lex comment="good" lid="Id2">The novel A Long Long Way, which was written in Ireland, was followed by The Secret Scripture which Faber and Faber published.</lex>
-      <lex comment="good" lid="Id3">The novel A Long Long Way was written in Ireland and was followed by The Secret Scripture which is published by Faber and Faber.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id83" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -565,21 +397,6 @@
       <lex comment="good" lid="Id2">A Loyal Character Dancer by Qiu Xiaolong is in print and has 360 pages.</lex>
       <lex comment="good" lid="Id3">A Loyal Character Dancer is in print and was written by Qiu Xiaolong with 360 pages.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id92" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>A_Loyal_Character_Dancer | language | English_language</otriple>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>A_Loyal_Character_Dancer | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Loyal_Character_Dancer | language | English_language</mtriple>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Loyal Character Dancer, published in the United States is written in English. English is the national language of Great Britain.</lex>
-      <lex comment="good" lid="Id2">A Loyal Character Dancer, published in the United States, is written in English (also spoken in Great Britain).</lex>
-      <lex comment="good" lid="Id3">A Loyal Character Dancer is published in the United States and written in English, which is also spoken in Great Britain.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id95" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
@@ -610,20 +427,6 @@
       <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press, in the United States where the leader is Barack Obama.</lex>
       <lex comment="good" lid="Id3">A Loyal Character Dancer was published by Soho Press in the United States which is led by Barack Obama.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id97" shape="(X (X (X (X))))" shape_type="chain" size="3">
-      <originaltripleset>
-        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
-        <otriple>Soho_Press | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
-        <mtriple>Soho_Press | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Loyal Character Dancer was published by Soho Press which is based in the United States. In addition, African Americans are an ethnic group in the United States.</lex>
-      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press in the US where African Americans are an ethnic group.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id99" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
         <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
@@ -638,21 +441,6 @@
       <lex comment="good" lid="Id1">A Loyal Character Dancer is published by Soho Press, which is located in the U.S, where some Native Americans live.</lex>
       <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press in the United States where Native Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id3">The US is home to Native Americans and also where Soho Press published A Loyal Character Dancer.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id100" shape="(X (X (X (X))))" shape_type="chain" size="3">
-      <originaltripleset>
-        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
-        <otriple>Soho_Press | country | United_States</otriple>
-        <otriple>United_States | language | English_language</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
-        <mtriple>Soho_Press | country | United_States</mtriple>
-        <mtriple>United_States | language | English_language</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Loyal Character Dancer is published by Soho Press in the United States where the language is English.</lex>
-      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press in the United States where English is the language.</lex>
-      <lex comment="good" lid="Id3">Soho Press is based in the United States where the language used is English. They published A Loyal Character Dancer.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id104" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -718,20 +506,6 @@
       <lex comment="good" lid="Id1">Diane Duane wrote A Wizard of Mars which is available in print and has the ISBN number "978-0-15-204770-2".</lex>
       <lex comment="good" lid="Id2">Diane Duane wrote the published book A Wizard of Mars. It can be found by ISBN number 978-0-15-204770-2.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id113" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>A_Wizard_of_Mars | language | English_language</otriple>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Wizard_of_Mars | language | English_language</mtriple>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The English-language book A Wizard of Mars originates from the United States that includes many Asian Americans.</lex>
-      <lex comment="good" lid="Id2">Written in English, A Wizard of Mars was Published in the United States where one of the ethnic groups is Asian Americans.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id115" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "0025-5858"</otriple>
@@ -762,26 +536,6 @@
       <lex comment="good" lid="Id2">Abh.Math.Semin.Univ.Hambg is the abbreviation for Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg which has the LCCN number 32024459 and can be located using ISSN number 0025-5858.</lex>
       <lex comment="good" lid="Id3">The Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has the ISSN number "0025-5858" and the LCCN number of 32024459. It is abbreviated to Abh. Math. Semin. Univ. Hambg.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id116" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "1865-8784"</otriple>
-        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."@en</otriple>
-        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | discipline | Pure_mathematics</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "1865-8784"</otriple>
-        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | discipline | Pure_mathematics</otriple>
-        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issnNumber | "1865-8784"</mtriple>
-        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | academicDiscipline | Pure_mathematics</mtriple>
-        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is concerned with the academic discipline of Pure Mathematics. It has the ISSN number 1865-8784 and the abbreviation of Abh. Math. Semin. Univ. Hambg.</lex>
-      <lex comment="good" lid="Id2">The abbreviation of Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg is Abh. Math. Semin. Univ. Hambg. and the ISSN number is 1865-8784. It is concerned with the academic discipline of Pure Mathematics.</lex>
-      <lex comment="good" lid="Id3">The ISSN number for Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg (abbreviating to Abh. Math. Semin. Univ. Hambg.) is 1865-8784. The establishment is concerned with the academic discipline of Pure Mathematics.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id118" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | discipline | Pure_mathematics</otriple>
@@ -801,21 +555,6 @@
       <lex comment="good" lid="Id1">Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is concerned with the academic discipline of Pure Mathematics. It has the abbreviation Abh. Math. Semin. Univ. Hambg and the ISSN number 0025-5858.</lex>
       <lex comment="good" lid="Id2">Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is concerned with the academic discipline of Pure Mathematics and has the abbreviation of Abh. Math. Semin. Univ. Hambg. It can be located by the ISSN number "0025-5858".</lex>
       <lex comment="good" lid="Id3">Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg (which can be abbreviated to Abh.Math.Semin.Univ.Hambg) is concerned with the academic discipline of Pure Mathematics and has the ISSN number 0025-5858.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id121" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Above_the_Veil | author | Garth_Nix</otriple>
-        <otriple>Above_the_Veil | isbn | "0-439-17685-9"</otriple>
-        <otriple>Above_the_Veil | mediaType | Hardcover</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Above_the_Veil | author | Garth_Nix</mtriple>
-        <mtriple>Above_the_Veil | isbnNumber | "0-439-17685-9"</mtriple>
-        <mtriple>Above_the_Veil | mediaType | Hardcover</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Above the Veil (ISBN number 0-439-17685-9) is written by Garth Nix and is available in hardcover.</lex>
-      <lex comment="good" lid="Id2">Above the Veil, written by Garth Nix is available in hardcover and has the ISBN number 0-439-17685-9.</lex>
-      <lex comment="good" lid="Id3">The ISBN number of Above the Veil is 0-439-17685-9 and it is available in hardcover with the book being written by Garth Nix.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id122" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -837,21 +576,6 @@
       <lex comment="good" lid="Id2">Above the Veil (OCLC number 46451790) is available in hardcover and written by Garth Nix.</lex>
       <lex comment="good" lid="Id3">Above the Veil by Garth Nix is available in hardcover with the OCLC number 46451790.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id123" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Above_the_Veil | author | Garth_Nix</otriple>
-        <otriple>Above_the_Veil | mediaType | "Print"@en</otriple>
-        <otriple>Above_the_Veil | isbn | "0-439-17685-9"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Above_the_Veil | author | Garth_Nix</mtriple>
-        <mtriple>Above_the_Veil | mediaType | "Print"</mtriple>
-        <mtriple>Above_the_Veil | isbnNumber | "0-439-17685-9"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Garth Nix is the author of Above the Veil which was produced in print and has the ISBN number 0-439-17685-9.</lex>
-      <lex comment="good" lid="Id2">Above the Veil by Garth Nix was produced in Print and has the ISBN number 0-439-17685-9.</lex>
-      <lex comment="good" lid="Id3">Above the Veil, written by Garth Nix, was produced in print with the ISBN number 0-439-17685-9.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id126" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Above_the_Veil | language | English_language</otriple>
@@ -872,36 +596,6 @@
       <lex comment="good" lid="Id2">Aenir has the ISBN number 0-439-17684-0. It was followed up by Above the Veil, which is written in English.</lex>
       <lex comment="good" lid="Id3">Aenir has a ISBN number of 0-439-17684-0 and is a prequel to the English book "Above the Veil".</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id129" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
-        <otriple>Acta_Mathematica_Hungarica | lccn | "83646315"</otriple>
-        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
-        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en</otriple>
-        <otriple>Acta_Mathematica_Hungarica | lccn | 83646315</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acta_Mathematica_Hungarica | lccn | "83646315"</otriple>
-        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</otriple>
-        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
-        <otriple>Acta_Mathematica_Hungarica | lccn | 83646315</otriple>
-        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acta_Mathematica_Hungarica | LCCN_number | 83646315</mtriple>
-        <mtriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</mtriple>
-        <mtriple>Acta_Mathematica_Hungarica | issnNumber | "0236-5294"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acta Mathematica Hungarica, or Acta Math. Hungar. has a LCCN number of 83646315 and a ISSN number of 0236-5294.</lex>
-      <lex comment="good" lid="Id2">The LCCN number for Acta Mathematica Hungarica is 83646315. It is also known as Acta Math. Hungar. and the ISSN number is "0236-5294".</lex>
-      <lex comment="good" lid="Id3">Acta Mathematica Hungarica is abbreviated to Acta Math. Hungar. It has the LCCN number 83646315 and the ISSN number 0236-5294.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id132" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Acta_Mathematica_Hungarica | discipline | Mathematics</otriple>
@@ -921,36 +615,6 @@
       <lex comment="good" lid="Id1">The Acta Mathematica Hungarica (Acta Math. Hunger.) covers the academic discipline of Mathematics. Its ISSN number is 1588-2632.</lex>
       <lex comment="good" lid="Id2">Acta Mathematica Hungarica, also known as Acta Math. Hungar., with ISSN number 1588-2632, is in the Math discipline.</lex>
       <lex comment="good" lid="Id3">Acta Mathematica Hungarica can be abbreviated to Acta Math. Hungar, and its discipline is Math. Its ISSN number is 1588-2632.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id133" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | academicDiscipline | Paleontology</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"@en</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | academicDiscipline | Paleontology</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."@en</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | academicDiscipline | Paleontology</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."@en</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"@en</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | academicDiscipline | Paleontology</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acta_Palaeontologica_Polonica | codenCode | "APGPAC"</mtriple>
-        <mtriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</mtriple>
-        <mtriple>Acta_Palaeontologica_Polonica | academicDiscipline | Paleontology</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acta Palaeontologica Polonica's (abbreviated to Acta Palaeontol. Pol.) comes under the academic discipline of paleontology and has a CODEN code of APGPAC.</lex>
-      <lex comment="good" lid="Id2">Acta Palaeontologica Polonica (abbreviated to Acta Palaeontol. Pol.) is academically focused on Paleontology and has the CODEN code "APGPAC".</lex>
-      <lex comment="good" lid="Id3">The Acta Palaeontologica Polonica, or Acta Palaeontol. Pol., focuses on Paleontology and has a CODEN code of APGPAC.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id135" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -982,36 +646,6 @@
       <lex comment="good" lid="Id2">The Acta Palaeontologica Polonica, abbreviated to Acta Palaeontol. Pol., comes under the academic discipline of paleontology and has a LCCN number of 60040714.</lex>
       <lex comment="good" lid="Id3">Acta Palaeontologica Polonica (which is abbreviated to Acta Palaeontol. Pol) comes under the academic discipline of paleontology and has a LCCN number of 60040714.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id136" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."@en</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | academicDiscipline | Paleobiology</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | academicDiscipline | Paleobiology</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."@en</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"@en</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | academicDiscipline | Paleobiology</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"@en</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | academicDiscipline | Paleobiology</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</mtriple>
-        <mtriple>Acta_Palaeontologica_Polonica | codenCode | "APGPAC"</mtriple>
-        <mtriple>Acta_Palaeontologica_Polonica | academicDiscipline | Paleobiology</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acta Palaeontologica Polonica, abbreviated Acta Palaeontol. Pol, has the CODEN code APGPAC and publishes academic works in Paleobiology.</lex>
-      <lex comment="good" lid="Id2">The Acta Palaeontologica Polonica is abbreviated Acta Palaeontol. Pol. and has the CODEN code APGPAC. It comes under the academic discipline of Paleobiology.</lex>
-      <lex comment="good" lid="Id3">Acta Palaeontologica Polonica, Acta Palaeontol. Pol., is in Paleobiology and has the CODEN code APGPAC.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id137" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."@en</otriple>
@@ -1031,25 +665,6 @@
       <lex comment="good" lid="Id1">Acta Palaeontologica Polonica's abbreviated name is Acta Palaeontol. Pol. The book comes under the academic discipline of paleontology and has the ISBN number 0567-7920.</lex>
       <lex comment="good" lid="Id2">Acta Palaeontologica Polonica (Acta Palaeontol. Pol.) Is focused on Paleontology. Its ISSN number is "0567-7920".</lex>
       <lex comment="good" lid="Id3">The Acta Palaeontological Polonica, Acta Palaeontol. Pol., is focused on Paleontology and has the ISSN number 0567-7920.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id139" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."@en</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | discipline | Paleontology</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | issn | "1732-2421"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acta_Palaeontologica_Polonica | discipline | Paleontology</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | issn | "1732-2421"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acta_Palaeontologica_Polonica | academicDiscipline | Paleontology</mtriple>
-        <mtriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</mtriple>
-        <mtriple>Acta_Palaeontologica_Polonica | issnNumber | "1732-2421"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acta Palaeontologica Polonica (Acta Palaeontol. Pol.) is academically focused on Paleontology and the ISSN number is 1732-2421.</lex>
-      <lex comment="good" lid="Id2">The Acta Palaeontological Polonica is abbreviated as Acta Palaeontol. Pol and is part of the academic discipline of paleontology with the ISSN number 1732-2421.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id140" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1126,31 +741,6 @@
       <lex comment="good" lid="Id2">John Wiley &amp; Sons is the parent company of Wiley-Blackwell, the publisher of the journal Addiction. Addiction is the abbreviated version of the Addiction journal.</lex>
       <lex comment="good" lid="Id3">John Wiley &amp; Sons is the parent company of Wiley-Blackwell, publisher of Addiction, which has the full name of the Addiction Journal.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id149" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."@en</otriple>
-        <otriple>Administrative_Science_Quarterly | lccn | 57059226</otriple>
-        <otriple>Administrative_Science_Quarterly | issn | "0001-8392"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Administrative_Science_Quarterly | lccn | 57059226</otriple>
-        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</otriple>
-        <otriple>Administrative_Science_Quarterly | issn | "0001-8392"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Administrative_Science_Quarterly | lccn | "57059226"</otriple>
-        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."@en</otriple>
-        <otriple>Administrative_Science_Quarterly | issn | "0001-8392"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</mtriple>
-        <mtriple>Administrative_Science_Quarterly | LCCN_number | 57059226</mtriple>
-        <mtriple>Administrative_Science_Quarterly | issnNumber | "0001-8392"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Administrative Science Quarterly (ISSN number 0001-8392) is abbreviated to Admin. Sci. Q. It has an LCCN number of 57059226.</lex>
-      <lex comment="good" lid="Id2">Administrative Science Quarterly known as, Admin. Sci. Q. has the LCCN number of 57059226 and the ISSN number of 0001-8392.</lex>
-      <lex comment="good" lid="Id3">The abbreviation of the Administrative Science Quarterly is Admin. Sci. Q. and it has the LCCN number 57059226 as well as the ISSN number 0001-8392.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id152" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."@en</otriple>
@@ -1181,26 +771,6 @@
       <lex comment="good" lid="Id2">Administrative Science Quarterly, abbreviated to Admin. Sci. Q, was published by Cornell University and has the academic discipline of Management.</lex>
       <lex comment="good" lid="Id3">Cornell University is the publisher of Administrative Science Quarterly which academic discipline is management and can be abbreviated to Admin. Sci. Q.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id157" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
-        <otriple>Cornell_University | affiliations | Association_of_Public_and_Land-grant_Universities</otriple>
-        <otriple>Cornell_University | affiliation | Association_of_American_Universities</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
-        <otriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</otriple>
-        <otriple>Cornell_University | affiliations | Association_of_American_Universities</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
-        <mtriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</mtriple>
-        <mtriple>Cornell_University | affiliation | Association_of_American_Universities</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cornell University, which publishes of Administrative Science Quarterly, is affiliated with both the Association of American Universities and the Association of Public and Land-grant Universities.</lex>
-      <lex comment="good" lid="Id2">Cornell University is affiliated with the Association of Public and Land-grant Universities and the Association of American Universities. It is the publisher of the Administrative Science Quarterly.</lex>
-      <lex comment="good" lid="Id3">Cornell University which published Administrative Science Quarterly is affiliated with the Association of Public and Land-grant Universities as well as with the Association of American Universities.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id158" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
@@ -1220,21 +790,6 @@
       <lex comment="good" lid="Id1">Cornell University is situated in Ithaca, New York and is affiliated with the Association of Public and Land-grant Universities. It was responsible for publishing Administrative Science Quarterly.</lex>
       <lex comment="good" lid="Id2">Cornell University, in Ithaca, New York, is the publisher of Administrative Science Quarterly and is affiliated with the Association of Public and Land-grant Universities.</lex>
       <lex comment="good" lid="Id3">Cornell University, Ithaca, New York, is affiliated with the Association of Public and Land-grant Universities, and the publisher of the Administrative Science Quarterly.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id160" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
-        <otriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</otriple>
-        <otriple>Cornell_University | state | New_York</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
-        <mtriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</mtriple>
-        <mtriple>Cornell_University | state | New_York</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cornell University, New York, affiliated with the Association of Public and Land-grant Universities, is the publisher of Administrative Science Quarterly.</lex>
-      <lex comment="good" lid="Id2">Cornell University (of New York) is the publisher of Administrative Science Quarterly and is also affiliated with the Association of Public and Land-grant Universities.</lex>
-      <lex comment="good" lid="Id3">Cornell University in the state of New York is affiliated with the Association of Public and Land-grant Universities and publishes Administrative Science Quarterly.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id162" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1305,21 +860,6 @@
       <lex comment="good" lid="Id1">The paperback Aenir has a total of 233 pages and was written by Garth Nix.</lex>
       <lex comment="good" lid="Id2">Garth Nix is the author of the 233 page paperback, Aenir.</lex>
       <lex comment="good" lid="Id3">Aenir is a paperback which was written by Garth Nix and has 233 pages.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id171" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</otriple>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</mtriple>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Written in English, the book Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups is Asian Americans.</lex>
-      <lex comment="good" lid="Id2">The US is home to Asian Americans and the origin place of Alcatraz Versus the Evil Librarians, which is written in English.</lex>
-      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians was written in English and comes from the United States where one of the ethnic groups are the Asian Americans.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id173" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1423,21 +963,6 @@
       <lex comment="good" lid="Id1">The American Journal of Mathematics was first published in 1878 and is abbreviated to Am. J. Math. It has the ISSN number "0002-9327".</lex>
       <lex comment="good" lid="Id2">The American Journal of Mathematics, or Am. J. Math., was published in 1878 with a ISSN number of 0002-9327.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id183" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>American_Journal_of_Mathematics | publisher | Johns_Hopkins_University_Press</otriple>
-        <otriple>Johns_Hopkins_University_Press | country | United_States</otriple>
-        <otriple>American_Journal_of_Mathematics | issn | "0002-9327"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>American_Journal_of_Mathematics | publisher | Johns_Hopkins_University_Press</mtriple>
-        <mtriple>Johns_Hopkins_University_Press | country | United_States</mtriple>
-        <mtriple>American_Journal_of_Mathematics | issnNumber | "0002-9327"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The American Journal of Mathematics was published by Johns Hopkins University Press based in the United States and has an ISSN number of 0002-9327.</lex>
-      <lex comment="good" lid="Id2">The ISSN number "0002-9327" is for American Journal of Mathematics. It is published by the Johns Hopkins University Press and based in the United States.</lex>
-      <lex comment="good" lid="Id3">The American Journal of Mathematics (ISSN#:0002-9327) is published by the United States' Johns Hopkins University Press.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id185" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>American_Journal_of_Mathematics | publisher | Johns_Hopkins_University_Press</otriple>
@@ -1497,26 +1022,6 @@
       <lex comment="good" lid="Id2">Johns Hopkins University is the parent company of Johns Hopkins University Press in the US who publish the American Journal of Mathematics.</lex>
       <lex comment="good" lid="Id3">Johns Hopkins University, a US parent company to Johns Hopkins University Press, published The American Journal of Mathematics.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id189" shape="(X (X (X (X))))" shape_type="chain" size="3">
-      <originaltripleset>
-        <otriple>Brandon_Sanderson | birthPlace | Lincoln,_Nebraska</otriple>
-        <otriple>Alcatraz_Versus_the_Scrivener's_Bones | author | Brandon_Sanderson</otriple>
-        <otriple>Alcatraz_Versus_the_Evil_Librarians | followedBy | Alcatraz_Versus_the_Scrivener's_Bones</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Brandon_Sanderson | birthPlace | Lincoln,_Nebraska</otriple>
-        <otriple>Alcatraz_Versus_the_Evil_Librarians | subsequentWork | Alcatraz_Versus_the_Scrivener's_Bones</otriple>
-        <otriple>Alcatraz_Versus_the_Scrivener's_Bones | author | Brandon_Sanderson</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Brandon_Sanderson | birthPlace | Lincoln,_Nebraska</mtriple>
-        <mtriple>Alcatraz_Versus_the_Evil_Librarians | followedBy | Alcatraz_Versus_the_Scrivener's_Bones</mtriple>
-        <mtriple>Alcatraz_Versus_the_Scrivener's_Bones | author | Brandon_Sanderson</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Brandon Sanderson, born in Lincoln, Nebraska, authored Alcatraz Versus the Evil Librarians and Alcatraz Versus the Scrivener's Bones.</lex>
-      <lex comment="good" lid="Id2">Alcatraz Versus the Scrivener's Bones, written after Alcatraz Versus the Evil Librarians was written by Brandon Sanderson of Lincoln, Nebraska.</lex>
-      <lex comment="good" lid="Id3">Alcatraz versus the Evil LIbrarians and its sequel Alcatraz Versus the Scrivener's Bones were written by Brandon Sanderson from Lincoln, Nebraska.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id193" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>John_Cowper_Powys | birthPlace | Shirley,_Derbyshire</otriple>
@@ -1551,20 +1056,6 @@
       <lex comment="good" lid="Id2">Born in Shirley, Derbyshire, John Cowper Powys is the author of Owen Glendower and A Glastonbury Romance.</lex>
       <lex comment="good" lid="Id3">John Cowper Powys from Shirley, Derbyshire, is the author of Owen Glendower and A Glastonbury Romance.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id197" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>John_Cowper_Powys | birthPlace | Shirley,_Derbyshire</otriple>
-        <otriple>John_Cowper_Powys | notableWork | Wolf_Solent</otriple>
-        <otriple>A_Glastonbury_Romance | author | John_Cowper_Powys</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>John_Cowper_Powys | birthPlace | Shirley,_Derbyshire</mtriple>
-        <mtriple>John_Cowper_Powys | notableWork | Wolf_Solent</mtriple>
-        <mtriple>A_Glastonbury_Romance | author | John_Cowper_Powys</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">John Cowper Powys, born in Shirley, Derbyshire, is known for works such as Wolf Solent and A Glastonbury Romance.</lex>
-      <lex comment="good" lid="Id2">Born in Shirley, Derbyshire, John Cowper Powys is the author of Wolf Solent and A Glastonbury Romance.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id198" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>SAGE_Publications | founder | Sara_Miller_McCune</otriple>
@@ -1584,21 +1075,6 @@
       <lex comment="good" lid="Id1">The Administrative Science Quarterly, OCLC 1461102, is published by SAGE Publications founded by Sara Miller McCune.</lex>
       <lex comment="good" lid="Id2">SAGE Publications, founded by Sara Miller McCune, is the publisher of Administrative Science Quarterly which has the OCLC number 1461102.</lex>
       <lex comment="good" lid="Id3">The Administrative Science Quarterly (OCLC number 1461102) is published by Sage Publications, the company which was founded by Sara Miller McCune.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id199" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>United_Kingdom | language | English_language</otriple>
-        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
-        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_Kingdom | language | English_language</mtriple>
-        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
-        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDS journal is published by Lippincott Williams &amp; Wilkins in the United Kingdom, in the English language.</lex>
-      <lex comment="good" lid="Id2">The AIDS journal is from the United Kingdom where the spoken language is English. It is published by Lippincott Williams &amp; Wilkins.</lex>
-      <lex comment="good" lid="Id3">AIDS (journal) is published by Lippincott Williams &amp; Wilkins in the UK where English is the main language.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id202" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1630,21 +1106,6 @@
       <lex comment="good" lid="Id2">A Fortress of Grey Ice is written in the English language. It is from the United States where one of the ethnic groups is African Americans.</lex>
       <lex comment="good" lid="Id3">A Fortress of Grey Ice, originally published in English, is from the United States, which includes African Americans among its ethnic groups.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id208" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">One of the ethnic Groups of the United States (where the capital city is Washington D.C) is African American. Additionally, A Wizard of Mars originates from the United States.</lex>
-      <lex comment="good" lid="Id2">A Wizard of Mars was published in the United States, where the capital is Washington, D.C. African Americans are one of the ethnic groups there.</lex>
-      <lex comment="good" lid="Id3">Washington D. C. is the capital of the United States a country where one of the ethnic groups is African Americans. Also where A Wizard of Mars originates from.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id211" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>United_States | ethnicGroup | African_Americans</otriple>
@@ -1658,21 +1119,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Wizard of Mars was published in the United States, where Barack Obama is the leader and one of the ethnic groups is African American.</lex>
       <lex comment="good" lid="Id2">Barack Obama, president of the US is an African American man, which is one of the ethnic groups of the United States. A Wizard of Mars was published in the United States.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id214" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the US, where the capital city is Washington D.C. There are many Asian Americans in the United States.</lex>
-      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States, where Washington D. C. is the capital and Asian Americans are one of the ethnic groups.</lex>
-      <lex comment="good" lid="Id3">The US is home to Asian Americans and the origin place of A Fortress of Grey Ice. Washington, D.C. is the capital.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id216" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1689,21 +1135,6 @@
       <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States where they speak English and of the ethnic groups is Asian Americans.</lex>
       <lex comment="good" lid="Id3">A Fortress of Grey Ice is from the United States which has the language of English and where the Asian Americans are one of the ethnic groups.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id218" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-        <otriple>United_States | leader | Barack_Obama</otriple>
-        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-        <mtriple>United_States | leader | Barack_Obama</mtriple>
-        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States where there are many Asian Americans and the leader is Barack Obama.</lex>
-      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States where Barack Obama is the president and one of the ethnic groups is Asian Americans.</lex>
-      <lex comment="good" lid="Id3">A Fortress of Grey Ice is from the United States where Barack Obama is the leader and Asian Americans are one of the ethnic groups.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id219" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
@@ -1719,21 +1150,6 @@
       <lex comment="good" lid="Id2">The book Alcatraz Versus the Evil Librarians comes from the U.S. where Barack Obama is the leader of the country which includes many Asian Americans.</lex>
       <lex comment="good" lid="Id3">The United States is home to Barack Obama and Asian Americans. Alcatraz Versus the Evil Librarians was also written here.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id220" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-        <otriple>United_States | leader | Joe_Biden</otriple>
-        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-        <mtriple>United_States | leader | Joe_Biden</mtriple>
-        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians comes from the U.S., where Joe Biden is a leader and Asian Americans are one of its ethnic groups.</lex>
-      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is from The United States which has many Asian Americans. Joe Biden is a leader in the U.S.</lex>
-      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians is from The United States where Joe Biden is a leader and there are many Asian Americans.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id221" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
@@ -1748,20 +1164,6 @@
       <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States which is led by the President and includes the ethnic group of Asian Americans.</lex>
       <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States where the leader is called the President and there are many Asian Americans.</lex>
       <lex comment="good" lid="Id3">A Fortress of Grey Ice is from the United States, where the leader is known as the President. Asian Americans is one of the ethnic groups there.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id225" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>United_States | language | English_language</otriple>
-        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | language | English_language</mtriple>
-        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups is African American and the language used is English.</lex>
-      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is from the United States where they speak English and one of the ethnic groups is African American.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id227" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -1807,21 +1209,6 @@
       <lex comment="good" lid="Id1">1634 The Ram Rebellion comes from the United States where the Asian Americans are an ethnic group and Barack Obama leads the country.</lex>
       <lex comment="good" lid="Id2">1634: The Ram Rebellion is from the United States where Barack Obama is the president and there are many Asian Americans.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id232" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>United_States | leader | Barack_Obama</otriple>
-        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | leader | Barack_Obama</mtriple>
-        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Barack Obama is the leader of the United States. A Fortress of Grey Ice is from the USA and Native Americans are an ethnic group in the US.</lex>
-      <lex comment="good" lid="Id2">The United States, home to Barack Obama and Native Americans, is also the origin place of A Fortress of Grey Ice.</lex>
-      <lex comment="good" lid="Id3">Native Americans are one of the ethnic groups in the United States where Barack Obama is the president. It is also the country that A Fortress of Grey Ice is from.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id235" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>United_States | leader | Barack_Obama</otriple>
@@ -1835,21 +1222,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Barack Obama is president of the United States where A Wizard of Mars was published and Native Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id2">A Wizard of Mars was Published in the United States, where Barack Obama is the President and where Native Americans are an ethnic group.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id237" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>United_States | leader | Barack_Obama</otriple>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-        <otriple>A_Severed_Wasp | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | leader | Barack_Obama</mtriple>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Severed Wasp is from the United States, where Barack Obama is the leader. Asian Americans are one of the ethnic groups there.</lex>
-      <lex comment="good" lid="Id2">A severed Wasp originates from the United States which has Barack Obama as leader and includes many Asian Americans.</lex>
-      <lex comment="good" lid="Id3">A Severed Wasp was written in the United States where Barack Obama is the leader and Asian Americans are one of the ethnic groups.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id238" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1865,21 +1237,6 @@
       <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians comes from the United States where one of the ethnic groups is African American and one of the leaders is Joe Biden.</lex>
       <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is from The United States where one of the leaders is Joe Biden and one of the ethnic groups is African American.</lex>
       <lex comment="good" lid="Id3">The book Alcatraz Versus the Evil Librarians comes from the United States where Joe Biden is a leader and one ethnic group is the African Americans.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id240" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
-        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
-        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1634 The Ram Rebellion comes from the United States where the leader is known as the President and the Native Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2">The President is the leader of the United States which is where 1634 The Ram Rebellion was written. Additionally, Native Americans are one of the ethnic groups of the United States.</lex>
-      <lex comment="good" lid="Id3">1634 The Ram Rebellion comes from the United States where one of the ethnic groups are the Native Americans and the leader is known as the President.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id242" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

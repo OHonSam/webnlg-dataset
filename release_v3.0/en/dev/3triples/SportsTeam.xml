@@ -16,26 +16,6 @@
       <lex comment="good" lid="Id2">Massimo Drago manages A.C. Cesena and played for the club SSD Potenza Calcio. He is also in club Calcio Catania.</lex>
       <lex comment="good" lid="Id3">Massimo Drago played for S.S.D. Potenza Calcio and now plays for Calcio Catania while managing A.C. Cesena.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez</otriple>
-        <otriple>A.D._Isidro_Metapán | fullname | "Isidro Metapán"@en</otriple>
-        <otriple>A.D._Isidro_Metapán | capacity | 10000</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez</otriple>
-        <otriple>A.D._Isidro_Metapán | fullname | "Isidro Metapán"@en</otriple>
-        <otriple>A.D._Isidro_Metapán | capacity | "10000"^^xsd:nonNegativeInteger</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez</mtriple>
-        <mtriple>A.D._Isidro_Metapán | fullName | "Isidro Metapán"</mtriple>
-        <mtriple>A.D._Isidro_Metapán | numberOfMembers | 10000</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.D. Isidro Metapán are based at the Estadio Jorge Calero Suárez ground. Its full name is Isidro Metapan and it has 10000 members.</lex>
-      <lex comment="good" lid="Id2">A.D. Isidro Metapan (full name, Isidro Metapan) has 10000 members and play their home games at the Estadio Jorge Calero Suarez stadium.</lex>
-      <lex comment="good" lid="Id3">Isidro Metapan (A.D. Isidro Metapan) has 10000 members and are at Estadio Jorge Calero Suarez.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id6" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
@@ -81,20 +61,6 @@
       <lex comment="good" lid="Id2">A.S. Livorno Calcio is managed by Christian Panucci. is was attached to the Real Madrid CF club. He is currently attached to the club Genoa CFC.</lex>
       <lex comment="good" lid="Id3">Christian Panucci was attached to the Real Madrid CF club, he managed A.S. Livorno Calcio and played football for Genoa C.F.C.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id14" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>AZAL_PFK | league | Azerbaijan_Premier_League</otriple>
-        <otriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</otriple>
-        <otriple>AZAL_PFK | ground | AZAL_Arena</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AZAL_PFK | league | Azerbaijan_Premier_League</mtriple>
-        <mtriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</mtriple>
-        <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AZAL PFK play their home matches at the AZAL Arena, and are in the Azerbaijan Premier League, whose championships name is the Qarabag FK.</lex>
-      <lex comment="good" lid="Id2">AZAL Arena is the ground of AZAL PFK and competes in The Azerbaijan Premier League, which champions are Qarabag FK.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id16" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>AZ_Alkmaar | manager | John_van_den_Brom</otriple>
@@ -109,21 +75,6 @@
       <lex comment="good" lid="Id1">John van den Brom manages the AZ Alkmaar and plays for Vitesse Arnhem and De Graafschap.</lex>
       <lex comment="good" lid="Id2">John van den Brom, the manager of AZ Alkmaar, is in Vitesse Arnhem and plays for De Graafschap.</lex>
       <lex comment="good" lid="Id3">John van den Brom has been manager of AZ Alkmaar, he is in Vitesse Arnhem and plays for De Graafschap.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id20" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Akron_Summit_Assault | capacity | 3000</otriple>
-        <otriple>Akron_Summit_Assault | league | Premier_Development_League</otriple>
-        <otriple>Premier_Development_League | champions | K-W_United_FC</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akron_Summit_Assault | numberOfMembers | 3000</mtriple>
-        <mtriple>Akron_Summit_Assault | league | Premier_Development_League</mtriple>
-        <mtriple>Premier_Development_League | champions | K-W_United_FC</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">K-W United FC were champions of the Premier Development League where Akron Summit Assault (which has 3000 members) also play.</lex>
-      <lex comment="good" lid="Id2">3000 member club Akron Summit Assault play in the Premier Development League alongside former champions K-W United FC.</lex>
-      <lex comment="good" lid="Id3">Akron Summit Assault has 3000 members and plays in the Premier Development League of which K-W United FC were champions.</lex>
     </entry>
     </entries>
 </benchmark>

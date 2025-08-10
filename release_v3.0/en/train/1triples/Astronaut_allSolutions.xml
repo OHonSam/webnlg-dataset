@@ -24,19 +24,6 @@
       <lex comment="good" lid="Id3">Alan Bean's birth name was Alan LaVern Bean.</lex>
       <lex comment="good" lid="Id4">Alan Bean's birth name is Alan LaVern Bean.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alan_Bean | dateOfRet | "June 1981"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Bean | dateOfRetirement | "June 1981"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Bean retired on June 1981.</lex>
-      <lex comment="good" lid="Id2">Alan Bean retired in June of 1981.</lex>
-      <lex comment="good" lid="Id3">Alan Bean retired in June 1981.</lex>
-      <lex comment="good" lid="Id4">Alan Bean's retirement was in June 1981.</lex>
-      <lex comment="good" lid="Id5">Alan Bean retired in June, 1981.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alan_Bean | status | "Retired"@en</otriple>
@@ -74,16 +61,6 @@
       <lex comment="good" lid="Id2">Alan Shepard graduated from NWC in 1957 with an M.A.</lex>
       <lex comment="good" lid="Id3">Alan Shepard went to school at NWC and graduated with an MA in 1957.</lex>
       <lex comment="good" lid="Id4">Alan Shepard graduated from NWC with the master of arts degree in 1957.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard's birth place was New Hampshire.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire.</lex>
     </entry>
     <entry category="Astronaut" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -134,19 +111,6 @@
       <lex comment="good" lid="Id5">Alan Shepard was on the crew of Apollo 14.</lex>
       <lex comment="good" lid="Id6">Alan Shepard was a member of the crew of Apollo 14.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alan_Shepard | selection | 1959</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Shepard | selectedByNasa | 1959</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">NASA selected Alan Shepard in 1959.</lex>
-      <lex comment="good" lid="Id2">In 1959, Alan Shepard was selected by NASA.</lex>
-      <lex comment="good" lid="Id3">Alan Shepard was selected by NASA in 1959.</lex>
-      <lex comment="good" lid="Id4">Alan Shepard was chosen by NASA in 1959.</lex>
-      <lex comment="good" lid="Id5">Alan Shepard was hired by NASA in 1959.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Apollo_12 | crew2Up | Alfred_Worden</otriple>
@@ -157,19 +121,6 @@
       <lex comment="good" lid="Id1">Alfred Worden was a backup pilot of Apollo 12.</lex>
       <lex comment="good" lid="Id2">Apollo 12's backup pilot was Alfred Worden.</lex>
       <lex comment="good" lid="Id3">Alfred Worden was the backup pilot of Apollo 12.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Apollo_12 | operator | NASA</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Apollo_12 | operator | NASA</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The operator of Apollo 12 was NASA.</lex>
-      <lex comment="good" lid="Id2">The Apollo 12 operator is NASA.</lex>
-      <lex comment="good" lid="Id3">NASA operated Apollo 12.</lex>
-      <lex comment="good" lid="Id4">The Apollo 12 mission was operated by NASA.</lex>
-      <lex comment="good" lid="Id5">Apollo 12 is operated by NASA.</lex>
     </entry>
     <entry category="Astronaut" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -197,22 +148,6 @@
       <lex comment="good" lid="Id6">Buzz Aldrin was born on the 20th of January 1930.</lex>
       <lex comment="good" lid="Id7">Buzz Aldrin was born on January 20,1930.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Buzz_Aldrin | dateOfRet | "1971-07-01"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Buzz_Aldrin | dateOfRetirement | "1971-07-01"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin retired on the 7th of January 1971.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin date of retirement was 1971/07/01.</lex>
-      <lex comment="good" lid="Id3">Buzz Aldrin's retirement date is "1971-07-01".</lex>
-      <lex comment="good" lid="Id4">Buzz Aldrin retired on July 1st, 1971.</lex>
-      <lex comment="good" lid="Id5">Buzz Aldrin retired on July 1, 1971.</lex>
-      <lex comment="good" lid="Id6">Buzz Aldrin retired on the 1st of July 1971.</lex>
-      <lex comment="good" lid="Id7">Buzz Aldrin retired on 1971-07-01.</lex>
-      <lex comment="good" lid="Id8">Buzz Aldrin retired on Jul 1, 1971.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Buzz_Aldrin | status | "Retired"@en</otriple>
@@ -223,19 +158,6 @@
       <lex comment="good" lid="Id1">Buzz Aldrin is retired.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin is now retired.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin has retired.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Buzz_Aldrin | ribbon | "Legion of Merit ribbon.svg"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Buzz_Aldrin | ribbonAward | "Legion of Merit ribbon.svg"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin was awarded the Legion of Merit ribbon.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin was awarded with Legion of Merit ribbon.</lex>
-      <lex comment="good" lid="Id3">Buzz Aldrin won the Legion of Merit ribbon.</lex>
-      <lex comment="good" lid="Id4">Buzz Aldrin was awarded the "Legion of Merit" ribbon.</lex>
-      <lex comment="good" lid="Id5">Buzz Aldrin was awarded the 'Legion of Merit' ribbon.</lex>
     </entry>
     <entry category="Astronaut" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -257,19 +179,6 @@
         <mtriple>Dallas | partsType | List_of_counties_in_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dallas is a county in Texas.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id48" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Elliot_See | birthDate | "1927-07-23"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Elliot_See | birthDate | "1927-07-23"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See was born on the 23rd of July 1927.</lex>
-      <lex comment="good" lid="Id2">Elliot See was born on July 23, 1927.</lex>
-      <lex comment="good" lid="Id3">Elliot See was born on July 23rd, 1927.</lex>
-      <lex comment="good" lid="Id4">Elliot See was born on 23rd July 1927.</lex>
-      <lex comment="good" lid="Id5">Elliot See was born on 07/23/1927.</lex>
     </entry>
     <entry category="Astronaut" eid="Id50" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -322,19 +231,6 @@
       <lex comment="good" lid="Id2">Gregory L. Fenves is the appointed president of the University of Texas at Austin.</lex>
       <lex comment="good" lid="Id3">Gregory L. Fenves was appointed as the president of the University of Texas at Austin.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id61" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>William_Anders | birthDate | "1933-10-17"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>William_Anders | birthDate | "1933-10-17"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">William Anders was born on October 17th, 1933.</lex>
-      <lex comment="good" lid="Id2">William Anders was born October 17th 1933.</lex>
-      <lex comment="good" lid="Id3">William Anders was born on October 17, 1933.</lex>
-      <lex comment="good" lid="Id4">William Anders was born 1933-10-17.</lex>
-      <lex comment="good" lid="Id5">William Anders was born on the 17th of October 1933.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id64" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>William_Anders | nationality | United_States</otriple>
@@ -348,19 +244,6 @@
       <lex comment="good" lid="Id4">William Anders is from the United States.</lex>
       <lex comment="good" lid="Id5">William Anders was from the United STates.</lex>
       <lex comment="good" lid="Id6">William Anders is a US national.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id68" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>William_Anders | timeInSpace | "8820.0"^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>William_Anders | timeInSpace | "8820.0"(minutes)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">William anders spent 8820 minutes in space.</lex>
-      <lex comment="good" lid="Id2">William Anders spent 8820.0 minutes in space.</lex>
-      <lex comment="good" lid="Id3">William Anders' time in space has been 8820.0 minutes.</lex>
-      <lex comment="good" lid="Id4">William Anders walked in space 8820.0 minutes.</lex>
-      <lex comment="good" lid="Id5">William Anders' time in space is 8820.0 minutes.</lex>
     </entry>
     <entry category="Astronaut" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

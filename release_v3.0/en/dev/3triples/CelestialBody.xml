@@ -21,21 +21,6 @@
       <lex comment="good" lid="Id2">(410777) 2009 FD, which was discovered by Spacewatch, has an orbital period of 39447000.0 and a periapsis of 88234300000.0.</lex>
       <lex comment="good" lid="Id3">Discovered by Spacewatch, (410777) 2009 FD has a periapsis of 88234300000.0, and an orbital period of 39447000.0.</lex>
     </entry>
-    <entry category="CelestialBody" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>(66391)_1999_KW4 | Planet/averageSpeed | "37.16"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
-        <otriple>(66391)_1999_KW4 | Planet/density | "2000.0"^^&lt;http://dbpedia.org/datatype/kilogramPerCubicMetre&gt;</otriple>
-        <otriple>(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>(66391)_1999_KW4 | averageSpeed | 37.16 (kilometrePerSeconds)</mtriple>
-        <mtriple>(66391)_1999_KW4 | density | 2.0 (gramPerCubicCentimetres)</mtriple>
-        <mtriple>(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The celestial body known as (66391) 1999 KW4 has an apoapsis of 162164091.8388 km, an average speed of 37.16 kilometres per second, and a density of 2.0 grams per cubic centimetre.</lex>
-      <lex comment="good" lid="Id2">Having a density of 2.0 gm per cu cm, (66391) 1999 KW4, has an apoapsis of 162164091.8388 kilometres, an the average speed of 37.16 km per sec.</lex>
-      <lex comment="good" lid="Id3">The celestial body known as (66391) 1999 KW4 has an apoapsis of 162164091.8388 km and an average speed of 37.16 kilometres per second. Its density is 2.0 gm per cu cm.</lex>
-    </entry>
     <entry category="CelestialBody" eid="Id5" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>101_Helena | discoverer | James_Craig_Watson</otriple>
@@ -70,20 +55,6 @@
       <lex comment="good" lid="Id1">The celestial body known as 103 Hera has an escape velocity of 0.0482 k.p.s., temperature of 170.0 kelvins and an apoapsis of 437170000.0 kilometres.</lex>
       <lex comment="good" lid="Id2">The celestial body known as 103 Hera has a temperature of 170 kelvins. It has has an escape velocity of 0.0482 kilometres per second and an apoapsis of 437170000.0 kilometres.</lex>
       <lex comment="good" lid="Id3">103 Hera; has an escape velocity of 0.0482 kilometres per second, a temperature of 170.0 kelvins and an apoapsis of 437170000.0 kilometres.</lex>
-    </entry>
-    <entry category="CelestialBody" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>107_Camilla | discoverer | E._Wells</otriple>
-        <otriple>107_Camilla | periapsis | 4.79343e+11</otriple>
-        <otriple>107_Camilla | epoch | "2006-12-31"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>107_Camilla | discoverer | E._Wells</mtriple>
-        <mtriple>107_Camilla | periapsis | 479343000.0 (kilometres)</mtriple>
-        <mtriple>107_Camilla | epoch | 2006-12-31</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">107 Camilla which has a periapsis of 479343000.0 kilometres was discovered by E Wells and has an epoch date of 31st December 2006.</lex>
-      <lex comment="good" lid="Id2">107 Camilla has a periapsis of 479343000.0 kilometres and an epoch of 31st December 2006. It was discovered by E Wells.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>

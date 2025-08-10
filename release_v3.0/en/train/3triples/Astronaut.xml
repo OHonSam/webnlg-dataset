@@ -17,23 +17,6 @@
       <lex comment="good" lid="Id3">Alan Bean (born on 1932-03-15) was selected by NASA in 1963 and is now retired.</lex>
       <lex comment="good" lid="Id4">Alan Bean (born on 1932-03-15) was selected by NASA in 1963 and now is retired.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Alan_Bean | nationality | United_States</otriple>
-        <otriple>Alan_Bean | occupation | Test_pilot</otriple>
-        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Bean | nationality | United_States</mtriple>
-        <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
-        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Test pilot Alan Bean was born in Wheeler, Texas, USA.</lex>
-      <lex comment="good" lid="Id2">Alan Bean was born in Wheeler, Texas, US and was a test pilot.</lex>
-      <lex comment="good" lid="Id3">Alan Bean, a US national whose birth place is Wheeler, Texas, served as a test pilot.</lex>
-      <lex comment="good" lid="Id4">Alan Bean was born in Wheeler, Texas, United States and served as a test pilot.</lex>
-      <lex comment="good" lid="Id5">Alan Bean (born in Wheeler, Texas of the United States served as a test pilot.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Alan_Bean | nationality | United_States</otriple>
@@ -80,20 +63,6 @@
       <lex comment="good" lid="Id3">Alan Shepard graduated from NWC in 1957 with a master of arts. He was born in New Hampshire and died on 1974-08-01.</lex>
       <lex comment="good" lid="Id4">Alan Shepard was born in New Hampshire and got his M.A. in 1957 at NWC and retired on August 1st, 1974.</lex>
       <lex comment="good" lid="Id5">Alan Shepard, born in New Hampshire and a 1957 graduate of NWC with an M.A. degree, retired on August 1, 1974.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"@en</otriple>
-        <otriple>Alan_Shepard | deathPlace | California</otriple>
-        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"</mtriple>
-        <mtriple>Alan_Shepard | deathPlace | California</mtriple>
-        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire, graduated from NWC in 1957 with an M.A., and died in California.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard who died in California, was born in New Hampshire and graduated from NWC with an MA in 1957.</lex>
     </entry>
     <entry category="Astronaut" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -174,23 +143,6 @@
       <lex comment="good" lid="Id3">Born on the twentieth of January, 1930, 1963 Massachusetts Institute of Technology, Sc.D. graduate Buzz Aldrin has won 20 awards.</lex>
       <lex comment="good" lid="Id4">Graduating from Massachusetts Institute of Technology in 1963, Buzz Aldrin (born 1930-01-20) received 20 awards.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
-        <otriple>Buzz_Aldrin | nationality | United_States</otriple>
-        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
-        <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
-        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin, a member of the Apollo 11 crew was born in Glen Ridge, New Jersey, US.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin was an American crew member on Apollo 11, having been born in Glen Ridge, New Jersey.</lex>
-      <lex comment="good" lid="Id3">Buzz Aldrin was a US national, being born in Glen Ridge, New Jersey and was a member of the Apollo 11 crew.</lex>
-      <lex comment="good" lid="Id4">Buzz Aldrin (born at Glen Ridge in New Jersey, USA) was a crew member of Apollo 11.</lex>
-      <lex comment="good" lid="Id5">Buzz Aldrin is an American who was born in Glen Ridge, New Jersey and part of the Apollo 11 flight crew.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id30" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
@@ -221,21 +173,6 @@
       <lex comment="good" lid="Id1">Buzz Aldrin, a crew member of Apollo 11, was born in the Essex County of Glen Ridge, New Jersey.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge New Jersey situated in the Essex County, he was a crew member of Apollo 11.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id34" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
-        <otriple>Buzz_Aldrin | nationality | United_States</otriple>
-        <otriple>Apollo_11 | operator | NASA</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
-        <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
-        <mtriple>Apollo_11 | operator | NASA</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin, a US national, was a crew member on Apollo 11 operated by NASA.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin was a US national who served as a crew member of the NASA operated Apollo 11.</lex>
-      <lex comment="good" lid="Id3">Buzz Aldrin, born in the USA, was a crew member of the NASA operated Apollo 11.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id37" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
@@ -265,20 +202,6 @@
       <lex comment="good" lid="Id2">Buzz Aldrin, who is now retired, was selected by NASA in 1963 and served as a crew member of Apollo 11.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin was hired by NASA in 1963, was a crew member on Apollo 11 and is retired.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id40" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Dallas | partsType | List_of_counties_in_Texas</otriple>
-        <otriple>Elliot_See | birthPlace | Dallas</otriple>
-        <otriple>Dallas | part | Collin_County,_Texas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Dallas | partsType | List_of_counties_in_Texas</mtriple>
-        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
-        <mtriple>Dallas | part | Collin_County,_Texas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See was born in Dallas, Collin County, Texas.</lex>
-      <lex comment="good" lid="Id2">Elliot See was born in Dallas, located in the Collin County in Texas.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id43" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
@@ -293,21 +216,6 @@
       <lex comment="good" lid="Id1">Elliot See who was a student of the University of Texas at Austin and served as a test pilot, has died.</lex>
       <lex comment="good" lid="Id2">Elliot See, a student at the University of Texas in Austin who was also a test pilot, has died.</lex>
       <lex comment="good" lid="Id3">Elliot See went to the University of Texas at Austin and served as a test pilot and is now deceased.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id45" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
-        <otriple>University_of_Texas_at_Austin | affiliations | University_of_Texas_System</otriple>
-        <otriple>University_of_Texas_at_Austin | athletics | Big_12_Conference</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
-        <mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
-        <mtriple>University_of_Texas_at_Austin | competeIn | Big_12_Conference</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The university of Texas at Austin, where Elliot See was a student, is affiliated to the university of Texas system and is competing in the Big 12 Conference.</lex>
-      <lex comment="good" lid="Id2">Elliot See was a student at University of Texas Austin, which is affiliated to the University of Texas system, and which will compete in the Big 12 conference.</lex>
-      <lex comment="good" lid="Id3">Elliot See's attended University of Texas at Austin which competed in Big 12 Conference and is affiliated with the University of Texas system.</lex>
     </entry>
     <entry category="Astronaut" eid="Id47" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -326,21 +234,6 @@
       <lex comment="good" lid="Id4">Elliot See was born in Dallas and became a test pilot who was chosen by NASA in 1962.</lex>
       <lex comment="good" lid="Id5">Elliot See was born in Dallas and worked as a Test pilot before being selected by NASA in 1962.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id48" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Elliot_See | birthPlace | Dallas</otriple>
-        <otriple>Elliot_See | status | "Deceased"@en</otriple>
-        <otriple>Dallas | part | Collin_County,_Texas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
-        <mtriple>Elliot_See | status | "Deceased"</mtriple>
-        <mtriple>Dallas | part | Collin_County,_Texas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The late Elliot See was born in Dallas, which is located in the Collin County in Texas.</lex>
-      <lex comment="good" lid="Id2">The deceased Elliot See was born in Dallas, Collin County, Texas.</lex>
-      <lex comment="good" lid="Id3">Elliot See, who was born in Dallas (Collin County, Texas), has died.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id51" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Elliot_See | occupation | Test_pilot</otriple>
@@ -354,20 +247,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See was a test pilot originating from Dallas, Texas.</lex>
       <lex comment="good" lid="Id2">Elliot See, who was born in Dallas, Texas, performed as a test pilot.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id53" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
-        <otriple>British_Hong_Kong | representative | Chris_Patten</otriple>
-        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>William_Anders | dateOfRetirement | "1969-09-01"</mtriple>
-        <mtriple>British_Hong_Kong | representative | Chris_Patten</mtriple>
-        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Represented by Chris Patten, British Hong Kong is known as the birth place of William Anders, who retired on September 1st, 1969.</lex>
-      <lex comment="good" lid="Id2">William Anders, who retired on the 1st of September 1969, was born in British Hong Kong where Chris Patten served as a representative.</lex>
     </entry>
     <entry category="Astronaut" eid="Id54" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -385,21 +264,6 @@
       <lex comment="good" lid="Id3">William Anders, born in British Hong Kong on the 17th of October 1933, retired on the 1st of September 1969.</lex>
       <lex comment="good" lid="Id4">William Anders was born on 1933-10-17 in British Hong Kong and retired on 1969-09-01.</lex>
       <lex comment="good" lid="Id5">William Anders (born on 1933-10-17 in British Hong Kong) retired on 1969-09-01 date.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id58" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>William_Anders | title | United_States_Ambassador_to_Norway</otriple>
-        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
-        <otriple>William_Anders | almaMater | "AFIT, M.S. 1962"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>William_Anders | title | United_States_Ambassador_to_Norway</mtriple>
-        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
-        <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Born in British Hong Kong, William Anders graduated AFIT, M.S. in 1962 and is now the US Ambassador to Norway.</lex>
-      <lex comment="good" lid="Id2">United States Ambassador to Norway, William Anders, was born in British Hong Kong and graduated from his alma Mater, AFIT, in 1962 with an M.S.</lex>
-      <lex comment="good" lid="Id3">William Anders was born in British Hong Kong and went to AFIT, M.S. 1962 and was the United States Ambassador to Norway.</lex>
     </entry>
     <entry category="Astronaut" eid="Id60" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

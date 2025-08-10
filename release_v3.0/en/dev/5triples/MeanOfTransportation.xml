@@ -1,25 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="MeanOfTransportation" eid="Id1" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>AIDAstella | shipOperator | AIDA_Cruises</otriple>
-        <otriple>AIDAstella | shipBeam | "32.2"^^xsd:double</otriple>
-        <otriple>AIDAstella | topSpeed | "38.892"^^xsd:double</otriple>
-        <otriple>AIDAstella | builder | Meyer_Werft</otriple>
-        <otriple>AIDAstella | MeanOfTransportation/length | "253260.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDAstella | operator | AIDA_Cruises</mtriple>
-        <mtriple>AIDAstella | shipBeam | 32.2</mtriple>
-        <mtriple>AIDAstella | topSpeed | 38.892</mtriple>
-        <mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
-        <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AIDAstella was built by Meyer Werft and is operated by AIDA Cruise Line. The AIDAstella has a beam of 32.2 m, is 253260.0 millimetres in length and has a top speed of 38.892.</lex>
-      <lex comment="good" lid="Id2">The AIDAstella was built by Meyer Werft and operated by the AIDA Cruise Line. It is 253260.0 millimetres long with a beam of 32.2 metres and a top speed of 38.892 km/h.</lex>
-      <lex comment="good" lid="Id3">The AIDAstella is operated by AIDA Cruise Line and was built by Meyer Werft. It is 253260.0 millimetres in length, has a beam of 32.2m and a top speed of 38.892 km/h.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>AMC_Matador | aka | "American Motors Matador"@en</otriple>
@@ -76,25 +57,6 @@
       <lex comment="good" lid="Id1">The Ariane 5's maiden flight was on the 2nd March 2004 and its last flight being on Sept. 27, 2003. It was made by the European Space Agency and took off from ELA-3. It is 5.4 m in diameter.</lex>
       <lex comment="good" lid="Id2">First launched on March 2, 2004 the Ariane 5 took off from ELA-3. That craft is made by the European Space Agency and its last flight was on Sept. 27, 2003. The Ariane 5 is 5.4 m in diameter.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id10" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Atlas_II | countryOrigin | United_States</otriple>
-        <otriple>Atlas_II | finalFlight | "1998-03-16"^^xsd:date</otriple>
-        <otriple>Atlas_II | sites | Vandenberg_Air_Force_Base</otriple>
-        <otriple>Atlas_II | diameter | "3.04 m"@en</otriple>
-        <otriple>Atlas_II | launchSite | Spaceport_Florida_Launch_Complex_36</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Atlas_II | countryOrigin | United_States</mtriple>
-        <mtriple>Atlas_II | finalFlight | 1998-03-16</mtriple>
-        <mtriple>Atlas_II | launchSite | Vandenberg_Air_Force_Base</mtriple>
-        <mtriple>Atlas_II | diameter | 3.04 m</mtriple>
-        <mtriple>Atlas_II | launchSite | Spaceport_Florida_Launch_Complex_36</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">From the United States the Atlas II (3.04 m diameter) was sent from Vandenberg Air Force Base and Spaceport Florida Launch Complex 36. March 16, 1998 was its final lift off.</lex>
-      <lex comment="good" lid="Id2">The Atlas II is from the United States and launched from the Vandenberg Air Force Base and the Spaceport Florida Launch Complex 36. It is 3.04 m in diameter and took its final flight on 16 March 1998.</lex>
-      <lex comment="good" lid="Id3">The Atlas II, from the united States, was launched at the Spaceport Florida Launch Complex 36 and Vandenberg Air Force Base. 3.04m in diameter, its final flight was March 16, 1998.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id13" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Costa_Crociere | location | Genoa</otriple>
@@ -138,25 +100,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The launch site of the rocket Antares was the Mid-Atlantic Regional Spaceport Launch Pad 0, which is associated with the Minotaur IV rocket. The Antares rocket is comparable with the Delta II, which originated from the United States, and was launched at Vandenberg Air Force Base.</lex>
       <lex comment="good" lid="Id2">The Minotaur IV rocket and the Antares rocket were launched from the Mid-Atlantic Regional Spaceport Launch Pad 0. The latter rocket is comparable to the Delta II which originated in the United States and launched from the Vandenberg Air Force Base.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id16" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Germany | capital | Berlin</otriple>
-        <otriple>Neptun_Werft | locationCity | Rostock</otriple>
-        <otriple>Germany | leader | Joachim_Gauck</otriple>
-        <otriple>Rostock | country | Germany</otriple>
-        <otriple>A-Rosa_Luna | builder | Neptun_Werft</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Germany | capital | Berlin</mtriple>
-        <mtriple>Neptun_Werft | city | Rostock</mtriple>
-        <mtriple>Germany | leader | Joachim_Gauck</mtriple>
-        <mtriple>Rostock | country | Germany</mtriple>
-        <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna was built on the Neptun Werft, located in Rostock, Germany. Germany (whose capital city is Berlin) is led by Joachim Gauck.</lex>
-      <lex comment="good" lid="Id2">The builder of the A-Rosa Luna is Neptun Werft whose HQ is in Rostock, Germany. Berlin is the capital in that country and Joachim Gauck is the name of one of its leaders.</lex>
-      <lex comment="good" lid="Id3">The A-Rosa Luna was built by Neptun Werft in Rostock, Germany. Joachim Gauck is a leader of Germany, with its capital at Berlin.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id17" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
       <originaltripleset>

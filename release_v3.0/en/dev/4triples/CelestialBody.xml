@@ -1,41 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="CelestialBody" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
-        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
-        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
-        <otriple>(19255)_1994_VK8 | escapeVelocity | "0.0925"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double</otriple>
-        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
-        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
-        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
-        <otriple>(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double</otriple>
-        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
-        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
-        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
-        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
-        <otriple>(19255)_1994_VK8 | escapeVelocity | "0.0925"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>(19255)_1994_VK8 | orbitalPeriod | 8788850000.0</mtriple>
-        <mtriple>(19255)_1994_VK8 | periapsis | 6155910000000.0</mtriple>
-        <mtriple>(19255)_1994_VK8 | epoch | 2006-12-31</mtriple>
-        <mtriple>(19255)_1994_VK8 | escapeVelocity | 0.0925 (kilometrePerSeconds)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">(19255) 1994 VK8 has an orbital period of 8788850000.0 and a periapsis of 6155910000000.0. Its epoch is on 31 December 2006 and it has an escape velocity of 0.0925 kilometres per second.</lex>
-      <lex comment="good" lid="Id2">(19255) 1994 VK8 has an escape velocity of 0.0925 km/s, a periapsis of 6155910000000.0, an orbital period of 8788850000.0 and an epoch date of 31 December 2006.</lex>
-      <lex comment="good" lid="Id3">(19255) 1994 VK8 has an escape velocity of 0.0925 kilometres per second and an orbital period of 8788850000.0. The epoch of (19255) 1994 VK8 is on 31 December 2006 and it has a periapsis of 6155910000000.0.</lex>
-    </entry>
     <entry category="CelestialBody" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
@@ -75,23 +40,6 @@
       <lex comment="good" lid="Id1">1036 Ganymed was discovered by Walter Baade who graduated from University of Gottingen. He was born in the German Empire and died in Gottingen.</lex>
       <lex comment="good" lid="Id2">Walter Baade, born in the German empire, discovered 1036 Ganymed. His alma mater was the University of Gottingen. Mr. Baade died in Gottingen.</lex>
       <lex comment="good" lid="Id3">Walter Baade was born in the German empire and died in Gottingen. He studied at the university of Gottingen and discovered 1036 Ganymed.</lex>
-    </entry>
-    <entry category="CelestialBody" eid="Id8" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>1036_Ganymed | discoverer | Walter_Baade</otriple>
-        <otriple>Walter_Baade | doctoralStudent | Halton_Arp</otriple>
-        <otriple>Walter_Baade | birthPlace | Preußisch_Oldendorf</otriple>
-        <otriple>Walter_Baade | almaMater | University_of_Göttingen</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1036_Ganymed | discoverer | Walter_Baade</mtriple>
-        <mtriple>Walter_Baade | doctoralStudent | Halton_Arp</mtriple>
-        <mtriple>Walter_Baade | birthPlace | Preußisch_Oldendorf</mtriple>
-        <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Walter Baade, who was born in Preussisch Oldendorf, discovered 1036 Ganymed. He studied at The university of Gottingen, and his doctoral student was Halton Arp.</lex>
-      <lex comment="good" lid="Id2">1036 Ganymed was discovered by Walter Baade. Baade was born in Preußisch Oldendorf and attended the University of Gottingen where one of his doctoral students was Halton Arp.</lex>
-      <lex comment="good" lid="Id3">Walter Baade, who was born in Preußisch Oldendorf, discovered 1036 Ganymed. He studied at The university of Gottingen and one of his doctoral students was Halton Arp.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

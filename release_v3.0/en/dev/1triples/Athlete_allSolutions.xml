@@ -11,17 +11,6 @@
       <lex comment="good" lid="Id1">The Chairman of A C Milan is Silvio Berlusconi.</lex>
       <lex comment="good" lid="Id2">Silvio Berlusconi is the chairman of A.C. Milan.</lex>
     </entry>
-    <entry category="Athlete" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Abel_Hernández | team | Uruguay_Olympic_football_team</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abel_Hernández | club | Uruguay_Olympic_football_team</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abel Hernandez is in the Uruguay Olympic football team.</lex>
-      <lex comment="good" lid="Id2">Abel Hernandez played for the Uruguay Olympic football team.</lex>
-      <lex comment="good" lid="Id3">Abel Hernández plays for the Uruguay Olympic football team.</lex>
-    </entry>
     <entry category="Athlete" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Adam_Maher | birthPlace | "Ait Ikkou, Morocco"@en</otriple>
@@ -59,19 +48,6 @@
       <lex comment="good" lid="Id2">Ahmad Kadhim Assad plays for PAS Tehran FC.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad plays for PAS Tehran F.C.</lex>
     </entry>
-    <entry category="Athlete" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Akeem_Priestley | team | FK_Mughan</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Akeem_Priestley | clubs | "→ FK Mughan"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akeem_Priestley | club | FK_Mughan</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Priestley plays for FK Mughan.</lex>
-      <lex comment="good" lid="Id2">Akeem Priestley played for FK Mughan.</lex>
-    </entry>
     <entry category="Athlete" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alaa_Abdul-Zahra | birthPlace | Baghdad</otriple>
@@ -82,17 +58,6 @@
       <lex comment="good" lid="Id1">Alaa Abdul-Zahra was born in Baghdad.</lex>
       <lex comment="good" lid="Id2">Baghdad is the birth place of Alaa Abdul-Zahra.</lex>
       <lex comment="good" lid="Id3">Alaa Abdul Zahra was born in Baghdad.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aleksander_Barkov,_Jr. | birthPlace | Finland</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | Finland</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksander Barkov Jr was born in Finland.</lex>
-      <lex comment="good" lid="Id2">Aleksander Barkov Jr. was born in Finland.</lex>
-      <lex comment="good" lid="Id3">Aleksander Barkov, Jr's birth place is Finland.</lex>
     </entry>
     <entry category="Athlete" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -117,15 +82,6 @@
       <lex comment="good" lid="Id1">Alex Plante is 1.9304m tall.</lex>
       <lex comment="good" lid="Id2">Alex Plante is 1.9304 m tall.</lex>
       <lex comment="good" lid="Id3">Alex Plante is 1.9304 metres tall.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Budapest | country | Hungary</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Budapest | country | Hungary</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Budapest is a city in Hungary.</lex>
     </entry>
     <entry category="Athlete" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -161,17 +117,6 @@
       <lex comment="good" lid="Id1">The general manager of Florida Panthers is Dale Tallon.</lex>
       <lex comment="good" lid="Id2">Florida Panthers' general manager is Dale Tallon.</lex>
       <lex comment="good" lid="Id3">Dale Tallon is the general manager of the Florida Panthers.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Maccabi_Tel_Aviv_B.C. | coach | Žan_Tabak</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Maccabi_Tel_Aviv_B.C. | coach | Žan_Tabak</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Maccabi Tel Aviv B.C.'s coach is Zan Tabak.</lex>
-      <lex comment="good" lid="Id2">Zan Tabak is the coach for the Maccabi Tel Aviv B.C. team.</lex>
-      <lex comment="good" lid="Id3">The coach of Maccabi Tel Aviv B.C. is Zan Tabak.</lex>
     </entry>
     <entry category="Athlete" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

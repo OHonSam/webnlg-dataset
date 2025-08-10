@@ -33,24 +33,6 @@
       <lex comment="good" lid="Id1">Eric Flint was born in Burbank, California and came under the influence of Robert A Heinlein. He is the author of 1634: The Bavarian Crisis which is preceded by 1634: The Baltic War. Also preceding the book are the DeMarce short stories in the Grantville Gazettes.</lex>
       <lex comment="good" lid="Id2">Eric Flint, born in Burbank California, is the author of 1634: The Bavarian Crisis, which was preceded by 1634: The Baltic War. These books were preceded by DeMarce short stories in the Grantville Gazettes. He was influenced by Robert A. Heinlein.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id4" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
-        <otriple>Eric_Flint | influencedBy | Robert_A._Heinlein</otriple>
-        <otriple>Eric_Flint | birthPlace | Burbank,_California</otriple>
-        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_III</otriple>
-        <otriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
-        <mtriple>Eric_Flint | influencedBy | Robert_A._Heinlein</mtriple>
-        <mtriple>Eric_Flint | birthPlace | Burbank,_California</mtriple>
-        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_III</mtriple>
-        <mtriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1634: The Bavarian Crisis was the sequel to The Grantville Gazettes and Grantville Gazette III. It was written by Eric Flint from Burbank California who was influenced by Robert A. Heinlein.</lex>
-      <lex comment="good" lid="Id2">Influenced by Robert A Heinlein, 1634: The Bavarian Crisis was written by Eric Flint who was born in Burbank California. The book was preceded by Grantville Gazette III and The Grantville Gazettes.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id6" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>1634:_The_Ram_Rebellion | author | Eric_Flint</otriple>
@@ -107,24 +89,6 @@
       <lex comment="good" lid="Id1">The largest city in Ireland is Dublin where white people are an ethnic group and A Long Long Way was written. It was published by Viking press and followed by The Secret Scripture.</lex>
       <lex comment="good" lid="Id2">Published by Viking Press in Ireland, the novel A Long Long Way was followed by The Secret Scripture. The main ethnic group of Ireland is white and the capital is Dublin.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id12" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>A_Long_Long_Way | language | English_language</otriple>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>A_Long_Long_Way | country | Ireland</otriple>
-        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
-        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Long_Long_Way | language | English_language</mtriple>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>A_Long_Long_Way | country | Ireland</mtriple>
-        <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
-        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Long Long Way, written in English (language of Great Britain) was published in ireland by Viking Press. It was followed by the novel The Secret Scripture.</lex>
-      <lex comment="good" lid="Id2">A Long Long Way was written in Ireland and published by Viking Press. This book was followed by The Secret Scripture and was written in English, the language used in Great Britain.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id13" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>A_Long_Long_Way | language | English_language</otriple>
@@ -144,23 +108,6 @@
       <lex comment="good" lid="Id2">A Long Long Way was written in English and originates from Ireland. The English language is spoken in Great Britain. It precedes The Secret Scripture which was published by Faber and Faber.</lex>
       <lex comment="good" lid="Id3">The Irish book The Secret Scripture, published by Faber and Faber, followed the book "A Long Long Way," which is written in English (the language of Great Britain).</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id15" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>A_Long_Long_Way | previousWork | Annie_Dunne</otriple>
-        <otriple>A_Long_Long_Way | country | Ireland</otriple>
-        <otriple>Ireland | ethnicGroup | White_people</otriple>
-        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
-        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Long_Long_Way | precededBy | Annie_Dunne</mtriple>
-        <mtriple>A_Long_Long_Way | country | Ireland</mtriple>
-        <mtriple>Ireland | ethnicGroup | White_people</mtriple>
-        <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
-        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Long Long Way was written in Ireland, where white people live, and published by Viking Press between Annie Dunne and The Secret Scripture.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id18" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>A_Loyal_Character_Dancer | language | English_language</otriple>
@@ -177,25 +124,6 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Loyal Character Dancer, written in English, was published by Soho Press in the United States, where Native Americans are among the ethnic groups. The English language is also spoken in Great Britain.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id21" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>A_Loyal_Character_Dancer | language | English_language</otriple>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
-        <otriple>Soho_Press | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Loyal_Character_Dancer | language | English_language</mtriple>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
-        <mtriple>Soho_Press | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">English is spoken in Great Britain and is the language used in "A Loyal Character Dancer". The book is published by Soho Press in the United States. That country contains the ethnic group of Native Americans.</lex>
-      <lex comment="good" lid="Id2">Soho Press in the United States published the book A Loyal Character Dancer. The book is written in English, as spoken in Great Britain. The United States is home to the ethnic group of Native Americans.</lex>
-      <lex comment="good" lid="Id3">The language of Great Britain is English and this is used by the writer of A Loyal Character Dancer. The book is published by Soho Press in the United States where the ethnic group of Native Americans can be found.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id23" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -215,25 +143,6 @@
       <lex comment="good" lid="Id1">A Wizard of Mars originates from the United States and is published in English, which is also spoken in Great Britain. Native Americans are one of the ethnic groups of the United States, where the capital city is Washington D.C.</lex>
       <lex comment="good" lid="Id2">A Wizard of Mars was Published in the United States and written in English, language of Great Britain. The capital of the US is Washington D.C. and the original population of the country are Native Americans.</lex>
       <lex comment="good" lid="Id3">A Wizard of Mars was published in English (language of Great Britain) in the United States, where the capital is Washington D.C. and Native Americans are one ethnic group.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id24" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>A_Wizard_of_Mars | language | English_language</otriple>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Wizard_of_Mars | language | English_language</mtriple>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Wizard of Mars is published in English (language of Great Britain) in the United States. The capital city there is Washington D.C. and Asian Americans are an ethnic group there.</lex>
-      <lex comment="good" lid="Id2">A Wizard of Mars originates from the United States, where the capital is Washington DC and the country includes many Asian Americans. This book is written in English, which is the language of Great Britain.</lex>
-      <lex comment="good" lid="Id3">A Wizard of Mars originates from the United States, where the capital is Washington DC and there is an ethnic group called Asian Americans. The book is written in English which is the language spoken in Great Britain.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id25" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -268,24 +177,6 @@
       <lex comment="good" lid="Id2">The Australian novel Aenir was preceded by the novel Castle and its sequel is Above The Veil which in turn was followed by Into Battle and later The Violet Keystone.</lex>
       <lex comment="good" lid="Id3">The novel "Into Battle", that was followed by The Violet Keystone, followed "Above the Veil", that was preceded By Aenir, which was written by Australians and after Castle.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id29" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
-        <otriple>Cornell_University | affiliation | Association_of_American_Universities</otriple>
-        <otriple>Cornell_University | president | Elizabeth_Garrett</otriple>
-        <otriple>Cornell_University | state | New_York</otriple>
-        <otriple>Cornell_University | city | Ithaca,_New_York</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
-        <mtriple>Cornell_University | affiliation | Association_of_American_Universities</mtriple>
-        <mtriple>Cornell_University | president | Elizabeth_Garrett</mtriple>
-        <mtriple>Cornell_University | state | New_York</mtriple>
-        <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cornell University is in Ithaca, New York and their president is Elizabeth Garrett. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of American Universities.</lex>
-      <lex comment="good" lid="Id2">Elizabeth Garrett is president at Cornell University, Ithaca, New York. The University is the publisher of Administrative Science Quarterly and is affiliated with the Association of American Universities.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id31" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
@@ -304,25 +195,6 @@
       <lex comment="good" lid="Id1">Cornell University is in Ithaca, New York and Elizabeth Garrett is the president. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of Public and Land-grant Universities.</lex>
       <lex comment="good" lid="Id2">Affiliated with the Association of Public and Land-grant Universities, Cornell University in Ithaca New York is the publisher of Administrative Science Quarterly. The president of the university is Elizabeth Garrett.</lex>
       <lex comment="good" lid="Id3">Affiliated with the Association of Public and Land-grant Universities, Cornell University in Ithaca, New York is the publisher of the Administrative Science Quarterly. The university's president is Elizabeth Garrett.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id33" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</otriple>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</mtriple>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The English language is spoken in Great Britain and Alcatraz Versus the Evil Librarians was written in it but comes from the United States where African Americans are an ethnic group and the capital is Washington, D.C.</lex>
-      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians originates from the United States, and is written in English, also spoken in Great Britain. The US includes many African Americans, and its capital city is Washington D.C.</lex>
-      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups is African American and the capital city is Washington DC. However it is written in English, as spoken in Great Britain.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id36" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -362,24 +234,6 @@
       <lex comment="good" lid="Id2">The English language, as spoken in Great Britain, was used by the authors of Alcatraz Versus the Evil Librarians. The book comes from the United States where Joe Biden is a leader and the Asian Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">Joe Biden is a leader in the United States where one of the ethnic groups is that of the Asian Americans. The country is the origin of the book Alcatraz Versus the Evil Librarians which is written in English, as spoken in Great Britain.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id42" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
-        <otriple>A_Loyal_Character_Dancer | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-        <otriple>United_States | language | English_language</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
-        <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-        <mtriple>United_States | language | English_language</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Loyal Character Dancer is published by Soho Press, located in the U.S. It is written in English, which is also spoken in Great Britain. Asian Americans is one of the ethnic groups in the United States.</lex>
-      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press in the United States, where many people are Asian American and English (language of Great Britain) is largely spoken.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id44" shape="(X (X (X (X) (X (X)))))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>English_language | spokenIn | Great_Britain</otriple>
@@ -418,24 +272,6 @@
       <lex comment="good" lid="Id2">The book Alcatraz Versus the Evil Librarians comes from the U.S, the capital is Washington, D.C. and one of the ethnic groups is African American. They speak English, same as in Great Britain.</lex>
       <lex comment="good" lid="Id3">The book Alcatraz Versus the Evil Librarians comes from the U.S, the capital of this country is Washington D. C. and one of the ethnic group is The African Americans. They speak English, same as in Great Britain.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id48" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>United_States | language | English_language</otriple>
-        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>United_States | language | English_language</mtriple>
-        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians originates from the United States, where English is spoken (as in Great Britain). The capital city of the United States is Washington D.C., and Asian Americans are one of the nation's ethnic groups.</lex>
-      <lex comment="good" lid="Id2">English is the spoken language in both Great Britain and the United States. In the United States, Washington D.C. is the capital, the book Alcatraz Versus the Evil Librarians was written and there is an ethnic group called Asian Americans.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id49" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>English_language | spokenIn | Great_Britain</otriple>
@@ -454,25 +290,6 @@
       <lex comment="good" lid="Id1">A Severed Wasp is a book that originates from the United States. The country has the capital city of Washington DC and uses the English language, as spoken in Great Britain. One of the ethnic groups within the country are the Asian Americans.</lex>
       <lex comment="good" lid="Id2">The English language of the US is also spoken in Great Britain. The US has many Asian Americans and the Severed Wasp is found here. The capital of the United States in Washington D.C.</lex>
       <lex comment="good" lid="Id3">A Severed Wasp is a novel from the United States, where English is spoken (as in Great Britain). The capital of the US is Washington D.C. and Asian Americans are one of the ethnic groups there.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id51" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>United_States | language | English_language</otriple>
-        <otriple>United_States | leader | Barack_Obama</otriple>
-        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>United_States | language | English_language</mtriple>
-        <mtriple>United_States | leader | Barack_Obama</mtriple>
-        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">English is the language both of Great Britain and the United States, where Barack Obama is the leader. Alcatraz Versus the Evil Librarians originates from The US where you can find the ethnic group of African Americans.</lex>
-      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is from the United States where Barack Obama is the leader and African Americans are an ethnic group. Like in Great Britain, English is also spoken in the United States.</lex>
-      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians is from the United States where Barack Obama is the leader and one of the ethnic groups is African Americans. English is spoken in the United States and Great Britain.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id52" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -537,25 +354,6 @@
       <lex comment="good" lid="Id1">Elizabeth II is the leader in the United Kingdom where English is the spoken language. The company of Lippincott Williams &amp; Wilkins publishes the AIDS (journal) in the country. It is owned by its parent company of Wolters Kluwer.</lex>
       <lex comment="good" lid="Id2">Elizabeth II is a leader in the United Kingdom where the English language is spoken. The country is where the AIDS (journal) is published by Lippincott Williams &amp; Wilkins who are owned by parent company Wolters Kluwer.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id56" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>United_Kingdom | language | English_language</otriple>
-        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
-        <otriple>United_Kingdom | capital | London</otriple>
-        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
-        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_Kingdom | language | English_language</mtriple>
-        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
-        <mtriple>United_Kingdom | capital | London</mtriple>
-        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
-        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The English language is spoken in the United Kingdom where Elizabeth II is leader and the capital city is London. The AIDS journal, from the United Kingdom, is published by Lippincott, Williams &amp; Wilkins.</lex>
-      <lex comment="good" lid="Id2">The AIDS (journal) is published by Lippincott Williams &amp; Wilkins and was published in the United Kingdom, which capital is London, the language is English and its leader is Elizabeth II.</lex>
-      <lex comment="good" lid="Id3">AIDS (journal) was published by Lippincott Williams &amp; Wilkins and is from the United Kingdom, which capital is London and their language is English. Its leader is Elizabeth II.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id60" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>United_Kingdom | language | English_language</otriple>
@@ -573,24 +371,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDS journal is published by Lippincott, Williams &amp; Wilkins in the UK. The language of the country is English and the previous leader of the British people was David Cameron.</lex>
       <lex comment="good" lid="Id2">The AIDS (journal) is published by Lippincott Williams &amp; Wilkins in the UK. The language of the country is English and David Cameron was the previous Prime Minister of the British people.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id64" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-        <otriple>A_Fortress_of_Grey_Ice | language | English_language</otriple>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-        <mtriple>A_Fortress_of_Grey_Ice | language | English_language</mtriple>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Fortress of Grey Ice is written in English (which is spoken in Great Britain) and is from the US. The capital of the US is Washington, DC and one of its ethnic groups is African Americans.</lex>
-      <lex comment="good" lid="Id2">A Fortress of Grey Ice was originally published in English (language of Great Britain) in the United States. Washington D.C. is the capital of the US and part of the population is ethnically African American.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id65" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -627,25 +407,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States where Barack Obama is leader, African American's comprise one of the ethnic groups and similar to English speaking Great Britain, English is the language of the United States.</lex>
       <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States where one of the ethnic groups is African American and the leader is Barack Obama. Both the United States and Great Britain have English as their main language.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id72" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
-        <otriple>A_Wizard_of_Mars | language | English_language</otriple>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
-        <mtriple>A_Wizard_of_Mars | language | English_language</mtriple>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Wizard of Mars is written in English, the spoken language of Great Britain. However, it originates from the United States where the African Americans are an ethnic group and the country's leader is known as the President.</lex>
-      <lex comment="good" lid="Id2">The African Americans are an ethnic group in the United States, a country led by the President. It is the origin of A Wizard of Mars which is published in English, as spoken in Great Britain.</lex>
-      <lex comment="good" lid="Id3">A Wizard of Mars was published in English (language of Great Britain) in the United States, where the leader is called a "president" and part of the population is African American.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id75" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -721,24 +482,6 @@
       <lex comment="good" lid="Id2">A Severed Wasp is from the United States, the country where Barack Obama is the leader and the African Americans are an ethnic group. English is the language of the United States and also of Great Britain.</lex>
       <lex comment="good" lid="Id3">A Severed Wasp is from the United States, the leader of this country is Barack Obama and one of the ethnic groups is African American. They speak English, same as in Great Britain.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id87" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>United_States | leader | Barack_Obama</otriple>
-        <otriple>United_States | demonym | Americans</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | leader | Barack_Obama</mtriple>
-        <mtriple>United_States | demonym | Americans</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1634 The Ram Rebellion comes from the United States, where Barack Obama is the President, and its capital city is Washington D.C. Americans inhabit the U.S., with a sub-group being the Asian Americans.</lex>
-      <lex comment="good" lid="Id2">Americans inhabit the U.S whose capital is Washington D.C. and whose leader is Barack Obama. One of the US ethnicities are Asian Americans, and the book "1634: The Ram Rebellion" also comes from that country.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id89" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
@@ -756,25 +499,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">English is spoken in Great Britain and is the language used in A Wizard of Mars. However, the book was published in the United States where the leader is the President and is home to many Asian Americans.</lex>
       <lex comment="good" lid="Id2">A Wizard of Mars was published in the United States and written in English which is also spoken in Great Britain. The United States has the ethnic group Asian Americans and the leader is known as the President.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id92" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
-        <otriple>United_States | demonym | Americans</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
-        <mtriple>United_States | demonym | Americans</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The African Americans are an ethnic group in the United States where the population is known as Americans. 1634 The Ram Rebellion was written in the country which has Washington DC as its capital city and is led by the President.</lex>
-      <lex comment="good" lid="Id2">1634 The Ram Rebellion is a novel from the United States, where the population are called Americans and the leader is called a "president." The capital is Washington D.C. and African Americans are one ethnic group there.</lex>
-      <lex comment="good" lid="Id3">1634 The Ram Rebellion is a novel from the United States. The leader of the country is known as a "President" and people are called "Americans." The capital is Washington D.C. and one ethnic group there are African Americans.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id94" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

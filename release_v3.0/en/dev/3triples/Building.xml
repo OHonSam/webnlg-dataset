@@ -44,26 +44,6 @@
       <lex comment="good" lid="Id1">250 Delaware Avenue is located in Buffalo, Erie County, New York.</lex>
       <lex comment="good" lid="Id2">250 Delaware avenue is in Buffalo, Erie County, New York.</lex>
     </entry>
-    <entry category="Building" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>3Arena | location | Dublin</otriple>
-        <otriple>3Arena | architect | Populous_(company)</otriple>
-        <otriple>3Arena | buildingEndDate | "December 2008"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>3Arena | location | Dublin</otriple>
-        <otriple>3Arena | architect | Populous_(company)</otriple>
-        <otriple>3Arena | completionDate | "December 2008"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>3Arena | location | Dublin</mtriple>
-        <mtriple>3Arena | architect | Populous_(company)</mtriple>
-        <mtriple>3Arena | completionDate | "December 2008"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Populous was the architect of 3Arena in Dublin which was completed in December 2008.</lex>
-      <lex comment="good" lid="Id2">The company Populous were the architects who designed the 3Arena in Dublin which was completed in December 2008.</lex>
-      <lex comment="good" lid="Id3">The 3Arena in Dublin was designed by architects from the Populous company and completed in December 2008.</lex>
-    </entry>
     <entry category="Building" eid="Id10" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>AC_Hotel_Bella_Sky_Copenhagen | location | Denmark</otriple>
@@ -108,21 +88,6 @@
       <lex comment="good" lid="Id2">The Government of Addis Ababa is the current tenants of the Addis Ababa city hall, which has a floor area of 140000.0 square metres. It is 42 m high.</lex>
       <lex comment="good" lid="Id3">Addis Ababa City Hall, which houses the Government of Addis Ababa, is 42 m high and has a floor area of 140000.0 square metres.</lex>
     </entry>
-    <entry category="Building" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
-        <otriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</otriple>
-        <otriple>Adisham_Hall | buildingEndDate | "1931"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adisham_Hall | location | Sri_Lanka</mtriple>
-        <mtriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</mtriple>
-        <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Adisham hall, which is located in Sri Lanka, was completed in 1931 and architectural style is Tudor Revival.</lex>
-      <lex comment="good" lid="Id2">Adisham Hall, completed in 1931 and located in Sri Lanka, is in the Tudor Revival architecture style.</lex>
-      <lex comment="good" lid="Id3">Adisham Hall, with its Tudor Revival style of architecture, was built in 1931 in Sri Lanka.</lex>
-    </entry>
     <entry category="Building" eid="Id15" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
@@ -155,20 +120,6 @@
       <lex comment="good" lid="Id1">The Mason School of Business in the US are the current tenants of Alan B Miller Hall in Virginia.</lex>
       <lex comment="good" lid="Id2">Alan B Miller Hall is in Virginia, U.S. and houses The Mason School of Business .</lex>
     </entry>
-    <entry category="Building" eid="Id21" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
-        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
-        <otriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ampara_Hospital | country | Sri_Lanka</mtriple>
-        <mtriple>Sri_Lanka | leader | Ranil_Wickremesinghe</mtriple>
-        <mtriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ampara Hospital is in Eastern Province, Sri Lanka. Ranil Wickremesinghe is a leader there.</lex>
-      <lex comment="good" lid="Id2">Sri Lanka, led by Ranil Wickremesinghe, is home to Ampara Hospital in the Eastern Province state.</lex>
-    </entry>
     <entry category="Building" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
@@ -184,24 +135,5 @@
       <lex comment="good" lid="Id2">The Asilomar Conference Grounds of Pacific Grove in California was added to the National Register of Historic Places on 27th of February in 1987, where the reference number for the National register was 87000823.</lex>
       <lex comment="good" lid="Id3">Asilomar Conference Grounds, Pacific Grove, California, was added to the National Register of Historic Places on February the 27nd 1987 with a reference number of 87000823.</lex>
     </entry>
-    <entry category="Building" eid="Id26" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>India | leader | T._S._Thakur</otriple>
-        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
-        <otriple>India | leaderName | Sumitra_Mahajan</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>India | leaderName | T._S._Thakur</otriple>
-        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
-        <otriple>India | leader | Sumitra_Mahajan</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>India | leader | T._S._Thakur</mtriple>
-        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
-        <mtriple>India | leader | Sumitra_Mahajan</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">T S Thakur and Sumitra Mahajan are leaders in India where Amdavad ni Gufa is located.</lex>
-      <lex comment="good" lid="Id2">Amdavad ni Gufa is located in India where T S Thakur and Sumitra Mahajan are leaders.</lex>
-    </entry>
-  </entries>
+    </entries>
 </benchmark>

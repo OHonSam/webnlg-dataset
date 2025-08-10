@@ -47,23 +47,6 @@
       <lex comment="good" lid="Id2">Construction of the 12 floor Postmodern style building, 250 Delaware Avenue, which has a floor area of 30843.8 square metres began in January 2014.</lex>
       <lex comment="good" lid="Id3">First begun to be built in January 2014, the postmodernist art 250 Delaware Avenue has 12 floors and a total floor area of 30843.8 square metres.</lex>
     </entry>
-    <entry category="Building" eid="Id5" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>300_North_LaSalle | location | Chicago</otriple>
-        <otriple>Chicago | isPartOf | DuPage_County,_Illinois</otriple>
-        <otriple>Chicago | country | United_States</otriple>
-        <otriple>Chicago | leaderName | Susana_Mendoza</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>300_North_LaSalle | location | Chicago</mtriple>
-        <mtriple>Chicago | isPartOf | DuPage_County,_Illinois</mtriple>
-        <mtriple>Chicago | country | United_States</mtriple>
-        <mtriple>Chicago | leader | Susana_Mendoza</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">300 North LaSalle is located in Chicago, DuPage County, Illinois, United States where the leader is Susana Mendoza.</lex>
-      <lex comment="good" lid="Id2">300 North Lasalle is located in Chicago, DuPage County, Illinois, U.S. The leader or Chicago is Susana Mendoza.</lex>
-      <lex comment="good" lid="Id3">300 North LaSalle is situated in Chicago which is part of the Dupage County in Illinois located in the U.S. Susana Mendoza is currently the leader of Chicago.</lex>
-    </entry>
     <entry category="Building" eid="Id6" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>3Arena | owner | Live_Nation_Entertainment</otriple>
@@ -80,23 +63,6 @@
       <lex comment="good" lid="Id1">3 Arena is located in Dublin, the Republic of Ireland, where Críona Ní Dhálaigh was Lord Mayor. The owner of 3Arena is Live Nation Entertainment.</lex>
       <lex comment="good" lid="Id2">The Lord Mayor of Dublin (Republic of Ireland) is Criona Ni Dhalaigh. Based in Dublin is 3Arena which is owned by Live Nation Entertainment.</lex>
       <lex comment="good" lid="Id3">The 3Arena, Dublin, Republic of Ireland is owned by Live Nation Entertainment. Críona Ní Dhálaigh was Lord Mayor of Dublin.</lex>
-    </entry>
-    <entry category="Building" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</otriple>
-        <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
-        <otriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</otriple>
-        <otriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | "23"^^xsd:positiveInteger</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</mtriple>
-        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
-        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</mtriple>
-        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International. The hotel has 23 floors, was designed by the company 3XN and is owned by the Bella Center.</lex>
-      <lex comment="good" lid="Id2">3XN was the architect of the AC Hotel Bella Sky Copenhagen which has 23 floors and is owned by the Bella Center and currently tenanted by Marriott International.</lex>
-      <lex comment="good" lid="Id3">Bella Center owns AC Hotel Bella Sky Copenhagen and Marriott International is a tenant. The hotel has 23 floors and was designed by 3XN.</lex>
     </entry>
     <entry category="Building" eid="Id13" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
       <originaltripleset>
@@ -171,23 +137,6 @@
       <lex comment="good" lid="Id1">The address for Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, Gujarat, Ahmedabad, India.</lex>
       <lex comment="good" lid="Id2">The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, Ahmedabad, Gujarat, India.</lex>
     </entry>
-    <entry category="Building" eid="Id19" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
-        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
-        <otriple>Sri_Lanka | currency | Sri_Lankan_rupee</otriple>
-        <otriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ampara_Hospital | country | Sri_Lanka</mtriple>
-        <mtriple>Sri_Lanka | leader | Ranil_Wickremesinghe</mtriple>
-        <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
-        <mtriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ampara Hospital is located in the Eastern Province of Sri Lanka, where the currency is the Sri Lankan rupee. One of the leaders of Sri Lanka is Ranil Wickremesinghe.</lex>
-      <lex comment="good" lid="Id2">Ampara Hospital is located in Eastern Province, Sri Lanka. The currency of Sri Lanka is the Sri Lankan rupee and the leader of the country is Ranil Wickremesinghe.</lex>
-      <lex comment="good" lid="Id3">Ampara Hospital is in the Eastern Province, Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe and its currency is the Sri Lankan rupee.</lex>
-    </entry>
     <entry category="Building" eid="Id22" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
@@ -204,29 +153,6 @@
       <lex comment="good" lid="Id1">Asser Levy Public Baths are in New York City, U.S. which is part of Manhattan. New York City was part of New Netherland.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths are located in New York City, Manhattan, New Netherland in the United States.</lex>
       <lex comment="good" lid="Id3">Asser Levy Public Baths is located in New York City, on Manhattan Island, New York, in the United States. New York City was part of what was New Netherland.</lex>
-    </entry>
-    <entry category="Building" eid="Id24" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
-        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
-        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
-        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
-        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
-        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
-        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
-        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
-        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
-        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addis Ababa, Ethiopia is home to Addis Ababa Stadium and the Addis Ababa City Hall. The name of the leader in Ethiopia is Mulatu Teshome.</lex>
-      <lex comment="good" lid="Id2">Mulatu Teshome is a leader in Ethiopia, a country where Addis Ababa is located and within which is Addis Ababa City Hall and Addis Ababa Stadium.</lex>
-      <lex comment="good" lid="Id3">Mulatu Teshome is an Ethiopian leader. Addis Ababa City Hall is located in Addis Ababa, Ethiopia. Addis Ababa Stadium is part of Addid Ababa.</lex>
     </entry>
     </entries>
 </benchmark>

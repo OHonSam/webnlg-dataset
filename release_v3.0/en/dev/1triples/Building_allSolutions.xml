@@ -67,16 +67,6 @@
       <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places on "1988-11-22".</lex>
       <lex comment="good" lid="Id2">The Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places, on 22nd November 1988.</lex>
     </entry>
-    <entry category="Building" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Birmingham | postalCode | B_postcode_area</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Birmingham | postalCode | B_postcode_area</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Birmingham has the postcode area 'B'.</lex>
-      <lex comment="good" lid="Id2">The B postcode area is the postal code of Birmingham.</lex>
-    </entry>
     <entry category="Building" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Dublin | country | Republic_of_Ireland</otriple>
@@ -85,19 +75,6 @@
         <mtriple>Dublin | country | Republic_of_Ireland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dublin is in the Republic of Ireland.</lex>
-    </entry>
-    <entry category="Building" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>India | leader | Sumitra_Mahajan</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>India | leaderName | Sumitra_Mahajan</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>India | leader | Sumitra_Mahajan</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Sumitra Mahajan is an Indian leader.</lex>
-      <lex comment="good" lid="Id2">The name of the leader in India is Sumitra Mahajan.</lex>
     </entry>
     <entry category="Building" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -121,16 +98,6 @@
       <lex comment="good" lid="Id1">Bill Marriott is the key person at Marriott International.</lex>
       <lex comment="good" lid="Id2">One of the key people in Marriott International is Bill Marriott.</lex>
     </entry>
-    <entry category="Building" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>South_Africa | capital | Cape_Town</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>South_Africa | capital | Cape_Town</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cape Town is the capital of South Africa.</lex>
-      <lex comment="good" lid="Id2">The capital of South Africa is Cape Town.</lex>
-    </entry>
     <entry category="Building" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>United_Kingdom | capital | London</otriple>
@@ -140,15 +107,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The capital of the United Kingdom is London.</lex>
       <lex comment="good" lid="Id2">London is the capital of the United Kingdom.</lex>
-    </entry>
-    <entry category="Building" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Native Americans are an ethnic group in the United States.</lex>
     </entry>
     </entries>
 </benchmark>

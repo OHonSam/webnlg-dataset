@@ -1,18 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="University" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | latinName | "Universitas Apulensis"@en</otriple>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1_Decembrie_1918_University | latinName | "Universitas Apulensis"</mtriple>
-        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 1 Decembrie 1918 University of Romania has the latin name Universitas Apulensis.</lex>
-      <lex comment="good" lid="Id2">1 Decembrie 1918 University 's latin name is Universitas Apulensis and is located in Romania.</lex>
-    </entry>
     <entry category="University" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>1_Decembrie_1918_University,_Alba_Iulia | state | Alba</otriple>
@@ -24,19 +12,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is situated in the state of Alba, Romania.</lex>
       <lex comment="good" lid="Id2">1 Decembrie 1918 University is in the state of Alba, Romania.</lex>
-    </entry>
-    <entry category="University" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>AWH_Engineering_College | country | India</otriple>
-        <otriple>AWH_Engineering_College | state | Kerala</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AWH_Engineering_College | country | India</mtriple>
-        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AWH Engineering College is located in the state of Kerala, India.</lex>
-      <lex comment="good" lid="Id2">AWH Engineering College is in the State of Kerala in India.</lex>
-      <lex comment="good" lid="Id3">AWH Engineering College is situated in the state of Kerala, India.</lex>
     </entry>
     <entry category="University" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -64,19 +39,6 @@
       <lex comment="good" lid="Id2">The Dean of Accademia di Architettura di Mendrisio is Mario Botta and the school has an academic staff size of 100 people.</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio has an academic staff of 100 and the dean is called Mario Botta.</lex>
     </entry>
-    <entry category="University" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The number of students at the Accademia di Architettura di Mendrisio which was established in 1996, is 600.</lex>
-      <lex comment="good" lid="Id2">Accademia di Architettura di Mendrisio, which has 600 students, was established in 1996.</lex>
-      <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio was established in 1996 and has 600 students.</lex>
-    </entry>
     <entry category="University" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
@@ -89,19 +51,6 @@
       <lex comment="good" lid="Id1">The Acharya Institute of Technology in India is affiliated with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id2">Acharya Institute of Technology in India is affiliated with Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id3">Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in India.</lex>
-    </entry>
-    <entry category="University" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | undergrad | "~10000"@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | numberOfUndergraduateStudents | 10000</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acharya Institute of Technology of India has 10000 Undergraduate students.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology in India has 10000 undergraduate students.</lex>
-      <lex comment="good" lid="Id3">Acharya Institute of Technology in India has 10000 Undergraduate students.</lex>
     </entry>
     <entry category="University" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -143,18 +92,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is located in Romania where the capital is Bucharest.</lex>
       <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is located in the country of Romania, whose capital is Bucharest.</lex>
-    </entry>
-    <entry category="University" eid="Id28" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Romania | patronSaint | Andrew_the_Apostle</otriple>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Romania | patronSaint | Andrew_the_Apostle</mtriple>
-        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is in the country of Romania who has the patron saint Andrew the Apostle.</lex>
-      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is located in Romania. The country's patron saint is Andrew the Apostle.</lex>
     </entry>
     <entry category="University" eid="Id32" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -207,23 +144,6 @@
       <lex comment="good" lid="Id1">Thomas Pallesen is dean of the School of Business and Social Sciences at the Aarhus University where there is an academic staff of 737.</lex>
       <lex comment="good" lid="Id2">The School of Business and Social Sciences at Aarhus University, which has an academic staff size of 737, has Thomas Pallesen as its Dean.</lex>
       <lex comment="good" lid="Id3">School of Business and Social Sciences at the Aarhus University has an academic staff size of 737 and the dean is Thomas Pallesen.</lex>
-    </entry>
-    <entry category="University" eid="Id37" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | "Universitas Aarhusiensis"@en</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | "Universitas Aarhusiensis"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | latinName | "Universitas Aarhusiensis"</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Universitas Aarhusiensis is the latin name of the School of Business and Social Sciences at the Aarhus University which is affiliated to the European University Association.</lex>
-      <lex comment="good" lid="Id2">The Latin name for the School of Business and Social Sciences at Aarhus University, which is affiliated with the European University Association, is "Universitas Aarhusiensis".</lex>
-      <lex comment="good" lid="Id3">School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association and its called Universitas Aarhusiensis in latin.</lex>
     </entry>
     </entries>
 </benchmark>

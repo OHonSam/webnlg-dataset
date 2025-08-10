@@ -1,20 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="WrittenWork" eid="Id2" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
-        <otriple>1634:_The_Bavarian_Crisis | previousWork | 1634:_The_Baltic_War</otriple>
-        <otriple>Eric_Flint | birthPlace | Burbank,_California</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
-        <mtriple>1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Baltic_War</mtriple>
-        <mtriple>Eric_Flint | birthPlace | Burbank,_California</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Born in Burbank, California, Eric Flint wrote 1634: The Bavarian Crisis which was preceded by 1634: The Baltic War.</lex>
-      <lex comment="good" lid="Id2">1634: The Bavarian Crisis and its predecessor, 1634: The Baltic War, was written by Eric Flint who was born in Burbank California.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
@@ -75,20 +61,6 @@
       <lex comment="good" lid="Id2">A Glastonbury Romance is available in hardcover and has the OCLC number of 76798317. and the ISBN number of 0-7156-3648-0.</lex>
       <lex comment="good" lid="Id3">A Glastonbury Romance is available in hardcover and has the OCLC number 76798317 and the ISBN number 0-7156-3648-0.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>A_Long_Long_Way | language | English_language</otriple>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Long_Long_Way | language | English_language</mtriple>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Long Long Way (followed by the book The Secret Scripture) is written in the English language, which is spoken in Great Britain.</lex>
-      <lex comment="good" lid="Id2">Followed by The Secret Scripture, the book A Long Long Way is written in English, the language spoken in Great Britain.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id14" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
         <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
@@ -102,26 +74,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Loyal Character Dancer was published by Soho Press in the United States where Barack Obama is the leader.</lex>
       <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press in the United States where Barack Obama is the president.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id17" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>A_Wizard_of_Mars | mediaType | Hardcover</otriple>
-        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
-        <otriple>A_Wizard_of_Mars | oclc | 318875313</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>A_Wizard_of_Mars | mediaType | Hardcover</otriple>
-        <otriple>A_Wizard_of_Mars | oclc | "318875313"</otriple>
-        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Wizard_of_Mars | mediaType | Hardcover</mtriple>
-        <mtriple>A_Wizard_of_Mars | oclcNumber | 318875313</mtriple>
-        <mtriple>A_Wizard_of_Mars | author | Diane_Duane</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Diane Duane wrote A Wizard of Mars which was published in hardback and has the OCLC number 318875313.</lex>
-      <lex comment="good" lid="Id2">A Wizard of Mars was written by Diane Duane and is published in Hardcover. The OCLC number of A Wizard of Mars is 318875313.</lex>
-      <lex comment="good" lid="Id3">A Wizard of Mars, written by Diane Duane, has an OCLC number of 318875313 and is published in hardcover.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id19" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -173,20 +125,6 @@
       <lex comment="good" lid="Id2">Acta Mathematica Hungarica (abbreviated to Acta Math. Hungar.) has the LCCN number 83646315 and ISSN number 1588-2632.</lex>
       <lex comment="good" lid="Id3">Acta Mathematica Hungarica, abbreviated to Acta Math. Hungar., has LCCN No. 83646315 and ISSN No. 1588-2632.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Acta_Palaeontologica_Polonica | issn | "1732-2421"</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | lccn | "60040714"</otriple>
-        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acta_Palaeontologica_Polonica | issnNumber | "1732-2421"</mtriple>
-        <mtriple>Acta_Palaeontologica_Polonica | LCCN_number | 60040714</mtriple>
-        <mtriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acta Palaeontologica Polonica has the ISSN number 1732-2421 and an LCCN number of 60040714. The abbreviated name is Acta Palaeontol. Pol.</lex>
-      <lex comment="good" lid="Id2">Acta Palaeontologica Polonica (abbreviated to Acta Palaeontol. Pol) has the ISSN number 1732-2421 and the LCCN number 60040714.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id25" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Aenir | author | Garth_Nix</otriple>
@@ -201,26 +139,6 @@
       <lex comment="good" lid="Id1">Aenir has the ISBN number of "0-439-17684-0", it was written by Garth Nix and was produced in print.</lex>
       <lex comment="good" lid="Id2">Garth Nix is the author of Aenir. It appeared in print and can be found by ISBN number 0-439-17684-0.</lex>
       <lex comment="good" lid="Id3">Aenir was written by Garth Nix and has an ISBN number of 0-439-17684-0. The book is in the print form.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id28" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>SAGE_Publications | founder | Sara_Miller_McCune</otriple>
-        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."@en</otriple>
-        <otriple>Administrative_Science_Quarterly | publisher | SAGE_Publications</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>SAGE_Publications | founder | Sara_Miller_McCune</otriple>
-        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</otriple>
-        <otriple>Administrative_Science_Quarterly | publisher | SAGE_Publications</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>SAGE_Publications | founder | Sara_Miller_McCune</mtriple>
-        <mtriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</mtriple>
-        <mtriple>Administrative_Science_Quarterly | publisher | SAGE_Publications</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Administrative Science Quarterly (Admin. Sci. Q.) is published by SAGE Publications which was founded by Sara Miller McCune.</lex>
-      <lex comment="good" lid="Id2">Administrative Science Quarterly (Admin. Sci. Q.) is published by SAGE Publications whose founder is Sara Miller McCune.</lex>
-      <lex comment="good" lid="Id3">Sara Miller McCune is the founder of SAGE publications which publishes the Administrative Science Quarterly. The abbreviation for the Administrative Science Quarterly is Admin. Sci. Q.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id29" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

@@ -72,25 +72,6 @@
       <lex comment="good" lid="Id2">Costa Crociere is the owner of the AIDAstella, which is 253260.0 millimetres in length. The AIDAstella was built by Meyer Werft and is operated by AIDA Cruises located in Germany.</lex>
       <lex comment="good" lid="Id3">The AIDAstella, built by Meyer Werft, is owned by Costa Crociere and operated by AIDA Cruises (Germany); it is 253260.0 millimetres long.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id10" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>AIDA_Cruises | location | Germany</otriple>
-        <otriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</otriple>
-        <otriple>Caterpillar_Inc. | foundationPlace | United_States</otriple>
-        <otriple>AIDAluna | shipOwner | AIDA_Cruises</otriple>
-        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDA_Cruises | location | Germany</mtriple>
-        <mtriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</mtriple>
-        <mtriple>Caterpillar_Inc. | foundationPlace | United_States</mtriple>
-        <mtriple>AIDAluna | owner | AIDA_Cruises</mtriple>
-        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Douglas R. Oberhelman is a key person at Caterpillar Inc. who provide the engine power for the AIDAluna which is owned by the German based AIDA Cruises. Caterpillar Inc. was founded in the United States.</lex>
-      <lex comment="good" lid="Id2">Douglas R Oberhelman is a key person at Caterpillar Inc. which was founded in the US. The company provides the engine power for the AIDAluna which is owned by the German based company AIDA Cruises.</lex>
-      <lex comment="good" lid="Id3">AIDAluna, owned by the German company AIDA Cruises, has a Caterpillar Inc. engine. Caterpillar Inc., founded in the United States, includes key figure, Douglas R Oberhelman.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id13" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>AIDAluna | shipOwner | AIDA_Cruises</otriple>
@@ -135,24 +116,6 @@
       <lex comment="good" lid="Id1">AIDA Cruise Line operated AIDAstella, owned by Costa Crociere is 253260mm in length and build by Meyer Werft from Germany.</lex>
       <lex comment="good" lid="Id2">The AIDAstella is operated by AIDA Cruise Line and owned by Costa Crociere; it was built by Meyer Werft (Germany) and is 253260.0 millimetres long.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id17" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>AIDAstella | shipOperator | AIDA_Cruises</otriple>
-        <otriple>AIDAstella | shipBeam | "32.2"^^xsd:double</otriple>
-        <otriple>AIDAstella | status | "In service"</otriple>
-        <otriple>AIDAstella | builder | Meyer_Werft</otriple>
-        <otriple>AIDAstella | MeanOfTransportation/length | "253260.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDAstella | operator | AIDA_Cruises</mtriple>
-        <mtriple>AIDAstella | shipBeam | 32.2</mtriple>
-        <mtriple>AIDAstella | status | "In service"</mtriple>
-        <mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
-        <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDAstella, built by Meyer Werft, is currently in service and has a 32.2 m. beam and is 253260.0 millimetres long. AIDA Cruises operates this vessel.</lex>
-      <lex comment="good" lid="Id2">The AIDAstella is currently in service and is operated by AIDA Cruise Line; it was built by Meyer Werft, is 253260.0 millimetres in length and has a beam of 32.2 m.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id20" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>ALCO_RS-3 | builder | American_Locomotive_Company</otriple>
@@ -172,25 +135,6 @@
       <lex comment="good" lid="Id2">The ALCO RS-3, built by the American Locomotive Company, has a cylinder count of 12, a V12 engine, a diesel-electric transmission, and is 17068.8 millimetres in length.</lex>
       <lex comment="good" lid="Id3">The American Locomotive Company built the ALCO RS-3, which has 12 cylinders, a V12 engine, a diesel-electric transmission and is 17068.8 millimetres long.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id22" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>ALCO_RS-3 | builder | American_Locomotive_Company</otriple>
-        <otriple>ALCO_RS-3 | MeanOfTransportation/length | "17068.8"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
-        <otriple>ALCO_RS-3 | builddate | "May 1950 &amp;ndash; August 1956"@en</otriple>
-        <otriple>ALCO_RS-3 | enginetype | Four-stroke_engine</otriple>
-        <otriple>ALCO_RS-3 | powertype | Diesel-electric_transmission</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>ALCO_RS-3 | builder | American_Locomotive_Company</mtriple>
-        <mtriple>ALCO_RS-3 | length | 17068.8 (millimetres)</mtriple>
-        <mtriple>ALCO_RS-3 | buildDate | "May 1950 - August 1956"</mtriple>
-        <mtriple>ALCO_RS-3 | engine | Four-stroke_engine</mtriple>
-        <mtriple>ALCO_RS-3 | powerType | Diesel-electric_transmission</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Built by the American Locomotive Company, the ALCO RS-3 was produced between May 1950 and August 1956. The ALCO RS-3; has a diesel-electric transmission, a four-stroke engine and is 17068.8 millimetres long.</lex>
-      <lex comment="good" lid="Id2">The builder of the ALCO RS-3 is the American Locomotive Company and it was produced between May 1950 and August 1956. The length of ALCO RS-3 is 17068.8 millimetres, it has a four-stroke engine and a diesel-electric transmission.</lex>
-      <lex comment="good" lid="Id3">The American Locomotive Company built the ALCO RS-3 and it was produced between May 1950 and August 1956. The length of ALCO RS-3 is 17068.8 millimetres, it has a four-stroke engine and a diesel-electric transmission.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id25" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>ALCO_RS-3 | cylindercount | 12</otriple>
@@ -208,25 +152,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ALCO RS-3, built by Montreal Locomotive Works, is a diesel powered V12 engine, has 12 cylinders and is 17068.8 (millimetres) in length.</lex>
       <lex comment="good" lid="Id2">The ALCO RS-3 is built by the Montreal Locomotive Works. It has 12 cylinders, a V12 engine, a diesel-electric transmission and has a total length of 17068.8 mms.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id28" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>ALV_X-1 | countryOrigin | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-        <otriple>United_States | demonym | Americans</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>United_States | anthem | The_Star-Spangled_Banner</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>ALV_X-1 | countryOrigin | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-        <mtriple>United_States | demonym | Americans</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>United_States | anthem | The_Star-Spangled_Banner</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States is home to Americans and African Americans, it has a capital of Washington D.C. and the national anthem is The Star Spangled Banner. The ALV X-1 hails from the US.</lex>
-      <lex comment="good" lid="Id2">ALV X-1 originated in the United States, where the people are called Americans and the capital is Washington, D.C. The national anthem of the United States is the Star Spangled Banner and African Americans are among the ethnic groups.</lex>
-      <lex comment="good" lid="Id3">United States has its capital at Washington D.C and the national anthem is The Star Spangled Banner. It is home to Americans, African Americans and the ALV X-1.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id31" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -298,25 +223,6 @@
       <lex comment="good" lid="Id1">Finland in Helsinki is the manufacturer of the Aleksey Chirikov icebreaker which is Wärtsilä powered. The icebreaker is 99.83 m long and has a ship beam of 21.2 m.</lex>
       <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov was built in Helsinki, Finland and its powertype is Wartsila. It is 99.83 metres in length and has a ship beam of 21.2.</lex>
       <lex comment="good" lid="Id3">The icebreaker, Aleksey Chirikov, powered by Wärtsilä, was built in Helsinki, Finland. It has a length of 99.83 and a 21.2m ship beam.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id36" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</otriple>
-        <otriple>Aleksey_Chirikov_(icebreaker) | length | "99.83"^^xsd:double</otriple>
-        <otriple>Aleksey_Chirikov_(icebreaker) | shipBeam | "21.2"^^xsd:double</otriple>
-        <otriple>Aleksey_Chirikov_(icebreaker) | powerType | Wärtsilä</otriple>
-        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Arctech_Helsinki_Shipyard</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</mtriple>
-        <mtriple>Aleksey_Chirikov_(icebreaker) | length | 99.83</mtriple>
-        <mtriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</mtriple>
-        <mtriple>Aleksey_Chirikov_(icebreaker) | powerType | Wärtsilä</mtriple>
-        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arctech Helsinki Shipyard in Finland built the icebreaker, Aleksey Chirikov. The powertype of the Aleksey Chirikow icebreaker is Wärtsilä and it has a length of 99.83 metres and a 21.2 m long ship beam.</lex>
-      <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov, which has a Wartsila power type, was built at the Arctech Helsinki shipyard in Finland. It is 99.83 metres long and has a 21.2 m ship beam.</lex>
-      <lex comment="good" lid="Id3">The icebreaker, Aleksey Chirikov, was built at the Arctech Helsinki Shipyard in Finland. It is powered by a Wartsila, has a 21.2m ship beam and is 99.83 long.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id38" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -455,32 +361,6 @@
       <lex comment="good" lid="Id2">The Samuda Brothers built the Alhambra which is 63800.0 millimetres long and owned by P&amp;O. It is powered by an engine from the London based firm of Humphrys, Tennant and Dykes.</lex>
       <lex comment="good" lid="Id3">The 63800.0mm long Alhambra, owned by P&amp;O and built by the Samuda Brothers, is powered by the London based Humphrys, Tennant and Dykes.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id49" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
-        <otriple>Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
-        <otriple>Alhambra_(1855) | builder | Samuda_Brothers</otriple>
-        <otriple>Alhambra_(1855) | shipBeam | "8.3"^^xsd:double</otriple>
-        <otriple>Alhambra_(1855) | topSpeed | "18.52"^^xsd:double</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
-        <otriple>Alhambra_(1855) | shipBeam | "8.3 m"@en</otriple>
-        <otriple>Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
-        <otriple>Alhambra_(1855) | builder | Samuda_Brothers</otriple>
-        <otriple>Alhambra_(1855) | topSpeed | "18.52"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alhambra | powerType | Humphrys,_Tennant_and_Dykes</mtriple>
-        <mtriple>Alhambra | shipBeam | 8.3 m</mtriple>
-        <mtriple>Alhambra | length | 63800.0 (millimetres)</mtriple>
-        <mtriple>Alhambra | builder | Samuda_Brothers</mtriple>
-        <mtriple>Alhambra | topSpeed | 18.52</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alhambra, built by the Samuda Brothers, has an 8.3m ship beam and has a length of 63800.0 millimetres. It is powered by a Humphrys, Tennant and Dykes engine, and has a top speed of 18.52.</lex>
-      <lex comment="good" lid="Id2">The Alhambrawas built by the Samuda Brothers and has a Humphrys, Tennant and Dykes power type. The Alhambra had the length of 63800.0 millimetres, a of ship beam is 8.3m. and a top speed of 18.52 km/h.</lex>
-      <lex comment="good" lid="Id3">The Alhambra was built by the Samuda Brothers. It is 63800.0 millimetres long and has an 8.3m ship beam. It has a Humphrys, Tennant and Dykes power type, with a top speed of 18.52.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id51" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
@@ -590,25 +470,6 @@
       <lex comment="good" lid="Id2">The Alvis Speed 25 is a full-size luxury vehicle which entered production in 1937. It features a 127 inch wheelbase, as well as an engine capable of producing 31.48 tax horsepower. Its transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
       <lex comment="good" lid="Id3">The Alvis Speed 25, first manufactured in 1937, has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle". It is a full-size luxury vehicle with a 31.48 tax hp engine and has wheelbases measuring 127 inches.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id59" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Antares_(rocket) | finalFlight | "2014-07-13"^^xsd:date</otriple>
-        <otriple>Antares_(rocket) | maidenFlight | "2014-10-28"^^xsd:date</otriple>
-        <otriple>Antares_(rocket) | manufacturer | Orbital_ATK</otriple>
-        <otriple>Antares_(rocket) | sites | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</otriple>
-        <otriple>Antares_(rocket) | MeanOfTransportation/diameter | "3.9"^^&lt;http://dbpedia.org/datatype/metre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Antares_(rocket) | finalFlight | 2014-07-13</mtriple>
-        <mtriple>Antares_(rocket) | maidenFlight | 2014-10-28</mtriple>
-        <mtriple>Antares_(rocket) | manufacturer | Orbital_ATK</mtriple>
-        <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
-        <mtriple>Antares_(rocket) | diameter | 3.9 (metres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Orbital ATK built the Antares rocket which has a diametre of 3.9 metres and was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0. Its maiden flight was on the 28th October, 2014 and its final flight on July 13th, 2014.</lex>
-      <lex comment="good" lid="Id2">The maiden flight of the Antares rocket was on 28th October 2014 and its final flight on July 13th 2014. Its launch site was the Mid-Atlantic Regional Spaceport Launch Pad 0. It was built by Orbital ATK and has a diameter of 3.9 metres.</lex>
-      <lex comment="good" lid="Id3">The Antares rocket is manufactured by Orbital ATK and is 3.9 metres in diameter. It was launched from he Mid-Atlantic Regional Spaceport Launch Pad 0, making its maiden flight on 28 October 2014 and the final flight on 13 July 2014.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id62" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport</otriple>
@@ -674,24 +535,6 @@
       <lex comment="good" lid="Id2">The Ariane 5 first flight was on March 2, 2004 and its final flight was on the 18th December 2009. It was launched from the Guiana Space Centre. Ariane 5 was manufactured by The Airbus Defence and Space and has a diameter of 5.4 metres.</lex>
       <lex comment="good" lid="Id3">The Airbus Defence and Space made the Ariane 5 which has a diameter of 5.4 metres and launched from the Guiana Space Centre. It took its maiden flight on 2 March 2004 and its final flight on 18 December 2009.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id72" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Ariane_5 | sites | ELA-3</otriple>
-        <otriple>Ariane_5 | finalFlight | "2009-12-18"^^xsd:date</otriple>
-        <otriple>Ariane_5 | maidenFlight | "2002-12-11"^^xsd:date</otriple>
-        <otriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</otriple>
-        <otriple>Ariane_5 | MeanOfTransportation/diameter | "5.4"^^&lt;http://dbpedia.org/datatype/metre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
-        <mtriple>Ariane_5 | finalFlight | 2009-12-18</mtriple>
-        <mtriple>Ariane_5 | maidenFlight | 2002-12-11</mtriple>
-        <mtriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</mtriple>
-        <mtriple>Ariane_5 | diameter | 5.4 (metres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Airbus Defence and Space is the manufacturer of the Ariane 5 which has a diameter of 5.4 metres and was launched from ELA-3 launchpad. Its maiden flight was on the 11th December, 2002 and its final flight was on the 18th December 2009.</lex>
-      <lex comment="good" lid="Id2">The Airbus Defence and Space manufactured the Ariane 5 which has a diameter of 5.4 metres. It launched at ELA-3 making the maiden flight on 11 December 2002 and its final flight on 18 December 2009.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id74" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Ariane_5 | sites | ELA-3</otriple>
@@ -710,32 +553,6 @@
       <lex comment="good" lid="Id1">The Ariane 5 is manufactured by the European Space Agency, and has a diameter of 5.4 metres. It was first launched at the ELA-3 on August 11, 2005, and had its final flight on December 18, 2009.</lex>
       <lex comment="good" lid="Id2">The Ariane 5, made by European Space Agency, was launched on August 11, 2005 from ELA-3 spaceport. It is 5.4 m round and made its final voyage on Dec. 18, 2009.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was manufactured by the European Space Agency, and had a diameter of 5.4 metres. It was launched at the ELA-3 and had its maiden flight on August 11th 2005 and its final flight was on the 18th December 2009.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id76" shape="(X (X (X (X)) (X (X))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Arianespace | locationCity | Courcouronnes</otriple>
-        <otriple>Guiana_Space_Centre | headquarters | Kourou,_French_Guiana</otriple>
-        <otriple>ELA-3 | site | Guiana_Space_Centre</otriple>
-        <otriple>Ariane_5 | sites | ELA-3</otriple>
-        <otriple>ELA-3 | operator | Arianespace</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Arianespace | locationCity | Courcouronnes</otriple>
-        <otriple>Guiana_Space_Centre | headquarter | Kourou,_French_Guiana</otriple>
-        <otriple>ELA-3 | site | Guiana_Space_Centre</otriple>
-        <otriple>Ariane_5 | sites | ELA-3</otriple>
-        <otriple>ELA-3 | operator | Arianespace</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Arianespace | city | Courcouronnes</mtriple>
-        <mtriple>Guiana_Space_Centre | headquarter | Kourou,_French_Guiana</mtriple>
-        <mtriple>ELA-3 | site | Guiana_Space_Centre</mtriple>
-        <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
-        <mtriple>ELA-3 | operator | Arianespace</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ELA-3 is located at the Guiana Space Centre which was the launch site of the Ariane 5. Arianespace is in Courcouronnes and the HQ of the Guiana Space Centre is in Kourou, French Guiana.</lex>
-      <lex comment="good" lid="Id2">The Guiana Space Centre's headquarters are located in Kourou, French Guiana, it is the site of the ELA-3 launchpad, operated by Arianespace, located in Courcouronnes. It is the launch site of the Ariane 5.</lex>
-      <lex comment="good" lid="Id3">Arianespace is located in Courcouronnes and operates the ELA-3, which is the launch site of Ariane 5 at the Guiana Space Centre in Kourou, French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id80" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -793,32 +610,6 @@
       <lex comment="good" lid="Id2">The Newport Pagnell assembled Aston Martin V8 and the Aston Martin DBS are related means of transport. The engine volume of Aston Martin V8 is 5.3 litres. The Aston Martin Virage succeeded the Aston Martin V8.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8, related to the Aston Martin DBS is assembled at Newport Pagnell and has a 5.3 litre engine. The Aston Martin V8 was made by Aston Martin and was succeeded by the Aston Martin Virage.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id85" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</otriple>
-        <otriple>Aston_Martin_V8 | bodyStyle | Convertible</otriple>
-        <otriple>Aston_Martin_V8 | assembly | "Newport Pagnell, Buckinghamshire, England, United Kingdom"@en</otriple>
-        <otriple>Aston_Martin_V8 | engine | "5.3"^^xsd:double</otriple>
-        <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aston_Martin_V8 | related | Aston_Martin_DBS</otriple>
-        <otriple>Aston_Martin_V8 | bodyStyle | Convertible</otriple>
-        <otriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</otriple>
-        <otriple>Aston_Martin_V8 | assembly | "Newport Pagnell, Buckinghamshire, England, United Kingdom"@en</otriple>
-        <otriple>Aston_Martin_V8 | engine | "5.3"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
-        <mtriple>Aston_Martin_V8 | bodyStyle | Convertible</mtriple>
-        <mtriple>Aston_Martin_V8 | assembly | "Newport Pagnell, Buckinghamshire, England, United Kingdom"</mtriple>
-        <mtriple>Aston_Martin_V8 | engine | 5.3 (litres)</mtriple>
-        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8, the Aston Martin DBS, and the Aston Martin RHAM/1 are related means of transportation. The Aston Martin V8, which was built at Newport Pagnell, Buckinghamshire, England, United Kingdom, is a convertible featuring an engine volume of 5.3 litres.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin V8 convertible holds 5.3 litres and is built in Newport Pagnell, Buckinghamshire, England, United Kingdom. The Aston Martin V8, Aston Martin DBS and the Aston Martin RHAM/1 are all related means of transport.</lex>
-      <lex comment="good" lid="Id3">The convertible Aston Martin V8 has a 5.3 litre engine volume and was assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom. It is a related means of transport to the Aston Martin DBS and the Aston Martin RHAM/1.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id86" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</otriple>
@@ -859,25 +650,6 @@
       <lex comment="good" lid="Id2">The Aston Martin V8 coupe, Aston Martin RHAM/1 and Aston Martin DBS are a related means of transport. The Aston Martin V8 is assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom and the engine is 5.3 litres.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8 is assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom, and has a 5.3 litre engine and a coupe body style. It is a related means of transportation with the Aston Martin DBS and the Aston Martin RHAM/1.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id88" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Aston_Martin_V8 | related | Aston_Martin_DBS</otriple>
-        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
-        <otriple>Aston_Martin_V8 | assembly | United_Kingdom</otriple>
-        <otriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</otriple>
-        <otriple>Aston_Martin_DBS | manufacturer | Aston_Martin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
-        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
-        <mtriple>Aston_Martin_V8 | assembly | United_Kingdom</mtriple>
-        <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
-        <mtriple>Aston_Martin_DBS | manufacturer | Aston_Martin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8 (produced in the U.K.) and the Aston Martin DBS are a related means of transport. Both are made by Aston Martin. The Aston Martin V8 was succeeded by the Aston Martin Virage. Queen Elizabeth II rules the UK.</lex>
-      <lex comment="good" lid="Id2">Aston Martin manufactured the Aston Martin DBS which is a related means of transport to the Aston Martin V8. The latter vehicle was assembled in the United Kingdom, which is led by Queen Elizabeth II and preceded the Aston Martin Virage.</lex>
-      <lex comment="good" lid="Id3">Aston Martin made the Aston Martin DBS which is a related means of transport to the Aston Martin V8. The latter car was later succeeded by the Aston Martin Virage and was assembled in the United Kingdom which is led by Elizabeth II.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id90" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Aston_Martin_Virage | related | Aston_Martin_DBS</otriple>
@@ -897,32 +669,6 @@
       <lex comment="good" lid="Id2">Aston Martin Virage is a related to the Aston Martin DBS which is produced by Aston Martin. The Virage was succeeded by the Aston Martin V8 which is made in Newport Pagnell and has a 5.3 l engine.</lex>
       <lex comment="good" lid="Id3">Aston Martin Virage, which succeeded the Aston Martin V8, and Aston Martin DBS are related types of transportation. The Aston Martin V8 is assembled at Newport Pagnell and has a 5.3 litre engine.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id92" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Atlas_II | countryOrigin | United_States</otriple>
-        <otriple>Atlas_II | diameter | "3.04"^^xsd:double</otriple>
-        <otriple>Atlas_II | finalFlight | "1998-03-16"^^xsd:date</otriple>
-        <otriple>Atlas_II | sites | Vandenberg_Air_Force_Base</otriple>
-        <otriple>Atlas_II | launchSite | Cape_Canaveral_Air_Force_Station</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Atlas_II | countryOrigin | United_States</otriple>
-        <otriple>Atlas_II | finalFlight | "1998-03-16"^^xsd:date</otriple>
-        <otriple>Atlas_II | sites | Vandenberg_Air_Force_Base</otriple>
-        <otriple>Atlas_II | diameter | "3.04 m"@en</otriple>
-        <otriple>Atlas_II | launchSite | Cape_Canaveral_Air_Force_Station</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Atlas_II | countryOrigin | United_States</mtriple>
-        <mtriple>Atlas_II | finalFlight | 1998-03-16</mtriple>
-        <mtriple>Atlas_II | launchSite | Vandenberg_Air_Force_Base</mtriple>
-        <mtriple>Atlas_II | diameter | 3.04 m</mtriple>
-        <mtriple>Atlas_II | launchSite | Cape_Canaveral_Air_Force_Station</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States Atlas II was launched from the Vandenberg Air Force Base and the Cape Canaveral Air Force Station. The Atlas II is 3.04m in diameter, and its final flight was on the 16th of March, 1998.</lex>
-      <lex comment="good" lid="Id2">The Atlas II originates from the United states and measures 3.04m in diameter, it was launched from the Cape Canaveral Air Force Station and Vandnberg Air Force Base. Its final flight was on the 16th March 1998.</lex>
-      <lex comment="good" lid="Id3">The Atlas II was launched at the Vandenberg Air Force Base and Cape Canaveral Air Force Station. It is 3.04m in diameter, had is last flight 03/16/1998 and originated in the United States.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id94" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Atlas_II | countryOrigin | United_States</otriple>
@@ -941,24 +687,6 @@
       <lex comment="good" lid="Id1">The American Atlas II is 3.04 m in diameter and was launched from both the Vandenberg Air Force Base and Cape Canaveral Air Force Station. Atlas II had its final flight on the 31st of August, 2004.</lex>
       <lex comment="good" lid="Id2">The Atlas II hails from the United States and launched from Vandenberg Air Force Base and Cape Canaveral Air Force Station. Atlas II is 3.04m in diameter and had its last flight on Aug. 31, 2004.</lex>
       <lex comment="good" lid="Id3">The Atlas II, with its U.S. origins, was launched from Cape Canaveral Air Force Station and Vandenberg Air Force Base. It has a 3.04m diameter, with its final flight on 8/31/2004.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id97" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Atlas_II | sites | Cape_Canaveral_Air_Force_Station</otriple>
-        <otriple>Atlas_II | countryOrigin | United_States</otriple>
-        <otriple>Atlas_II | finalFlight | "2002-12-05"^^xsd:date</otriple>
-        <otriple>Atlas_II | diameter | "3.04 m"@en</otriple>
-        <otriple>Atlas_II | launchSite | Spaceport_Florida_Launch_Complex_36</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Atlas_II | launchSite | Cape_Canaveral_Air_Force_Station</mtriple>
-        <mtriple>Atlas_II | countryOrigin | United_States</mtriple>
-        <mtriple>Atlas_II | finalFlight | 2002-12-05</mtriple>
-        <mtriple>Atlas_II | diameter | 3.04 m</mtriple>
-        <mtriple>Atlas_II | launchSite | Spaceport_Florida_Launch_Complex_36</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlas II, US born, was launched at Cape Canaveral Air Force Station and the Spaceport Florida Launch Complex 36. It has a diameter of 3.04 m. and its final flight took place Dec. 5, 2002.</lex>
-      <lex comment="good" lid="Id2">The Atlas II originated from the U.S. and is 3.04 metres in diameter. It was launched from Cape Canaveral Air Force Station and the Spaceport Florida Launch Complex 36, making its final flight on 5 December 2002.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id100" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -986,32 +714,6 @@
       <lex comment="good" lid="Id2">Audi was founded by August Horch and owned by Ducati and has subsidiaries, Audi e-tron and the Quattro Gmbh. It is the maker of the Audi A1.</lex>
       <lex comment="good" lid="Id3">Ausi makes the A1. Audi owns Ducati, and was founded by August Horch. Quattro Gmbh and etron are all part of Audi.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id102" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</otriple>
-        <otriple>Caterpillar_Inc. | foundationPlace | California</otriple>
-        <otriple>Caterpillar_Inc. | foundation | United_States</otriple>
-        <otriple>Caterpillar_Inc. | location | Peoria,_Illinois</otriple>
-        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</otriple>
-        <otriple>Caterpillar_Inc. | foundation | California</otriple>
-        <otriple>Caterpillar_Inc. | foundationPlace | United_States</otriple>
-        <otriple>Caterpillar_Inc. | location | Peoria,_Illinois</otriple>
-        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</mtriple>
-        <mtriple>Caterpillar_Inc. | foundationPlace | California</mtriple>
-        <mtriple>Caterpillar_Inc. | foundationPlace | United_States</mtriple>
-        <mtriple>Caterpillar_Inc. | location | Peoria,_Illinois</mtriple>
-        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Caterpillar Inc was founded in California, in the United States. It is in Peoria, Illinois and a key person with the company is, Douglas R. Oberhelman. AIDAluna is powered by Caterpillar Inc.</lex>
-      <lex comment="good" lid="Id2">Caterpillar Inc was founded in California and located in Peoria, Illinois, U.S. Douglas R. Oberhelman is a key person for that company and its engine powers the AIDAluna craft.</lex>
-      <lex comment="good" lid="Id3">Douglas R. Oberhelman is a key person at Caterpillar Inc. which was founded in California, United States. It is currently located at Peoria, Illinois and powers the AIDAluna.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id104" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</otriple>
@@ -1037,32 +739,6 @@
       <lex comment="good" lid="Id1">AIDAluna is owned by AIDA Cruises and powered by Caterpillar Inc. The company, Caterpillar, Inc., where Douglas R. Oberhelman is a key person, was founded in California and is located in the United States.</lex>
       <lex comment="good" lid="Id2">Douglas R Oberhelman is a key person at Caterpillar Inc. which was founded in California and is located in the US. The company powers the AIDAluna which is owned by AIDA Cruises.</lex>
       <lex comment="good" lid="Id3">AIDAluna, owned by AIDA Cruises, is powered by Caterpillar Inc. Caterpillar Inc, with key member Douglas R Oberhelman, was founded in California and located in the United States.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id107" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Caterpillar_Inc. | location | Illinois</otriple>
-        <otriple>Caterpillar_Inc. | foundation | California</otriple>
-        <otriple>Caterpillar_Inc. | foundationPlace | United_States</otriple>
-        <otriple>AIDAluna | shipOwner | AIDA_Cruises</otriple>
-        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Caterpillar_Inc. | location | Illinois</otriple>
-        <otriple>Caterpillar_Inc. | foundationPlace | California</otriple>
-        <otriple>Caterpillar_Inc. | foundation | United_States</otriple>
-        <otriple>AIDAluna | shipOwner | AIDA_Cruises</otriple>
-        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Caterpillar_Inc. | location | Illinois</mtriple>
-        <mtriple>Caterpillar_Inc. | foundationPlace | California</mtriple>
-        <mtriple>Caterpillar_Inc. | foundationPlace | United_States</mtriple>
-        <mtriple>AIDAluna | owner | AIDA_Cruises</mtriple>
-        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AIDAluna, owned by AIDA Cruises, is powered by the Caterpillar Inc. engine. Caterpiller Inc. was founded in California, USA and is currently located in Illinois.</lex>
-      <lex comment="good" lid="Id2">The Caterpillar Inc. Co. was founded in the U.S. in California but is also located in Illinois. The AIDAluna is powered by that company's engine. AIDA Cruises owns the AIDAluna.</lex>
-      <lex comment="good" lid="Id3">AIDAluna, owned by AIDA Cruises, has a Caterpillar Inc. engine. Caterpillar inc., was founded in California and is located in Illinois, United States.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id111" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1116,25 +792,6 @@
       <lex comment="good" lid="Id2">The AIDAstella was built by the German based company Meyer Werft. It is operated by AIDA Cruises and owned by Costa Crociere, a subsidiary of Carnival Corporation &amp; Plc.</lex>
       <lex comment="good" lid="Id3">The AIDAstella was built by Meyer Werft located in Germany. It is operated by the AIDA Cruise Line and owned by Costa Crociere whose parent company is Carnival Corporation &amp; plc.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id115" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Delta_II | launchSite | Vandenberg_Air_Force_Base</otriple>
-        <otriple>Delta_II | sites | Cape_Canaveral_Air_Force_Station</otriple>
-        <otriple>Antares_(rocket) | manufacturer | Orbital_ATK</otriple>
-        <otriple>Antares_(rocket) | comparable | Delta_II</otriple>
-        <otriple>Delta_II | countryOrigin | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Delta_II | launchSite | Vandenberg_Air_Force_Base</mtriple>
-        <mtriple>Delta_II | launchSite | Cape_Canaveral_Air_Force_Station</mtriple>
-        <mtriple>Antares_(rocket) | manufacturer | Orbital_ATK</mtriple>
-        <mtriple>Antares_(rocket) | comparable | Delta_II</mtriple>
-        <mtriple>Delta_II | countryOrigin | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Antares rocket, manufactured by Orbital ATK, is comparable with the Delta II. From the United States, the Delta II was launched from both, Vandenberg Air Force Base and Cape Canaveral Air Force Station.</lex>
-      <lex comment="good" lid="Id2">The Antares rocket, manufactued by Orbital ATK, is comparable to the US Delta II. The Delta II was launched at Cape Canaveral Air Force Station at the Vandenberg Air Force Base.</lex>
-      <lex comment="good" lid="Id3">The Delta II, which originates from the United States, was launched at the Cape Canaveral Air Force Station at the Vandenberg Air Force Base. The rocket Antares, built by Orbital ATK, is comparable to Delta II.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id117" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Delta_II | launchSite | Vandenberg_Air_Force_Base</otriple>
@@ -1153,46 +810,6 @@
       <lex comment="good" lid="Id1">The Delta II, which originates from the United States, and is comparable to the rocket Antares, was launched at the Vandenberg Air Force Base. Both the Minotaur V and the rocket Antares werelaunched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
       <lex comment="good" lid="Id2">The Antares rocket was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0 (associated with the Minotar V rocket) and is similar to the Delta II. The Delta II, launched at the Vandenberg Air Force Base, is from the United States.</lex>
       <lex comment="good" lid="Id3">The Delta II, with its United States origin, was launched at the V and Mid-Atlantic Regional Spaceport Launch Pad 0, the site for the relative, Antares rocket and Minotaur V.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id119" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Finland | leader | Sauli_Niinistö</otriple>
-        <otriple>Finland | demonym | Finns</otriple>
-        <otriple>Finland | leaderName | Juha_Sipilä</otriple>
-        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</otriple>
-        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Arctech_Helsinki_Shipyard</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Finland</otriple>
-        <otriple>Finland | leader | Sauli_Niinistö</otriple>
-        <otriple>Finland | demonym | Finns</otriple>
-        <otriple>Finland | leaderName | Juha_Sipilä</otriple>
-        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Finland</otriple>
-        <otriple>Finland | demonym | Finns</otriple>
-        <otriple>Finland | leader | Juha_Sipilä</otriple>
-        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</otriple>
-        <otriple>Finland | leaderName | Sauli_Niinistö</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Finland | demonym | Finns</otriple>
-        <otriple>Finland | leader | Juha_Sipilä</otriple>
-        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</otriple>
-        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Arctech_Helsinki_Shipyard</otriple>
-        <otriple>Finland | leaderName | Sauli_Niinistö</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Finland | leader | Sauli_Niinistö</mtriple>
-        <mtriple>Finland | demonym | Finns</mtriple>
-        <mtriple>Finland | leader | Juha_Sipilä</mtriple>
-        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</mtriple>
-        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksey Chirikov, built by the Arctech Helsinki Shipyard Finland, is an icebreaker. Finns live in Finland and two of its leaders are called Sauli Niinistö and Juha Sipilä.</lex>
-      <lex comment="good" lid="Id2">The icebreaker, Aleksey Chirikov, was built in Finland at the Arctech Helsinki Shipyard. Finalnd, home to the Finns, is led by Sauli Niinistö and Juha Sipila.</lex>
-      <lex comment="good" lid="Id3">The icebreaker, Aleksey Chirikov, was built at the Arctech Helsinki Shipyard in Finland. Finland and its native Finns are led by Juha Sipilä and Sauli Niinisto.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id120" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1333,25 +950,6 @@
       <lex comment="good" lid="Id2">The Minotaur V, Minotaur IV, and Antares rockets were launched from the Mid-Atlantic Regional Spaceport Launch Pad 0. The Delta II U.S.rocket is like the Antares rocket.</lex>
       <lex comment="good" lid="Id3">The launch site of the Antares rocket, which is similar to the Delta II from the United States, was the Mid-Atlantic Regional Spaceport Launch Pad 0. The Minotaur IV rocket is associated with the Mid-Atlantic Regional Spaceport Launch Pad 0, from where it was launched.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id134" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
-        <otriple>Aston_Martin_V8 | manufacturer | Aston_Martin</otriple>
-        <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
-        <otriple>Aston_Martin_V8 | assembly | United_Kingdom</otriple>
-        <otriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
-        <mtriple>Aston_Martin_V8 | manufacturer | Aston_Martin</mtriple>
-        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
-        <mtriple>Aston_Martin_V8 | assembly | United_Kingdom</mtriple>
-        <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8 was munufatered by Aston Martin in the United Kingdom (whose ruler is Queen Elizabeth II). It is comparable to the Aston Martin RHAM/1 and was succeeded by the Aston Martin Virage.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin made the Aston Martin V8, which is related to the Aston Martin RHAM/1 and was succeeded by the Aston Martin Virage. The Aston Martin V8 is assembled in the United Kingdom, where the ruler is Queen Elizabeth II.</lex>
-      <lex comment="good" lid="Id3">The manufacturer of the Aston Martin V8, which is related to the Aston Martin RHAM/1, is the Aston Martin. The Aston Martin V8 is assembled in the United Kingdom, where Elizabeth II is the leader, and was succeeded by The Aston Martin Virage.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id137" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>United_States | capital | Washington,_D.C.</otriple>
@@ -1370,25 +968,6 @@
       <lex comment="good" lid="Id1">The Atlas II originated from the U.S., where Washington, D.C is the capital and English the language. The leader of the United States is the President of the United States and African Americans are among its ethnic groups.</lex>
       <lex comment="good" lid="Id2">Atlas 11 originated from the United States which has the capital city of Washington DC and uses the English language. The country is led by the President and includes the African Americans among its ethnic groups.</lex>
       <lex comment="good" lid="Id3">The Atlas II originates from the United States where the leader is known as the President and the English language is spoken. The capital of the country is Washington DC and one of the ethnic groups are the African Americans.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id140" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>United_States | demonym | Americans</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>Atlas_II | countryOrigin | United_States</otriple>
-        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
-        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | demonym | Americans</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>Atlas_II | countryOrigin | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
-        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Americans inhabit the U.S. where the Atlas II originates. The leader of the U.S. is the President, its capital is Washington, D. C., and Native Americans are one ethnic group in that country.</lex>
-      <lex comment="good" lid="Id2">The Atlas II is from the United States, where Americans live. The United States has an ethnic group called Native Americans, its capital is Washington D.C. and its leader is titled The President of the United States.</lex>
-      <lex comment="good" lid="Id3">The Atlas ii originates from the US which is led by the President and has the capital city of Washington DC. The country's inhabitants are known as Americans and include the ethnic group of Native Americans.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id141" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1427,25 +1006,6 @@
       <lex comment="good" lid="Id1">The Atlas II is from the United States where The inhabitants are called Americans and the language is English. United States has ethnic groups including African Americans and its leader is entitled The President of the United States.</lex>
       <lex comment="good" lid="Id2">Atlas II originates from the United States where English is spoken and the President is the leader. The country is inhabited by Americans and includes the ethnic group of African Americans.</lex>
       <lex comment="good" lid="Id3">The Atlas II originated from the U.S. where the leader is known as the President. The country uses the English language and its inhabitants, which includes the ethnic group of African Americans, are known as Americans.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id144" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-        <otriple>United_States | demonym | Americans</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>Atlas_II | countryOrigin | United_States</otriple>
-        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-        <mtriple>United_States | demonym | Americans</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>Atlas_II | countryOrigin | United_States</mtriple>
-        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Atlas II originated from the United States, the capital of which, is Washington, D.C. Asian Americans are one of the ethnic groups of the United States, where the inhabitants are called Americans. The leader of the United States has the title President of the United States.</lex>
-      <lex comment="good" lid="Id2">The Atlas II originated from the U.S, where Washington D.C. is the capital and the leader is The President. The people of the United States are called Americans and Asian Americans are one of the ethnic groups.</lex>
-      <lex comment="good" lid="Id3">The Atlas II originates in the United States which is led by a President. The country has the capital of Washington DC and its inhabitants are known as Americans and include the ethnic group of Asian Americans.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id146" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1503,24 +1063,5 @@
       <lex comment="good" lid="Id2">ALV X-1 originated in the United States wher the leader is the President, the capital is Washington D.C. and the Star Spangled Banner is the national anthem. Native Americans are an ethnic group in the U.S.</lex>
       <lex comment="good" lid="Id3">The country of origin of the ALV X-1 is the United States, where the leader is the President and Native Americans are an ethnic group. The capital of the United States is Washington, D.C, and the national anthem is the Star Spangled Banner.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id153" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
-        <otriple>United_States | ethnicGroup | White_Americans</otriple>
-        <otriple>ALV_X-1 | countryOrigin | United_States</otriple>
-        <otriple>United_States | demonym | Americans</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
-        <mtriple>ALV_X-1 | countryOrigin | United_States</mtriple>
-        <mtriple>United_States | demonym | Americans</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ALV X-1 is from the United States, where the leader is, the President of the United States. Washington D.C. is the capital of the United States. the country where the people are called Americans and where White Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2">The ALV X-1 originated in the United States where the inhabitants are known as Americans and include the White Americans among the ethnic groups. The country is led by the President and has the capital of Washington DC.</lex>
-      <lex comment="good" lid="Id3">The President is the leader of the United States. In the U.S. the capital is Washington D.C., the people are called americans.</lex>
-    </entry>
-  </entries>
+    </entries>
 </benchmark>

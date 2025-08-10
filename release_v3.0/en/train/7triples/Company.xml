@@ -24,29 +24,6 @@
       <lex comment="good" lid="Id2">GMA New Media is a media company that creates mobile apps and produces services for the web. Primarily led by Felipe Gozon, the company was created on January 1, 2000. Two of their subsidiaries include Philippine Entertainment Portal, Inc and Digify Inc.</lex>
       <lex comment="good" lid="Id3">GMA New Media, founded in January, 2000, is a media company which make websites and offers mobile application products. Its chairman and CEO is Felipe Gozon. GMA New Media subsidiaries include Philippine Entertainment Portal and Digify, Inc.</lex>
     </entry>
-    <entry category="Company" eid="Id4" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
-      <originaltripleset>
-        <otriple>Hypermarcas | location | Brazil</otriple>
-        <otriple>Hypermarcas | product | Drugs</otriple>
-        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
-        <otriple>Hypermarcas | keyPerson | CEO</otriple>
-        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
-        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
-        <otriple>Hypermarcas | netIncome | 1.086E8</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Hypermarcas | location | Brazil</mtriple>
-        <mtriple>Hypermarcas | product | Drugs</mtriple>
-        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
-        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
-        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
-        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
-        <mtriple>Hypermarcas | netIncome | 108600000</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Hypermarcas is a pharmaceutical drug company in Brazil. They were founded on Jan 1, 2001 as an S.A. corporation. Their key person is their CEO, and they have a net income of 108,600,000.</lex>
-      <lex comment="good" lid="Id2">Hypermarcas was founded in Brazil on Jan 1, 2001. They are an S.A. corporation which produces pharmaceutical drugs. Their key person is their CEO, and they have a net income of $108,600,000.</lex>
-      <lex comment="good" lid="Id3">Hypermarcas is an S.A. corporation who sells pharmaceuticals in Brazil. Their primary product is drugs. Managed by their CEO, they were founded on 1/1/2001 and have a $108,600,000 net income.</lex>
-    </entry>
     <entry category="Company" eid="Id6" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
       <originaltripleset>
         <otriple>Hypermarcas | product | Drugs</otriple>

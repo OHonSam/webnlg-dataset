@@ -1,22 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="SportsTeam" eid="Id1" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>A.C._Chievo_Verona | fullname | "Associazione Calcio ChievoVerona S.r.l."@en</otriple>
-        <otriple>A.C._Chievo_Verona | ground | "Verona, Italy"@en</otriple>
-        <otriple>A.C._Chievo_Verona | season | 2014–15_Serie_A</otriple>
-        <otriple>A.C._Chievo_Verona | capacity | 39371</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.C._Chievo_Verona | fullName | "Associazione Calcio ChievoVerona S.r.l."</mtriple>
-        <mtriple>A.C._Chievo_Verona | ground | "Verona, Italy"</mtriple>
-        <mtriple>A.C._Chievo_Verona | season | 2014–15_Serie_A</mtriple>
-        <mtriple>A.C._Chievo_Verona | numberOfMembers | 39371</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The full name of A.C. Chievo Verona is Associazione Calcio ChievoVerona S.r.l. and their home ground in Verona, Italy holds 39371 fans. The club played the 2014-15 season in Serie A.</lex>
-      <lex comment="good" lid="Id2">A.C. Chievo Verona played the 2014-15 season in Serie A and has 39371 members. Their full name is "Associazione Calcio ChievoVerona S.r.l." and their home ground is in Verona, Italy.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id3" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>A.C._Lumezzane | manager | Michele_Marcolini</otriple>
@@ -39,23 +23,6 @@
       <lex comment="good" lid="Id1">Michele Marcolini, manager of A.C. Lumezzane, was born in Italy, owns Torino F.C. And has been associated with F.C. Bari 1908.</lex>
       <lex comment="good" lid="Id2">Italian born Michele Marcolini, previously at FC Bari 1908 and manager of AC Lumezzane, is the owner of Torino F.C.</lex>
       <lex comment="good" lid="Id3">Italian born Michele Marcolini, previously of FC Bari 1908, is now the manager of A.C. Lumezzane, whist also the owner of Torino F.C.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>A.S._Gubbio_1910 | fullname | "Associazione Sportiva Gubbio 1910 Srl"@en</otriple>
-        <otriple>A.S._Gubbio_1910 | season | 2014</otriple>
-        <otriple>A.S._Gubbio_1910 | ground | Stadio_Pietro_Barbetti</otriple>
-        <otriple>A.S._Gubbio_1910 | capacity | 5300</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.S._Gubbio_1910 | fullName | "Associazione Sportiva Gubbio 1910 Srl"</mtriple>
-        <mtriple>A.S._Gubbio_1910 | season | 2014</mtriple>
-        <mtriple>A.S._Gubbio_1910 | ground | Stadio_Pietro_Barbetti</mtriple>
-        <mtriple>A.S._Gubbio_1910 | numberOfMembers | 5300</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The full name of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl and they competed in the 2014 season. Their ground is called the Stadio Pietro Barbetti and they have 5300 members.</lex>
-      <lex comment="good" lid="Id2">Associazione Sportiva Gubbio 1910 Srl (abbreviated to AS Gubbio 1910) has 5300 members, played in the 2014 season and its ground is Stadio Pietro Barbetti.</lex>
-      <lex comment="good" lid="Id3">The full name of AS Gubbio 1910 is "Associazione Sportiva Gubbio 1910 Srl". Its ground is called Stadio Pietro Barbetti, it competed in the 2014 season and has 5300 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id10" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -104,22 +71,6 @@
       <lex comment="good" lid="Id1">Brazilian football team Agremiação Sportiva Arapiraquense play their football in the Campeonato Brasileiro Série C league. Campeonato Brasileiro Serie C is a Brazilian league. Agremiação Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro Série C. The Vila Nova Futebol Clube were the winners at the Campeonato Brasileiro Série C.</lex>
       <lex comment="good" lid="Id2">Agremiacao Sportiva Arapiraquense play in the Campeonato Brasileiro Serie C League, as they did in 2015, which is based in Brazil. The current champions of this league are Vila Nova Futebol Clube.</lex>
       <lex comment="good" lid="Id3">Agremiação Sportiva Arapiraquense play in Brazil's Campeonato Brasileiro Série C league and competed in the 2015 event. Vila Nova Futebol Clube have been champions of Série C.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id17" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Italy | leader | Pietro_Grasso</otriple>
-        <otriple>Italy | officialLanguage | Italian_language</otriple>
-        <otriple>Italy | capital | Rome</otriple>
-        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
-        <mtriple>Italy | officialLanguage | Italian_language</mtriple>
-        <mtriple>Italy | capital | Rome</mtriple>
-        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The capital of Italy is Rome and the leader is Pietro Grasso. The Italian language is spoken in the country which is the location of the home ground of AS Gubbio 1910.</lex>
-      <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy where the capital is Rome, Italian is the official language and Pietro Grasso is the leader.</lex>
     </entry>
     </entries>
 </benchmark>

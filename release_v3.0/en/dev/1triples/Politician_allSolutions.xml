@@ -52,19 +52,6 @@
       <lex comment="good" lid="Id2">Anthony J. Celebrezze succeeded Abraham A. Ribicoff.</lex>
       <lex comment="good" lid="Id3">Abraham A. Ribicoff's successor was Anthony J. Celebrezze.</lex>
     </entry>
-    <entry category="Politician" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Adam_Koc | awards | Cross_of_Valour_(Poland)</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Adam_Koc | award | Cross_of_Valour_(Poland)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adam_Koc | award | Cross_of_Valour_(Poland)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adam Koc was awarded the Cross of Valour (Poland).</lex>
-      <lex comment="good" lid="Id2">Adam Koc has been awarded the Cross of Valour for Poland.</lex>
-    </entry>
     <entry category="Politician" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Adam_Koc | deathPlace | New_York_City</otriple>
@@ -73,16 +60,6 @@
         <mtriple>Adam_Koc | deathPlace | New_York_City</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam Koc died in New York City.</lex>
-    </entry>
-    <entry category="Politician" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Agnes_Kant | residence | Netherlands</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Agnes_Kant | residence | Netherlands</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Agnes Kant lives in the Netherlands.</lex>
-      <lex comment="good" lid="Id2">Agnes Kant resides in the Netherlands.</lex>
     </entry>
     <entry category="Politician" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -93,17 +70,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Knightsbridge, London is the birthplace of Airey Neave.</lex>
       <lex comment="good" lid="Id2">Airey Neave was born in Knightsbridge, London.</lex>
-    </entry>
-    <entry category="Politician" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alberto_Teisaire | nationality | Argentina</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alberto_Teisaire | nationality | Argentina</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alberto Teisaire's nationality is Argentinian.</lex>
-      <lex comment="good" lid="Id2">Alberto Teisaire is Argentinian.</lex>
-      <lex comment="good" lid="Id3">Alberto Teisaire was Argentinian.</lex>
     </entry>
     <entry category="Politician" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -126,16 +92,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alvah Sabin ended their career on 1857-03-03.</lex>
     </entry>
-    <entry category="Politician" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Antonis_Samaras | successor | Konstantinos_Mitsotakis</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Antonis_Samaras | successor | Konstantinos_Mitsotakis</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Konstantinos Mitsotakis was the successor to Antonis Samaras.</lex>
-      <lex comment="good" lid="Id2">The successor to Antonis Samaras was Konstantinos Mitsotakis.</lex>
-    </entry>
     <entry category="Politician" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Austria | language | Austrian_German</otriple>
@@ -146,17 +102,6 @@
       <lex comment="good" lid="Id1">In Austria, the language is Austrian German.</lex>
       <lex comment="good" lid="Id2">The language in Austria is Austrian German.</lex>
       <lex comment="good" lid="Id3">The spoken language of Austria is Austrian German.</lex>
-    </entry>
-    <entry category="Politician" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Josef_Klaus | almaMater | University_of_Vienna</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Josef_Klaus | almaMater | University_of_Vienna</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The University of Vienna is the Alma mater of Josef Klaus.</lex>
-      <lex comment="good" lid="Id2">Josef Klaus alma mater is the University of Vienna.</lex>
-      <lex comment="good" lid="Id3">The alma mater of Josef Klaus is the University of Vienna.</lex>
     </entry>
     <entry category="Politician" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

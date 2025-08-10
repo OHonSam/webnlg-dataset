@@ -14,16 +14,6 @@
       <lex comment="good" lid="Id1">1634: The Bavarian crisis is the sequel to The Grantville Gazettes.</lex>
       <lex comment="good" lid="Id2">1634: The Bavarian Crisis is preceded by The Grantville Gazettes.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A_Long_Long_Way | isbn | "0-670-03380-4"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Long_Long_Way | isbnNumber | "0-670-03380-4"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ISBN number of A Long Long Way is 0-670-03380-4.</lex>
-      <lex comment="good" lid="Id2">The ISBN number to A Long Long Way is 0-670-03380-4.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A_Severed_Wasp | author | Madeleine_L'Engle</otriple>
@@ -33,16 +23,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Madeleine L'Engle wrote "A Severed Wasp".</lex>
       <lex comment="good" lid="Id2">Madeleine L'Engle is the author of A Severed Wasp.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A_Wizard_of_Mars | language | English_language</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Wizard_of_Mars | language | English_language</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Wizard of Mars is published in English.</lex>
-      <lex comment="good" lid="Id2">A Wizard of Mars is written in English.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -76,17 +56,6 @@
       <lex comment="good" lid="Id2">The OCLC number for Addiction journal is 27367194.</lex>
       <lex comment="good" lid="Id3">Addiction (journal) has an OCLC number 27367194.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aenir | oclc | "45644811"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aenir | oclcNumber | 45644811</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">OCLC number 45644811 is Aenir.</lex>
-      <lex comment="good" lid="Id2">OCLC number 45644811 is for Aenir.</lex>
-      <lex comment="good" lid="Id3">The OCLC number of Aenir is 45644811.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alcatraz_Versus_the_Evil_Librarians | followedBy | Alcatraz_Versus_the_Scrivener's_Bones</otriple>
@@ -100,17 +69,6 @@
       <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians is followed by the book Alcatraz Versus the Scrivener's Bones.</lex>
       <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians was followed by Alcatraz Versus the Scrivener's Bones.</lex>
       <lex comment="good" lid="Id3">Alcatraz versus the Evil Librarians is followed by Alcatraz Versus the Scrivener's Bones.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Cornell_University | nickname | Cornell_Big_Red</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Cornell_University | nickname | Cornell_Big_Red</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cornwell University is nicknamed Cornell Big Red.</lex>
-      <lex comment="good" lid="Id2">Cornell Big Red is the nickname of Cornell University.</lex>
-      <lex comment="good" lid="Id3">Cornell Big Red is the nickname for Cornell University.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

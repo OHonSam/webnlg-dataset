@@ -12,17 +12,6 @@
       <lex comment="good" lid="Id2">Abilene, Texas has a water area of 14.2 square kilometres.</lex>
       <lex comment="good" lid="Id3">Abilene, Texas has an area of water that is 14.2 square kilometres.</lex>
     </entry>
-    <entry category="City" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Abilene,_Texas | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abilene,_Texas | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abilene is in Texas, in the United States.</lex>
-      <lex comment="good" lid="Id2">Abilene, Texas is located in the United States.</lex>
-      <lex comment="good" lid="Id3">Abilene, Texas is located within the United States.</lex>
-    </entry>
     <entry category="City" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Abilene,_Texas | isPartOf | Jones_County,_Texas</otriple>
@@ -66,16 +55,6 @@
       <lex comment="good" lid="Id2">Akron, Ohio is located within the United States.</lex>
       <lex comment="good" lid="Id3">The country of Akron, Ohio, is United States.</lex>
     </entry>
-    <entry category="City" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Akron,_Ohio | subdivisionName | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akron,_Ohio | isPartOf | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akron Ohio is part of the U.S.</lex>
-      <lex comment="good" lid="Id2">Akron, Ohio is part of the United States.</lex>
-    </entry>
     <entry category="City" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Akron,_Ohio | populationDensity | "1239.35"^^xsd:double</otriple>
@@ -97,20 +76,6 @@
       <lex comment="good" lid="Id2">Albany, Georgia has a total area of 144.7 SqKm.</lex>
       <lex comment="good" lid="Id3">The total area of Albany, Georgia is 144.7 square kilometres.</lex>
     </entry>
-    <entry category="City" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Albany,_Georgia | isPartOf | Dougherty_County,_Georgia</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albany,_Georgia | subdivisionName | Dougherty_County,_Georgia</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albany,_Georgia | isPartOf | Dougherty_County,_Georgia</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany is a city in Dougherty County, Georgia.</lex>
-      <lex comment="good" lid="Id2">Albany is part of Dougherty County in Georgia.</lex>
-      <lex comment="good" lid="Id3">Albany is located in Dougherty County, Georgia.</lex>
-    </entry>
     <entry category="City" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Albany,_Georgia | subdivisionName | United_States</otriple>
@@ -122,16 +87,6 @@
       <lex comment="good" lid="Id2">Albany is in Georgia which is a part of the United States.</lex>
       <lex comment="good" lid="Id3">Albany, Georgia, is in the United States.</lex>
     </entry>
-    <entry category="City" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Albany,_Oregon | areaCode | 541458</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albany,_Oregon | areaCode | 541, 458</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany, Oregon has area codes 541 and 458.</lex>
-      <lex comment="good" lid="Id2">The area codes for Albany, Oregon are 541 and 458.</lex>
-    </entry>
     <entry category="City" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Albany,_Oregon | areaWater | "540000.0"^^xsd:double</otriple>
@@ -142,20 +97,6 @@
       <lex comment="good" lid="Id1">There is .54 square kilometers of water in Albany, Oregon.</lex>
       <lex comment="good" lid="Id2">Albany, Oregon has a water area of 0,54 square kilometres.</lex>
       <lex comment="good" lid="Id3">The area of water in Albany, Oregon, is 0.54 (square kilometres).</lex>
-    </entry>
-    <entry category="City" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Albany,_Oregon | isPartOf | Linn_County,_Oregon</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albany,_Oregon | subdivisionName | Linn_County,_Oregon</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albany,_Oregon | isPartOf | Linn_County,_Oregon</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany is a city in Linn County, Oregon.</lex>
-      <lex comment="good" lid="Id2">Albany, Oregon falls under Linn County Oregon.</lex>
-      <lex comment="good" lid="Id3">Albany is part of Linn County, Oregon.</lex>
     </entry>
     <entry category="City" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -177,20 +118,6 @@
       <lex comment="good" lid="Id1">Albuquerque, in New Mexico, has a total are of 490.9 square kilometres.</lex>
       <lex comment="good" lid="Id2">The total area of Albuquerque, New Mexico is 490.9 square kilometres.</lex>
     </entry>
-    <entry category="City" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Albuquerque,_New_Mexico | subdivisionName | Bernalillo_County,_New_Mexico</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albuquerque,_New_Mexico | isPartOf | Bernalillo_County,_New_Mexico</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albuquerque,_New_Mexico | isPartOf | Bernalillo_County,_New_Mexico</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque, New Mexico is part of Bernalillo County, New Mexico.</lex>
-      <lex comment="good" lid="Id2">Albuquerque is part of Bernalillo County, New Mexico.</lex>
-      <lex comment="good" lid="Id3">Albuquerque, New Mexico, is part of Bernalillo County.</lex>
-    </entry>
     <entry category="City" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Albuquerque,_New_Mexico | leaderName | "Richard J. Berry"@en</otriple>
@@ -201,17 +128,6 @@
       <lex comment="good" lid="Id1">The leader, of Albuquerque (New Mexico), is Richard J. Berry.</lex>
       <lex comment="good" lid="Id2">Richard J. Berry is the leader of Albuquerque, New Mexico.</lex>
       <lex comment="good" lid="Id3">The leader of Albuquerque in New Mexico is Richard J Berry.</lex>
-    </entry>
-    <entry category="City" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Albuquerque,_New_Mexico | leaderTitle | United_States_House_of_Representatives</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albuquerque,_New_Mexico | leaderTitle | United_States_House_of_Representatives</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">In Albuquerque (New Mexico), the leader is called, the United States House of Representatives.</lex>
-      <lex comment="good" lid="Id2">The leader for Albuquerque in New Mexico is the United States House of Representatives.</lex>
-      <lex comment="good" lid="Id3">The leader of Albuquerque, New Mexico is the United States House of Representatives.</lex>
     </entry>
     <entry category="City" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -234,20 +150,6 @@
       <lex comment="good" lid="Id1">Alexandria, in Indiana, has a total area of 6,81 square kilometres.</lex>
       <lex comment="good" lid="Id2">Alexandria in Indiana occupies 6.81 square kilometers.</lex>
       <lex comment="good" lid="Id3">The total area of Alexandria, Indiana is 6.81 square kilometres.</lex>
-    </entry>
-    <entry category="City" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alexandria,_Indiana | isPartOf | Indiana</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alexandria,_Indiana | subdivisionName | Indiana</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alexandria,_Indiana | isPartOf | Indiana</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alexandria is part of Indiana.</lex>
-      <lex comment="good" lid="Id2">Alexandria is located in Indiana.</lex>
-      <lex comment="good" lid="Id3">Alexandria is part of the state of Indiana.</lex>
     </entry>
     <entry category="City" eid="Id50" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -319,17 +221,6 @@
       <lex comment="good" lid="Id1">Amarillo is a city in Texas.</lex>
       <lex comment="good" lid="Id2">Amarillo is part of Texas.</lex>
     </entry>
-    <entry category="City" eid="Id63" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Anaheim,_California | utcOffset | "&amp;minus;7"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anaheim,_California | utcOffset | "-7"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim, California has a UTC offset of - 7.</lex>
-      <lex comment="good" lid="Id2">Anaheim, CA has a UTC offset of minus 7.</lex>
-      <lex comment="good" lid="Id3">Anaheim, California has an UTC offset of -7.</lex>
-    </entry>
     <entry category="City" eid="Id65" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Anaheim,_California | areaCode | "657/714"</otriple>
@@ -339,17 +230,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">657 and 714 are area codes for Anaheim, CA.</lex>
       <lex comment="good" lid="Id2">Anaheim in California has the area code: 657, 714.</lex>
-    </entry>
-    <entry category="City" eid="Id68" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Anaheim,_California | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anaheim,_California | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim, California is in the U.S.</lex>
-      <lex comment="good" lid="Id2">Anaheim is in California in the U.S.</lex>
-      <lex comment="good" lid="Id3">Anaheim, California is located within the United States.</lex>
     </entry>
     <entry category="City" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -368,17 +248,6 @@
         <mtriple>Anaheim,_California | leaderTitle | California_State_Assembly</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim, California is led by the California State Assembly.</lex>
-    </entry>
-    <entry category="City" eid="Id77" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Anderson,_Indiana | areaCode | "765"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anderson,_Indiana | areaCode | 765</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The area code of Anderson, in Indiana, is 765.</lex>
-      <lex comment="good" lid="Id2">The area code of Anderson, Indiana is 765.</lex>
-      <lex comment="good" lid="Id3">The area code of Anderson, Indiana, is 765.</lex>
     </entry>
     <entry category="City" eid="Id79" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -415,20 +284,6 @@
       <lex comment="good" lid="Id2">Anderson is part of Anderson Township, Madison County, Indiana.</lex>
       <lex comment="good" lid="Id3">Anderson, Indiana, is part of the Anderson Township, Madison County in Indiana.</lex>
     </entry>
-    <entry category="City" eid="Id83" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Anderson,_Indiana | isPartOf | Indiana</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Anderson,_Indiana | subdivisionName | Indiana</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anderson,_Indiana | isPartOf | Indiana</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anderson is a city in Indiana.</lex>
-      <lex comment="good" lid="Id2">Anderson is part of Indiana.</lex>
-      <lex comment="good" lid="Id3">The city of Anderson is part of Indiana.</lex>
-    </entry>
     <entry category="City" eid="Id85" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Anderson,_Indiana | subdivisionName | Madison_County,_Indiana</otriple>
@@ -461,19 +316,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola, in Indiana, has a total area of 16.55 square kilometres.</lex>
       <lex comment="good" lid="Id2">The total area of Angola, Indiana, is 16.55 square kilometres.</lex>
-    </entry>
-    <entry category="City" eid="Id92" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Angola,_Indiana | subdivisionName | Indiana</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Angola,_Indiana | isPartOf | Indiana</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Angola,_Indiana | isPartOf | Indiana</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Angola is a city in Indiana.</lex>
-      <lex comment="good" lid="Id2">Angola is part of the state of Indiana.</lex>
     </entry>
     <entry category="City" eid="Id94" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -523,17 +365,6 @@
       <lex comment="good" lid="Id1">Ann Arbor is part of Washtenaw County in Michigan.</lex>
       <lex comment="good" lid="Id2">Ann Arbor, Michigan is part of Washtenaw County.</lex>
     </entry>
-    <entry category="City" eid="Id101" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Ann_Arbor,_Michigan | leaderTitle | City_manager</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ann_Arbor,_Michigan | leaderTitle | City_Manager</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The city manager is the leader of Ann Arbor, Michigan.</lex>
-      <lex comment="good" lid="Id2">The title of the leader of Ann Arbor in Michigan is the City Manager.</lex>
-      <lex comment="good" lid="Id3">City Manager is the leader title in Ann Arbor, Michigan.</lex>
-    </entry>
     <entry category="City" eid="Id103" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Antioch,_California | utcOffset | "&amp;minus;8"@en</otriple>
@@ -555,17 +386,6 @@
       <lex comment="good" lid="Id1">The United States House of Representatives is the leader of Antioch, California.</lex>
       <lex comment="good" lid="Id2">Antioch, California is led by the United States House of Representatives.</lex>
       <lex comment="good" lid="Id3">The leader title of Antioch, California, is United States House of Representatives.</lex>
-    </entry>
-    <entry category="City" eid="Id108" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Antioch,_California | populationTotal | 102372</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Antioch,_California | populationTotal | 102372</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The population of Antioch California is 102372.</lex>
-      <lex comment="good" lid="Id2">The total population of Antioch, California is 102372.</lex>
-      <lex comment="good" lid="Id3">The population of Antioch, California is 102372.</lex>
     </entry>
     <entry category="City" eid="Id110" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -624,19 +444,6 @@
       <lex comment="good" lid="Id1">Atlanta covers 344.9 square kilometres.</lex>
       <lex comment="good" lid="Id2">Atlanta covers an area of 344.9 (square kilometres).</lex>
     </entry>
-    <entry category="City" eid="Id121" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Atlanta | isPartOf | DeKalb_County,_Georgia</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Atlanta | subdivisionName | DeKalb_County,_Georgia</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Atlanta | isPartOf | DeKalb_County,_Georgia</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Most of Atlanta is part of DeKalb County in Georgia.</lex>
-      <lex comment="good" lid="Id2">Atlanta is part of DeKalb County in Georgia.</lex>
-    </entry>
     <entry category="City" eid="Id123" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Atlanta | isPartOf | Georgia_(U.S._state)</otriple>
@@ -648,17 +455,6 @@
       <lex comment="good" lid="Id2">Atlanta is part of Georgia in the U.S.</lex>
       <lex comment="good" lid="Id3">Atlanta is located within the US state of Georgia.</lex>
     </entry>
-    <entry category="City" eid="Id126" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Atlantic_City,_New_Jersey | areaCode | "609"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Atlantic_City,_New_Jersey | areaCode | 609</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The area code in Atlantic City (New Jersey) is 609.</lex>
-      <lex comment="good" lid="Id2">609 is the area code of Atlantic City, N.J.</lex>
-      <lex comment="good" lid="Id3">The area code of Atlantic City, New Jersey, is 609.</lex>
-    </entry>
     <entry category="City" eid="Id130" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Atlantic_City,_New_Jersey | leaderTitle | "Clerk"@en</otriple>
@@ -669,16 +465,6 @@
       <lex comment="good" lid="Id1">The leader's title in Atlantic City (New Jersey) is Clerk, which is a municipal official.</lex>
       <lex comment="good" lid="Id2">A Clerk (municipal official) is the leader of Atlantic City, N.J.</lex>
       <lex comment="good" lid="Id3">The municipal official titled the Clerk leads Atlantic City, New Jersey.</lex>
-    </entry>
-    <entry category="City" eid="Id131" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">"Mayor" is the title of the leader in Atlantic City, New Jersey.</lex>
-      <lex comment="good" lid="Id2">The municipal leader of Atlantic City, New Jersey is known as the Mayor.</lex>
     </entry>
     <entry category="City" eid="Id133" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -704,16 +490,6 @@
       <lex comment="good" lid="Id1">Attica is part of Indiana.</lex>
       <lex comment="good" lid="Id2">Attica is part of the state of Indiana.</lex>
     </entry>
-    <entry category="City" eid="Id139" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Auburn,_Alabama | areaCode | 334</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Auburn,_Alabama | areaCode | 334</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Auburn, Alabama, has the area code, 334.</lex>
-      <lex comment="good" lid="Id2">The area code for Auburn, Alabama is 334.</lex>
-    </entry>
     <entry category="City" eid="Id140" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Auburn,_Alabama | areaWater | 1.7e+06</otriple>
@@ -724,16 +500,6 @@
       <lex comment="good" lid="Id1">1.7 square kilometres is the area of water in Auburn, Alabama.</lex>
       <lex comment="good" lid="Id2">Auburn, Alabama has an area of water that is 1.7 km.</lex>
       <lex comment="good" lid="Id3">There is a total area of 1.7 square kilometres of water in Auburn, Alabama.</lex>
-    </entry>
-    <entry category="City" eid="Id143" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Auburn,_Alabama | elevation | "214.0"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Auburn,_Alabama | elevationAboveTheSeaLevel | 214.0</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Auburn Alabama has an elevation above sea level of 214.</lex>
-      <lex comment="good" lid="Id2">Auburn, Alabama is located at 214.0 above sea level.</lex>
     </entry>
     <entry category="City" eid="Id146" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -749,20 +515,6 @@
       <lex comment="good" lid="Id2">Auburn is part of King County in Washington.</lex>
       <lex comment="good" lid="Id3">Auburn is part of King County, Washington.</lex>
     </entry>
-    <entry category="City" eid="Id147" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Auburn,_Washington | subdivisionName | Pierce_County,_Washington</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Auburn,_Washington | isPartOf | Pierce_County,_Washington</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Auburn,_Washington | isPartOf | Pierce_County,_Washington</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Auburn is in Pierce County, Washington.</lex>
-      <lex comment="good" lid="Id2">Auburn forms part of Pierce County, Washington.</lex>
-      <lex comment="good" lid="Id3">Auburn is part of Pierce County, Washington.</lex>
-    </entry>
     <entry category="City" eid="Id150" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Auburn,_Washington | leaderTitle | "Mayor"@en</otriple>
@@ -774,17 +526,6 @@
       <lex comment="good" lid="Id2">The Mayor is the leader in Auburn, Washington.</lex>
       <lex comment="good" lid="Id3">The title of the leader in Auburn, Washington is the Mayor.</lex>
     </entry>
-    <entry category="City" eid="Id152" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Austin,_Texas | areaCode | 512</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Austin,_Texas | areaCode | 512</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The area code of Austin (Texas), is 512.</lex>
-      <lex comment="good" lid="Id2">The area code for Austin, Texas is 512.</lex>
-      <lex comment="good" lid="Id3">The area code of Austin, Texas, is 512.</lex>
-    </entry>
     <entry category="City" eid="Id154" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Austin,_Texas | areaLand | 6.86088e+08</otriple>
@@ -795,17 +536,6 @@
       <lex comment="good" lid="Id1">Austin, Texas has a land area of 686 square kilometres.</lex>
       <lex comment="good" lid="Id2">Austin, Texas has a area of land that measures 686.0 (square kilometers).</lex>
       <lex comment="good" lid="Id3">Austin, Texas covers 686.0 square kilometres of land.</lex>
-    </entry>
-    <entry category="City" eid="Id156" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Austin,_Texas | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Austin,_Texas | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Austin, Texas is in the United States.</lex>
-      <lex comment="good" lid="Id2">Austin, Texas is located within the country of the United States.</lex>
-      <lex comment="good" lid="Id3">The country of Austin, Texas, is United States.</lex>
     </entry>
     <entry category="City" eid="Id158" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -835,16 +565,6 @@
       <lex comment="good" lid="Id2">Austin Texas is part of Williamson County.</lex>
       <lex comment="good" lid="Id3">Austin is part of Williamson County, Texas.</lex>
     </entry>
-    <entry category="City" eid="Id160" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Austin,_Texas | leaderTitle | "City Manager"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Austin,_Texas | leaderTitle | City_Manager</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The city manager is the leader of Austin, Texas.</lex>
-      <lex comment="good" lid="Id2">The City Manager leads Austin, Texas.</lex>
-    </entry>
     <entry category="City" eid="Id161" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Austin,_Texas | leaderTitle | "Mayor"@en</otriple>
@@ -855,17 +575,6 @@
       <lex comment="good" lid="Id1">The leader in Austin Texas is the Mayor.</lex>
       <lex comment="good" lid="Id2">The leader of Austin, Texas is called the Mayor.</lex>
       <lex comment="good" lid="Id3">Austin Texas is led by a Mayor.</lex>
-    </entry>
-    <entry category="City" eid="Id164" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>California | language | Chinese_language</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>California | language | Chinese_language</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Chinese is one of the languages spoken in California.</lex>
-      <lex comment="good" lid="Id2">Some parts of California speak Chinese.</lex>
-      <lex comment="good" lid="Id3">The Chinese language is spoken in California.</lex>
     </entry>
     <entry category="City" eid="Id166" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -878,16 +587,6 @@
       <lex comment="good" lid="Id2">One of the languages spoken in California is Vietnamese.</lex>
       <lex comment="good" lid="Id3">Vietnamese is one of the languages being spoken in California.</lex>
     </entry>
-    <entry category="City" eid="Id169" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>California_State_Senate | isPartOf | California_State_Legislature</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>California_State_Senate | isPartOf | California_State_Legislature</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The California State Senate is part of the California State Legislature.</lex>
-      <lex comment="good" lid="Id2">The senate in California is part of the California State Legislature.</lex>
-    </entry>
     <entry category="City" eid="Id170" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>California_State_Senate | location | California_State_Capitol</otriple>
@@ -897,19 +596,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The California State Senate is located at the California State Capitol.</lex>
       <lex comment="good" lid="Id2">The California State Senate is located in the California State Capitol.</lex>
-    </entry>
-    <entry category="City" eid="Id171" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Contra_Costa_County,_California | subdivisionName | San_Francisco_Bay_Area</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Contra_Costa_County,_California | isPartOf | San_Francisco_Bay_Area</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Contra_Costa_County,_California | isPartOf | San_Francisco_Bay_Area</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Contra Costa County is part of the San Francisco Bay area, in California.</lex>
-      <lex comment="good" lid="Id2">Contra Costa County in California is part of the San Francisco Bay Area.</lex>
     </entry>
     <entry category="City" eid="Id174" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -923,17 +609,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Democratic Party of the U.S. headquarters on South Capitol Street.</lex>
       <lex comment="good" lid="Id2">The headquarters of the Democratic Party (United States) is at South Capitol Street.</lex>
-    </entry>
-    <entry category="City" eid="Id176" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Fall_Creek_Township,_Madison_County,_Indiana | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Fall_Creek_Township,_Madison_County,_Indiana | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Fall Creek Township, Madison County, Indiana is located in the U.S.</lex>
-      <lex comment="good" lid="Id2">Fall Creek Township, Madison County, Indiana is within the United States.</lex>
-      <lex comment="good" lid="Id3">Fall Creek Township, Madison County, Indiana is in the country United States.</lex>
     </entry>
     <entry category="City" eid="Id179" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -954,16 +629,6 @@
       <lex comment="good" lid="Id1">San Marcos is the county seat of Hays County, Texas.</lex>
       <lex comment="good" lid="Id2">Hays County Texas county seat is San Marcos Texas.</lex>
     </entry>
-    <entry category="City" eid="Id182" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Hays_County,_Texas | largestCity | San_Marcos,_Texas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Hays_County,_Texas | largestCity | San_Marcos,_Texas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The largest city in Hays County, Texas is San Marcos.</lex>
-      <lex comment="good" lid="Id2">San Marcos is the largest city in Hays County, Texas.</lex>
-    </entry>
     <entry category="City" eid="Id183" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Indiana | country | United_States</otriple>
@@ -975,17 +640,6 @@
       <lex comment="good" lid="Id2">Indiana is in the U.S.</lex>
       <lex comment="good" lid="Id3">Indiana is located within the United States.</lex>
     </entry>
-    <entry category="City" eid="Id185" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Jones_County,_Texas | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Jones_County,_Texas | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Jones County, Texas is in the United States.</lex>
-      <lex comment="good" lid="Id2">Jones County, Texas is within the United States.</lex>
-      <lex comment="good" lid="Id3">Jones County, Texas is located in the United States.</lex>
-    </entry>
     <entry category="City" eid="Id187" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>King_County,_Washington | largestCity | Seattle</otriple>
@@ -996,17 +650,6 @@
       <lex comment="good" lid="Id1">Seattle is the largest city in King County, in Washington.</lex>
       <lex comment="good" lid="Id2">Seattle is the largest city in King County Washington.</lex>
       <lex comment="good" lid="Id3">Seattle is the largest city in King County, Washington.</lex>
-    </entry>
-    <entry category="City" eid="Id189" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Lee_County,_Alabama | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Lee_County,_Alabama | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Lee County in Alabama is in the U.S.</lex>
-      <lex comment="good" lid="Id2">Lee County, Alabama, is within the United States.</lex>
-      <lex comment="good" lid="Id3">Lee County in Alabama is located within the United States.</lex>
     </entry>
     <entry category="City" eid="Id191" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1050,16 +693,6 @@
       <lex comment="good" lid="Id1">Monroe Township, Madison County, Indiana is in the U.S.</lex>
       <lex comment="good" lid="Id2">Monroe Township, Madison County, Indiana is situated within the United States.</lex>
     </entry>
-    <entry category="City" eid="Id201" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>New_Jersey | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>New_Jersey | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">New Jersey is in the United States.</lex>
-      <lex comment="good" lid="Id2">New Jersey is located within the United States.</lex>
-    </entry>
     <entry category="City" eid="Id203" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>New_Mexico | language | Navajo_language</otriple>
@@ -1071,16 +704,6 @@
       <lex comment="good" lid="Id2">The Navajo language is spoken in New Mexico.</lex>
       <lex comment="good" lid="Id3">Navajo is a language in New Mexico.</lex>
     </entry>
-    <entry category="City" eid="Id205" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>New_Mexico_Senate | leader | John_Sánchez</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>New_Mexico_Senate | leader | John_Sánchez</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">John Sánchez, is one of the leaders, in the New Mexico Senate.</lex>
-      <lex comment="good" lid="Id2">John Sanchez is the Senate leader of New Mexico.</lex>
-    </entry>
     <entry category="City" eid="Id207" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Oregon | capital | Salem,_Oregon</otriple>
@@ -1089,17 +712,6 @@
         <mtriple>Oregon | capital | Salem,_Oregon</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Salem is the capital of Oregon.</lex>
-    </entry>
-    <entry category="City" eid="Id210" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Potter_County,_Texas | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Potter_County,_Texas | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Potter County is in Texas, in the United States.</lex>
-      <lex comment="good" lid="Id2">Potter County, Texas is in the US.</lex>
-      <lex comment="good" lid="Id3">Potter County, Texas is located within the United States.</lex>
     </entry>
     <entry category="City" eid="Id213" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1122,16 +734,6 @@
       <lex comment="good" lid="Id2">Taylor County, Texas is in the US.</lex>
       <lex comment="good" lid="Id3">Taylor County, Texas is located within the United States.</lex>
     </entry>
-    <entry category="City" eid="Id220" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Texas | language | English_language</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Texas | language | English_language</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">English is a language spoken in Texas.</lex>
-      <lex comment="good" lid="Id2">English is spoken in Texas.</lex>
-    </entry>
     <entry category="City" eid="Id224" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Travis_County,_Texas | largestCity | Austin,_Texas</otriple>
@@ -1142,16 +744,6 @@
       <lex comment="good" lid="Id1">Austin is the largest city in Travis County, Texas.</lex>
       <lex comment="good" lid="Id2">Austin, Texas is the largest city in Travis County, Texas.</lex>
       <lex comment="good" lid="Id3">The largest city in Travis County, Texas, is Austin.</lex>
-    </entry>
-    <entry category="City" eid="Id225" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Union_Township,_Madison_County,_Indiana | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Union_Township,_Madison_County,_Indiana | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Union Township is in Madison County, which is in Indiana, in the United States.</lex>
-      <lex comment="good" lid="Id2">Union Township, Madison County, Indiana is located within the United States.</lex>
     </entry>
     <entry category="City" eid="Id227" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1175,17 +767,6 @@
       <lex comment="good" lid="Id2">African Americans are an ethnic group within the United States.</lex>
       <lex comment="good" lid="Id3">One of the ethnic groups in the United States are the African Americans.</lex>
     </entry>
-    <entry category="City" eid="Id229" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">One of the ethnic groups in the United States, is Asian Americans.</lex>
-      <lex comment="good" lid="Id2">Asian Americans are an ethnic group in the U.S.</lex>
-      <lex comment="good" lid="Id3">The Asian Americans are an ethnic group of the United States.</lex>
-    </entry>
     <entry category="City" eid="Id232" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>United_States | language | English_language</otriple>
@@ -1195,16 +776,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">English is the language spoken in the United States.</lex>
       <lex comment="good" lid="Id2">English is the language of the United States.</lex>
-    </entry>
-    <entry category="City" eid="Id234" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The president is the leader of the United States.</lex>
-      <lex comment="good" lid="Id2">The leader of the United States is called the President of the United States.</lex>
     </entry>
     <entry category="City" eid="Id236" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1226,15 +797,6 @@
       <lex comment="good" lid="Id1">Olympia is the capital of Washington.</lex>
       <lex comment="good" lid="Id2">The Washington state capital is Olympia.</lex>
       <lex comment="good" lid="Id3">Olympia is the capital of Washington (state).</lex>
-    </entry>
-    <entry category="City" eid="Id242" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Georgetown is the county seat of Williamson County, Texas.</lex>
     </entry>
     </entries>
 </benchmark>

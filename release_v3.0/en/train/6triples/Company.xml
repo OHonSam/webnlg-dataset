@@ -1,35 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Company" eid="Id2" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>AmeriGas | regionServed | United_States</otriple>
-        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
-        <otriple>AmeriGas | operatingIncome | 3.807E8</otriple>
-        <otriple>AmeriGas | industry | Energy_industry</otriple>
-        <otriple>AmeriGas | locationCountry | United_States</otriple>
-        <otriple>AmeriGas | numberOfEmployees | 8500</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>AmeriGas | regionServed | United_States</otriple>
-        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
-        <otriple>AmeriGas | operatingIncome | 3.807E8</otriple>
-        <otriple>AmeriGas | industry | Energy_industry</otriple>
-        <otriple>AmeriGas | country | United_States</otriple>
-        <otriple>AmeriGas | numberOfEmployees | 8500</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AmeriGas | regionServed | United_States</mtriple>
-        <mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
-        <mtriple>AmeriGas | operatingIncome | 380700000</mtriple>
-        <mtriple>AmeriGas | industry | Energy_industry</mtriple>
-        <mtriple>AmeriGas | country | United_States</mtriple>
-        <mtriple>AmeriGas | numberOfEmployees | 8500</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AmeriGas, located in King of Prussia, Pennsylvania, USA, is an energy company that serves all regions of the United States. It employs 8500 people and earns 380700000 operating income.</lex>
-      <lex comment="good" lid="Id2">Located in King of Prussia, Pennsylvania in the United States, the country in which AmeriGas is working and serves. The company has 8500 employees with an operating income of $380,700,000 and is classified as the energy industry.</lex>
-      <lex comment="good" lid="Id3">AmeriGas, located in King of Prussia, Pennsylvania, is an energy company that provides its services in the U.S. It has 8,500 employees and operates on a $380,700,000 income.</lex>
-    </entry>
     <entry category="Company" eid="Id5" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
         <otriple>Chinabank | foundingYear | 1920-01-01</otriple>
@@ -58,27 +29,6 @@
       <lex comment="good" lid="Id1">Chinabank was founded August 16th of 1920. Chinabank gives customers banking services. Chinabank employs 5594 workers. Chinabanks net income is 15,100,000,000. There are 295 Chinabank banking centers. Chinabank is a traded public company.</lex>
       <lex comment="good" lid="Id2">Chinabank (founded on August 16, 1920) is a publicly traded company offering banking services at 295 of its locations. With 5594 employees, Chinabank has a net income of 15,100,000,000.</lex>
       <lex comment="good" lid="Id3">Chinabank, founded on 1920-08-16, is a public banking company, that employees 5594 with 295 branches and a net income of 15,100,000,000,.</lex>
-    </entry>
-    <entry category="Company" eid="Id6" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>Chinabank | service | Banking</otriple>
-        <otriple>Chinabank | numberOfLocations | 295</otriple>
-        <otriple>Chinabank | foundationPlace | Manila</otriple>
-        <otriple>Chinabank | type | Public_company</otriple>
-        <otriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</otriple>
-        <otriple>Chinabank | location | Philippines</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Chinabank | service | Banking</mtriple>
-        <mtriple>Chinabank | numberOfLocations | 295</mtriple>
-        <mtriple>Chinabank | foundationPlace | Manila</mtriple>
-        <mtriple>Chinabank | type | Public_company</mtriple>
-        <mtriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</mtriple>
-        <mtriple>Chinabank | location | Philippines</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Chinabank was founded in Manila in the Insular Government of the Philippine Islands. A publicly-traded company, Chinabank continues to operate in the Philippines, offering banking services at 295 locations.</lex>
-      <lex comment="good" lid="Id2">Chinabank was founded in the Insular Government of the Philippine Islands in Manila. Located in the Philippines, Chinabank is a publicly traded company with 295 branches providing banking services to customers.</lex>
-      <lex comment="good" lid="Id3">Chinabank is a banking services public company with 295 branches located in the Philippines. Chinabank was founded in Manila, Insular Government of the Philippine Islands.</lex>
     </entry>
     <entry category="Company" eid="Id8" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -121,27 +71,6 @@
       <lex comment="good" lid="Id1">Managed by their CEO and located in Brazil, Hyermarcas is primarily a manufacturer of drugs in the pharmaceuticals industry. Mantecorp is a subsidiary of Hypermarcas.</lex>
       <lex comment="good" lid="Id2">Founded on January 1, 2001, Hypermarcas (parent company to Mantecorp) is a pharmaceutical drug company located in Brazil. Hypermarcas is led by its CEO.</lex>
       <lex comment="good" lid="Id3">Hypermarcas is a pharmaceutical company, producing pharmaceutical drugs. The company is based in Brazil, and was founded on January 1, 2001. The key person within the company is the CEO. Hypermarcas also own a subsidiary company, named Mantecorp.</lex>
-    </entry>
-    <entry category="Company" eid="Id13" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>Trane | netIncome | 5.563E8</otriple>
-        <otriple>Trane | operatingIncome | 8.754E8</otriple>
-        <otriple>Trane | foundingYear | 1913-01-01</otriple>
-        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
-        <otriple>Trane | numberOfEmployees | 29000</otriple>
-        <otriple>Trane | product | HVAC</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Trane | netIncome | 556300000</mtriple>
-        <mtriple>Trane | operatingIncome | 875400000</mtriple>
-        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
-        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
-        <mtriple>Trane | numberOfEmployees | 29000</mtriple>
-        <mtriple>Trane | product | HVAC</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Founded on 193-01-01, Trane, an HVAC producer in La Crosse, Wisconsin with 29,000 employees, netted a $556,300,000 income and an operating income of $875,400,000.</lex>
-      <lex comment="good" lid="Id2">Trane is a company which was founded on 1913-01-01 in La Crosse, Wisconsin. The company employs 29000 people, and HVAC appliances are among the products manufactured by them. Trane has an operating income of 875.4 million USD, which equates to a net income of about $556 million.</lex>
-      <lex comment="good" lid="Id3">Founded in La Crosse, Wisconsin on 01-01-1913, the 29,000 employee Trane company manufactures HVAC equipment. Trane generates $556,300,000 of net income and $875,400,000 of operating income.</lex>
     </entry>
     <entry category="Company" eid="Id16" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>

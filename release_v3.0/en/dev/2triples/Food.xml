@@ -14,19 +14,6 @@
       <lex comment="good" lid="Id2">Amatriciana sauce is from the Lazio region and tomato is one of the ingredients.</lex>
       <lex comment="good" lid="Id3">Tomato is an ingredient in Amatriciana sauce which comes from the region of Lazio.</lex>
     </entry>
-    <entry category="Food" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Arrabbiata_sauce | country | Italy</otriple>
-        <otriple>Arrabbiata_sauce | ingredient | Olive_oil</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Arrabbiata_sauce | country | Italy</mtriple>
-        <mtriple>Arrabbiata_sauce | ingredient | Olive_oil</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Olive oil is an ingredient used in the preparation of Arrabbiata sauce, found in Italy.</lex>
-      <lex comment="good" lid="Id2">Olive Oil is used to create Italian Arrabbiata sauce.</lex>
-      <lex comment="good" lid="Id3">Olive oil is an ingredient in Arrabbiata sauce, which can be found in Italy.</lex>
-    </entry>
     <entry category="Food" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Arrabbiata_sauce | ingredient | Tomato</otriple>
@@ -51,19 +38,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cuttlefish is an ingredient in Arros negre which comes from the region of Valencian Community.</lex>
       <lex comment="good" lid="Id2">An ingredient of arros negre is cuttlefish, the dish comes from the Valencian community region.</lex>
-    </entry>
-    <entry category="Food" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Bacon_Explosion | country | United_States</otriple>
-        <otriple>United_States | leader | John_Roberts</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bacon_Explosion | country | United_States</mtriple>
-        <mtriple>United_States | leader | John_Roberts</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States, where John Roberts is a leader, is the country of the Bacon Explosion.</lex>
-      <lex comment="good" lid="Id2">The Bacon Explosion comes from the United States where John Roberts is a leader.</lex>
-      <lex comment="good" lid="Id3">The United States (with a leader, John Roberts) boasts the Bacon Explosion.</lex>
     </entry>
     <entry category="Food" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -103,19 +77,6 @@
       <lex comment="good" lid="Id2">Baked Alaska and a cookie are both desserts.</lex>
       <lex comment="good" lid="Id3">A Baked Alaska is a dessert along with cookies which you can also eat as a dessert.</lex>
     </entry>
-    <entry category="Food" eid="Id20" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Bakewell_pudding | hasVariant | Bakewell_tart</otriple>
-        <otriple>Bakewell_tart | ingredient | Shortcrust_pastry</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bakewell_pudding | dishVariation | Bakewell_tart</mtriple>
-        <mtriple>Bakewell_tart | ingredient | Shortcrust_pastry</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bakewell tart, made with shortcrust pastry, is a variation of Bakewell pudding.</lex>
-      <lex comment="good" lid="Id2">A variant of bakewell pudding is bakewell tart, made with shortcrust pastry.</lex>
-      <lex comment="good" lid="Id3">A variant of bakewell pudding is bakewell tart which uses shortcrust pastry.</lex>
-    </entry>
     <entry category="Food" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Batchoy | country | Philippines</otriple>
@@ -142,18 +103,6 @@
       <lex comment="good" lid="Id2">Tony Tan is the leader of Singapore, from where Beef kway teow originates.</lex>
       <lex comment="good" lid="Id3">Beef kway teow originates from Singapore and its leader is Tony Tan.</lex>
     </entry>
-    <entry category="Food" eid="Id27" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Bhajji | similarDish | "Pakora and other fritters made from wheat or corn flour"@en</otriple>
-        <otriple>Bhajji | ingredient | Gram_flour</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bhajji | similarDish | "Pakora and other fritters made from wheat or corn flour"</mtriple>
-        <mtriple>Bhajji | ingredient | Gram_flour</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bhajji, which uses gram flour, is a dish similar to pakora and other fritters made from wheat or corn flour.</lex>
-      <lex comment="good" lid="Id2">Gram flour is an ingredient of a Bhajji, which is a similar dish to pakora and other fritters made from wheat or corn flour.</lex>
-    </entry>
     <entry category="Food" eid="Id28" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Binignit | ingredient | Sweet_potato</otriple>
@@ -166,18 +115,6 @@
       <lex comment="good" lid="Id1">An ingredient of Binignit is sweet potato, and one of the main ingredients is the banana.</lex>
       <lex comment="good" lid="Id2">Banana is a main ingredient of Binignit and sweet potato is also an ingredient.</lex>
       <lex comment="good" lid="Id3">The main ingredient of Binignit is banana, and also important is the inclusion of sweet potatoes.</lex>
-    </entry>
-    <entry category="Food" eid="Id30" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Binignit | ingredient | Sweet_potato</otriple>
-        <otriple>Sweet_potato | division | Flowering_plant</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Binignit | ingredient | Sweet_potato</mtriple>
-        <mtriple>Sweet_potato | division | Flowering_plant</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Sweet potatoes (a kind of flowering plant) are used in binignit recipes.</lex>
-      <lex comment="good" lid="Id2">Sweet potato belongs to flowering plants and is an ingredient of Binignit.</lex>
     </entry>
     <entry category="Food" eid="Id33" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

@@ -15,20 +15,6 @@
       <lex comment="good" lid="Id2">The creator of Airman (comics character) is George Kapitan.</lex>
       <lex comment="good" lid="Id3">George Kapitan created the comic character Airman.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>April_O'Neil | creators | Peter_Laird</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>April_O'Neil | creator | Peter_Laird</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>April_O'Neil | creator | Peter_Laird</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The character, April O'Neil, was created by Peter Laird.</lex>
-      <lex comment="good" lid="Id2">April O'Neil was created by Peter Laird.</lex>
-      <lex comment="good" lid="Id3">The creator of April O'Neil is Peter Laird.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Arion_(comics) | creators | Paul_Kupperberg</otriple>
@@ -43,20 +29,6 @@
       <lex comment="good" lid="Id2">The comic book character Arion was created by Paul Kupperberg.</lex>
       <lex comment="good" lid="Id3">The comic character Arion was created by Paul Kupperberg.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Asterix_(character) | creator | Albert_Uderzo</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Asterix_(character) | creators | Albert_Uderzo</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albert Uderzo is the creator of the comic character, Asterix.</lex>
-      <lex comment="good" lid="Id2">The comic book character Asterix was created by Albert Uderzo.</lex>
-      <lex comment="good" lid="Id3">The comic strip character Asterix was created by Albert Uderzo.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
@@ -67,20 +39,6 @@
       <lex comment="good" lid="Id1">Aurakles is also known as ''Aurakles''.</lex>
       <lex comment="good" lid="Id2">An alternative name for Aurakles is Aurakles.</lex>
       <lex comment="good" lid="Id3">Aurakles alternative name is also Aurakles.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The creator of Auron (comics character) is Karl Kesel.</lex>
-      <lex comment="good" lid="Id2">The comic book character Auron was created by Karl Kesel.</lex>
-      <lex comment="good" lid="Id3">Karl Kesel is the creator of the comic character, Auron.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -115,17 +73,6 @@
       <lex comment="good" lid="Id2">The BBC headquarters is called Broadcasting House.</lex>
       <lex comment="good" lid="Id3">Broadcasting House is the home of the BBC which is based in London.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Balder_(comics) | alterEgo | "Balder Odinson"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Balder_(comicsCharacter) | alternativeName | "Balder Odinson"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">An alternative name for the comic character Balder is Balder Odinson.</lex>
-      <lex comment="good" lid="Id2">Balder Odinson is also known by the name Balder.</lex>
-      <lex comment="good" lid="Id3">The comic character, Balder's alternative name, is Balder Odinson.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Balder_(comics) | creators | Stan_Lee</otriple>
@@ -139,16 +86,6 @@
       <lex comment="good" lid="Id1">Stan Lee created the comic character Balder.</lex>
       <lex comment="good" lid="Id2">The comic character, Balder, was created by Stan Lee.</lex>
       <lex comment="good" lid="Id3">The comic character Balder was created by Stan Lee.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Ballistic_(DC_Comics) | alterEgo | "Kelvin Mao"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ballistic_(comicsCharacter) | alternativeName | "Kelvin Mao"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The comic character, Ballistic, has the alternative name, Kelvin Mao.</lex>
-      <lex comment="toFix" lid="Id2">Ballistic is a fictional comic superhero who is sometimes known as Kelvin Mao.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -171,17 +108,6 @@
       <lex comment="good" lid="Id2">The TV character Bananaman was created by John Geering.</lex>
       <lex comment="good" lid="Id3">The fictional comic superhero Bananaman was created by John Geering.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Bananaman | creator | Steve_Bright</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Steve Bright is the creator of Bananaman.</lex>
-      <lex comment="good" lid="Id2">Bananaman was created by Steve Bright.</lex>
-      <lex comment="good" lid="Id3">The creator of Bananaman is Steve Bright.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
@@ -192,16 +118,6 @@
       <lex comment="good" lid="Id1">Bananaman last aired on April 15th 1986.</lex>
       <lex comment="good" lid="Id2">Bananaman last aired on 15th April 1986.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Bananaman | starring | Jill_Shilling</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Jill Shilling stared in Bananaman.</lex>
-      <lex comment="good" lid="Id2">Jill Shilling starred in Bananaman.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
@@ -210,20 +126,6 @@
         <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tim Brooke-Taylor starred in Bananaman.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Baymax | firstAppearance | "Big Hero 6(2014)"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Big Hero 6 was Baymax's first film appearance.</lex>
-      <lex comment="good" lid="Id2">The first appearance in a film for the character Baymax was Big Hero 6.</lex>
-      <lex comment="good" lid="Id3">Baymax first appeared in the film Big Hero 6.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id40" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -239,17 +141,6 @@
       <lex comment="good" lid="Id2">Ben Urich was created by the comic book writer Roger McKenzie.</lex>
       <lex comment="good" lid="Id3">The Comic book character Ben Urich was created by Roger McKenzie.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6.</lex>
-      <lex comment="good" lid="Id2">The distributor of Big Hero 6 (film) is Walt Disney Studios Motion Pictures.</lex>
-      <lex comment="good" lid="Id3">Big Hero 6 was a film distributed by Walt Disney Studios Motion Pictures.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id46" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Big_Hero_6_(film) | starring | Jamie_Chung</otriple>
@@ -261,17 +152,6 @@
       <lex comment="good" lid="Id2">The film Big Hero 6, stars Jamie Chung.</lex>
       <lex comment="good" lid="Id3">Jamie Chung starred in the film Big Hero 6.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Big_Hero_6_(film) | starring | Maya_Rudolph</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Big_Hero_6_(film) | starring | Maya_Rudolph</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Big Hero 6 stars Maya Rudolph.</lex>
-      <lex comment="good" lid="Id2">The starring of Big Hero 6 (film) is Maya Rudolph.</lex>
-      <lex comment="good" lid="Id3">Maya Rudolph was one of the stars, in the film Big Hero 6.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id49" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
@@ -281,17 +161,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The film, Big hero 6, stars Scott Adsit.</lex>
       <lex comment="good" lid="Id2">Scott Adsit starred in the film Big Hero 6.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">"Mark Desmond" is also known as the comic character Blockbuster.</lex>
-      <lex comment="good" lid="Id2">The comic character, Blockbuster, has the alternative name, Mark Desmond.</lex>
-      <lex comment="good" lid="Id3">The comic character Blockbuster is also known as Mark Desmond.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id54" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -345,20 +214,6 @@
       <lex comment="good" lid="Id1">Dane Whitman is the alternative name for the comic character, Dane Whitman Black Knight.</lex>
       <lex comment="good" lid="Id2">The comic character Dane Whitman Black Knight is also known as simply Dane Whitman.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id65" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Black_Knight_(Dane_Whitman) | creator | Roy_Thomas</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Black_Knight_(Dane_Whitman) | creators | Roy_Thomas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The comic character, Dane Whitman Black Knight was created by Roy Thomas.</lex>
-      <lex comment="good" lid="Id2">Dane Whitman Black Knight is a comic character created by Roy Thomas.</lex>
-      <lex comment="good" lid="Id3">The comic book character Dane Whitman, alter ego Black Knight, was created by Roy Thomas.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id69" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Duncan_Rouleau | nationality | Americans</otriple>
@@ -370,16 +225,6 @@
       <lex comment="good" lid="Id2">Duncan Rouleau is American.</lex>
       <lex comment="good" lid="Id3">Duncan Rouleau is an American.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id73" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Graeme_Garden | birthPlace | Aberdeen</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Graeme_Garden | birthPlace | Aberdeen</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Graeme Garden was born in Aberdeen.</lex>
-      <lex comment="good" lid="Id2">The birth place of Graeme Garden is Aberdeen.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id74" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Jack_Kirby | nationality | Americans</otriple>
@@ -390,16 +235,6 @@
       <lex comment="good" lid="Id1">Jack Kirby is an American.</lex>
       <lex comment="good" lid="Id2">Jack Kirby's nationality is American.</lex>
       <lex comment="good" lid="Id3">Jack Kirby was an American.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id76" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Jerry_Ordway | nationality | Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Jerry_Ordway | nationality | Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Jerry Ordway's nationality is American.</lex>
-      <lex comment="good" lid="Id2">Jerry Ordway is American.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id77" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -433,15 +268,6 @@
       <lex comment="good" lid="Id1">Len Wein collected an award from the Academy of Comic Book Arts.</lex>
       <lex comment="good" lid="Id2">Len Wein has won awards from the Academy of Comic Book Arts.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id83" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Marv_Wolfman | award | Academy_of_Comic_Book_Arts</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Marv_Wolfman | award | Academy_of_Comic_Book_Arts</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Marv Wolfman won an award at the Academy of Comic Book Arts.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id85" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Paris_Cullins | nationality | United_States</otriple>
@@ -451,17 +277,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Paris Cullins is a United States national.</lex>
       <lex comment="good" lid="Id2">The nationality of Paris Cullins is United States.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id88" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Roy_Thomas | award | Academy_of_Comic_Book_Arts</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Roy_Thomas | award | Academy_of_Comic_Book_Arts</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Roy Thomas was an award winner at the Academy of Comic Book Arts.</lex>
-      <lex comment="good" lid="Id2">Roy Thomas received an award from the Academy of Comic Book Arts.</lex>
-      <lex comment="good" lid="Id3">Roy Thomas won an award from the Academy of Comic Book Arts.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id90" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

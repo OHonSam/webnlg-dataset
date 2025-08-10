@@ -1,25 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Politician" eid="Id2" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Abdulsalami_Abubakar | successor | Olusegun_Obasanjo</otriple>
-        <otriple>Abdulsalami_Abubakar | vicePresident | Mike_Akhigbe</otriple>
-        <otriple>Abdulsalami_Abubakar | activeYearsEndDate | "1999-05-29"^^xsd:date</otriple>
-        <otriple>Abdulsalami_Abubakar | militaryBranch | Nigerian_Army</otriple>
-        <otriple>Mike_Akhigbe | predecessor | Oladipo_Diya</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abdulsalami_Abubakar | successor | Olusegun_Obasanjo</mtriple>
-        <mtriple>Abdulsalami_Abubakar | inOfficeWhileVicePresident | Mike_Akhigbe</mtriple>
-        <mtriple>Abdulsalami_Abubakar | activeYearsEndDate | 1999-05-29</mtriple>
-        <mtriple>Abdulsalami_Abubakar | militaryBranch | Nigerian_Army</mtriple>
-        <mtriple>Mike_Akhigbe | predecessor | Oladipo_Diya</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abdulsalami Abubakar served in the Nigerian Army and was in office whilst Mike Akhigbe (the successor to Oladipo Diya) was Vice President. His career ended on 29 May 1999 and he was succeeded by Olusegun Obasanjo.</lex>
-      <lex comment="good" lid="Id2">Abdulsalami Abubakar, who served in the Nigerian Army, ended his career on May 29th, 1999 and served in office while Mike Akhigbe was the Vice President. Akhigbe succeeded Oladipo Diya while Olusegun Obasanjo took over from Abubaka when he left office.</lex>
-      <lex comment="good" lid="Id3">Olusegun Obasanjo succeeded Abdulsalami Abubakar, who served in the Nigerian Army and ended his career on 1999-05-2. Abdulsalami Abubakar was in office while Mike Akhigbe, who succeeded Oladipo Diya, was Vice President.</lex>
-    </entry>
     <entry category="Politician" eid="Id4" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Abraham_A._Ribicoff | spouse | Casey_Ribicoff</otriple>
@@ -56,25 +37,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agnes Kant, from the Netherlands, where the leader is Mark Rutte, worked as a Parliamentary group leader. She is a member of the Netherlands Socialist Party, whose leader is Emile Roemer.</lex>
       <lex comment="good" lid="Id2">Agnes Kant, of Netherlands, is a member of the country's Socialist Party which is led by Emile Roemer. Kant was a Parliamentary group leader. in the country which is led by Mark Rutte.</lex>
-    </entry>
-    <entry category="Politician" eid="Id9" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Albert_B._White | spouse | Agnes_Ward_White</otriple>
-        <otriple>Agnes_Ward_White | birthPlace | Marietta,_Ohio</otriple>
-        <otriple>Albert_B._White | deathPlace | Parkersburg,_West_Virginia</otriple>
-        <otriple>Albert_B._White | successor | William_M._O._Dawson</otriple>
-        <otriple>William_M._O._Dawson | placeOfBirth | Bloomington,_Maryland</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albert_B._White | spouse | Agnes_Ward_White</mtriple>
-        <mtriple>Agnes_Ward_White | birthPlace | Marietta,_Ohio</mtriple>
-        <mtriple>Albert_B._White | deathPlace | Parkersburg,_West_Virginia</mtriple>
-        <mtriple>Albert_B._White | successor | William_M._O._Dawson</mtriple>
-        <mtriple>William_M._O._Dawson | birthPlace | Bloomington,_Maryland</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albert B White was married to Agnes Ward White who was born in Marietta, Ohio . Before he died in Parkersburg, West Virginia he was succeeded by William M O Dawson whose birthplace was Bloomington Maryland.</lex>
-      <lex comment="good" lid="Id2">Born in Marietta, Ohio, Agnes Ward White was married to Albert B. White. He died in Parkersburg, West Virginia and was succeeded by William M O Dawson. The birthplace of William M. O. Dawson was Bloomington Maryland.</lex>
-      <lex comment="good" lid="Id3">Agnes Ward White was born in Marietta, Ohio and became the spouse of Albert B White who died at Parkersburg, West Virginia. He had been succeeded by William M O Dawson whose birthplace was Bloomington Maryland.</lex>
     </entry>
     <entry category="Politician" eid="Id10" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -113,32 +75,6 @@
       <lex comment="good" lid="Id1">The governing body in Buenos Aires is the Buenos Aires City Legislature and the city is led by Horacio Rodríguez Larreta. It is the death place of the Alberto Teisaire who was from Argentina where the language spoken is Spanish.</lex>
       <lex comment="good" lid="Id2">Spanish is spoken in Argentina the country Alberto Teisaire came from. He died in Buenos Aires, where the governing body is, the Buenos Aires City Legislature. The leader of Buenos Aires is Horacio Rodríguez Larreta.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire was Argentinian and died in Buenos Aires, where they speak Spanish. The leader in Buenos Aires is Horacio Rodríguez Larreta and the city is governed by the Buenos Aires City Legislature.</lex>
-    </entry>
-    <entry category="Politician" eid="Id14" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</otriple>
-        <otriple>Alvah_Sabin | birthPlace | Georgia,_Vermont</otriple>
-        <otriple>Alvah_Sabin | office | Secretary_of_State_of_Vermont</otriple>
-        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
-        <otriple>Alvah_Sabin | state | Vermont</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alvah_Sabin | office | "Secretary of State of Vermont"</otriple>
-        <otriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</otriple>
-        <otriple>Alvah_Sabin | birthPlace | Georgia,_Vermont</otriple>
-        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
-        <otriple>Alvah_Sabin | state | Vermont</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alvah_Sabin | office | Secretary_of_State_of_Vermont</mtriple>
-        <mtriple>Alvah_Sabin | region | Vermont's_3rd_congressional_district</mtriple>
-        <mtriple>Alvah_Sabin | birthPlace | Georgia,_Vermont</mtriple>
-        <mtriple>Vermont | largestCity | Burlington,_Vermont</mtriple>
-        <mtriple>Alvah_Sabin | state | Vermont</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alvah Sabin, who was born in Georgia, Vermont, worked as the state's secretary and represented Vermont's 3rd Congressional District. Vermont's largest city is Burlington.</lex>
-      <lex comment="good" lid="Id2">Vermont Secretary of State and 3rd Congressional District representative Alvah Sabin was born in Georgia, Vermont (largest city: Burlington).</lex>
-      <lex comment="good" lid="Id3">Alvah Sabin was born in Georgia, Vermont and represented Vermont's 3rd Congressional District. He was from Vermont, which has the largest city of Burlington and worked as the Secretary of State of Vermont.</lex>
     </entry>
     <entry category="Politician" eid="Id16" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>

@@ -1,19 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="City" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Abilene,_Texas | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abilene,_Texas | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States is home to an ethnic group called Asian Americans and is also where you will find Abilene, Texas.</lex>
-      <lex comment="good" lid="Id2">Abilene, Texas is in the United States, where Asian Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id3">Abilene, Texas is located in the United States, a country which has many ethnic groups, such as Asian Americans.</lex>
-    </entry>
     <entry category="City" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Abilene,_Texas | isPartOf | Taylor_County,_Texas</otriple>
@@ -67,19 +54,6 @@
       <lex comment="good" lid="Id1">Abilene, Texas has a population density of 429.9 inhabitants per sq km and a total area of 286.5 sq km.</lex>
       <lex comment="good" lid="Id2">Abilene, Texas, covers a total area of 286.5 square kilometres and has 429.9 inhabitants per sq kilometre.</lex>
     </entry>
-    <entry category="City" eid="Id11" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Akron,_Ohio | subdivisionName | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akron,_Ohio | isPartOf | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akron, Ohio is part of the United States, where African Americans are one of the ethnic groups.</lex>
-      <lex comment="good" lid="Id2">Akron, Ohio is part of the United States and African Americans are an ethnic group within the U.S.</lex>
-      <lex comment="good" lid="Id3">African Americans are an ethnic group in the United States and Akron Ohio is part of the U.S.</lex>
-    </entry>
     <entry category="City" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Akron,_Ohio | subdivisionName | United_States</otriple>
@@ -105,55 +79,6 @@
       <lex comment="good" lid="Id1">Albany, Georgia is found within the United States where one of the ethnic groups are the African Americans.</lex>
       <lex comment="good" lid="Id2">Albany, Georgia, is part of the United States, where African Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">Albany is in Georgia in the United States, the country where African Americans are an ethnic group.</lex>
-    </entry>
-    <entry category="City" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Albany,_Oregon | areaTotal | 4.597e+07</otriple>
-        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^xsd:double</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albany,_Oregon | areaTotal | 4.597e+07</otriple>
-        <otriple>Albany,_Oregon | populationDensity | "1104.0977325679783"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albany,_Oregon | areaTotal | 4.59723e+07</otriple>
-        <otriple>Albany,_Oregon | populationDensity | "1104.0977325679783"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albany,_Oregon | areaTotal | 4.59723e+07</otriple>
-        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albany,_Oregon | areaTotal | 4.597e+07</otriple>
-        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albany,_Oregon | areaTotal | "45.972288958464"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albany,_Oregon | areaTotal | "45.97"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^xsd:double</otriple>
-        <otriple>Albany,_Oregon | areaTotal | "45.97"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albany,_Oregon | areaTotal | "45.97"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-        <otriple>Albany,_Oregon | populationDensity | "1104.0977325679783"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albany,_Oregon | areaTotal | 4.59723e+07</otriple>
-        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albany,_Oregon | areaTotal | 45.97 (square kilometres)</mtriple>
-        <mtriple>Albany,_Oregon | populationDensity | 1104.1 (inhabitants per square kilometre)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany, Oregon has a population density of 1104.1 inhabitants per square kilometre and covers an area of 45.97 sq km.</lex>
-      <lex comment="good" lid="Id2">Albany, in Oregon has a population density of 1104.1 inhabitants per sq km and a total area of 45.97 sq km.</lex>
-      <lex comment="good" lid="Id3">The total area of Albany, Oregon is 45.97 sq km and the population density is 1104.1 inhabitants per sq km.</lex>
     </entry>
     <entry category="City" eid="Id23" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -184,19 +109,6 @@
       <lex comment="good" lid="Id2">Albuquerque is part of New Mexico in the United States.</lex>
       <lex comment="good" lid="Id3">Albuquerque is located in New Mexico, United States.</lex>
     </entry>
-    <entry category="City" eid="Id25" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Albuquerque,_New_Mexico | isPartOf | Bernalillo_County,_New_Mexico</otriple>
-        <otriple>Albuquerque,_New_Mexico | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albuquerque,_New_Mexico | isPartOf | Bernalillo_County,_New_Mexico</mtriple>
-        <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque, New Mexico, is part of Bernalillo County, United States.</lex>
-      <lex comment="good" lid="Id2">Albuquerque is located in Bernalillo County, New Mexico, United States.</lex>
-      <lex comment="good" lid="Id3">Albuquerque, New Mexico is part of Bernalillo County, New Mexico, in the United States.</lex>
-    </entry>
     <entry category="City" eid="Id28" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Albuquerque,_New_Mexico | leaderTitle | Mayor_of_Albuquerque</otriple>
@@ -208,31 +120,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque, New Mexico, U.S. is led by the Mayor of Albuquerque.</lex>
       <lex comment="good" lid="Id2">The leader of Albuquerque, New Mexico, US, is the Mayor of Albuquerque.</lex>
-    </entry>
-    <entry category="City" eid="Id32" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-        <otriple>Albuquerque,_New_Mexico | areaTotal | "490.9"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albuquerque,_New_Mexico | areaTotal | 4.909e+08</otriple>
-        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^xsd:double</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-        <otriple>Albuquerque,_New_Mexico | areaTotal | 4.909e+08</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^xsd:double</otriple>
-        <otriple>Albuquerque,_New_Mexico | areaTotal | "490.9"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)</mtriple>
-        <mtriple>Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per sq km and a total area of 490.9 sq km.</lex>
-      <lex comment="good" lid="Id2">Albuquerque, in New Mexico, has a total area of 490.9 square kilometres and its population density is 1142.3 people per sq. km.</lex>
-      <lex comment="good" lid="Id3">With a total are of 490.9 square kilometres, Albuquerque, in New Mexico, has a population density of 1142.3 inhabitants per square kilometre.</lex>
     </entry>
     <entry category="City" eid="Id33" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -281,19 +168,6 @@
       <lex comment="good" lid="Id2">Alpharetta is part of Fulton County, Georgia, United States.</lex>
       <lex comment="good" lid="Id3">Alpharetta, Fulton County, Georgia is located within the United States.</lex>
     </entry>
-    <entry category="City" eid="Id38" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Alpharetta,_Georgia | country | United_States</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alpharetta,_Georgia | country | United_States</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Washington, D.C. is the capital of the United States where Alpharetta, Georgia is also located.</lex>
-      <lex comment="good" lid="Id2">The capital of the United States is Washington DC, and the country is the location of Alpharetta, in Georgia.</lex>
-      <lex comment="good" lid="Id3">Alpharetta, is in Georgia, in the United States, where Washington, D.C. is the capital.</lex>
-    </entry>
     <entry category="City" eid="Id42" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Alpharetta,_Georgia | country | United_States</otriple>
@@ -307,18 +181,6 @@
       <lex comment="good" lid="Id2">The English language is spoken in the United States and Alpharetta, Georgia is located in the country.</lex>
       <lex comment="good" lid="Id3">Alpharetta, Georgia is in the United States, where the English language is used.</lex>
     </entry>
-    <entry category="City" eid="Id44" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Amarillo,_Texas | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Amarillo,_Texas | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amarillo is located in Texas in the United States where Asian Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2">The United States is the location of Amarillo, Texas and includes the ethnic group of Asian Americans.</lex>
-    </entry>
     <entry category="City" eid="Id46" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</otriple>
@@ -331,17 +193,6 @@
       <lex comment="good" lid="Id1">Amarillo, Potter County, Texas is in the U.S.</lex>
       <lex comment="good" lid="Id2">Amarillo is located in Potter County, Texas, United States.</lex>
       <lex comment="good" lid="Id3">Amarillo is part of Potter County, Texas, in the United States.</lex>
-    </entry>
-    <entry category="City" eid="Id48" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Amarillo,_Texas | isPartOf | Randall_County,_Texas</otriple>
-        <otriple>Randall_County,_Texas | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Amarillo,_Texas | isPartOf | Randall_County,_Texas</mtriple>
-        <mtriple>Randall_County,_Texas | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amarillo is part of Randall County, Texas, United States.</lex>
     </entry>
     <entry category="City" eid="Id50" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -412,27 +263,6 @@
       <lex comment="good" lid="Id1">Anaheim, in California, has a UTC offset of -8, and a total area of 131.6 square kilometres.</lex>
       <lex comment="good" lid="Id2">Anaheim, California, covers a total area of 131.6 square kilometres and has the UTC offset of -8.</lex>
     </entry>
-    <entry category="City" eid="Id54" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Anaheim,_California | areaCode | 657</otriple>
-        <otriple>Anaheim,_California | areaTotal | "131.5998858742825"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Anaheim,_California | areaCode | 657</otriple>
-        <otriple>Anaheim,_California | areaTotal | "131.6"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Anaheim,_California | areaCode | 657</otriple>
-        <otriple>Anaheim,_California | areaTotal | 1.316e+08</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anaheim,_California | areaCode | 657</mtriple>
-        <mtriple>Anaheim,_California | areaTotal | 131.6 (square kilometres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim, California covers an area of 131.6 square kilometers and its area code is 657.</lex>
-      <lex comment="good" lid="Id2">Anaheim, California has a total area of 131.6 square kilometres, and the area code 657.</lex>
-      <lex comment="good" lid="Id3">Anaheim, which is in California has a total area of 131.6 sq km and an area code 657.</lex>
-    </entry>
     <entry category="City" eid="Id55" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Anaheim,_California | areaWater | 2.52783e+06</otriple>
@@ -462,19 +292,6 @@
       <lex comment="good" lid="Id1">Anaheim is part of California, in the United States.</lex>
       <lex comment="good" lid="Id2">Anaheim is part of California in the United States.</lex>
     </entry>
-    <entry category="City" eid="Id59" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Anaheim,_California | isPartOf | California</otriple>
-        <otriple>California | language | Spanish_language</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anaheim,_California | isPartOf | California</mtriple>
-        <mtriple>California | language | Spanish_language</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim is part of California, where Spanish is spoken.</lex>
-      <lex comment="good" lid="Id2">Anaheim is part of California where Spanish is one of the spoken languages.</lex>
-      <lex comment="good" lid="Id3">Anaheim is part of California where Spanish is spoken.</lex>
-    </entry>
     <entry category="City" eid="Id62" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Anaheim,_California | isPartOf | Orange_County,_California</otriple>
@@ -500,19 +317,6 @@
       <lex comment="good" lid="Id1">Anaheim is part of California and led by the California State Assembly.</lex>
       <lex comment="good" lid="Id2">Anaheim, which is part of California, is led by the California State Assembly.</lex>
     </entry>
-    <entry category="City" eid="Id65" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Anaheim,_California | leaderTitle | California_State_Senate</otriple>
-        <otriple>California_State_Senate | isPartOf | California_State_Legislature</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anaheim,_California | leaderTitle | California_State_Senate</mtriple>
-        <mtriple>California_State_Senate | isPartOf | California_State_Legislature</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The California State Senate is part of the California State Legislature, and leads Anaheim, California.</lex>
-      <lex comment="good" lid="Id2">Anaheim is led by the California State Senate, which is part of the California State Legislature.</lex>
-      <lex comment="good" lid="Id3">The California State Senate is part of the California State Legislature and leads Anaheim, California.</lex>
-    </entry>
     <entry category="City" eid="Id67" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Anderson,_Indiana | isPartOf | Adams_Township,_Madison_County,_Indiana</otriple>
@@ -526,19 +330,6 @@
       <lex comment="good" lid="Id2">Anderson is part of Adams Township and Anderson Township, Madison County, Indiana.</lex>
       <lex comment="good" lid="Id3">Anderson, is part of the Anderson/Adams Township, Madison County in Indiana.</lex>
     </entry>
-    <entry category="City" eid="Id69" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Anderson,_Indiana | isPartOf | Lafayette_Township,_Madison_County,_Indiana</otriple>
-        <otriple>Lafayette_Township,_Madison_County,_Indiana | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anderson,_Indiana | isPartOf | Lafayette_Township,_Madison_County,_Indiana</mtriple>
-        <mtriple>Lafayette_Township,_Madison_County,_Indiana | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anderson, Indiana is part of Lafayette Township, Madison County, Indiana in the U.S.</lex>
-      <lex comment="good" lid="Id2">Anderson, Indiana is part of Lafayette Township, Madison County, Indiana, United States.</lex>
-      <lex comment="good" lid="Id3">Anderson is part of Lafayette Township, Madison County, Indiana, United States.</lex>
-    </entry>
     <entry category="City" eid="Id72" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Angola,_Indiana | country | United_States</otriple>
@@ -550,19 +341,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola, Indiana is in the United States, where one of the ethnic groups are Asian Americans.</lex>
       <lex comment="good" lid="Id2">Angola, Indiana is located in the United States and one ethnic group there is Asian Americans.</lex>
-    </entry>
-    <entry category="City" eid="Id74" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Angola,_Indiana | subdivisionName | United_States</otriple>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Angola,_Indiana | isPartOf | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asian Americans are one of the ethnic groups in the U.S., the country where Angola, Indiana located.</lex>
-      <lex comment="good" lid="Id2">Angola, Indiana is part of the U.S. where Asian Americans are one of the country's ethnic groups.</lex>
-      <lex comment="good" lid="Id3">Angola in Indiana is in the U.S. and one ethnic group in that country is Asian Americans.</lex>
     </entry>
     <entry category="City" eid="Id76" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -598,22 +376,6 @@
       <lex comment="good" lid="Id2">The city of Antioch is located within California where the Spanish language is spoken.</lex>
       <lex comment="good" lid="Id3">Antioch is part of California where Spanish is one of the spoken languages.</lex>
     </entry>
-    <entry category="City" eid="Id80" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</otriple>
-        <otriple>Antioch,_California | subdivisionName | California</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Antioch,_California | subdivisionName | Contra_Costa_County,_California</otriple>
-        <otriple>Antioch,_California | isPartOf | California</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</mtriple>
-        <mtriple>Antioch,_California | isPartOf | California</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Antioch is part of Contra Costa County in California state.</lex>
-      <lex comment="good" lid="Id2">The city of Antioch is part of Contra Costa County in California.</lex>
-    </entry>
     <entry category="City" eid="Id83" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Arlington,_Texas | isPartOf | Tarrant_County,_Texas</otriple>
@@ -626,22 +388,6 @@
       <lex comment="good" lid="Id1">Arlington is part of Tarrant County, Texas, United States.</lex>
       <lex comment="good" lid="Id2">Arlington is part of Tarrant County in Texas U.S.</lex>
       <lex comment="good" lid="Id3">Arlington is part of Tarrant County in Texas, in the United States.</lex>
-    </entry>
-    <entry category="City" eid="Id85" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Arlington,_Texas | isPartOf | Tarrant_County,_Texas</otriple>
-        <otriple>Tarrant_County,_Texas | largestCity | Fort_Worth,_Texas</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Tarrant_County,_Texas | largestCity | Fort_Worth,_Texas</otriple>
-        <otriple>Arlington,_Texas | subdivisionName | Tarrant_County,_Texas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Arlington,_Texas | isPartOf | Tarrant_County,_Texas</mtriple>
-        <mtriple>Tarrant_County,_Texas | largestCity | Fort_Worth,_Texas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Fort Worth, Tarrant County (of which Arlington is part of), is the largest city in Texas.</lex>
-      <lex comment="good" lid="Id2">Arlington is located in Tarrant County, Texas where the largest city is Fort Worth.</lex>
     </entry>
     <entry category="City" eid="Id88" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -659,19 +405,6 @@
       <lex comment="good" lid="Id1">Atlanta covers 344.9 sq km but has a total area of 347.1 sq km.</lex>
       <lex comment="good" lid="Id2">Atlanta covers 344.9 square kilometres with a total area of 347.1 sq kilometres.</lex>
     </entry>
-    <entry category="City" eid="Id91" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Atlanta | country | United_States</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Atlanta | country | United_States</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlanta in is the US, the capital of which is Washington DC.</lex>
-      <lex comment="good" lid="Id2">Atlanta is in the United States, the capital of which is Washington, D.C.</lex>
-      <lex comment="good" lid="Id3">Atlanta is located in the United States which has the capital city of Washington DC.</lex>
-    </entry>
     <entry category="City" eid="Id94" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Atlanta | country | United_States</otriple>
@@ -684,19 +417,6 @@
       <lex comment="good" lid="Id1">Atlanta is in the United States, where the language is English.</lex>
       <lex comment="good" lid="Id2">English is the language spoken in the United States where you can find Atlanta.</lex>
       <lex comment="good" lid="Id3">English is the language spoken in the United States, the country where Atlanta is located.</lex>
-    </entry>
-    <entry category="City" eid="Id98" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Atlanta | subdivisionName | Fulton_County,_Georgia</otriple>
-        <otriple>Atlanta | isPartOf | DeKalb_County,_Georgia</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Atlanta | isPartOf | Fulton_County,_Georgia</mtriple>
-        <mtriple>Atlanta | isPartOf | DeKalb_County,_Georgia</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlanta is part of Fulton County but most of it is located in DeKalb County in Georgia.</lex>
-      <lex comment="good" lid="Id2">Atlanta is part of DeKalb County and Fulton County in Georgia.</lex>
-      <lex comment="good" lid="Id3">Atlanta is part of Fulton County and DeKalb County in Georgia.</lex>
     </entry>
     <entry category="City" eid="Id100" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -735,54 +455,6 @@
       <lex comment="good" lid="Id1">Atlantic City is located in New Jersey in the United States, a country which includes the ethnic group of Native Americans.</lex>
       <lex comment="good" lid="Id2">The United States includes the ethnic group of native Americans and is the location of Atlantic City, New Jersey.</lex>
       <lex comment="good" lid="Id3">Atlantic City, New Jersey, is in the United States, where one of the ethnic groups are Native Americans.</lex>
-    </entry>
-    <entry category="City" eid="Id106" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Attica,_Indiana | populationDensity | "783.054"^^xsd:double</otriple>
-        <otriple>Attica,_Indiana | areaTotal | "4.1439809765376"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Attica,_Indiana | populationDensity | "783.1"^^xsd:double</otriple>
-        <otriple>Attica,_Indiana | areaTotal | "4.14"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Attica,_Indiana | areaTotal | 4.14398e+06</otriple>
-        <otriple>Attica,_Indiana | populationDensity | "783.054"^^xsd:double</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Attica,_Indiana | populationDensity | "783.054"^^xsd:double</otriple>
-        <otriple>Attica,_Indiana | areaTotal | "4.14"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Attica,_Indiana | areaTotal | 4.14e+06</otriple>
-        <otriple>Attica,_Indiana | populationDensity | "783.1"^^xsd:double</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Attica,_Indiana | areaTotal | 4.14398e+06</otriple>
-        <otriple>Attica,_Indiana | populationDensity | "783.1"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Attica,_Indiana | populationDensity | "783.1"^^xsd:double</otriple>
-        <otriple>Attica,_Indiana | areaTotal | "4.1439809765376"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Attica,_Indiana | areaTotal | 4.14398e+06</otriple>
-        <otriple>Attica,_Indiana | populationDensity | "783.1"^^xsd:double</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Attica,_Indiana | areaTotal | 4.14398e+06</otriple>
-        <otriple>Attica,_Indiana | populationDensity | "783.0537877399345"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Attica,_Indiana | areaTotal | 4.14e+06</otriple>
-        <otriple>Attica,_Indiana | populationDensity | "783.054"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Attica,_Indiana | areaTotal | 4.14 (square kilometres)</mtriple>
-        <mtriple>Attica,_Indiana | populationDensity | 783.1 (inhabitants per square kilometre)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Attica, Indiana covers an area of 4.14 sq km and has 783.1 inhabitants for each of those square kilometres.</lex>
-      <lex comment="good" lid="Id2">Attica in Indiana, has a total area of 4.14 sq km and a population density of 783.1 inhabitants per sq km.</lex>
     </entry>
     <entry category="City" eid="Id108" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -856,19 +528,6 @@
       <lex comment="good" lid="Id1">African Americans are an ethnic group in the United States where Auburn, Alabama is located.</lex>
       <lex comment="good" lid="Id2">Auburn, Alabama can be found in the United States, where African Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">One of the ethnic groups in the United States are the African Americans and the country is the location of Auburn, Alabama.</lex>
-    </entry>
-    <entry category="City" eid="Id116" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Auburn,_Alabama | country | United_States</otriple>
-        <otriple>United_States | language | English_language</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Auburn,_Alabama | country | United_States</mtriple>
-        <mtriple>United_States | language | English_language</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Auburn, Alabama is in the United States where the official language is English.</lex>
-      <lex comment="good" lid="Id2">Auburn, Alabama is located in the United States where English is spoken.</lex>
-      <lex comment="good" lid="Id3">Auburn Alabama is in the United States, where English is spoken.</lex>
     </entry>
     <entry category="City" eid="Id119" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -982,31 +641,6 @@
       <lex comment="good" lid="Id2">Austin is part of the state of Texas where Houston is the largest city.</lex>
       <lex comment="good" lid="Id3">Houston is the largest city in Texas where there is also Austin.</lex>
     </entry>
-    <entry category="City" eid="Id132" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Austin,_Texas | populationDensity | "1296.654601076267"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-        <otriple>Austin,_Texas | areaTotal | 7.03959e+08</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Austin,_Texas | areaTotal | 7.03959e+08</otriple>
-        <otriple>Austin,_Texas | populationDensity | "1296.65"^^xsd:double</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Austin,_Texas | areaTotal | "703.9587683893247"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-        <otriple>Austin,_Texas | populationDensity | "1296.654601076267"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Austin,_Texas | areaTotal | "703.9587683893247"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-        <otriple>Austin,_Texas | populationDensity | "1296.65"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Austin,_Texas | populationDensity | 1296.65 (inhabitants per square kilometre)</mtriple>
-        <mtriple>Austin,_Texas | areaTotal | 703.95 (square kilometres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The population density of Austin, Texas, is 1296.65 inhabitants per sq km and its area is 703.95 sq. km.</lex>
-      <lex comment="good" lid="Id2">Austin, Texas covers an area of 703.95 square kilometres and has 1296.65 inhabitants for each of those sq kilometres.</lex>
-      <lex comment="good" lid="Id3">Austin, Texas has a population density of 1296.65 inhabitants per sq km and a total area of 703.95 square kilometres.</lex>
-    </entry>
     <entry category="City" eid="Id135" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>DeKalb_County,_Georgia | largestCity | Dunwoody,_Georgia</otriple>
@@ -1017,23 +651,6 @@
         <mtriple>Atlanta | isPartOf | DeKalb_County,_Georgia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlanta is part of DeKalb County in Georgia where Dunwoody is the largest city.</lex>
-    </entry>
-    <entry category="City" eid="Id136" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Fountain_County,_Indiana | country | United_States</otriple>
-        <otriple>Attica,_Indiana | subdivisionName | Fountain_County,_Indiana</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Fountain_County,_Indiana | country | United_States</otriple>
-        <otriple>Attica,_Indiana | isPartOf | Fountain_County,_Indiana</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Fountain_County,_Indiana | country | United_States</mtriple>
-        <mtriple>Attica,_Indiana | isPartOf | Fountain_County,_Indiana</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Attica, Indiana is in Fountain County, Indiana U.S.</lex>
-      <lex comment="good" lid="Id2">Attica is located in Fountain County, Indiana, United States.</lex>
-      <lex comment="good" lid="Id3">Attica is located in Fountain County, Indiana in the United States.</lex>
     </entry>
     <entry category="City" eid="Id138" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1046,19 +663,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpharetta is part of Fulton County in Georgia where the largest city is Atlanta.</lex>
       <lex comment="good" lid="Id2">Atlanta is the largest city of Fulton County, Georgia, the county where Alpharetta is located.</lex>
-    </entry>
-    <entry category="City" eid="Id141" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Indiana | capital | Indianapolis</otriple>
-        <otriple>Anderson,_Indiana | isPartOf | Indiana</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Indiana | capital | Indianapolis</mtriple>
-        <mtriple>Anderson,_Indiana | isPartOf | Indiana</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The city of Anderson is part of Indiana, the capital of which is Indianapolis.</lex>
-      <lex comment="good" lid="Id2">Anderson is part of Indiana, where Indianapolis is the capital.</lex>
-      <lex comment="good" lid="Id3">Indiana is home to Anderson city and has Indianapolis as a capital.</lex>
     </entry>
     <entry category="City" eid="Id142" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1086,23 +690,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alexandria is part of Madison County, Indiana, United States.</lex>
       <lex comment="good" lid="Id2">Alexandria is part of Madison County, Indiana, which is in the country of the United States.</lex>
-    </entry>
-    <entry category="City" eid="Id146" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Michigan | largestCity | Detroit</otriple>
-        <otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Michigan | largestCity | Detroit</otriple>
-        <otriple>Ann_Arbor,_Michigan | subdivisionName | Michigan</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Michigan | largestCity | Detroit</mtriple>
-        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ann Arbor is found in Michigan where Detroit (its largest city) is also located.</lex>
-      <lex comment="good" lid="Id2">Ann Arbor is part of Michigan which has Detroit as its largest city.</lex>
-      <lex comment="good" lid="Id3">Ann Arbor is located in Michigan where Detroit is the largest city.</lex>
     </entry>
     <entry category="City" eid="Id148" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1154,19 +741,6 @@
       <lex comment="good" lid="Id2">Akron, Ohio is part of the United States, the capital of which is Washington, D.C.</lex>
       <lex comment="good" lid="Id3">Akron Ohio is part of the United States, the capital of which is, Washington, D.C.</lex>
     </entry>
-    <entry category="City" eid="Id156" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>Albany,_Oregon | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>Albany,_Oregon | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany, Oregon is located within the United States which has the capital of Washington DC.</lex>
-      <lex comment="good" lid="Id2">Albany, Oregon is in the United States, the capital of which, is Washington, D.C.</lex>
-      <lex comment="good" lid="Id3">Albany (Oregon) is in the U.S., the capital of which is Washington, D.C.</lex>
-    </entry>
     <entry category="City" eid="Id160" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>United_States | capital | Washington,_D.C.</otriple>
@@ -1193,19 +767,6 @@
       <lex comment="good" lid="Id2">Angola, Indiana is in the United States, where African Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">African Americans are an ethnic group within the United States where Angola, Indiana is located.</lex>
     </entry>
-    <entry category="City" eid="Id165" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-        <otriple>Albany,_Georgia | subdivisionName | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-        <mtriple>Albany,_Georgia | isPartOf | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany, Georgia is part of the United States of American where Asian Americans are one of the ethnic groups.</lex>
-      <lex comment="good" lid="Id2">Albany, Georgia is in the United States, a country where one of the ethnic groups are Asian Americans.</lex>
-      <lex comment="good" lid="Id3">The Asian Americans are an ethnic group in the United States, where Albany, Georgia can be found.</lex>
-    </entry>
     <entry category="City" eid="Id168" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
@@ -1218,19 +779,6 @@
       <lex comment="good" lid="Id1">Auburn, Washington is located in the U.S. where one ethnic group is the Asian Americans.</lex>
       <lex comment="good" lid="Id2">Auburn, Washington is located within the U.S. and Asian Americans are an ethnic group in that country.</lex>
       <lex comment="good" lid="Id3">Auburn, Washington is located in the United States, where Asian Americans are one of the ethnic groups.</lex>
-    </entry>
-    <entry category="City" eid="Id169" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
-        <otriple>Austin,_Texas | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
-        <mtriple>Austin,_Texas | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States include the ethnic group of Asian Americans and is the location of Austin, Texas.</lex>
-      <lex comment="good" lid="Id2">Asian Americans are an ethnic group in the United States and Austin Texas is also in the same country.</lex>
-      <lex comment="good" lid="Id3">Austin, Texas is in the United States, where one of the ethnic groups are Asian Americans.</lex>
     </entry>
     <entry category="City" eid="Id170" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1258,19 +806,6 @@
       <lex comment="good" lid="Id2">Angola, Indiana is in theUnited States of America, where one of the ethnic groups are Native Americans.</lex>
       <lex comment="good" lid="Id3">The United States is the location of Angola, Indiana and includes the Native Americans among its ethnic groups.</lex>
     </entry>
-    <entry category="City" eid="Id175" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | White_Americans</otriple>
-        <otriple>Abilene,_Texas | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
-        <mtriple>Abilene,_Texas | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">White Americans are an ethnic group in the United States, which is the location of Abilene, Texas.</lex>
-      <lex comment="good" lid="Id2">Abilene is in Texas in the United States, the country where White Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id3">The United States is the location of Abilene in Texas and the country contains the ethnic group of white americans.</lex>
-    </entry>
     <entry category="City" eid="Id179" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>United_States | language | English_language</otriple>
@@ -1295,23 +830,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn, Alabama is located in the United States, where the leader is Barack Obama.</lex>
       <lex comment="good" lid="Id2">Auburn, Alabama is located in the United States where Barack Obama is a leader.</lex>
-    </entry>
-    <entry category="City" eid="Id184" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Washtenaw_County,_Michigan | country | United_States</otriple>
-        <otriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Ann_Arbor,_Michigan | subdivisionName | Washtenaw_County,_Michigan</otriple>
-        <otriple>Washtenaw_County,_Michigan | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Washtenaw_County,_Michigan | country | United_States</mtriple>
-        <mtriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ann Arbor, Michigan is part of Washtenaw County, United States.</lex>
-      <lex comment="good" lid="Id2">Ann Arbor is located in Washtenaw County, Michigan in the United States of America.</lex>
-      <lex comment="good" lid="Id3">Ann Arbor is part of Washtenaw County, Michigan in the U.S.</lex>
     </entry>
     <entry category="City" eid="Id185" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

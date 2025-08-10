@@ -55,39 +55,6 @@
       <lex comment="good" lid="Id2">Aaron Bertram plays for the Kids Imagine Nation and the Suburban Legends bands, where he performs ska punk music, a form of punk rock. Brian Robertson, a trombonist, is a band member of Suburban Legends.</lex>
       <lex comment="good" lid="Id3">Aaron Bertram plays for the Kids Imagine Nation and for the Suburban Legends, where Brian Robertson is a trombonist. Aaron Bertram's musical genre is ska, which has its origins in punk rock.</lex>
     </entry>
-    <entry category="Artist" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Aaron_Deer | genre | Indie_rock</otriple>
-        <otriple>Aaron_Deer | associatedBand | Wee_Giant</otriple>
-        <otriple>Aaron_Deer | background | "solo_singer"</otriple>
-        <otriple>Aaron_Deer | hometown | Indiana</otriple>
-        <otriple>Aaron_Deer | origin | United_States</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aaron_Deer | genre | Indie_rock</otriple>
-        <otriple>Aaron_Deer | hometown | United_States</otriple>
-        <otriple>Aaron_Deer | associatedBand | Wee_Giant</otriple>
-        <otriple>Aaron_Deer | background | "solo_singer"@en</otriple>
-        <otriple>Aaron_Deer | origin | Indiana</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aaron_Deer | genre | Indie_rock</otriple>
-        <otriple>Aaron_Deer | hometown | United_States</otriple>
-        <otriple>Aaron_Deer | associatedBand | Wee_Giant</otriple>
-        <otriple>Aaron_Deer | background | "solo_singer"</otriple>
-        <otriple>Aaron_Deer | origin | Indiana</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Deer | genre | Indie_rock</mtriple>
-        <mtriple>Aaron_Deer | origin | United_States</mtriple>
-        <mtriple>Aaron_Deer | associatedBand/associatedMusicalArtist | Wee_Giant</mtriple>
-        <mtriple>Aaron_Deer | background | "solo_singer"</mtriple>
-        <mtriple>Aaron_Deer | origin | Indiana</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">American Aaron Deer is an Indie rock musician from Indiana. He has a background as a solo singer and was part of the band Wee Giant.</lex>
-      <lex comment="good" lid="Id2">Aaron Deer comes from Indiana, having been born in the United States. He is a solo singer/ performer of the musical genre indie rock, and is an artist for the Wee Giant band.</lex>
-      <lex comment="good" lid="Id3">Aaron Deer is an Indie rock soloist, formerly a member of Wee Giant. He was born in Indiana, USA.</lex>
-    </entry>
     <entry category="Artist" eid="Id3" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Aaron_Turner | associatedBand | House_of_Low_Culture</otriple>
@@ -106,32 +73,6 @@
       <lex comment="good" lid="Id1">Aaron Turner is an electric guitar player for the black metal genre who has performed for House of Low Culture and Mamiffer. Death metal is a musical fusion of black metal.</lex>
       <lex comment="good" lid="Id2">Aaron Turner is a black metal musician that plays electric guitar and who performs with Mamiffer and has performed for the House of Low Culture and death metal is a musical fusion of black metal.</lex>
       <lex comment="good" lid="Id3">Black metal electric guitar player Aaron Turner performs for Mamiffer and House of Low Culture. Death metal is a fusion of black metal.</lex>
-    </entry>
-    <entry category="Artist" eid="Id4" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Aaron_Turner | associatedBand | Twilight_(band)</otriple>
-        <otriple>Aaron_Turner | associatedMusicalArtist | Greymachine</otriple>
-        <otriple>Aaron_Turner | genre | Black_metal</otriple>
-        <otriple>Aaron_Turner | instrument | Electric_guitar</otriple>
-        <otriple>Black_metal | musicFusionGenre | Death_metal</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aaron_Turner | associatedMusicalArtist | Twilight_(band)</otriple>
-        <otriple>Aaron_Turner | associatedBand | Greymachine</otriple>
-        <otriple>Aaron_Turner | genre | Black_metal</otriple>
-        <otriple>Aaron_Turner | instrument | Electric_guitar</otriple>
-        <otriple>Black_metal | musicFusionGenre | Death_metal</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Greymachine</mtriple>
-        <mtriple>Aaron_Turner | genre | Black_metal</mtriple>
-        <mtriple>Aaron_Turner | instrument | Electric_guitar</mtriple>
-        <mtriple>Black_metal | musicFusionGenre | Death_metal</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Black metal musician Aaron Turner, who plays the electric guitar, has been part of the bands Twilight and Greymachine. Black metal has a musical fusion called Death metal.</lex>
-      <lex comment="good" lid="Id2">Aaron Turner plays electric guitar black metal of which death metal is a musical fusion. He played with Twilight and is associated with Greymachine.</lex>
-      <lex comment="good" lid="Id3">Black metal music and electric guitarist Aaron Turner is associated with the bands Twilight and Greymachine. Death metal is a fusion of black metal.</lex>
     </entry>
     <entry category="Artist" eid="Id6" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -172,25 +113,6 @@
       <lex comment="good" lid="Id1">The musician Abradab originates from Katowice, Poland, and he started performing in 1994. He played with the band Kaliber 44 and is associated with the rapper Magik.</lex>
       <lex comment="good" lid="Id2">Abradab came from Katowice, Poland and started peforming in 1994. He played with Kaliber 44 and is associated with the rapper Magik.</lex>
       <lex comment="good" lid="Id3">Katowice, Poland born Abradab began performing in 1994 and is associated with Magik and Kaliber 44.</lex>
-    </entry>
-    <entry category="Artist" eid="Id9" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Ahmet_Ertegun | deathPlace | United_States</otriple>
-        <otriple>Ahmet_Ertegun | genre | Rhythm_and_blues</otriple>
-        <otriple>Rhythm_and_blues | stylisticOrigin | Blues</otriple>
-        <otriple>Rhythm_and_blues | derivative | Disco</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ahmet_Ertegun | deathPlace | United_States</mtriple>
-        <mtriple>Ahmet_Ertegun | genre | Rhythm_and_blues</mtriple>
-        <mtriple>Rhythm_and_blues | stylisticOrigin | Blues</mtriple>
-        <mtriple>Rhythm_and_blues | derivative | Disco</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Disco derives from rhythm and blues which originated from the blues. Rhythm and blues is the musical genre of Ahmet Ertegun who died in the United States where the African Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2">Ahmet Ertegun in a rhythm and blues musician who died in the US where African Americans are an ethnic group. Disco is a derivative of rhythm and blues which was itself derived from blues music.</lex>
-      <lex comment="good" lid="Id3">Rhythm and blues (origins of disco) artist Ahmet Ertegun died in the United States. The United States is home to African Americans. R &amp; B has its origins in Blues.</lex>
     </entry>
     <entry category="Artist" eid="Id11" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -277,25 +199,6 @@
       <lex comment="good" lid="Id2">Anders Osborne started his musical performing in 1989, where he met musical artists Tab Benoit and Billy Iuso, with the band Voice of the Wetlands All-Stars. A. Osborne performs in the rhythm and blues style.</lex>
       <lex comment="good" lid="Id3">Anders Osborne started performing in 1989. His genre is rhythm and blues. He has worked with Tab Benoit and is associated with the musical artist Billy Iuso and with Voice of the Wetlands All-Stars.</lex>
     </entry>
-    <entry category="Artist" eid="Id19" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Andra_(singer) | genre | Rhythm_and_blues</otriple>
-        <otriple>Andra_(singer) | background | "solo_singer"</otriple>
-        <otriple>Andra_(singer) | birthYear | "1986"^^xsd:gYear</otriple>
-        <otriple>Andra_(singer) | occupation | Singing</otriple>
-        <otriple>Andra_(singer) | birthPlace | Romania</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Andra_(singer) | genre | Rhythm_and_blues</mtriple>
-        <mtriple>Andra_(singer) | background | "solo_singer"</mtriple>
-        <mtriple>Andra_(singer) | birthYear | 1986</mtriple>
-        <mtriple>Andra_(singer) | occupation | Singing</mtriple>
-        <mtriple>Andra_(singer) | birthPlace | Romania</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Solo singer, Andra, was born in 1986, in Romania. Andra is a rhythm and blues singer whose occupation is singing.</lex>
-      <lex comment="good" lid="Id2">The singer Andra was born in Romania in 1986 and performs rhythm and blues as a solo artist.</lex>
-      <lex comment="good" lid="Id3">The Rhythm and blues solo singer musician Andra, was born 1986, in Romania.</lex>
-    </entry>
     <entry category="Artist" eid="Id23" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Christian_Burns | genre | House_music</otriple>
@@ -314,25 +217,6 @@
       <lex comment="good" lid="Id1">Andrew Rayel wad a string instrumentalist who is associated with Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, house musician Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
       <lex comment="good" lid="Id2">String instrumentalist Andrew Rayel is associated with the musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (house music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi.</lex>
       <lex comment="good" lid="Id3">String instrumentalist Andrew Rayel is associated with: Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
-    </entry>
-    <entry category="Artist" eid="Id27" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
-        <otriple>Al_Anderson_(NRBQ) | instrument | Guitar</otriple>
-        <otriple>Al_Anderson_(NRBQ) | genre | Rock_music</otriple>
-        <otriple>Rock_music | stylisticOrigins | Country_music</otriple>
-        <otriple>Country_music | stylisticOrigin | Blues</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Rock_music | musicFusionGenre | Bhangra_(music)</mtriple>
-        <mtriple>Al_Anderson_(NRBQ band) | instrument | Guitar</mtriple>
-        <mtriple>Al_Anderson_(NRBQ band) | genre | Rock_music</mtriple>
-        <mtriple>Rock_music | stylisticOrigin | Country_music</mtriple>
-        <mtriple>Country_music | stylisticOrigin | Blues</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Anderson plays the guitar in the rock music band NRBQ. Rock music originated from country music, which originated from blues music; The music Bhangra is part of the fusion genre, partly coming from Rock music.</lex>
-      <lex comment="good" lid="Id2">Al Anderson plays the guitar for rock band NRBQ. Rock comes from country music which originates from blues. Bhangra music is a musical fusion of rock music.</lex>
-      <lex comment="good" lid="Id3">Rock guitarist AI Anderson is a member of NRBQ. Rock originates from rock which has its origins in country which derives from the blues. Bhangra is a rock fusion.</lex>
     </entry>
     <entry category="Artist" eid="Id28" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>

@@ -1,16 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Airport" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aarhus_Airport | runwayLength | "2702.0"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aarhus_Airport | runwayLength | 2702.0</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aarhus Airport's runway length is 2702.0.</lex>
-      <lex comment="good" lid="Id2">The Aarhus Airport has a runway length of 2702.0.</lex>
-    </entry>
     <entry category="Airport" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Adirondack_Regional_Airport | location | Harrietstown,_New_York</otriple>
@@ -52,19 +42,6 @@
       <lex comment="good" lid="Id1">Agra Airport is in Agra.</lex>
       <lex comment="good" lid="Id2">Agra airport is located in Agra.</lex>
     </entry>
-    <entry category="Airport" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alderney_Airport | city | Alderney</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alderney_Airport | cityServed | Alderney</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alderney_Airport | cityServed | Alderney</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alderney Airport serves Alderney.</lex>
-      <lex comment="good" lid="Id2">Alderney Airport serves the city of Alderney.</lex>
-    </entry>
     <entry category="Airport" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Amsterdam_Airport_Schiphol | city | Amsterdam</otriple>
@@ -78,17 +55,6 @@
       <lex comment="good" lid="Id1">Amsterdam Airport Schiphol serves the city of Amsterdam.</lex>
       <lex comment="good" lid="Id2">Amsterdam airport, Schiphol serves the city of Amsterdam.</lex>
       <lex comment="good" lid="Id3">Amsterdam Airport Schiphol serves Amsterdam.</lex>
-    </entry>
-    <entry category="Airport" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Andrews_County,_Texas | countySeat | Andrews,_Texas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Andrews_County,_Texas | countySeat | Andrews,_Texas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrews County, Texas is country seat to Andrews, Texas.</lex>
-      <lex comment="good" lid="Id2">Andrews, Texas is the country seat of Andrews County, Texas.</lex>
-      <lex comment="good" lid="Id3">Andrews County, Texas has its county seat in Andrews, Texas.</lex>
     </entry>
     <entry category="Airport" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -115,17 +81,6 @@
       <lex comment="good" lid="Id2">Angola International Airport serves the city of Luanda.</lex>
       <lex comment="good" lid="Id3">Angola International Airport serves Luanda.</lex>
     </entry>
-    <entry category="Airport" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Athens | mayor | Giorgos_Kaminis</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Athens | mayor | Giorgos_Kaminis</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Athens mayor is Giorgos Kaminis.</lex>
-      <lex comment="good" lid="Id2">Giorgos Kaminis is the mayor of Athens.</lex>
-      <lex comment="good" lid="Id3">The mayor of Athens is Giorgos Kaminis.</lex>
-    </entry>
     <entry category="Airport" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Belgium | leaderName | Philippe_of_Belgium</otriple>
@@ -148,19 +103,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Greek is the language spoken in Greece.</lex>
       <lex comment="good" lid="Id2">The language spoken in Greece is Greek.</lex>
-    </entry>
-    <entry category="Airport" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Pakistan | leader | Anwar_Zaheer_Jamali</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Pakistan | leaderName | Anwar_Zaheer_Jamali</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Pakistan | leader | Anwar_Zaheer_Jamali</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of Pakistan is Anwar Zaheer Jamali.</lex>
-      <lex comment="good" lid="Id2">Pakistan has a leader called Anwar Zaheer Jamali.</lex>
     </entry>
     <entry category="Airport" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

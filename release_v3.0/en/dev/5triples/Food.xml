@@ -1,25 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Food" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Amatriciana_sauce | region | Lazio</otriple>
-        <otriple>Amatriciana_sauce | country | Italy</otriple>
-        <otriple>Amatriciana_sauce | ingredient | Guanciale</otriple>
-        <otriple>Amatriciana_sauce | course | Italian_meal_structure</otriple>
-        <otriple>Amatriciana_sauce | mainIngredient | "Tomatoes, guanciale, cheese , olive oil"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Amatriciana_sauce | region | Lazio</mtriple>
-        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
-        <mtriple>Amatriciana_sauce | ingredient | Guanciale</mtriple>
-        <mtriple>Amatriciana_sauce | course | Italian_meal_structure</mtriple>
-        <mtriple>Amatriciana_sauce | mainIngredient | "Tomatoes, guanciale, cheese, olive oil"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Tomatoes, guanciale, cheese, and olive oil are main ingredients in the traditional Amatriciana sauce, which comes from the region of Lazio and can be found in an Italian meal.</lex>
-      <lex comment="good" lid="Id2">Amatriciana is a traditional sauce from Lazio, Italy. It includes cheese along with tomatoes, guanciale and olive oil.</lex>
-      <lex comment="good" lid="Id3">Amatriciana sauce can be found in Italian food and comes from the country's Lazio region. The main ingredients of the sauce are guanciale, tomatoes, cheese, and olive oil.</lex>
-    </entry>
     <entry category="Food" eid="Id4" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Arrabbiata_sauce | country | Italy</otriple>
@@ -56,25 +37,6 @@
       <lex comment="good" lid="Id1">Asam pedas is a food found in the Malay Peninsula of Malaysia, whose capital is Kuala Lumpur, and includes the Malaysian Chinese and Malaysian Indians.</lex>
       <lex comment="good" lid="Id2">Asam pedas is a food found in the Malay Peninsula in Malaysia, whose capital is Kuala Lumpur, where Malaysian Indians and Malaysian Chinese are ethnic groups.</lex>
       <lex comment="good" lid="Id3">Malaysia and the Malay Peninsula are home to the dish Asam pedas. The capital of Malaysian Chinese and Indian inhabited Malaysia is Kuala Lumpur.</lex>
-    </entry>
-    <entry category="Food" eid="Id9" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Ayam_penyet | region | Malaysia</otriple>
-        <otriple>Malaysia | ethnicGroup | Malaysian_Chinese</otriple>
-        <otriple>Ayam_penyet | ingredient | Fried_chicken</otriple>
-        <otriple>Ayam_penyet | country | Indonesia</otriple>
-        <otriple>Ayam_penyet | mainIngredient | "\"Squeezed\" or \"smashed\" fried chicken served with sambal"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ayam_penyet | region | Malaysia</mtriple>
-        <mtriple>Malaysia | ethnicGroup | Malaysian_Chinese</mtriple>
-        <mtriple>Ayam_penyet | ingredient | Fried_chicken</mtriple>
-        <mtriple>Ayam_penyet | country | Indonesia</mtriple>
-        <mtriple>Ayam_penyet | mainIngredient | "Squeezed" or "smashed" fried chicken served with sambal</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Malaysian Chinese is an ethnic group from Malaysia and Ayam Penyet is from there. Ayam Penyet is also from Indonesia and it contains fried chicken as well as "squeezed" or "smashed" chicken served with sambal.</lex>
-      <lex comment="good" lid="Id2">Ayam penyet is a dish comprising "squeezed" or "smashed" fried chicken served with sambal. It can be found in Indonesia and in Malaysia, where there is an ethnic group called Malaysian Chinese.</lex>
-      <lex comment="good" lid="Id3">Ayam penyet (origins: Indonesia) contains squeezed/smashed fried chicken with sambal and is popular in Malaysia. Malasysia is home to the Malaysian chinese.</lex>
     </entry>
     <entry category="Food" eid="Id12" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -134,24 +96,6 @@
         <mtriple>Bhajji | region | Karnataka</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Indian people enjoy the dish bhajji, which originates from the Karnataka region of India. This nation is led by T.S. Thakur and Sumitra Mahajan.</lex>
-    </entry>
-    <entry category="Food" eid="Id20" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Bionico | country | Mexico</otriple>
-        <otriple>Mexico | language | Spanish_language</otriple>
-        <otriple>Mexico | leader | Silvano_Aureoles_Conejo</otriple>
-        <otriple>Bionico | course | Dessert</otriple>
-        <otriple>Dessert | hasVariant | Cookie</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bionico | country | Mexico</mtriple>
-        <mtriple>Mexico | language | Spanish_language</mtriple>
-        <mtriple>Mexico | leader | Silvano_Aureoles_Conejo</mtriple>
-        <mtriple>Bionico | course | Dessert</mtriple>
-        <mtriple>Dessert | dishVariation | Cookie</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bionico is a dish found in Mexico, where Spanish is spoken and the leader is Silvano Aureoles Conejo. Bionico is a dish served for dessert and a cookie can be served as a dessert too.</lex>
-      <lex comment="good" lid="Id2">Mexico is a spanish speaking country and is led by Silvano Aureoles Conejo. A type of food is Bionico, which is a type of cookie served for dessert.</lex>
     </entry>
     <entry category="Food" eid="Id23" shape="(X (X (X) (X) (X)) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -234,23 +178,5 @@
       <lex comment="good" lid="Id2">Just like in Indonesia, Beef kway teow is popular nationwide is Singapore (where it comes from). In this country, English is spoken and two of the leaders are Halimah Yacob and Tony Tan.</lex>
       <lex comment="good" lid="Id3">Beef kway teow is a popular dish in Singapore and Indonesia. Tony Tan and Halimah Yacob are leaders in Singapore where English is spoken.</lex>
     </entry>
-    <entry category="Food" eid="Id30" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
-        <otriple>Spain | language | Spanish_language</otriple>
-        <otriple>Spain | currency | Euro</otriple>
-        <otriple>Ajoblanco | country | Spain</otriple>
-        <otriple>Spain | demonym | Spaniards</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
-        <mtriple>Spain | language | Spanish_language</mtriple>
-        <mtriple>Spain | currency | Euro</mtriple>
-        <mtriple>Ajoblanco | country | Spain</mtriple>
-        <mtriple>Spain | demonym | Spaniards</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ajoblanco is a dish from Spain, where the currency is the euro, the leader is Felipe VI, the language spoken is Spanish and the people that live there are called Spaniards.</lex>
-      <lex comment="good" lid="Id2">Ajoblanco is a food found in Spanish speaking and Felipe VI led Spain. It is also home to the Spaniards and can be purchased with the Euro.</lex>
-    </entry>
-  </entries>
+    </entries>
 </benchmark>

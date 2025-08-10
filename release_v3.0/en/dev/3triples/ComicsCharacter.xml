@@ -51,24 +51,6 @@
       <lex comment="good" lid="Id2">Baymax's first film appearance was in Big Hero 6. He was created by Duncan Rouleau and Steven T Seagle.</lex>
       <lex comment="good" lid="Id3">Duncan Rouleau and Steven T. Seagle created Baymax who had his first movie appearance in Big Hero 6.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Bibbo_Bibbowski | creator | Jerry_Ordway</otriple>
-        <otriple>Bibbo_Bibbowski | creators | Marv_Wolfman</otriple>
-        <otriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Bibbo_Bibbowski | creators | Jerry_Ordway</otriple>
-        <otriple>Bibbo_Bibbowski | creator | Marv_Wolfman</otriple>
-        <otriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bibbo_Bibbowski | creator | Jerry_Ordway</mtriple>
-        <mtriple>Bibbo_Bibbowski | creator | Marv_Wolfman</mtriple>
-        <mtriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The creator of Bibbo Bibbowski, who is often called Bibbo, are Jerry Ordway and Marv Wolfman.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>

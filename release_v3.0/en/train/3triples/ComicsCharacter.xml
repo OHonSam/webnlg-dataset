@@ -1,26 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="ComicsCharacter" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
-        <otriple>Asterix_(character) | creator | Albert_Uderzo</otriple>
-        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
-        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
-        <otriple>Asterix_(character) | creators | Albert_Uderzo</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
-        <mtriple>Asterix_(comicsCharacter) | alternativeName | "Astérix"</mtriple>
-        <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The comic character Asterix, was created by René Goscinny and Albert Uderzo.</lex>
-      <lex comment="good" lid="Id2">Asterix the comic character whose alternative name is Asterix was created by Albert Uderzo and Rene Goscinny.</lex>
-      <lex comment="good" lid="Id3">Asterix, alternatively "Astérix", is a comic book character created by René Goscinny and Albert Uderzo.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Aurakles | creators | Dick_Dillin</otriple>
@@ -39,26 +19,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The character of Aurakles has the alternative name of Aurakles and was created by Len Wein and Dick Dillin.</lex>
       <lex comment="good" lid="Id2">Dick Dillin and Len Wein created the character Aurakles.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
-        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
-        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
-        <otriple>Auron_(comics) | creators | "Marv Wolfman"@en</otriple>
-        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
-        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
-        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Marv Wolfman and Karl Kesel are the creators of the comic character Auron, whose full name is Lambien.</lex>
-      <lex comment="good" lid="Id2">The comic character Auron, whose full name is Lambien, was created by Karl Kesel and Marv Wolfman.</lex>
-      <lex comment="good" lid="Id3">Auron, a comic book character whose full name is Lambien, was created by Karl Kesel and Marv Wolfman.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -109,21 +69,6 @@
       <lex comment="good" lid="Id2">The BBC which broadcasted Bananaman is located in London and the key person is Rona Fairhead.</lex>
       <lex comment="good" lid="Id3">The BBC, where Rona Fairhead was a key person, is located in London and broadcasts Bananaman.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id15" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>BBC | keyPeople | Tony_Hall,_Baron_Hall_of_Birkenhead</otriple>
-        <otriple>Bananaman | network | BBC</otriple>
-        <otriple>BBC | locationCity | Broadcasting_House</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>BBC | keyPerson | Tony_Hall,_Baron_Hall_of_Birkenhead</mtriple>
-        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
-        <mtriple>BBC | city | Broadcasting_House</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Tony Hall, Baron Hall of Birkenhead is a key person at the BBC which has headquarters at Broadcasting House and broadcast Bananaman.</lex>
-      <lex comment="good" lid="Id2">Bananaman, the TV series was shown on the BBC which has its home at Broadcasting House in London. A key person at the BBC is Tony Hall, Baron Hall of Birkenhead.</lex>
-      <lex comment="good" lid="Id3">Bananaman, the TV series, was shown on the BBC. Broadcasting House in London is the location of the BBC and a key person there is Tony Hall or Baron Hall of Birkenhead to give him his full title.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Ballistic_(DC_Comics) | creator | Doug_Moench</otriple>
@@ -153,26 +98,6 @@
       <lex comment="good" lid="Id1">Graeme Garden stars in Bananaman which is broadcast by the BBC and first aired on 3 October 1983.</lex>
       <lex comment="good" lid="Id2">Bananaman was first broadcast by the BBC on 3 October 1983 and starred Graeme Garden.</lex>
       <lex comment="good" lid="Id3">Graeme Garden stars in the TV series of Bananaman which was shown on BBC and first aired on 3 October 1983.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id25" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Bananaman | starring | Bill_Oddie</otriple>
-        <otriple>Bill_Oddie | children | Kate_Hardie</otriple>
-        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Bananaman | starring | Bill_Oddie</otriple>
-        <otriple>Bill_Oddie | child | Kate_Hardie</otriple>
-        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
-        <mtriple>Bill_Oddie | child | Kate_Hardie</mtriple>
-        <mtriple>Bill_Oddie | birthPlace | Lancashire</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Billie Oddie who starred in Bananaman is Kate Hardie's son and was born in Lancashire.</lex>
-      <lex comment="good" lid="Id2">Bill Oddie, who stars in Bananaman, was born in Lancashire and has a child called Kate Hardie.</lex>
-      <lex comment="good" lid="Id3">Bill Oddie, who starred in Bananaman, was born in Lancashire and has a daughter called Kate Hardie.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id26" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -269,20 +194,6 @@
       <lex comment="good" lid="Id2">Roger McKenzie and the American, Gene Colan created the comic book character of Ben Urich.</lex>
       <lex comment="good" lid="Id3">Ben Urich was created by the American, Gene Colan and the comic book writer, Roger McKenzie.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id40" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
-        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
-        <otriple>Big_Hero_6_(film) | starring | Jamie_Chung</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
-        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
-        <mtriple>Big_Hero_6_(film) | starring | Jamie_Chung</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The distributor of the film Big Hero 6, which stars Jamie Chung, is Walt Disney Studios Motion Pictures. The character Baymax appears in this film.</lex>
-      <lex comment="good" lid="Id2">Big Hero 6, a film distributed by Walt Disney Studios Motion Pictures, starred Jamie Chung and included the character Baymax.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id42" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
@@ -297,25 +208,6 @@
       <lex comment="good" lid="Id1">Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6 that stars Alan Tudyk and in which Baymax is a character.</lex>
       <lex comment="good" lid="Id2">Big Hero 6 is a Disney Studios Motion Picture which stars Alan Tudyk and has Baymax as a character.</lex>
       <lex comment="good" lid="Id3">Alan Tudyk stars in the film Big Hero 6 in which Baymax is a character. The film is distributed by Walt Disney Studios Motion Pictures.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id45" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
-        <otriple>Blockbuster_(DC_Comics) | creators | Carmine_Infantino</otriple>
-        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
-        <otriple>Blockbuster_(DC_Comics) | creator | Carmine_Infantino</otriple>
-        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
-        <mtriple>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino</mtriple>
-        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Roland Desmond"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The comic character Blockbuster is also known as Roland Desmond and was created by Gardner Fox and Carmine Infantino.</lex>
-      <lex comment="good" lid="Id2">Roland Desmond is the alternative name for the comic book character Blockbuster, who was created by Carmine Infantino and Gardner Fox.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id47" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -335,26 +227,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The comic character, Blockbuster's alternative name is Roland Desmond and was created by Gardner Fox and Roger Stern.</lex>
       <lex comment="good" lid="Id2">The comic character, Blockbuster (a.k.a. Roland Desmond) was created by Gardner Fox and Roger Stern.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id48" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
-        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
-        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
-        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
-        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
-        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
-        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The comic book character Blockbuster, aka Mark Desmond, was created by Gardner Fox and Tom Lyle.</lex>
-      <lex comment="good" lid="Id2">The comic character, Blockbuster, has the alternative name, Mark Desmond and was created by Tom Lyle and Gardner Fox.</lex>
-      <lex comment="good" lid="Id3">The comic character, Blockbuster (a.k.a. Mark Desmond) was created by Gardner Fox and Tom Lyle.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id49" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -390,26 +262,6 @@
       <lex comment="good" lid="Id1">Ernie Colon, a Puerto Rican national created Bolt along with Dan Mishkin.</lex>
       <lex comment="good" lid="Id2">Dan Mishkin and the Puerto Rican national Ernie Colon created the comic character of Bolt.</lex>
       <lex comment="good" lid="Id3">The comic character Bolt was created by Dan Mishkin and Ernie Colon who is Puerto Rican.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id55" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
-        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
-        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
-        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
-        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
-        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
-        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bolt is a comic character created by Paris Cullins and the Puerto Rican national, Ernie Colon.</lex>
-      <lex comment="good" lid="Id2">Puerto Rican Ernie Colon and Paris Cullins created the comic character Bolt.</lex>
-      <lex comment="good" lid="Id3">Ernie Colón is a national of Puerto Rico so he is considered Puerto Rican and along with Paris Cullins is the creator of the comic character Bolt.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id58" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

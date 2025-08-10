@@ -91,20 +91,6 @@
       <lex comment="good" lid="Id3">Alan Shepard was born in New Hampshire and spent 13017 minutes in space.</lex>
       <lex comment="good" lid="Id4">Alan Shepard was born in New Hampshire and spent 13017.0 minutes in space.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id18" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Alan_Shepard | mission | Apollo_14</otriple>
-        <otriple>Apollo_14 | operator | NASA</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Shepard | mission | Apollo_14</mtriple>
-        <mtriple>Apollo_14 | operator | NASA</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard was a member of the crew of Apollo 14 which was operated by NASA.</lex>
-      <lex comment="good" lid="Id2">NASA's Apollo 14 mission crew included Alan Shepard.</lex>
-      <lex comment="good" lid="Id3">NASA's Apollo 14 saw Alan Shepard as one of its crew members.</lex>
-      <lex comment="good" lid="Id4">Alan Shepard was a crew member of NASA's Apollo 14.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Buzz_Aldrin | alternativeNames | "Edwin E. Aldrin, Jr."</otriple>
@@ -117,21 +103,6 @@
       <lex comment="good" lid="Id1">Edwin E. Aldrin, Jr. who was born on 20th January 1930, went on to be known as Buzz Aldrin.</lex>
       <lex comment="good" lid="Id2">Edwin E. Aldrin, Jr. was commonly known as Buzz Aldrin and was born January 20, 1930.</lex>
       <lex comment="good" lid="Id3">Edwin E. Aldrin Junior's nickname was Buzz Aldrin and he was born on January 20th, 1930.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id21" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Buzz_Aldrin | awards | 20</otriple>
-        <otriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Buzz_Aldrin | awards | 20</mtriple>
-        <mtriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin, who graduated from Massachusetts Institute of Technology, Sc.D. in 1963, has received 20 awards.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin, who graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science, has received 20 awards.</lex>
-      <lex comment="good" lid="Id3">Buzz Aldrin, who graduated from Massachusetts Institute of Technology with a Sc.D in 1963, has won 20 awards.</lex>
-      <lex comment="good" lid="Id4">Buzz Aldrin graduated from the Massachusetts Institute of Technology, Sc.D. 1963 and is the recipient of 20 awards.</lex>
-      <lex comment="good" lid="Id5">Buzz Aldrin graduated from Massachusetts Institute of Technology in 1963. He obtained 20 awards.</lex>
     </entry>
     <entry category="Astronaut" eid="Id23" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -171,18 +142,6 @@
       <lex comment="good" lid="Id2">Buzz Aldrin, now retired, was hired by NASA in 1963.</lex>
       <lex comment="good" lid="Id3">Retiree Buzz Aldrin joined NASA in 1963.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id28" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Dallas | partsType | List_of_counties_in_Texas</otriple>
-        <otriple>Elliot_See | birthPlace | Dallas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Dallas | partsType | List_of_counties_in_Texas</mtriple>
-        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See was born in Dallas, Texas.</lex>
-      <lex comment="good" lid="Id2">Elliot See was born in Dallas County, Dallas Texas.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id31" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
@@ -198,20 +157,6 @@
       <lex comment="good" lid="Id4">Dallas native Elliot See's alma mater was the University of Texas at Austin.</lex>
       <lex comment="good" lid="Id5">Elliot See graduated from the University of Texas, Austin. He was born in Dallas.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id32" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
-        <otriple>University_of_Texas_at_Austin | affiliations | University_of_Texas_System</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
-        <mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See graduated from the University of Texas at Austin, affiliated to the university of Texas system.</lex>
-      <lex comment="good" lid="Id2">Elliot See was a student at the University of Texas at Austin which is part of the University of Texas system.</lex>
-      <lex comment="good" lid="Id3">Elliot See graduated from the University of Texas at Austin, which is affiliated with the University of Texas System.</lex>
-      <lex comment="good" lid="Id4">Elliot See's alma mater is the University of Texas at Austin which is affiliated with the University of Texas System.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id35" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Elliot_See | deathPlace | St._Louis</otriple>
@@ -225,19 +170,6 @@
       <lex comment="good" lid="Id2">Elliot See died in St Louis situated in the Kingdom of France.</lex>
       <lex comment="good" lid="Id3">Elliot See died in St. Louis which was once part of the Kingdom of France.</lex>
       <lex comment="good" lid="Id4">Elliot See died in St. Louis (part of Kingdom of France).</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id37" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Elliot_See | status | "Deceased"</otriple>
-        <otriple>Elliot_See | deathPlace | St._Louis</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Elliot_See | status | "Deceased"</mtriple>
-        <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See died in St. Louis.</lex>
-      <lex comment="good" lid="Id2">Elliot See passed away in St Louis.</lex>
-      <lex comment="good" lid="Id3">Elliot See is deceased and died in St. Louis.</lex>
     </entry>
     <entry category="Astronaut" eid="Id40" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -271,19 +203,6 @@
       <lex comment="good" lid="Id5">William Anders was born in British Hong Kong but has a United States nationality.</lex>
       <lex comment="good" lid="Id6">William Anders from the United States was born in British Hong Kong.</lex>
       <lex comment="good" lid="Id7">William Anders was born in British Hong Kong and is a citizen of the United States.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id44" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>William_Anders | years | 1976</otriple>
-        <otriple>William_Anders | title | United_States_Ambassador_to_Norway</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>William_Anders | servedAsChiefOfTheAstronautOfficeIn | 1976</mtriple>
-        <mtriple>William_Anders | title | United_States_Ambassador_to_Norway</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">William Anders served as Chief of the Astronaut Office in 1976 and had a title as the United States Ambassador to Norway.</lex>
-      <lex comment="good" lid="Id2">William Anders time as Chief of the Astronaut Office in 1976 has prepared him well for his new position as United States Ambassador to Norway.</lex>
-      <lex comment="good" lid="Id3">The United States Ambassador to Norway, William Anders, served as Chief of the Astronaut Office in 1976.</lex>
     </entry>
     <entry category="Astronaut" eid="Id46" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

@@ -1,25 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Company" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>GMA_New_Media | foundingYear | 2000-01-01</otriple>
-        <otriple>GMA_New_Media | product | Mobile_Applications</otriple>
-        <otriple>GMA_New_Media | industry | Mass_Media</otriple>
-        <otriple>GMA_New_Media | keyPerson | Felipe_Gozon</otriple>
-        <otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>GMA_New_Media | foundingDate | 2000-01-01</mtriple>
-        <mtriple>GMA_New_Media | product | Mobile_Applications</mtriple>
-        <mtriple>GMA_New_Media | industry | Mass_Media</mtriple>
-        <mtriple>GMA_New_Media | keyPerson | Felipe_Gozon</mtriple>
-        <mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">GMA New Media, a maker of mobile applications founded on 01-01-2000, is a mass media industry with headquarters in the GMA Network Center. Felipe Gozon is a key person in GMA New Media.</lex>
-      <lex comment="good" lid="Id2">GMA New Media (founded on January 01, 2000) is a company in mass media industry that offers products such as mobile applications. Felipe Gozon is the key person on GMA New Media, which is located inside the GMA Network Center.</lex>
-      <lex comment="good" lid="Id3">GMA New Media founded on January 01,2000 is located in the GMA Network Center. This company is in the mass media industry, makes mobile apps and Felipe Gozon is the key person on board.</lex>
-    </entry>
     <entry category="Company" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Trane | product | Building_Management_System</otriple>

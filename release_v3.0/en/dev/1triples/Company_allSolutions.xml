@@ -23,21 +23,6 @@
       <lex comment="good" lid="Id2">Felipe Gozon is a key person in GMA New Media.</lex>
       <lex comment="good" lid="Id3">The key person on GMA New Media is Felipe Gozon.</lex>
     </entry>
-    <entry category="Company" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>La_Crosse,_Wisconsin | areaTotal | 58.37833200697344</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>La_Crosse,_Wisconsin | areaTotal | 58.38</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>La_Crosse,_Wisconsin | areaTotal | 58.38</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">La Crosse is a city in the U.S. state of Wisconsin, and the city has a total area of 58.38.</lex>
-      <lex comment="good" lid="Id2">The total area of La Crosse Wisconsin is 58.38 square kilometers.</lex>
-      <lex comment="good" lid="Id3">The total area of LaCrosse Wisconsin is 58.38.</lex>
-      <lex comment="good" lid="Id4">La Crosse, Wisconsin has a total area of 58.38.</lex>
-    </entry>
     <entry category="Company" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Swords,_Dublin | isPartOf | Dublin_(European_Parliament_constituency)</otriple>

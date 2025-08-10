@@ -15,21 +15,6 @@
       <lex comment="good" lid="Id1">Born in Greene Maine, Aaron S. Daggett, fought in the Battle of Gettysburg and was awarded the Purple Heart.</lex>
       <lex comment="good" lid="Id2">Aaron S. Daggett was born in Greene, Maine, he fought at the Battle of Gettysburg and was awarded the Purple Heart.</lex>
     </entry>
-    <entry category="Politician" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Aaron_S._Daggett | battles | Battle_of_the_Wilderness</otriple>
-        <otriple>Aaron_S._Daggett | award | Purple_Heart</otriple>
-        <otriple>Aaron_S._Daggett | birthPlace | Maine</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_S._Daggett | battle | Battle_of_the_Wilderness</mtriple>
-        <mtriple>Aaron_S._Daggett | award | Purple_Heart</mtriple>
-        <mtriple>Aaron_S._Daggett | birthPlace | Maine</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Maine born Aaron S Daggett fought in the Battle of the Wilderness and was awarded the Purple Heart.</lex>
-      <lex comment="good" lid="Id2">Aaron S. Daggett was born in Maine, fought in the Battle of the Wilderness and was awarded the Purple Heart.</lex>
-      <lex comment="good" lid="Id3">Born in maine, Aaron S Daggett, fought in the Battle of the Wilderness and was awarded the Purple Heart.</lex>
-    </entry>
     <entry category="Politician" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Ab_Klink | almaMater | Sociology</otriple>
@@ -80,21 +65,6 @@
       <lex comment="good" lid="Id2">Ab Klink worked as a member of the senate and has the alma mater, Erasmus University Rotterdam which is affiliated to the Association of MBAs.</lex>
       <lex comment="good" lid="Id3">Ab Klink worked as a member of the senate and had the alma mater, Erasmus University in Rotterdam which is affiliated to Association of MBAs.</lex>
     </entry>
-    <entry category="Politician" eid="Id13" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Ab_Klink | almaMater | Erasmus_University_Rotterdam</otriple>
-        <otriple>Erasmus_University_Rotterdam | affiliation | Association_of_MBAs</otriple>
-        <otriple>Ab_Klink | office | Ministry_of_Health,_Welfare_and_Sport_(Netherlands)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ab_Klink | almaMater | Erasmus_University_Rotterdam</mtriple>
-        <mtriple>Erasmus_University_Rotterdam | affiliation | Association_of_MBAs</mtriple>
-        <mtriple>Ab_Klink | office | Ministry_of_Health,_Welfare_and_Sport_(Netherlands)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ab Klink worked at the Ministry of Health, Welfare and Sport in Netherlands and before that attended Erasmus University in Rotterdam which is affiliated with the Association of MBAs.</lex>
-      <lex comment="good" lid="Id2">Ab Klink, who worked at the Ministry of Health, Welfare and Sport in the Netherlands, studied at the Erasmus University in Rotterdam, which is affiliated to the Association of MBAs.</lex>
-      <lex comment="good" lid="Id3">Ab Klink, who was employed at the Ministry of Health, Welfare and Sport in the Netherlands, studied at Erasmus University Rotterdam which is affiliated to Association of MBAs.</lex>
-    </entry>
     <entry category="Politician" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Ab_Klink | almaMater | Leiden_University</otriple>
@@ -144,21 +114,6 @@
       <lex comment="good" lid="Id2">Stellendam was the birthplace of Ab Klink who belongs to the Christian Democratic Appeal party. Mr. Klink's alma mater is Leiden University.</lex>
       <lex comment="good" lid="Id3">Ab Klink, who was born in Stellendam and studied at Leiden University, is a member of the Christian Democratic Appeal party.</lex>
     </entry>
-    <entry category="Politician" eid="Id22" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Abdul_Rahman_Ya'kub | governor | Tuanku_Bujang_Tuanku_Othman</otriple>
-        <otriple>Abdul_Taib_Mahmud | birthPlace | Miri,_Malaysia</otriple>
-        <otriple>Abdul_Taib_Mahmud | successor | Abdul_Rahman_Ya'kub</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abdul_Rahman_Ya'kub | inOfficeWhileVicePresident | Tuanku_Bujang_Tuanku_Othman</mtriple>
-        <mtriple>Abdul_Taib_Mahmud | birthPlace | Miri,_Malaysia</mtriple>
-        <mtriple>Abdul_Taib_Mahmud | successor | Abdul_Rahman_Ya'kub</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abdul Rahman Ya'kub, born in Miri, Malaysia, was in office during Tuanku Bujang Tuanku Othman Vice Presidency and was the suceessor to Abdul Taib Mahmud.</lex>
-      <lex comment="good" lid="Id2">Miri, Malaysia, is the birthplace of Abdul Taib Mahmud, who was succeeded by Abdul Rahman Ya'kub. Abdul Rahman Ya'kub was in office whilst Tuanku Bujang Tuanku Othman was Vice President.</lex>
-      <lex comment="good" lid="Id3">Abdul Taib Mahmud was born in Miri, Malaysia and was succeeded by Abdul Rahman Ya'kub who was in office whilst Tuanku Bujang Tuanku Othman was Vice President.</lex>
-    </entry>
     <entry category="Politician" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak</otriple>
@@ -188,26 +143,6 @@
       <lex comment="good" lid="Id1">Abdul Taib Mahmud, whose party is the Parti Pesaka Bumiputera Bersatu, was born in the Kingdom of Sarawak and resides at Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
       <lex comment="good" lid="Id2">Abdul Taib Mahmud's birthplace was Kingdom of Sarawak and he lived in Demak Jaya, Jalan Bako, Kuching, Sarawak. Mr. Mahmud was part of the Parti Pesaka Bumiputera Bersatu.</lex>
       <lex comment="good" lid="Id3">Abdul Taib Mahmud was born in the Kingdom of Sarawak and lives in Demak Jaya, Jalan Bako, Kuching, Sarawak. The Parti Pesaka Bumiputera Bersatu is his political affiliation.</lex>
-    </entry>
-    <entry category="Politician" eid="Id28" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</otriple>
-        <otriple>Abdul_Taib_Mahmud | residence | Kuching</otriple>
-        <otriple>Abdul_Taib_Mahmud | birthPlace | Miri,_Malaysia</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Abdul_Taib_Mahmud | residence | Kuching</otriple>
-        <otriple>Abdul_Taib_Mahmud | birthPlace | Miri,_Malaysia</otriple>
-        <otriple>Abdul_Taib_Mahmud | party | "Parti Pesaka Bumiputera Bersatu"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</mtriple>
-        <mtriple>Abdul_Taib_Mahmud | residence | Kuching</mtriple>
-        <mtriple>Abdul_Taib_Mahmud | birthPlace | Miri,_Malaysia</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abdul Taib Mahmud, who belongs to the Parti Pesaka Bumiputera Bersatu, was born in Miri, Malaysia and resides in Kuching.</lex>
-      <lex comment="good" lid="Id2">Abdul Taib Mahmud was born in Miri, Malaysia, now lives in Kuching and is a member of the Parti Pesaka Bumiputera Bersatu.</lex>
-      <lex comment="good" lid="Id3">Abdul Taib Mahmud, who resides in Kuching and was born in Miri, Malaysia, is a member the Parti Pesaka Bumiputera Bersatu party.</lex>
     </entry>
     <entry category="Politician" eid="Id32" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -239,36 +174,6 @@
       <lex comment="good" lid="Id2">Abdulsalami Abubakar served in the Nigerian Air Force and was succeeded by Al-Amin Daggash. He was in office while Mike Akhigbe was the Vice President.</lex>
       <lex comment="good" lid="Id3">Abdulsalami Abubakar; served in the Nigerian Air Force, was in office while Mike Akhigbe was the Vice President and was succeeded by, Al-Amin Daggash.</lex>
     </entry>
-    <entry category="Politician" eid="Id36" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Abdulsalami_Abubakar | office | "Chief of Defence Staff"</otriple>
-        <otriple>Abdulsalami_Abubakar | birthPlace | Minna</otriple>
-        <otriple>Abdulsalami_Abubakar | almaMater | "Technical Institute, Kaduna"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Abdulsalami_Abubakar | birthPlace | Minna</otriple>
-        <otriple>Abdulsalami_Abubakar | office | Chief_of_the_Defence_Staff_(Nigeria)</otriple>
-        <otriple>Abdulsalami_Abubakar | almaMater | Technical_Institute,_Kaduna</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Abdulsalami_Abubakar | office | "Chief of Defence Staff"</otriple>
-        <otriple>Abdulsalami_Abubakar | birthPlace | Minna</otriple>
-        <otriple>Abdulsalami_Abubakar | almaMater | Technical_Institute,_Kaduna</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Abdulsalami_Abubakar | birthPlace | Minna</otriple>
-        <otriple>Abdulsalami_Abubakar | almaMater | "Technical Institute, Kaduna"@en</otriple>
-        <otriple>Abdulsalami_Abubakar | office | Chief_of_the_Defence_Staff_(Nigeria)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abdulsalami_Abubakar | office | Chief_of_the_Defence_Staff_(Nigeria)</mtriple>
-        <mtriple>Abdulsalami_Abubakar | birthPlace | Minna</mtriple>
-        <mtriple>Abdulsalami_Abubakar | almaMater | Technical_Institute,_Kaduna</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abdulsalami Abubakar, who worked as Nigerian Chief of Defence staff, was born in Minna and graduated from the Technical Institute Kaduna.</lex>
-      <lex comment="good" lid="Id2">Nigerian Chief of the Defence Staff, Abdulsalami Abubakar, was born in Minna and hails The Technical Institute, Kaduna as his alma mater.</lex>
-      <lex comment="good" lid="Id3">Abdulsalami Abubakar was born in Minna and attended the Technical Institute Kaduna. He worked as the Nigerian Chief of the Defence Staff.</lex>
-    </entry>
     <entry category="Politician" eid="Id38" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Abdulsalami_Abubakar | successor | Olusegun_Obasanjo</otriple>
@@ -282,26 +187,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Nigerian Army man Abdulsalami Abubakar, who was succeeded by Olusegun Obasanjo, was in office while Mike Akhigbe was Vice President.</lex>
       <lex comment="good" lid="Id2">Abdulsalami Abubakar served in the Nigerian Army, was in office while Mike Akhigbe was Vice President and was later succeeded by Olusegun Obasanjo.</lex>
-    </entry>
-    <entry category="Politician" eid="Id42" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Abel_Caballero | birthPlace | Spain</otriple>
-        <otriple>Abel_Caballero | office | "Mayor of Vigo"@en</otriple>
-        <otriple>Abel_Caballero | placeOfBirth | Galicia_(Spain)</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Abel_Caballero | birthPlace | Galicia_(Spain)</otriple>
-        <otriple>Abel_Caballero | office | "Mayor of Vigo"@en</otriple>
-        <otriple>Abel_Caballero | placeOfBirth | Spain</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abel_Caballero | birthPlace | Spain</mtriple>
-        <mtriple>Abel_Caballero | office | "Mayor of Vigo"</mtriple>
-        <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abel Caballero, Mayor of Vigo, was born in Galicia, Spain.</lex>
-      <lex comment="good" lid="Id2">Galician and Spanish born Abel Caballero was the Mayor of Vigo.</lex>
-      <lex comment="good" lid="Id3">Abel Caballero was born in Galicia, in Spain and works as the Mayor of Vigo.</lex>
     </entry>
     <entry category="Politician" eid="Id43" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -343,21 +228,6 @@
       <lex comment="good" lid="Id2">Abel Caballero, was in office while Felipe González was Prime Minister and Juan Carlos I of Spain was Monarch. Juan Carlos I of Spain's predecessor was Alfonso XIII of Spain.</lex>
       <lex comment="good" lid="Id3">Abel Caballero was in office while Felipe González was Prime Minister and Juan Carlos I, who succeeded Alfonso XIII, was Monarch.</lex>
     </entry>
-    <entry category="Politician" eid="Id46" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Abel_Caballero | monarch | Juan_Carlos_I_of_Spain</otriple>
-        <otriple>Juan_Carlos_I_of_Spain | birthPlace | Rome</otriple>
-        <otriple>Juan_Carlos_I_of_Spain | predecessor | Alfonso_XIII_of_Spain</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abel_Caballero | inOfficeWhileMonarch | Juan_Carlos_I_of_Spain</mtriple>
-        <mtriple>Juan_Carlos_I_of_Spain | birthPlace | Rome</mtriple>
-        <mtriple>Juan_Carlos_I_of_Spain | predecessor | Alfonso_XIII_of_Spain</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Juan Carlos I of Spain was born in Rome and preceded Alfonso XIII. Whilst he was monarch Abel Caballero was in office.</lex>
-      <lex comment="good" lid="Id2">Abel Caballero was in office during the reign of King Juan Carlos I of Spain, who was born in Rome and preceded Alfonso XIII of Spain.</lex>
-      <lex comment="good" lid="Id3">Abel Caballero was in office during the reign of Juan Carlos I of Spain, who was born in Rome and succeeded Alfonso XIII of Spain.</lex>
-    </entry>
     <entry category="Politician" eid="Id49" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Abel_Caballero | monarch | Juan_Carlos_I_of_Spain</otriple>
@@ -388,21 +258,6 @@
       <lex comment="good" lid="Id2">Abel Caballero was born in Ponteareas and was in office during the reign of King Juan Carlos I of Spain whose predecessor was Francisco Franco.</lex>
       <lex comment="good" lid="Id3">Abel Caballero was born in Ponteareas, Spain and while he was in office Juan Carlos was the Monarch and his predecessor was Francisco Franco.</lex>
     </entry>
-    <entry category="Politician" eid="Id53" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Abel_Caballero | monarch | Juan_Carlos_I_of_Spain</otriple>
-        <otriple>Juan_Carlos_I_of_Spain | predecessor | Francisco_Franco</otriple>
-        <otriple>Abel_Caballero | primeminister | Felipe_González</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abel_Caballero | inOfficeWhileMonarch | Juan_Carlos_I_of_Spain</mtriple>
-        <mtriple>Juan_Carlos_I_of_Spain | predecessor | Francisco_Franco</mtriple>
-        <mtriple>Abel_Caballero | inOfficeWhilePrimeMinister | Felipe_González</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abel Caballero was in office while Felipe Gonzalez was Prime Minister and Juan Carlos I, who succeeded Francisco Franco, was monarch of Spain.</lex>
-      <lex comment="good" lid="Id2">Abel Caballero was in office, while Felipe Gonzalez was Prime Minister and during the reign of Monarch, Juan Carlos I of Spain. The predecessor of Juan Carlos I of Spain was Francisco Franco.</lex>
-      <lex comment="good" lid="Id3">Abel Caballero was in office when Felipe Gonzalez was Prime Minister and Juan Carlos I was King of Spain. The lattere was preceded by Francisco Franco.</lex>
-    </entry>
     <entry category="Politician" eid="Id56" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Abel_Caballero | office | "Minister of Transport"</otriple>
@@ -423,21 +278,6 @@
       <lex comment="good" lid="Id2">Abel Caballero, born in Ponteareas, Galicia, Spain, was the Minister of Transport.</lex>
       <lex comment="good" lid="Id3">Transport Minister Abel Caballero was born in Ponteareas in Galicia, Spain.</lex>
     </entry>
-    <entry category="Politician" eid="Id60" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
-        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
-        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"</mtriple>
-        <mtriple>Abner_W._Sibal | party | Republican_Party_(United_States)</mtriple>
-        <mtriple>Abner_W._Sibal | successor | Donald_J._Irwin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abner W. Sibal, a Republican, was a member of the Connecticut Senate from the 26th District and was succeded by Donald J. Irwin.</lex>
-      <lex comment="good" lid="Id2">Abner W. Sibal, a republican, worked as a member of the Connecticut Senate from the 26th District and succeded by Donald J. Irwin.</lex>
-      <lex comment="good" lid="Id3">Abner W. Sibal was a member of the Republican party of the United States and a member of the Connecticut Senate from the 26th District. His successor was Donald J. Irwin.</lex>
-    </entry>
     <entry category="Politician" eid="Id61" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
@@ -451,21 +291,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abner W. Sibal was a member of the Republican Party of the US and a member of the Connecticut Senate from the 26th District. He was succeeded by Marjorie Farmer.</lex>
       <lex comment="good" lid="Id2">Abner W. Sibal, who was a Republican, was a member of the Connecticut Senate from the 26th District and was succeded by Marjorie Farmer.</lex>
-    </entry>
-    <entry category="Politician" eid="Id64" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Abraham_A._Ribicoff | birthPlace | New_Britain,_Connecticut</otriple>
-        <otriple>Abraham_A._Ribicoff | nationality | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abraham_A._Ribicoff | birthPlace | New_Britain,_Connecticut</mtriple>
-        <mtriple>Abraham_A._Ribicoff | nationality | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abraham A. Ribicoff was born in New Britain, Connecticut, united states where African Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2">Abraham A. Ribicoff was born in New Britain, Connecticut, United States, where African Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id3">New Britain, Connecticut born Abraham A Ribicoff is from the United States, where one of the ethnic groups are the African Americans.</lex>
     </entry>
     <entry category="Politician" eid="Id68" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -497,26 +322,6 @@
       <lex comment="good" lid="Id2">Abraham A. Ribicoff, who was born in Connecticut, once worked for the United States Secretary of Health, Education, and Welfare office and was succeded byAnthony J. Celebrezze.</lex>
       <lex comment="good" lid="Id3">Born in Connecticut, Abraham A. Ribicoff, once worked for the United States Secretary of Health, Education, and Welfare office and was succeeded by, Anthony J. Celebrezze.</lex>
     </entry>
-    <entry category="Politician" eid="Id74" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Abraham_A._Ribicoff | successor | John_N._Dempsey</otriple>
-        <otriple>Abraham_A._Ribicoff | birthPlace | United_States</otriple>
-        <otriple>Abraham_A._Ribicoff | office | "United States Secretary of Health, Education, and Welfare"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Abraham_A._Ribicoff | office | "United States Secretary of Health, Education, and Welfare"</otriple>
-        <otriple>Abraham_A._Ribicoff | successor | John_N._Dempsey</otriple>
-        <otriple>Abraham_A._Ribicoff | birthPlace | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abraham_A._Ribicoff | office | "United States Secretary of Health, Education, and Welfare"</mtriple>
-        <mtriple>Abraham_A._Ribicoff | successor | John_N._Dempsey</mtriple>
-        <mtriple>Abraham_A._Ribicoff | birthPlace | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abraham A. Ribicoff, who was born in the U.S. worked as the United States Secretary of Health, Education and Welfare, where he was succeded by John N Dempsey.</lex>
-      <lex comment="good" lid="Id2">Abraham A. Ribicoff was born in the US and once worked for the United States Secretary of Health, Education, and Welfare office where he succeeded John N Dempsey.</lex>
-      <lex comment="good" lid="Id3">American Abraham A. Ribicoff worked as the U. S. Secretary of Health, Education and Welfare and was succeeded by John N. Dempsey.</lex>
-    </entry>
     <entry category="Politician" eid="Id78" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Abraham_A._Ribicoff | spouse | Casey_Ribicoff</otriple>
@@ -546,26 +351,6 @@
       <lex comment="good" lid="Id1">United States born Abraham A Ribicoff was married to Casey Ribicoff. The U.S. is home to Native Americans.</lex>
       <lex comment="good" lid="Id2">Native Americans are one of the ethnic groups in the United States, the birthplace of Abraham A. Ribicoff, whose wife is, Casey Ribicoff.</lex>
       <lex comment="good" lid="Id3">Abraham A Ribicoff, married to Casey Ribicoff, was born in the United States, where Native Americans are an ethnic group.</lex>
-    </entry>
-    <entry category="Politician" eid="Id85" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Adam_Holloway | battles | Gulf_War</otriple>
-        <otriple>Adam_Holloway | branch | Grenadier_Guards</otriple>
-        <otriple>Gulf_War | commander | John_Major</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Adam_Holloway | battles | Gulf_War</otriple>
-        <otriple>Adam_Holloway | militaryBranch | Grenadier_Guards</otriple>
-        <otriple>Gulf_War | commander | John_Major</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adam_Holloway | battle | Gulf_War</mtriple>
-        <mtriple>Adam_Holloway | militaryBranch | Grenadier_Guards</mtriple>
-        <mtriple>Gulf_War | commander | John_Major</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">John Major was a commander of the Gulf War in which Adam Holloway of the Grenadier Guards participated.</lex>
-      <lex comment="good" lid="Id2">Adam Holloway was in the Grenadier Guards in the military, and fought in the Gulf War. John Major was a commander during the Gulf War.</lex>
-      <lex comment="good" lid="Id3">John Major was a commander in the Gulf War in which Adam Holloway of the Grenadier Guards was involved.</lex>
     </entry>
     <entry category="Politician" eid="Id87" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -626,21 +411,6 @@
       <lex comment="good" lid="Id2">Adam Holloway, a member of the Conservative Party, was born in Faversham, United Kingdom.</lex>
       <lex comment="good" lid="Id3">Adam Holloway, a U.K. national, was born in Faversham, and is a member of the Tories.</lex>
     </entry>
-    <entry category="Politician" eid="Id96" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Adam_Koc | awards | Cross_of_Independence</otriple>
-        <otriple>Adam_Koc | battles | World_War_I</otriple>
-        <otriple>Adam_Koc | award | Order_of_Polonia_Restituta</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adam_Koc | award | Cross_of_Independence</mtriple>
-        <mtriple>Adam_Koc | battle | World_War_I</mtriple>
-        <mtriple>Adam_Koc | award | Order_of_Polonia_Restituta</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adam Koc, who fought in World War II, was awarded the Cross of Independence and the Order of Polonia Restituta.</lex>
-      <lex comment="good" lid="Id2">Adam Koc fought in WWI and was awarded both the Order of Polonia Restituta and the Cross of Independence award.</lex>
-      <lex comment="good" lid="Id3">Adam Koc fought in World War 1 and was awarded the Cross of Independence and the order of Polonia Restituta.</lex>
-    </entry>
     <entry category="Politician" eid="Id99" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Adam_Koc | battles | Polish–Soviet_War</otriple>
@@ -656,21 +426,6 @@
       <lex comment="good" lid="Id2">Adam Koc was involved in battles in the Polish–Soviet War where he won the Cross of Independence award and the Cross of Valour (Poland).</lex>
       <lex comment="good" lid="Id3">Adam Koc was involved in battles in the Polish–Soviet War and received the Cross of Independence award and the Cross of Valour for Poland.</lex>
     </entry>
-    <entry category="Politician" eid="Id102" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Adam_Koc | battles | Polish–Soviet_War</otriple>
-        <otriple>Adam_Koc | awards | Virtuti_Militari</otriple>
-        <otriple>Adam_Koc | award | Cross_of_Valour_(Poland)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adam_Koc | battle | Polish–Soviet_War</mtriple>
-        <mtriple>Adam_Koc | award | Virtuti_Militari</mtriple>
-        <mtriple>Adam_Koc | award | Cross_of_Valour_(Poland)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adam Koc, who fought in battles in the Polish-Soviet War, was later awarded the Cross of Valour for Poland and the Virtuti Militari Award.</lex>
-      <lex comment="good" lid="Id2">Adam Koc; fought in the Polish–Soviet War, won the Virtuti Militari award, and was awarded the Cross of Valour (Poland).</lex>
-      <lex comment="good" lid="Id3">Adam Koc was involved in battles in the Polish–Soviet War and was awarded both the Virtuti Militari and the Cross of Valour (Poland).</lex>
-    </entry>
     <entry category="Politician" eid="Id103" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Adam_Koc | battles | Polish–Soviet_War</otriple>
@@ -685,21 +440,6 @@
       <lex comment="good" lid="Id1">Adam Koc was born in Suwalki and fought in the Polish–Soviet War. Leon Trotsky was a commander in the Polish-Soviet war.</lex>
       <lex comment="good" lid="Id2">Adam Koc, whose birth place is Suwalki was involved in battles in the Polish–Soviet War where Leon Trotsky was the commender.</lex>
       <lex comment="good" lid="Id3">Adam Koc, who was born in Suwałki, fought in the Polish–Soviet War where among the commanders was Leon Trotsky.</lex>
-    </entry>
-    <entry category="Politician" eid="Id105" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Adam_Koc | battles | Polish–Soviet_War</otriple>
-        <otriple>Polish–Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War</otriple>
-        <otriple>Polish–Soviet_War | commander | Joseph_Stalin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adam_Koc | battle | Polish–Soviet_War</mtriple>
-        <mtriple>Polish–Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War</mtriple>
-        <mtriple>Polish–Soviet_War | commander | Joseph_Stalin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adam Koc fought in the Polish–Soviet War, a conflict within the Russian Civil War. Joseph Stalin was a commander in the Polish-Soviet War.</lex>
-      <lex comment="good" lid="Id2">Adam Koc was in the battles in the Polish–Soviet War which was a conflict within the Russian Civil War. Joseph Stalin was a commander during the Polish-Soviet War.</lex>
-      <lex comment="good" lid="Id3">Joseph Stalin was a commander in, and Adam Koc was involved in battles, in the Polish–Soviet War, part of the Russian Civil War military conflict.</lex>
     </entry>
     <entry category="Politician" eid="Id108" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -736,26 +476,6 @@
       <lex comment="good" lid="Id2">Born in Athens, Greece, Adonis Georgiadis, worked for the office of the Spokesman of Popular Orthodox Rally.</lex>
       <lex comment="good" lid="Id3">Adonis Georgiadis was born in Athens, Greece and held office as Spokesman of Popular Orthodox Rally.</lex>
     </entry>
-    <entry category="Politician" eid="Id111" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Adonis_Georgiadis | birthPlace | Greece</otriple>
-        <otriple>Adonis_Georgiadis | office | "Member of theHellenic Parliament"</otriple>
-        <otriple>Adonis_Georgiadis | placeOfBirth | Athens</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Adonis_Georgiadis | office | "Member of theHellenic Parliament"</otriple>
-        <otriple>Adonis_Georgiadis | birthPlace | Athens</otriple>
-        <otriple>Adonis_Georgiadis | placeOfBirth | Greece</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adonis_Georgiadis | birthPlace | Greece</mtriple>
-        <mtriple>Adonis_Georgiadis | office | "Member of the Hellenic Parliament"</mtriple>
-        <mtriple>Adonis_Georgiadis | birthPlace | Athens</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adonis Georgiadis was born in Athens (Greece) and worked as a Member of the Hellenic Parliament.</lex>
-      <lex comment="good" lid="Id2">Member of the Hellenic Parliament, Adonis Georgiadis, was born in Athens. Greece.</lex>
-      <lex comment="good" lid="Id3">Adonis Georgiadis was born in Athens, Greece and was a member of the Hellenic Parliament.</lex>
-    </entry>
     <entry category="Politician" eid="Id112" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Adonis_Georgiadis | primeMinister | Antonis_Samaras</otriple>
@@ -774,26 +494,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adonis Georgiadis, who was born in Athens, served in office while Antonis Samaras and Konstantinos Mitsotakis were Prime Ministers.</lex>
       <lex comment="good" lid="Id2">Antonis Samaras was born in Athens and served in office while Konstantinos Mitsotakis was Prime Minister. Adonis Georgiadis was in office during Samaras' term as Prime Minister.</lex>
-    </entry>
-    <entry category="Politician" eid="Id113" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Adonis_Georgiadis | primeMinister | Antonis_Samaras</otriple>
-        <otriple>Antonis_Samaras | deputy | Evangelos_Venizelos</otriple>
-        <otriple>Adonis_Georgiadis | successor | Makis_Voridis</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Adonis_Georgiadis | primeminister | Antonis_Samaras</otriple>
-        <otriple>Antonis_Samaras | deputy | Evangelos_Venizelos</otriple>
-        <otriple>Adonis_Georgiadis | successor | Makis_Voridis</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adonis_Georgiadis | inOfficeWhilePrimeMinister | Antonis_Samaras</mtriple>
-        <mtriple>Antonis_Samaras | hasDeputy | Evangelos_Venizelos</mtriple>
-        <mtriple>Adonis_Georgiadis | successor | Makis_Voridis</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Makis Voridis was the successor of Adonis Georgiadis, who was in office while Antonis Samaras was Prime Minister and Evangelos Venizelos was the deputy.</lex>
-      <lex comment="good" lid="Id2">Adonis Georgiadis, who was succeeded by Makis Voridis, was in office while Antonis Samaras was Prime Minister who had Evangelos Venizelos for a Deputy.</lex>
-      <lex comment="good" lid="Id3">Adonis Georgiadis was in office under Antonis Samaras, Prime Minister whose deputy is Evangelos Venizelos. Makis Voridis succeeded Adonis Georgiadis.</lex>
     </entry>
     <entry category="Politician" eid="Id115" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -814,21 +514,6 @@
       <lex comment="good" lid="Id1">Adonis Georgiadis who was born in Greece, was in office while Antonis Samaras and Konstantinos Mitsotakis were Prime Ministers.</lex>
       <lex comment="good" lid="Id2">Greek-born Adonis Georgiadis served in office while Antonis Samaras, who succeeded Konstantinos Mitsotakis, was Prime Minister.</lex>
       <lex comment="good" lid="Id3">Adonis Georgiadis was born in Greece and was in office under Prime Minister Antonis Samaras. Samaras was himself in office while Konstantinos Mitsotakis was Prime Minister.</lex>
-    </entry>
-    <entry category="Politician" eid="Id119" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Agnes_Kant | almaMater | Radboud_University_Nijmegen</otriple>
-        <otriple>Agnes_Kant | birthPlace | Hessisch_Oldendorf</otriple>
-        <otriple>Agnes_Kant | office | Parliamentary_group_leader</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Agnes_Kant | almaMater | Radboud_University_Nijmegen</mtriple>
-        <mtriple>Agnes_Kant | birthPlace | Hessisch_Oldendorf</mtriple>
-        <mtriple>Agnes_Kant | office | Parliamentary_group_leader</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Radboud University Nijmegen alum and Parliamentary group leader, Agnes Kant, was born in Hessisch Oldendorf.</lex>
-      <lex comment="good" lid="Id2">Agnes Kant, born in Hessisch Oldendorf, studied at Radboud University Nijmegen and worked as the Parliamentary group leader.</lex>
-      <lex comment="good" lid="Id3">Agnes Kant, whose Alma mater is Radboud University Nijmegen was born in Hessisch Oldendorf and worked as a parliamentary group leader.</lex>
     </entry>
     <entry category="Politician" eid="Id121" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -960,21 +645,6 @@
       <lex comment="good" lid="Id2">Airey Neave participated in World War II and his career lasted from 30 June 1953 to 30 March 1979.</lex>
       <lex comment="good" lid="Id3">Airey Neave fought in World War II and had a political career that started on June 30th, 1953 and ended March 30th, 1979.</lex>
     </entry>
-    <entry category="Politician" eid="Id136" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Albert_B._White | birthPlace | Cleveland</otriple>
-        <otriple>Albert_B._White | deathPlace | Parkersburg,_West_Virginia</otriple>
-        <otriple>Albert_B._White | successor | William_M._O._Dawson</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albert_B._White | birthPlace | Cleveland</mtriple>
-        <mtriple>Albert_B._White | deathPlace | Parkersburg,_West_Virginia</mtriple>
-        <mtriple>Albert_B._White | successor | William_M._O._Dawson</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Born in Cleveland, Albert B. White, died in Parkersburg, West Virginia, and was succeeded by, William M.O. Dawson.</lex>
-      <lex comment="good" lid="Id2">Cleveland born Albert B White, who died in Parkersburg, West Virginia, was succeeded by William M O Dawson.</lex>
-      <lex comment="good" lid="Id3">Albert B. White was born in Cleveland and died at Parkersburg, West Virginia. His successor was William M.O. Dawson.</lex>
-    </entry>
     <entry category="Politician" eid="Id137" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Albert_B._White | birthPlace | Cleveland</otriple>
@@ -1022,21 +692,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albert B White was born in Cleveland on 22 September 1856.</lex>
       <lex comment="good" lid="Id2">Albert B White was born on 22nd September 1856 in Cleveland.</lex>
-    </entry>
-    <entry category="Politician" eid="Id141" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Albert_B._White | birthYear | "1856"^^xsd:gYear</otriple>
-        <otriple>Albert_B._White | dateOfBirth | "1856-09-22"^^xsd:date</otriple>
-        <otriple>Albert_B._White | placeOfDeath | Parkersburg,_West_Virginia</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albert_B._White | birthYear | 1856</mtriple>
-        <mtriple>Albert_B._White | birthDate | 1856-09-22</mtriple>
-        <mtriple>Albert_B._White | deathPlace | Parkersburg,_West_Virginia</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albert B White was born on 22nd September 1856 and died at Parkersburg, West Virginia.</lex>
-      <lex comment="good" lid="Id2">Albert B White was born 1856-09-22 and died in Parkersburg, West Virginia.</lex>
-      <lex comment="good" lid="Id3">Born 22nd September 1856, Albert B. White, died in Parkersburg, West Virginia.</lex>
     </entry>
     <entry category="Politician" eid="Id142" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1103,20 +758,6 @@
       <lex comment="good" lid="Id2">United States born Albert Jennings Fountain fought in the American Civil War where Jefferson Davis was a commander.</lex>
       <lex comment="good" lid="Id3">The United States was the birthplace of Albert Jennings Fountain, who fought in the American Civil War. A commander in the American Civil War was Jefferson Davis.</lex>
     </entry>
-    <entry category="Politician" eid="Id152" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Albert_Jennings_Fountain | birthPlace | New_York</otriple>
-        <otriple>Albert_Jennings_Fountain | battles | American_Civil_War</otriple>
-        <otriple>American_Civil_War | commander | Jefferson_Davis</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albert_Jennings_Fountain | birthPlace | New_York</mtriple>
-        <mtriple>Albert_Jennings_Fountain | battle | American_Civil_War</mtriple>
-        <mtriple>American_Civil_War | commander | Jefferson_Davis</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albert Jennings Fountain was born in New York and fought in the American Civil War where Jefferson Davis was a commander.</lex>
-      <lex comment="good" lid="Id2">During the American Civil War Jefferson Davis was a commander and Albert Jennings Fountain who was born in New York, participated.</lex>
-    </entry>
     <entry category="Politician" eid="Id155" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Albert_Jennings_Fountain | birthPlace | New_York_City</otriple>
@@ -1131,21 +772,6 @@
       <lex comment="good" lid="Id1">Albert Jennings Fountain was born in Staten Island, New York City and died in the United States.</lex>
       <lex comment="good" lid="Id2">Staten Island, New York City, is the birth place of Albert Jennings Fountain who died in the United States.</lex>
       <lex comment="good" lid="Id3">Albert Jennings Fountain was born in Staten Island, New York City and died in the US.</lex>
-    </entry>
-    <entry category="Politician" eid="Id158" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Albert_Jennings_Fountain | birthPlace | Staten_Island</otriple>
-        <otriple>Albert_Jennings_Fountain | deathPlace | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albert_Jennings_Fountain | birthPlace | Staten_Island</mtriple>
-        <mtriple>Albert_Jennings_Fountain | deathPlace | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albert Jennings Fountain was born in Staten Island and died in the US where African Americans are one of the ethnic groups.</lex>
-      <lex comment="good" lid="Id2">Albert Jennings Fountain was born in Staten Island and he died in the U.S. African Americans live in the United States.</lex>
-      <lex comment="good" lid="Id3">Albert Jennings Fountain was born in Staten Island and died in the United States, the country, where African Americans are one of the ethnic groups.</lex>
     </entry>
     <entry category="Politician" eid="Id160" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1182,21 +808,6 @@
       <lex comment="good" lid="Id2">Albert Jennings Fountain, born in the United States, where African Americans represent one of the ethnic groups, died in Dona Ana County in New Mexico.</lex>
       <lex comment="good" lid="Id3">The USA, which includes the ethnic group of African Americans, is the birthplace of Albert Jennings Fountain who later died in Dona Ana County, New Mexico.</lex>
     </entry>
-    <entry category="Politician" eid="Id163" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Albert_Jennings_Fountain | deathPlace | New_Mexico_Territory</otriple>
-        <otriple>Albert_Jennings_Fountain | birthPlace | New_York</otriple>
-        <otriple>Albert_Jennings_Fountain | placeOfBirth | Staten_Island</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albert_Jennings_Fountain | deathPlace | New_Mexico_Territory</mtriple>
-        <mtriple>Albert_Jennings_Fountain | birthPlace | New_York</mtriple>
-        <mtriple>Albert_Jennings_Fountain | birthPlace | Staten_Island</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albert Jennings Fountain was born in Staten Island, New York and died, in the New Mexico Territory.</lex>
-      <lex comment="good" lid="Id2">Born in Staten Island, New York, Albert Jennings Fountain, died in New Mexico Territory.</lex>
-      <lex comment="good" lid="Id3">Albert Jennings Fountain was born in Staten Island, New York and died in New Mexico Territory.</lex>
-    </entry>
     <entry category="Politician" eid="Id166" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Albert_Jennings_Fountain | deathPlace | United_States</otriple>
@@ -1212,21 +823,6 @@
       <lex comment="good" lid="Id2">Albert Jennings Fountain was born in Staten Island, New York and also died in the US.</lex>
       <lex comment="good" lid="Id3">Albert Jennings Fountain was born in Staten Island, New York and later died in the United States.</lex>
     </entry>
-    <entry category="Politician" eid="Id168" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Albert_Jennings_Fountain | militaryBranch | Union_Army</otriple>
-        <otriple>Albert_Jennings_Fountain | battles | American_Civil_War</otriple>
-        <otriple>American_Civil_War | commander | Jefferson_Davis</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albert_Jennings_Fountain | militaryBranch | Union_Army</mtriple>
-        <mtriple>Albert_Jennings_Fountain | battle | American_Civil_War</mtriple>
-        <mtriple>American_Civil_War | commander | Jefferson_Davis</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albert Jennings Fountain served in the Union Army and fought in the American Civil War, where Jefferson Davis was one of the commanders.</lex>
-      <lex comment="good" lid="Id2">Albert Jennings Fountain was a member of the Union Army that fought in the American Civil War. Jefferson Davis was a commander during that war.</lex>
-      <lex comment="good" lid="Id3">Albert Jennings Fountain fought in American Civil War for the Union Army which was commanded by Jefferson Davis.</lex>
-    </entry>
     <entry category="Politician" eid="Id170" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Albert_Jennings_Fountain | party | Republican_Party_(United_States)</otriple>
@@ -1241,21 +837,6 @@
       <lex comment="good" lid="Id1">Albert Jennings Fountain, who was born in New York City, worked as President pro tempore of the Texas Senate and was a member of the Republican Party in the United States.</lex>
       <lex comment="good" lid="Id2">Born in New York City, Albert Jennings Fountain, was a member of the United States republican party and worked as President pro tempore of the Texas Senate.</lex>
       <lex comment="good" lid="Id3">Albert Jennings Fountain, who worked as President pro tempore of the Texas Senate, was born in New York City and is a member of the Republican Party in the U.S.A.</lex>
-    </entry>
-    <entry category="Politician" eid="Id171" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Alberto_Teisaire | deathPlace | Buenos_Aires</otriple>
-        <otriple>Buenos_Aires | governingBody | Buenos_Aires_City_Legislature</otriple>
-        <otriple>Buenos_Aires | leaderName | Diego_Santilli</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alberto_Teisaire | deathPlace | Buenos_Aires</mtriple>
-        <mtriple>Buenos_Aires | governingBody | Buenos_Aires_City_Legislature</mtriple>
-        <mtriple>Buenos_Aires | leader | Diego_Santilli</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alberto Teisaire died in Buenos Aires, which is governed by Buenos Aires City Legislature and where the leader is Diego Santilli.</lex>
-      <lex comment="good" lid="Id2">Alberto Teisaire died in Buenos Aires which is led by Diego Santilli and has the governing body of Buenos Aires City Legislature.</lex>
-      <lex comment="good" lid="Id3">Alberto Teisaire died in Buenos Aires which has a current leader called Diego Santilli and a governing body called Buenos Aires City Legislature.</lex>
     </entry>
     <entry category="Politician" eid="Id173" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1276,21 +857,6 @@
       <lex comment="good" lid="Id1">Buenos Aires, which is the death place of Alberto Teisaire, is governed by the Buenos Aires City Legislature and led by Horacio Rodríguez Larreta.</lex>
       <lex comment="good" lid="Id2">Alberto Teisaire died in Buenos Aires, the country which is governed by the Buenos Aires City Legislature and the leader is, Horacio Rodríguez Larreta.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire's place of death was Buenos Aires, where Horacio Rodríguez Larreta is the leader and where, the governing body, is the Buenos Aires City Legislature.</lex>
-    </entry>
-    <entry category="Politician" eid="Id177" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Alberto_Teisaire | party | Justicialist_Party</otriple>
-        <otriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</otriple>
-        <otriple>Alberto_Teisaire | president | Juan_Perón</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alberto_Teisaire | party | Justicialist_Party</mtriple>
-        <mtriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</mtriple>
-        <mtriple>Alberto_Teisaire | inOfficeWhilePresident | Juan_Perón</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alberto Teisaire, whose belongs to the Justicialist Party, was born in Mendoza, Argentina and was in office while Juan Peron was President.</lex>
-      <lex comment="good" lid="Id2">Alberto Teisaire, born in Mendoza in Argentina, is a member of the Justicialist Party and was in office while Juan Perón was president.</lex>
-      <lex comment="good" lid="Id3">Alberto Teisaire is a member of the Justicialist party who was born in Mendoza, Argentina and was in office while Juan Peron was President.</lex>
     </entry>
     <entry category="Politician" eid="Id179" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1321,21 +887,6 @@
       <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst (in Austria-Hungary) and died in Graz.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst in Austria-Hungary and died in Graz.</lex>
     </entry>
-    <entry category="Politician" eid="Id182" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Alfons_Gorbach | deathPlace | Graz</otriple>
-        <otriple>Alfons_Gorbach | birthPlace | County_of_Tyrol</otriple>
-        <otriple>Alfons_Gorbach | placeOfBirth | Austria</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfons_Gorbach | deathPlace | Graz</mtriple>
-        <mtriple>Alfons_Gorbach | birthPlace | County_of_Tyrol</mtriple>
-        <mtriple>Alfons_Gorbach | birthPlace | Austria</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfons Gorbach was born in the County of Tyrol, Austria and died in the city of Graz.</lex>
-      <lex comment="good" lid="Id2">Alfons Gorbach was born in the County of Tyrol in Austria and later died in Graz.</lex>
-      <lex comment="good" lid="Id3">Alfons Gorbach was born in the County of Tyrol in Austria, and died in Graz.</lex>
-    </entry>
     <entry category="Politician" eid="Id185" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Alfons_Gorbach | deathPlace | Styria</otriple>
@@ -1349,26 +900,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst, Austria and died in Styria.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst in Austria and died in Styria.</lex>
-    </entry>
-    <entry category="Politician" eid="Id187" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
-        <otriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</otriple>
-        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"</otriple>
-        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
-        <otriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfred_Moore_Scales | office | "Governor of North Carolina"</mtriple>
-        <mtriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</mtriple>
-        <mtriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Governor Alfred Moore Scales of North Carolina, and Democrat, was succeeded by James W. Reid.</lex>
-      <lex comment="good" lid="Id2">Democrat Alfred Moore Scales was Governor of North Carolina and he was succeeded by James W Reid.</lex>
-      <lex comment="good" lid="Id3">Democratic Governor Alfred Moore Scales of North Carolina, was succeeded by James W. Reid.</lex>
     </entry>
     <entry category="Politician" eid="Id191" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1384,26 +915,6 @@
       <lex comment="good" lid="Id1">The United States Army, which battled in the Invasion of Grenada, was the army Alfred N. Phillips (retired 1939-01-03) served in.</lex>
       <lex comment="good" lid="Id2">Alfred N Phillips, who retired 1939-01-03, served in the United States, Army. The United States Army has battled in the Invasion of Grenada.</lex>
       <lex comment="good" lid="Id3">Alfred N Phillips retired on 1939-01-03, and served in the United States, Army, which has battled in the Invasion of Grenada.</lex>
-    </entry>
-    <entry category="Politician" eid="Id194" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Alfred_N._Phillips | successor | Albert_E._Austin</otriple>
-        <otriple>Alfred_N._Phillips | birthPlace | Darien,_Connecticut</otriple>
-        <otriple>Alfred_N._Phillips | office | Mayor_of_Stamford,_Connecticut</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alfred_N._Phillips | office | "Mayor of Stamford, Connecticut"</otriple>
-        <otriple>Alfred_N._Phillips | successor | Albert_E._Austin</otriple>
-        <otriple>Alfred_N._Phillips | birthPlace | Darien,_Connecticut</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfred_N._Phillips | office | Mayor_of_Stamford,_Connecticut</mtriple>
-        <mtriple>Alfred_N._Phillips | successor | Albert_E._Austin</mtriple>
-        <mtriple>Alfred_N._Phillips | birthPlace | Darien,_Connecticut</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred N. Phillips who was born in Darien, Connecticut, was the Mayor of Stamford Connecticut and was succeded by Albert E. Austin.</lex>
-      <lex comment="good" lid="Id2">Stamford Mayor Alfred N. Phillips, born in Darien, Connecticut, was succeeded by Albert E. Austin.</lex>
-      <lex comment="good" lid="Id3">Alfred N Phillips was born in Darien, Connecticut and became Mayor of Stamford Connecticut before being succeeded by Albert E Austin.</lex>
     </entry>
     <entry category="Politician" eid="Id196" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1440,21 +951,6 @@
       <lex comment="good" lid="Id2">Born in Darien Connecticut, Alfred N Phillips, worked as Member of the U.S. House of Representatives from Connecticut's 4th district and was succeeded by, Albert E. Austin.</lex>
       <lex comment="good" lid="Id3">Alfred N Phillips was born in Darien Connecticut and prior to being succeeded by Albert E Austin worked as Member of the U.S. House of Representatives from Connecticut's 4th district.</lex>
     </entry>
-    <entry category="Politician" eid="Id199" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Allan_Shivers | office | "Member of theTexas State SenatefromDistrict 4(Port Arthur)"</otriple>
-        <otriple>Allan_Shivers | party | Democratic_Party_(United_States)</otriple>
-        <otriple>Allan_Shivers | successor | Ben_Ramsey</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Allan_Shivers | office | "Member of the Texas State Senate from District 4 (Port Arthur)"</mtriple>
-        <mtriple>Allan_Shivers | party | Democratic_Party_(United_States)</mtriple>
-        <mtriple>Allan_Shivers | successor | Ben_Ramsey</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Democrat Allan Shivers worked as a member of the Texas State Senate from District 4 in Port Arthur and was succeeded by Ben Ramsey.</lex>
-      <lex comment="good" lid="Id2">Democrat Allan Shivers worked as a member of the Texas State Senate from District 4 of Port Arthur and was succeeded by Ben Ramsey.</lex>
-      <lex comment="good" lid="Id3">Allan Shivers, who was succeeded by Ben Ramsey, belonged to the Democratic Party in the United States and was a member of the Texas State Senate District 4 for Port Arthur.</lex>
-    </entry>
     <entry category="Politician" eid="Id201" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Allan_Shivers | party | Democratic_Party_(United_States)</otriple>
@@ -1470,21 +966,6 @@
       <lex comment="good" lid="Id2">Succeeded by Price Daniel, Allan Shivers was a member of the Democratic Party in the United States and was Lieutenant Governor of Texas.</lex>
       <lex comment="good" lid="Id3">Allan Shivers, Lieutenant Governor of Texas, was a member of the Democratic Party in the United States and was predecessor to Price Daniel.</lex>
     </entry>
-    <entry category="Politician" eid="Id202" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Alvah_Sabin | activeYearsEndDate | "1857-03-03"^^xsd:date</otriple>
-        <otriple>Alvah_Sabin | region | Vermont</otriple>
-        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alvah_Sabin | activeYearsEndDate | 1857-03-03</mtriple>
-        <mtriple>Alvah_Sabin | region | Vermont</mtriple>
-        <mtriple>Vermont | largestCity | Burlington,_Vermont</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alvah Sabin, who ended his career on 3 March 1857, represented Vermont where the largest city is Burlington.</lex>
-      <lex comment="good" lid="Id2">Alvah Sabin, who retired on 3rd March 1857, represented Vermont, where the largest city is Burlington.</lex>
-      <lex comment="good" lid="Id3">Alvah Sabin represented Vermont - largest city; Burlington - and ended his career on March 3rd 1857.</lex>
-    </entry>
     <entry category="Politician" eid="Id206" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Alvah_Sabin | party | Whig_Party_(United_States)</otriple>
@@ -1499,21 +980,6 @@
       <lex comment="good" lid="Id1">Alvah Sabin, who retired on 3rd March 1857, was a member of US Whig Party of which Henry Clay was the leader.</lex>
       <lex comment="good" lid="Id2">Henry Clay was leader of the Whig Party of the United States, of which Alvah Sabin was a member. Alvah Sabin ended his career on 1857-03-03.</lex>
       <lex comment="good" lid="Id3">Alvah Sabin, who ended his career on 3 March 1857, was a member of the United States Whig Party led by Henry Clay.</lex>
-    </entry>
-    <entry category="Politician" eid="Id208" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Alvah_Sabin | party | Whig_Party_(United_States)</otriple>
-        <otriple>Whig_Party_(United_States) | leader | Daniel_Webster</otriple>
-        <otriple>Alvah_Sabin | dateOfBirth | "1793-10-23"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alvah_Sabin | party | Whig_Party_(United_States)</mtriple>
-        <mtriple>Whig_Party_(United_States) | leader | Daniel_Webster</mtriple>
-        <mtriple>Alvah_Sabin | birthDate | 1793-10-23</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alvah Sabin was born on 23.10.1793 and was a member of the Whig Party of the United States led by Daniel Webster.</lex>
-      <lex comment="good" lid="Id2">Alvah Sabin, born 23rd October 1793, was a meber of the US Whig Party, of which Daniel Webster is the leader.</lex>
-      <lex comment="good" lid="Id3">Alvah Sabin, born October 23, 1793, was a member of the Whig Party (United States). Daniel Webster was one of the leaders of the party.</lex>
     </entry>
     <entry category="Politician" eid="Id209" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1534,36 +1000,6 @@
       <lex comment="good" lid="Id1">From Vermont, Alvah Sabin, represented Vermont's 3rd Congressional District. The largest city in Vermont is Burlington.</lex>
       <lex comment="good" lid="Id2">Alvah Sabin was from Vermont where the largest city is Burlington and represented the state's 3rd Congressional District.</lex>
       <lex comment="good" lid="Id3">Alvah Sabin, whose state is Vermont, represented Vermont's 3rd Congressional District. Vermont's largest city is Burlington, Vermont.</lex>
-    </entry>
-    <entry category="Politician" eid="Id211" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Alvah_Sabin | region | Vermont</otriple>
-        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
-        <otriple>Alvah_Sabin | placeOfDeath | Sycamore,_Illinois</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alvah_Sabin | region | Vermont</otriple>
-        <otriple>Vermont | largestcity | Burlington,_Vermont</otriple>
-        <otriple>Alvah_Sabin | placeOfDeath | Sycamore,_Illinois</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alvah_Sabin | region | Vermont</otriple>
-        <otriple>Vermont | largestCity | Burlington,_Vermont</otriple>
-        <otriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alvah_Sabin | region | Vermont</otriple>
-        <otriple>Vermont | largestcity | Burlington,_Vermont</otriple>
-        <otriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alvah_Sabin | region | Vermont</mtriple>
-        <mtriple>Vermont | largestCity | Burlington,_Vermont</mtriple>
-        <mtriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alvah Sabin (who died died in Sycamore, Illinois), represented Vermont, the largest city of which, is Burlington, Vermont.</lex>
-      <lex comment="good" lid="Id2">Alvah Sabin represented Vermont whose biggest city is called Burlington. Mr. Sabin died in Sycamore, Illinois.</lex>
-      <lex comment="good" lid="Id3">Alvah Sabin represented Vermont whose biggest city is Burlington. Mr. Sabin died in Sycamore, Illinois.</lex>
     </entry>
     <entry category="Politician" eid="Id214" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -1595,21 +1031,6 @@
       <lex comment="good" lid="Id2">Aaron S Daggett fought in the Battle of Antietam, which was part of the American Civil War. Abraham Lincoln was a commander in the American Civil War.</lex>
       <lex comment="good" lid="Id3">Aaron S. Daggett fought in the Battle of Antietam which took place during the American Civil War, during which, Abraham Lincoln was a commander.</lex>
     </entry>
-    <entry category="Politician" eid="Id216" shape="(X (X (X (X))))" shape_type="chain" size="3">
-      <originaltripleset>
-        <otriple>American_Civil_War | commander | Abraham_Lincoln</otriple>
-        <otriple>Battle_of_Salem_Church | isPartOfMilitaryConflict | American_Civil_War</otriple>
-        <otriple>Aaron_S._Daggett | battles | Battle_of_Salem_Church</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>American_Civil_War | commander | Abraham_Lincoln</mtriple>
-        <mtriple>Battle_of_Salem_Church | isPartOfMilitaryConflict | American_Civil_War</mtriple>
-        <mtriple>Aaron_S._Daggett | battle | Battle_of_Salem_Church</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron S Daggett fought in the Battle of Salem Church during the American Civil War in which Abraham Lincoln was a commander.</lex>
-      <lex comment="good" lid="Id2">Aaron S. Daggett fought in the Battle of Salem Church during the American Civil War which had Abraham Lincoln as a commander for the Union.</lex>
-      <lex comment="good" lid="Id3">Aaron S. Daggett fought in the Battle of Salem Church during the American Civil War, when Abraham Lincoln was a commander.</lex>
-    </entry>
     <entry category="Politician" eid="Id217" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
         <otriple>American_Civil_War | commander | Jefferson_Davis</otriple>
@@ -1624,21 +1045,6 @@
       <lex comment="good" lid="Id1">The battle of Fredericksburg, in which Alfred Moore Scales participated, was part of the American Civil War military conflict during which Jefferson Davis was a commander.</lex>
       <lex comment="good" lid="Id2">Alfred Moore Scales was in the American Civil War, Battle of Fredericksburg. Jefferson Davis was an American Civil War commander.</lex>
       <lex comment="good" lid="Id3">Jefferson Davis was a commander in the American civil war which included the Battle of Fredericksburg in which Alfred Moore Scales fought.</lex>
-    </entry>
-    <entry category="Politician" eid="Id218" shape="(X (X (X (X))))" shape_type="chain" size="3">
-      <originaltripleset>
-        <otriple>American_Civil_War | commander | Jefferson_Davis</otriple>
-        <otriple>Alfred_Moore_Scales | battles | Siege_of_Petersburg</otriple>
-        <otriple>Siege_of_Petersburg | isPartOfMilitaryConflict | American_Civil_War</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>American_Civil_War | commander | Jefferson_Davis</mtriple>
-        <mtriple>Alfred_Moore_Scales | battle | Siege_of_Petersburg</mtriple>
-        <mtriple>Siege_of_Petersburg | isPartOfMilitaryConflict | American_Civil_War</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred Moore Scales took part in the Siege of Petersburg which was part of the American Civil War conflict where Jefferson Davis was a commander.</lex>
-      <lex comment="good" lid="Id2">Alfred Moore Scales fought in the American Civil War, Siege of Petersburg. Commander Jefferson Davis also fought in the American Civil War.</lex>
-      <lex comment="good" lid="Id3">Jefferson Davis was a commander in the American Civil War which included the Siege of Petersburg in which Alfred Moore Scales participated.</lex>
     </entry>
     <entry category="Politician" eid="Id220" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -1670,26 +1076,6 @@
       <lex comment="good" lid="Id2">Aaron S Daggett fought in the Battle of Salem Church, a conflict in the American Civil War when Robert E. Lee was a commander.</lex>
       <lex comment="good" lid="Id3">Robert E Lee was a commander in the American Civil War, during which the Battle of Salem Church occurred. Aaron S. Daggett fought in the Battle of Salem Church.</lex>
     </entry>
-    <entry category="Politician" eid="Id225" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Austria | leaderName | Doris_Bures</otriple>
-        <otriple>Alfons_Gorbach | deathPlace | Graz</otriple>
-        <otriple>Alfons_Gorbach | placeOfDeath | Austria</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Austria | leaderName | Doris_Bures</otriple>
-        <otriple>Alfons_Gorbach | placeOfDeath | Graz</otriple>
-        <otriple>Alfons_Gorbach | deathPlace | Austria</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Austria | leader | Doris_Bures</mtriple>
-        <mtriple>Alfons_Gorbach | deathPlace | Graz</mtriple>
-        <mtriple>Alfons_Gorbach | deathPlace | Austria</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Doris Bures is a leader in Austria, the country where Alfons Gorbach died, in Graz.</lex>
-      <lex comment="good" lid="Id2">Alfons Gorbach died in Graz, Austria where Doris Bures is one of the country leaders.</lex>
-      <lex comment="good" lid="Id3">Alfons Gorbach dies in Graz, Austria, a country led by Doris Bures.</lex>
-    </entry>
     <entry category="Politician" eid="Id228" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
         <otriple>Battle_of_Chancellorsville | isPartOfMilitaryConflict | American_Civil_War</otriple>
@@ -1704,21 +1090,6 @@
       <lex comment="good" lid="Id1">The Battle of Chancellorsville was part of the American Civil War conflict in which Alfred Moore Scales fought and Abraham Lincoln was a commander.</lex>
       <lex comment="good" lid="Id2">Alfred Moore Scales fought in the Battle of Chancellorsville, which was part of the American Civil War conflict. Abraham Lincoln was a commander in the American Civil War.</lex>
       <lex comment="good" lid="Id3">Alfred Moore Scales fought in the Battle of Chancellorsville which was part of the American Civil War conflict, where Abraham Lincoln was a leader.</lex>
-    </entry>
-    <entry category="Politician" eid="Id230" shape="(X (X (X (X))))" shape_type="chain" size="3">
-      <originaltripleset>
-        <otriple>Battle_of_Cold_Harbor | isPartOfMilitaryConflict | American_Civil_War</otriple>
-        <otriple>Aaron_S._Daggett | battles | Battle_of_Cold_Harbor</otriple>
-        <otriple>American_Civil_War | commander | Abraham_Lincoln</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Battle_of_Cold_Harbor | isPartOfMilitaryConflict | American_Civil_War</mtriple>
-        <mtriple>Aaron_S._Daggett | battle | Battle_of_Cold_Harbor</mtriple>
-        <mtriple>American_Civil_War | commander | Abraham_Lincoln</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abraham Lincoln was a commander during the American Civil War, which included the Battle of Cold Harbour in which Aaron S Daggett participated.</lex>
-      <lex comment="good" lid="Id2">Aaron S. Daggett battled in the Battle of Cold Harbour which took place during the American Civil War. Abraham Lincoln was a commander in the American Civil War.</lex>
-      <lex comment="good" lid="Id3">The Battle of Cold Harbor in which Aaronn S Daggett participated, took place during the American Civil War while Abraham Lincoln was a commander.</lex>
     </entry>
     <entry category="Politician" eid="Id232" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -1780,25 +1151,6 @@
       <lex comment="good" lid="Id2">Juan Peron belongs to the Labour Party in Argentina where he was president while Hortensio Quijano was Governor and Alberto Teisaire was in office.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire was in office while Juan Peron was President. Juan Peron belonged to the Labour Party in Argentina and served in office at the same time that Hortensio Quijano was Governor.</lex>
     </entry>
-    <entry category="Politician" eid="Id243" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Juan_Perón | party | Labour_Party_(Argentina)</otriple>
-        <otriple>Alberto_Teisaire | office | "Provisional President of the Argentine Senate"</otriple>
-        <otriple>Alberto_Teisaire | president | Juan_Perón</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Juan_Perón | party | Labour_Party_(Argentina)</otriple>
-        <otriple>Alberto_Teisaire | office | List_of_Provisional_Presidents_of_Argentine_Senate</otriple>
-        <otriple>Alberto_Teisaire | president | Juan_Perón</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Juan_Perón | party | Labour_Party_(Argentina)</mtriple>
-        <mtriple>Alberto_Teisaire | office | "Provisional President of the Argentine Senate"</mtriple>
-        <mtriple>Alberto_Teisaire | inOfficeWhilePresident | Juan_Perón</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alberto Teisaire worked as the Provisional President of the Argentine Senate and was in office while Juan Peron, who was a member of the Labour Party, was President.</lex>
-      <lex comment="good" lid="Id2">Alberto Teisaire worked as a Provisional President of the Argentine Senate and was in office while Juan Perón (a member of the Labour Party in Argentina) was president.</lex>
-    </entry>
     <entry category="Politician" eid="Id245" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Juan_Perón | spouse | Eva_Perón</otriple>
@@ -1812,21 +1164,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alberto Teisaire, who belongs to the Justicialist Party was in office while Juan Perón, married to Eva, was president.</lex>
       <lex comment="good" lid="Id2">Juan Peron, who was married to Eva Peron, was President at the time that Alberto Teisaire of the Justicialist Party was in office.</lex>
-    </entry>
-    <entry category="Politician" eid="Id247" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Netherlands | currency | Euro</otriple>
-        <otriple>Ab_Klink | nationality | Netherlands</otriple>
-        <otriple>Netherlands | leader | Mark_Rutte</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Netherlands | currency | Euro</mtriple>
-        <mtriple>Ab_Klink | nationality | Netherlands</mtriple>
-        <mtriple>Netherlands | leader | Mark_Rutte</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ab Klink is a national of the Netherlands, the leader of which is Mark Rutte and where the currency is, the Euro.</lex>
-      <lex comment="good" lid="Id2">The Euro is the currency in the Netherlands, the country Ab Klink is from and where Mark Rutte, is the leader.</lex>
-      <lex comment="good" lid="Id3">Ab Klink is from the Netherlands where the leader is Mark Rutte and the currency is the euro.</lex>
     </entry>
     <entry category="Politician" eid="Id248" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1887,21 +1224,6 @@
       <lex comment="good" lid="Id1">Married to Ruth Ribicoff, Abraham A. Ribicoff was born in the United States, the country where Native Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">The United states includes the native americans among its ethnic groups and is the birthplace of Abraham A Ribicoff who married Ruth.</lex>
       <lex comment="good" lid="Id3">Native Americans, are one of the ethnic groups in the United States, the country of birth of Abraham A. Ribicoff, whose spouse is, Ruth Ribicoff.</lex>
-    </entry>
-    <entry category="Politician" eid="Id256" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>World_War_II | place | East_African_Campaign_(World_War_II)</otriple>
-        <otriple>Airey_Neave | battles | World_War_II</otriple>
-        <otriple>World_War_II | commander | Benito_Mussolini</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>World_War_II | place | East_African_Campaign_(World_War_II)</mtriple>
-        <mtriple>Airey_Neave | battle | World_War_II</mtriple>
-        <mtriple>World_War_II | commander | Benito_Mussolini</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Airey Neave fought in World War II which included the East African Campaign and had Benito Mussolini as a commander.</lex>
-      <lex comment="good" lid="Id2">The East African Campaign was part of World War II, a war in which Benito Mussolini was a commander and in which Airey Neave fought.</lex>
-      <lex comment="good" lid="Id3">World War II, was the war where Benito Mussolini was a commander, the East African Campaign was a part of it and Airey Neave was involved in it.</lex>
     </entry>
     </entries>
 </benchmark>

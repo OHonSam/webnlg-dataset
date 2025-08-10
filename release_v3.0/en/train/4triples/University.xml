@@ -1,23 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="University" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | rector | "Breaz Valer Daniel"@en</otriple>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | latinName | "Universitas Apulensis"@en</otriple>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | state | Alba</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1_Decembrie_1918_University | rector | "Breaz Valer Daniel"</mtriple>
-        <mtriple>1_Decembrie_1918_University | latinName | "Universitas Apulensis"</mtriple>
-        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
-        <mtriple>1_Decembrie_1918_University | state | Alba</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The rector of the 1 Decembrie 1918 University in the state of Alba, Romania is Breaz Valer Daniel. The latin name of the university is "Universitas Apulensis".</lex>
-      <lex comment="good" lid="Id2">The Decembrie 1918 University in Alba Romania has the latin name of Universitas Apulensis. Its rector is Breaz Valer Daniel.</lex>
-      <lex comment="good" lid="Id3">The 1 Decembrie 1918 University (Latin name - Universitas Apulensis) is located in Alba, Romania. Its rector is Breaz Valer Daniel.</lex>
-    </entry>
     <entry category="University" eid="Id4" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>AWH_Engineering_College | facultySize | "250"^^xsd:nonNegativeInteger</otriple>
@@ -34,22 +17,6 @@
       <lex comment="good" lid="Id1">The AWH Engineering College is located in Kuttikkattoor, Kerala and it has 250 academic staff. Kerala has Mahe, India to its northwest.</lex>
       <lex comment="good" lid="Id2">Mahe, India is northwest of Kerala state where the AWH Engineering College with an academic staff of 250 is situated in the city of Kuttikkattoor.</lex>
       <lex comment="good" lid="Id3">AWH Engineering College is located in Kuttikkattoor city, Kerala state. This state has to its northwest Mahe, India. The staff size of the AWH Engineering College is 250.</lex>
-    </entry>
-    <entry category="University" eid="Id8" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>AWH_Engineering_College | country | India</otriple>
-        <otriple>Kerala | leaderName | Kochi</otriple>
-        <otriple>AWH_Engineering_College | state | Kerala</otriple>
-        <otriple>India | river | Ganges</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AWH_Engineering_College | country | India</mtriple>
-        <mtriple>Kerala | leader | Kochi</mtriple>
-        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
-        <mtriple>India | river | Ganges</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AWH Engineering College is in Kerala, India. The leader of Kerala is Kochi. The Ganges is a river in India.</lex>
-      <lex comment="good" lid="Id2">AWH Engineering College (India) is in the state of Kerala who has as its leader Kochi. The Ganges is one of India's rivers.</lex>
     </entry>
     <entry category="University" eid="Id12" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -134,22 +101,6 @@
       <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio in Switzerland was established in 1996 and currently has 600 students. The country's leader is Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio was established in Switzerland in 1996. It has 600 students. The Swiss leader is Johann Schneider-Ammann.</lex>
     </entry>
-    <entry category="University" eid="Id20" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
-        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
-        <otriple>Switzerland | legislature | Federal_Assembly_(Switzerland)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
-        <mtriple>Switzerland | leader | Johann_Schneider-Ammann</mtriple>
-        <mtriple>Switzerland | legislature | Federal_Assembly_(Switzerland)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio has 600 students and has a leader call Johann Schneider-Ammann. Switzerland has a Federal Assembly as its legislative body.</lex>
-      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio of Switzerland has 600 students. Johann Schneider-Ammann is the leader of the country and the legislature comes under the Federal Assembly (Switzerland).</lex>
-    </entry>
     <entry category="University" eid="Id22" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
@@ -224,22 +175,6 @@
       <lex comment="good" lid="Id2">Acharya Institute of Technology in Bangalore, India has 700 post graduate students. The Institute is affiliated with Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id3">An affiliate of Visvesvaraya Technological University, Acharya Institute of Technology in Bangalore, India has 700 postgraduate students.</lex>
     </entry>
-    <entry category="University" eid="Id32" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
-        <otriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Director of the Acharya Institute of Technology in Bangalore, Karnataka, India is Dr G P Prabhukumar.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology is located in Bangalore, Karnataka, India. The director of the institute is Dr. G. P. Prabhukumar.</lex>
-    </entry>
     <entry category="University" eid="Id33" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
@@ -256,27 +191,6 @@
       <lex comment="good" lid="Id1">The Acharya Institute of Technology, Bangalore, has 700 postgraduate students, is affiliated with Visvesvaraya Technological University and was established in the year 2000.</lex>
       <lex comment="good" lid="Id2">Acharya Institute of Technology in Bangalore was established in 2000 and has 700 students. It is affiliated with Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id3">An affiliate of Visvesvaraya Technological University, Acharya Institute of Technology in Bangalore was established in 2000 and currently has 700 postgraduate students enrolled.</lex>
-    </entry>
-    <entry category="University" eid="Id36" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
-        <otriple>Acharya_Institute_of_Technology | sport | Tennis</otriple>
-        <otriple>Tennis | sportGoverningBody | International_Tennis_Federation</otriple>
-        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
-        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
-        <otriple>Acharya_Institute_of_Technology | sport | Tennis</otriple>
-        <otriple>Tennis | union | International_Tennis_Federation</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | sportsOffered | Tennis</mtriple>
-        <mtriple>Tennis | sportGoverningBody | International_Tennis_Federation</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology, Bangalore is affiliated with the Visvesvaraya Technological University and one of the sports offered at the Institute is tennis (whose governing body is the International Tennis Federation.</lex>
     </entry>
     <entry category="University" eid="Id39" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -312,22 +226,6 @@
       <lex comment="good" lid="Id2">The Acharya Institute of Technology in Karnataka, east of the Arabian Sea was given the 'Technical Campus' status by the All India Council for Technical Education, located in Mumbai.</lex>
       <lex comment="good" lid="Id3">Acharya Institute of Technology was given Technical Campus status by the All India Council for Technical Education which is based in Mumbai. The Acharya Institute is located in the state of Karnataka which has to its west the Arabian Sea.</lex>
     </entry>
-    <entry category="University" eid="Id45" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>India | largestCity | Mumbai</otriple>
-        <otriple>AWH_Engineering_College | country | India</otriple>
-        <otriple>AWH_Engineering_College | faculty | 250</otriple>
-        <otriple>India | river | Ganges</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>India | largestCity | Mumbai</mtriple>
-        <mtriple>AWH_Engineering_College | country | India</mtriple>
-        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
-        <mtriple>India | river | Ganges</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AWH Engineering College (India) has an academic staff of 250. The largest city in India is Mumbai and one of the country's rivers is the Ganges.</lex>
-      <lex comment="good" lid="Id2">AWH Engineering College in India has a staff size of 250 people. The Ganges River and Mumbai, the largest city, are also found in India.</lex>
-    </entry>
     <entry category="University" eid="Id47" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>India | largestCity | Mumbai</otriple>
@@ -343,22 +241,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AWH Engineering College is located in Kuttikkattoor, Kerala, India. Mumbai is the largest city in India.</lex>
       <lex comment="good" lid="Id2">The AWH Engineering College is located in the city of Kuttikkattoor in the state of Kerala, India. The largest city in India is Mumbai.</lex>
-    </entry>
-    <entry category="University" eid="Id49" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Karnataka | northeast | Telangana</otriple>
-        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
-        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
-        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Karnataka | hasToItsNortheast | Telangana</mtriple>
-        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology is located in the state of Karnataka which has Telangana to its northeast. The Institute is affiliated to Visvesvaraya Technological University of Belgaum.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology is in Karnataka. It is affiliated with the Visvesvaraya Technological University in Belgaum. Telangana is to the northeast of Karnataka.</lex>
     </entry>
     <entry category="University" eid="Id51" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -399,22 +281,6 @@
       <lex comment="good" lid="Id2">The Prime Minister of Romania leads the country which has Bucharest as its capital city. The Romanian anthem is "Desteapta-te romane!" and the country is the location of the 1 Decembrie 1918 University.</lex>
       <lex comment="good" lid="Id3">1 Decembrie 1918 University is located in Romania. The capital of the country is Bucharest, its leader is the Prime Minister and the national anthem is Deșteaptă-te, române!.</lex>
     </entry>
-    <entry category="University" eid="Id56" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
-        <otriple>Romania | leaderName | Klaus_Iohannis</otriple>
-        <otriple>Romania | capital | Bucharest</otriple>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Romania | leaderTitle | Prime_Minister_of_Romania</mtriple>
-        <mtriple>Romania | leader | Klaus_Iohannis</mtriple>
-        <mtriple>Romania | capital | Bucharest</mtriple>
-        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of Romania is Prime Minister Klaus Iohannis . The capital city is Bucharest and the 1 Decembrie 1918 University is located in the country.</lex>
-      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is located in Romania. The capital of the country is Bucharest, its Prime Minister is Klaus Iohannis.</lex>
-    </entry>
     <entry category="University" eid="Id59" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
@@ -438,22 +304,6 @@
       <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University has 16,000 students and 737 staff members. It was established in 1928 and is affiliated with the European University Association.</lex>
       <lex comment="good" lid="Id3">School of Business and Social Sciences at the Aarhus University was established in 1928 and is affiliated with the European University Association. The school has 16,000 students and an academic staff of 737.</lex>
     </entry>
-    <entry category="University" eid="Id62" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
-        <otriple>European_University_Association | headquarters | Brussels</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
-        <mtriple>European_University_Association | headquarter | Brussels</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University in the city of Aarhus, Denmark is affiliated with the European University Association which has its headquarters in Brussels.</lex>
-      <lex comment="good" lid="Id2">The School of Business and Social Sciences (Aarhus, Denmark) is affiliated with the European University Association, which has its headquarters in Brussels.</lex>
-    </entry>
     <entry category="University" eid="Id64" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
@@ -470,35 +320,6 @@
       <lex comment="good" lid="Id1">Aarhus, which has a magistrate type of government is the location of the School of Business and Social Sciences at the Aarhus University. The School is affiliated with the European University Association which has its headquarters in Brussels.</lex>
       <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University, Aarhus which has a Magistrate government. It is affiliated with the European University Association in Brussels.</lex>
       <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University in Aarhus is affiliated with the European University Association, which has its headquarters in Brussels. Aarhus has a magistrate government.</lex>
-    </entry>
-    <entry category="University" eid="Id65" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | numberOfStudents | "16000"^^xsd:nonNegativeInteger</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | facultySize | "737"^^xsd:nonNegativeInteger</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark. There are 737 academic staff and 16000 students.</lex>
-      <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University in Denmark has a staff compliment of 737 and 16000 students.</lex>
-      <lex comment="good" lid="Id3">The School of Business and Social Sciences at theAarhus University in Aarhus, Denmark has 737 academic staff and 16,000 students.</lex>
     </entry>
     <entry category="University" eid="Id66" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -533,22 +354,6 @@
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University, Aarhus, Denmark was established in 1928 and is affiliated to the European University Association.</lex>
       <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University in Aarhus, Denmark was established in 1928. It is affiliated with the European University Association.</lex>
       <lex comment="good" lid="Id3">In 1928 a School of Business and Social Sciences was established at the Aarhus University in Aarhus, Denmark. This school is affiliated with the European University Association.</lex>
-    </entry>
-    <entry category="University" eid="Id72" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
-        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | "700"^^xsd:nonNegativeInteger</otriple>
-        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology campus has 700 postgraduate students and is affiliated with the Visvesvaraya Technological University in the city of Belgaum. The campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology has its campus in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090. It has 700 postgraduate students and it is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
     </entry>
     </entries>
 </benchmark>

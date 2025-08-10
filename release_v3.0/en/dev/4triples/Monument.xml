@@ -17,23 +17,6 @@
       <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument is a Contributing Property located in Adams County, Pennsylvania, with Franklin County to its west and Carroll County, Maryland to its southeast.</lex>
       <lex comment="good" lid="Id2">Pennsylvania's Franklin County is found to the west of Adams County while Carroll County Maryland is southeast of Adams County Pennsylvania. The location of the 11th Mississippi Infantry Monument is Adams County, Pennsylvania and falls under the category of Contributing property.</lex>
     </entry>
-    <entry category="Monument" eid="Id4" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Azerbaijan | leader | Artur_Rasizade</otriple>
-        <otriple>Azerbaijan | capital | Baku</otriple>
-        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
-        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
-        <mtriple>Azerbaijan | capital | Baku</mtriple>
-        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
-        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Baku is the capital of Azerbaijan and the leader of the legislature (the National Assembly) is Artur Rasizade. Azerbaijan is the location of the Baku Turkish Martyrs memorial.</lex>
-      <lex comment="good" lid="Id2">The National Assembly is the legislative branch of government in Azerbaijan where the leader is Artur Rasizade. The Turkish martyrs memorial is located in the capital, Baku.</lex>
-      <lex comment="good" lid="Id3">The Baku Turkish Martyrs' Memorial is located in Baku, the capital of Azerbaijan, where leader is Artur Rasizade and the legislature is known as the National Assembly.</lex>
-    </entry>
     <entry category="Monument" eid="Id6" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>

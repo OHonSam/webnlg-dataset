@@ -32,19 +32,6 @@
       <lex comment="good" lid="Id1">101 Helena has an average speed of 18.44 kilometres per second and an apoapsis of 441092000.0 kilometres.</lex>
       <lex comment="good" lid="Id2">101 Helena has an average speed of 18.44 km per sec and an apoapsis of 441092000.0 km.</lex>
     </entry>
-    <entry category="CelestialBody" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>103_Hera | discoverer | James_Craig_Watson</otriple>
-        <otriple>James_Craig_Watson | stateOfOrigin | Canada</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>103_Hera | discoverer | James_Craig_Watson</mtriple>
-        <mtriple>James_Craig_Watson | stateOfOrigin | Canada</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">James Craig Watson, who comes from Canada, discovered 103 Hera.</lex>
-      <lex comment="good" lid="Id2">103 Hera was discovered by James Craig Watson, who came from Canada.</lex>
-      <lex comment="good" lid="Id3">James Craig Watson, who has his origins in Canada, discovered 103 Hera.</lex>
-    </entry>
     <entry category="CelestialBody" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>103_Hera | periapsis | 3.7124e+11</otriple>
@@ -61,27 +48,6 @@
       <lex comment="good" lid="Id1">103 Hera has a periapsis measurement of 371240000.0 km and its epoch is 31st July 2016.</lex>
       <lex comment="good" lid="Id2">103 Hera has a periapsis of 371240000.0 kilometres, and the epoch is on the 31st of July 2016.</lex>
       <lex comment="good" lid="Id3">103 Hera has a periapsis of 371240000.0 kilometres and an epoch date of August 27th 2011.</lex>
-    </entry>
-    <entry category="CelestialBody" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>1099_Figneria | Planet/averageSpeed | "16.37"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
-        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>1099_Figneria | avgSpeed | "16.37"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
-        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
-        <otriple>1099_Figneria | averageSpeed | "58932.0"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1099_Figneria | apoapsis | 605718000.0 (kilometres)</mtriple>
-        <mtriple>1099_Figneria | averageSpeed | 16.37 (kilometrePerSeconds)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1099 Figneria, travels at an average speed of 16.37 kilometres per second. and has an apoapsis of 605718000 kilometres.</lex>
-      <lex comment="good" lid="Id2">1099 Figneria has an apoapsis of 605718000.0 kilometres and an average speed of 16.37 km per sec.</lex>
-      <lex comment="good" lid="Id3">1099 Figneria, travelling at an average speed of 16.37 kmps has an apoapsis of 605718000.0 kms.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -100,22 +66,5 @@
       <lex comment="good" lid="Id2">1101 Clematis has a periapsis of 445895000000 and its epoch comes up on the 31st of july 2016.</lex>
       <lex comment="good" lid="Id3">1101 Clematis has an epoch date of December 31st 2006 and a periapsis of 445895000000.0.</lex>
     </entry>
-    <entry category="CelestialBody" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
-        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
-        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
-        <mtriple>11264_Claudiomaccone | periapsis | 296521000.0 (kilometres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">11264 Claudiomaccone has the epoch date of 26 November 2005 and a periapsis of 296521000.0 kilometres.</lex>
-      <lex comment="good" lid="Id2">11264 Claudiomaccone has an epoch date of 26 November 2005 and a periapsis of 296521000.0.</lex>
-      <lex comment="good" lid="Id3">11264 Claudiomaccone has the epoch date of 26 November 2005 and its periapsis is 296521000.0 kilometres.</lex>
-    </entry>
-  </entries>
+    </entries>
 </benchmark>

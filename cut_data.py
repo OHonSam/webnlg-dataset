@@ -35,7 +35,7 @@ def count_num_entry (pdf_file: Path) -> int:
     
     return num_entry
 
-data_root = Path("release_v3.0/en/dev")
+data_root = Path("release_v3.0/en/train")
 num_sub_folders = 7
 
 for i in range(1, num_sub_folders + 1):

@@ -1,23 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="City" eid="Id4" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Albany,_Oregon | subdivisionName | Oregon</otriple>
-        <otriple>Oregon | capital | Salem,_Oregon</otriple>
-        <otriple>Albany,_Oregon | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albany,_Oregon | isPartOf | Oregon</mtriple>
-        <mtriple>Oregon | capital | Salem,_Oregon</mtriple>
-        <mtriple>Albany,_Oregon | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany is a city in Oregon, where the capital is Salem. Albany is located in the United States, where there is an ethnic group called African Americans.</lex>
-      <lex comment="good" lid="Id2">Albany is a city in Oregon located in the U.S. Salem is the capital of that state. African Americans are one ethnic group in the U.S.</lex>
-      <lex comment="good" lid="Id3">Albany is part of Oregon (capital is Salem), in the Unite States, where African Americans are one of the ethnic groups.</lex>
-    </entry>
     <entry category="City" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Albuquerque,_New_Mexico | areaLand | 4.862e+08</otriple>
@@ -39,23 +22,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque, in New Mexico, has a total are of 490.9 square kilometres and a land area of 486.2 square kilometres. It has a population density of 1142.3 people per square kilometers, and the area codes are 505 and 575.</lex>
       <lex comment="good" lid="Id2">Albuquerque, New Mexico covers a total of 490.9 sq kms which includes a land area of 486.2 sq km. It has the area codes 505 and 575 and a population density of 1142.3 inhabitants per sq km.</lex>
-    </entry>
-    <entry category="City" eid="Id6" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</otriple>
-        <otriple>Potter_County,_Texas | state | Texas</otriple>
-        <otriple>Potter_County,_Texas | country | United_States</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</mtriple>
-        <mtriple>Potter_County,_Texas | state | Texas</mtriple>
-        <mtriple>Potter_County,_Texas | country | United_States</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amarillo is part of Potter County, Texas, in the United States, the capital of which, is Washington, D.C.</lex>
-      <lex comment="good" lid="Id2">Amarillo is located in the United States and comprises part of Potter County in the state of Texas. The capital of the country is found in Washington DC.</lex>
-      <lex comment="good" lid="Id3">Amarillo is part of Potter County, Texas, U.S. Washington D.C. is the capital of the U.S.</lex>
     </entry>
     <entry category="City" eid="Id9" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -107,29 +73,6 @@
       <lex comment="good" lid="Id1">Auburn is part of Lee County in Alabama which is located in the United States where you can also find asian americans.</lex>
       <lex comment="good" lid="Id2">The Asian Americans are an ethnic group in the United States where Lee County is located. Auburn is found in this County which is in the state of Alabama.</lex>
       <lex comment="good" lid="Id3">Auburn is part of Lee County, Alabama, in the United States, where one of the ethnic groups is Asian American.</lex>
-    </entry>
-    <entry category="City" eid="Id16" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Auburn,_Washington | isPartOf | Pierce_County,_Washington</otriple>
-        <otriple>Auburn,_Washington | subdivisionName | Washington_(state)</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>Washington_(state) | country | United_States</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Auburn,_Washington | isPartOf | Washington_(state)</otriple>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-        <otriple>Auburn,_Washington | subdivisionName | Pierce_County,_Washington</otriple>
-        <otriple>Washington_(state) | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Auburn,_Washington | isPartOf | Pierce_County,_Washington</mtriple>
-        <mtriple>Auburn,_Washington | isPartOf | Washington_(state)</mtriple>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-        <mtriple>Washington_(state) | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Auburn is located in Pierce County, Washington in the U.S.The capital city of the United States is Washington DC.</lex>
-      <lex comment="good" lid="Id2">Auburn, Pierce County, Washington, which is located in the United States (with its capital as Washington, D.C.).</lex>
-      <lex comment="good" lid="Id3">The capital of the U.S. is Washington, D.C. Washington state, in the United States, is where Auburn, part of Pierce County, Washington, is located.</lex>
     </entry>
     <entry category="City" eid="Id18" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -199,21 +142,5 @@
       <lex comment="good" lid="Id2">One ethnic group that lives in the United States are Asian Americans. People that inhabit that country are called Americans. Akron, Summit County, Ohio is located there.</lex>
       <lex comment="good" lid="Id3">Akron in Summit County, Ohio is part of the U.S. where Asian Americans are one of several ethnic groups among all Americans.</lex>
     </entry>
-    <entry category="City" eid="Id27" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>United_States | language | English_language</otriple>
-        <otriple>United_States_House_of_Representatives | location | United_States</otriple>
-        <otriple>United_States_House_of_Representatives | isPartOf | United_States_Congress</otriple>
-        <otriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | language | English_language</mtriple>
-        <mtriple>United_States_House_of_Representatives | location | United_States</mtriple>
-        <mtriple>United_States_House_of_Representatives | isPartOf | United_States_Congress</mtriple>
-        <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States House of Representatives is part of the United States Congress and leads Anaheim, California. It is located within the US where the English language is spoken.</lex>
-      <lex comment="good" lid="Id2">Anaheim in California is led by the United States House of Representatives, part of the United States Congress. English is spoken in the US, which is where the House of Representatives is located.</lex>
-    </entry>
-  </entries>
+    </entries>
 </benchmark>

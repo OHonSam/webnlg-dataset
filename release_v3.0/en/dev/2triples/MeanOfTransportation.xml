@@ -1,19 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="MeanOfTransportation" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>A-Rosa_Luna | shipClass | Cruise_ship</otriple>
-        <otriple>A-Rosa_Luna | MeanOfTransportation/length | "125800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A-Rosa_Luna | shipClass | Cruise_ship</mtriple>
-        <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna is 125800.0 millimetres in length and classed as a cruise ship.</lex>
-      <lex comment="good" lid="Id2">The A-Rosa Luna which is 125.8 metres long, is classed as a Cruise ship.</lex>
-      <lex comment="good" lid="Id3">The A-Rosa Luna cruise ship is 125800.0 millimetres in length.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>AIDAstella | shipChristened | "--03-16"^^xsd:gMonthDay</otriple>
@@ -43,23 +30,6 @@
       <lex comment="good" lid="Id1">Alliant Techsystems makes the ALV X-1 and also produces the AgM-88 HARM.</lex>
       <lex comment="good" lid="Id2">AGM-88 HARM is produced by Alliant Techsystems which is the manufacturer of the ALV X-1.</lex>
       <lex comment="good" lid="Id3">The ALV X-1 and the AgM-88 HARM were manufactured by Alliant Techsystems.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>AMC_Matador | designer | Richard_A._Teague</otriple>
-        <otriple>Richard_A._Teague | employer | General_Motors</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Richard_A._Teague | employer | General_Motors</otriple>
-        <otriple>AMC_Matador | designCompany | Richard_A._Teague</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AMC_Matador | designer | Richard_A._Teague</mtriple>
-        <mtriple>Richard_A._Teague | employer | General_Motors</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Richard A. Teague, who works for General Motors, designed the AMC Matador.</lex>
-      <lex comment="good" lid="Id2">Richard A Teague works for General Motors and designed the AMC Matador.</lex>
-      <lex comment="good" lid="Id3">The AMC Matador was designed by Richard A Teague who is employed by General Motors.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -99,19 +69,6 @@
       <lex comment="good" lid="Id2">The icebreaker ship Aleksey Chirikov was built in Finland which is led by Sauli Niinisto.</lex>
       <lex comment="good" lid="Id3">Aleksey Chirikov, an icebreaker, was built in Finland whose leader is Sauli Niinistö.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id16" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
-        <otriple>Humphrys,_Tennant_and_Dykes | location | Deptford</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alhambra | powerType | Humphrys,_Tennant_and_Dykes</mtriple>
-        <mtriple>Humphrys,_Tennant_and_Dykes | location | Deptford</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Humphrys, Tennant and Dykes are located in Deptford and power the Alhambra.</lex>
-      <lex comment="good" lid="Id2">Humphrys, Tennant &amp; Dykes is in Deptford and the Alhambra is powered by one of their engines.</lex>
-      <lex comment="good" lid="Id3">The Alhambra is powered by a Humphrys, Tennant and Dykes engine, they are located in Deptford.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Alhambra_(1855) | shipBeam | "8.3 m"@en</otriple>
@@ -142,23 +99,6 @@
       <lex comment="good" lid="Id2">American Motors Co, who manufactured the AMC Matador, was succeeded by Eagle.</lex>
       <lex comment="good" lid="Id3">American Motors Co was succeeded by Eagle and manufactured AMC Matador.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</otriple>
-        <otriple>Airbus_Defence_and_Space | parentCompany | Airbus_Group</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</otriple>
-        <otriple>Airbus_Defence_and_Space | parent | Airbus_Group</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</mtriple>
-        <mtriple>Airbus_Defence_and_Space | parentCompany | Airbus_Group</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Airbus Group is the parent company of Airbus Defence &amp; Space; where Ariane 5 was manufactured.</lex>
-      <lex comment="good" lid="Id2">The Airbus Group is the parent company of Airbus Defence and Space who manufactured the Ariane 5.</lex>
-      <lex comment="good" lid="Id3">The Airbus Defence and Space, whose parent company is Airbus Group, made the Ariane 5.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id23" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
@@ -171,19 +111,6 @@
       <lex comment="good" lid="Id1">The Aston Martin Virage succeeded the Aston Martin V8 which is a related means of transport to the Aston Martin RHAM/1.</lex>
       <lex comment="good" lid="Id2">The Aston Martin V8, which was succeeded by the Aston Martin Virage, and the Aston Martin RHAM/1 are related means of transportation.</lex>
       <lex comment="good" lid="Id3">The Aston Martin Virage succeeded the Aston Martin V8 which is related to the Aston Martin RHAM/1.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id25" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Audi_A1 | manufacturer | Audi</otriple>
-        <otriple>Audi | subsidiary | Ducati</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Audi_A1 | manufacturer | Audi</mtriple>
-        <mtriple>Audi | subsidiary | Ducati</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Audi A1 is made by Audi who also own Ducati.</lex>
-      <lex comment="good" lid="Id2">The Audi A1 is made by Audi who also own Ducati.</lex>
-      <lex comment="good" lid="Id3">Ducati is a subsidiary of Audi, which is the manufacturer of the Audi A1.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

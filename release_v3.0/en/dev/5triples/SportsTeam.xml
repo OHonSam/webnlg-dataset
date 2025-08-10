@@ -1,25 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="SportsTeam" eid="Id3" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
-        <otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
-        <otriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</otriple>
-        <otriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Alagoas</otriple>
-        <otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</mtriple>
-        <mtriple>Campeonato_Brasileiro_Série_C | country | Brazil</mtriple>
-        <mtriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</mtriple>
-        <mtriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Alagoas</mtriple>
-        <mtriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Estádio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiação Sportiva Arapiraquense. It is located in Alagoas. Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league from Brazil. The Vila Nova Futebol Clube were champions at the Série C.</lex>
-      <lex comment="good" lid="Id2">Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C. from Brazil in which Agremiação Sportiva Arapiraquense also play. This latter team have their ground at Estádio Municipal Coaracy da Mata Fonseca which is located in Alagoas.</lex>
-      <lex comment="good" lid="Id3">Llocated in Alagoas, Estádio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiação Sportiva Arapiraquense. They play in the Campeonato Brasileiro Série C league, which is from Brazil, and the champions of which have been Vila Nova Futebol Clube.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id5" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>

@@ -34,21 +34,6 @@
       <lex comment="good" lid="Id1">Arem arem originates from the country of Indonesia, where two of the leaders are, Joko Widodo and Jusuf Kalla.</lex>
       <lex comment="good" lid="Id2">Arem arem originates from Indonesia where two of the leaders are Joko Widodo and Jusuf Kalla.</lex>
     </entry>
-    <entry category="Food" eid="Id5" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Arrabbiata_sauce | country | Italy</otriple>
-        <otriple>Italy | language | Italian_language</otriple>
-        <otriple>Italy | leader | Sergio_Mattarella</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Arrabbiata_sauce | country | Italy</mtriple>
-        <mtriple>Italy | language | Italian_language</mtriple>
-        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of Italy is Sergio Mattarella, it is also where Italian is spoken and the arrabbiata sauce is from.</lex>
-      <lex comment="good" lid="Id2">Sergio Mattarella is a leader of Italy where the Italian language is spoken and Arrabbiata sauce can be found.</lex>
-      <lex comment="good" lid="Id3">Arrabbiata sauce is from Italy, where the spoken language is Italian and a leader is Sergio Mattarella.</lex>
-    </entry>
     <entry category="Food" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Arrabbiata_sauce | ingredient | Garlic</otriple>
@@ -89,20 +74,6 @@
       <lex comment="good" lid="Id2">Asam pedas is made from fish cooked in a sour and hot sauce and comes from the Sumatra and Malay Peninsula regions in Malaysia.</lex>
       <lex comment="good" lid="Id3">The dish Asam pedas comes from the region of Sumatra and the Malay Peninsula. Malaysia and the main ingredients are fish cooked in sour and hot sauce.</lex>
     </entry>
-    <entry category="Food" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Bacon_Explosion | country | United_States</otriple>
-        <otriple>Bacon_Explosion | ingredient | Bacon</otriple>
-        <otriple>Bacon_Explosion | mainIngredient | Sausage</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bacon_Explosion | country | United_States</mtriple>
-        <mtriple>Bacon_Explosion | ingredient | Bacon</mtriple>
-        <mtriple>Bacon_Explosion | mainIngredient | Sausage</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bacon and sausage are the main ingredients in a Bacon Explosion, which comes from the United States.</lex>
-      <lex comment="good" lid="Id2">Bacon Explosion, whose name comes from the United States, has bacon and sausage.</lex>
-    </entry>
     <entry category="Food" eid="Id14" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Bacon_Explosion | country | United_States</otriple>
@@ -133,21 +104,6 @@
       <lex comment="good" lid="Id2">Sponge cake is an ingredient of Baked Alaska, which comes from the region of New York and can be found in the U.S.</lex>
       <lex comment="good" lid="Id3">An ingredient of baked Alaska is sponge cake, the dish originates from New York, USA.</lex>
     </entry>
-    <entry category="Food" eid="Id20" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Baked_Alaska | course | Dessert</otriple>
-        <otriple>Dessert | hasVariant | Sandesh_(confectionery)</otriple>
-        <otriple>Baked_Alaska | ingredient | Christmas_pudding</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Baked_Alaska | course | Dessert</mtriple>
-        <mtriple>Dessert | dishVariation | Sandesh_(confectionery)</mtriple>
-        <mtriple>Baked_Alaska | ingredient | Christmas_pudding</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Sandesh (confectionery) is a dish that can be served as a dessert. Another dish that is a dessert is Baked Alaska which has Christmas pudding as an ingredient.</lex>
-      <lex comment="good" lid="Id2">Sandesh and Baked Alaska are desserts. Baked Alaska uses Christmas pudding as an ingredient.</lex>
-      <lex comment="good" lid="Id3">Christmas pudding is an ingredient in Baked Alaska, which is a dessert, same as sandesh.</lex>
-    </entry>
     <entry category="Food" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Barny_Cakes | hasVariant | Apple</otriple>
@@ -168,26 +124,6 @@
       <lex comment="good" lid="Id2">Barny cakes can be made with apple and contain 1.8g protein and 18g of carbs.</lex>
       <lex comment="good" lid="Id3">Barny cakes may be made with apple and have 1.8g of protein and 18g of carbohydrates.</lex>
     </entry>
-    <entry category="Food" eid="Id27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Bhajji | country | India</otriple>
-        <otriple>Bhajji | ingredient | Gram_flour</otriple>
-        <otriple>Bhajji | ingredientName | "Gram flour,vegetables"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Bhajji | country | India</otriple>
-        <otriple>Bhajji | mainIngredient | "Gram flour, vegetables"@en</otriple>
-        <otriple>Bhajji | ingredient | Gram_flour</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bhajji | country | India</mtriple>
-        <mtriple>Bhajji | mainIngredient | "Gram flour, vegetables"</mtriple>
-        <mtriple>Bhajji | ingredient | Gram_flour</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bhajji originates from India, its main ingredients are gram flour and vegetables.</lex>
-      <lex comment="good" lid="Id2">The key ingredients of a Bhajji from India are gram flour and vegetables.</lex>
-      <lex comment="good" lid="Id3">The main ingredients in Bhajji, which originates from Indiam are gram flour and vegetables.</lex>
-    </entry>
     <entry category="Food" eid="Id30" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Bhajji | region | Karnataka</otriple>
@@ -203,21 +139,6 @@
       <lex comment="good" lid="Id2">The main ingredients in Bhajji are gram flour and vegetables, this comes from the Karnataka region.</lex>
       <lex comment="good" lid="Id3">Bhajji are found in the region of Karnataka, its main ingredients are gram flour and vegetables.</lex>
     </entry>
-    <entry category="Food" eid="Id31" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Binignit | ingredient | Sweet_potato</otriple>
-        <otriple>Binignit | mainIngredient | Banana</otriple>
-        <otriple>Binignit | country | Philippines</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Binignit | ingredient | Sweet_potato</mtriple>
-        <mtriple>Binignit | mainIngredient | Banana</mtriple>
-        <mtriple>Binignit | country | Philippines</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The binignit dish can be found in the Philippines. Two of the main ingredients in it are banana and sweet potato.</lex>
-      <lex comment="good" lid="Id2">The main ingredients of Binignit are banana and sweet potatoes, and it can be found in the Philippines.</lex>
-      <lex comment="good" lid="Id3">Binignit is a dish from the Philippines made from banana and sweet potato.</lex>
-    </entry>
     <entry category="Food" eid="Id34" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Celery | genus | Apium</otriple>
@@ -232,20 +153,6 @@
       <lex comment="good" lid="Id1">One ingredient in Bakso is celery, which is a member of the genus Apium in the family Apiaceae.</lex>
       <lex comment="good" lid="Id2">Celery is from the genus apium and the family Apiaceae. It is an ingredient of Bakso.</lex>
       <lex comment="good" lid="Id3">Celery is a member of the family Apiaceae, it is from the genus apium and is an ingredient of Bakso.</lex>
-    </entry>
-    <entry category="Food" eid="Id35" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Dessert | hasVariant | Cake</otriple>
-        <otriple>Bionico | ingredient | Granola</otriple>
-        <otriple>Bionico | course | Dessert</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Dessert | dishVariation | Cake</mtriple>
-        <mtriple>Bionico | ingredient | Granola</mtriple>
-        <mtriple>Bionico | course | Dessert</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bionico is a dessert that requires granola as one of its ingredients; it can be eaten as an alternative to cake.</lex>
-      <lex comment="good" lid="Id2">Bionico requires granola as one of its ingredients, it is served at the dessert course, like cake.</lex>
     </entry>
     <entry category="Food" eid="Id37" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

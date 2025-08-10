@@ -46,32 +46,6 @@
       <lex comment="good" lid="Id2">AmeriGas, an energy industry company, serves all regions of the United States, its home country, which has a total area of 9833516.63 (square kilometres) and its capital is Washington, D.C.</lex>
       <lex comment="good" lid="Id3">AmeriGas classified in the Energy Industry works and serves the United States whose capital is Washington, D.C. and has a total area of 9,833,516.63 square kilometers.</lex>
     </entry>
-    <entry category="Company" eid="Id9" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Chinabank | foundingDate | 1920-08-16</otriple>
-        <otriple>Chinabank | service | Banking</otriple>
-        <otriple>Chinabank | numberOfEmployees | 5594</otriple>
-        <otriple>Chinabank | netIncome | 1.51E10</otriple>
-        <otriple>Chinabank | numberOfLocations | 295</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Chinabank | foundingYear | 1920-01-01</otriple>
-        <otriple>Chinabank | service | Banking</otriple>
-        <otriple>Chinabank | numberOfEmployees | 5594</otriple>
-        <otriple>Chinabank | netIncome | 1.51E10</otriple>
-        <otriple>Chinabank | numberOfLocations | 295</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
-        <mtriple>Chinabank | service | Banking</mtriple>
-        <mtriple>Chinabank | numberOfEmployees | 5594</mtriple>
-        <mtriple>Chinabank | netIncome | 15100000000</mtriple>
-        <mtriple>Chinabank | numberOfLocations | 295</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Chinabank is a banking service which was founded on 1920-08-16. It employs 5594 workers, distributed through 295 branches, and has a current net income of 15100000000.</lex>
-      <lex comment="good" lid="Id2">Chinabank, founded on the 16th of August, 1920, offers banking service to customers. The company has 5,594 employees, 295 banking centres, and its net income is 15,100,000,000.</lex>
-      <lex comment="good" lid="Id3">Chinabank, a banking service founded on 08-16-1920, has a net income of 15,100,000,000. Chinabank has 5594 employees at its 295 locations.</lex>
-    </entry>
     <entry category="Company" eid="Id11" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Chinabank | service | Banking</otriple>
@@ -90,25 +64,6 @@
       <lex comment="good" lid="Id1">Chinabank was first founded in Manila and now has 295 different locations. They are a publicly traded company that offers banking services and has a net income of 15,100,000,000.</lex>
       <lex comment="good" lid="Id2">Chinabank, a banking services company with a net income of 15,100,000,000 and 295 banking center locations, is publicly traded. The company was founded in Manila.</lex>
       <lex comment="good" lid="Id3">Chinabank is a banking service founded in Manila with 295 branches. Chinabank is a public company whose current net income has been 15,100,000,000.</lex>
-    </entry>
-    <entry category="Company" eid="Id12" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>GMA_New_Media | foundingYear | 2000-01-01</otriple>
-        <otriple>GMA_New_Media | type | Media_company</otriple>
-        <otriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</otriple>
-        <otriple>GMA_New_Media | subsidiary | Digify,_Inc.</otriple>
-        <otriple>GMA_New_Media | parentCompany | GMA_Network_(company)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>GMA_New_Media | foundingDate | 2000-01-01</mtriple>
-        <mtriple>GMA_New_Media | type | Media_company</mtriple>
-        <mtriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</mtriple>
-        <mtriple>GMA_New_Media | subsidiary | Digify,_Inc.</mtriple>
-        <mtriple>GMA_New_Media | parentCompany | GMA_Network_(company)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">GMA New Media, Inc. is a media company that was founded on 01/01/2000 as a subsidiary of the GMA Network. GMA New Media has two subsidiaries of its own in Philippine Entertainment Portal, Inc and Digify Inc.</lex>
-      <lex comment="good" lid="Id2">GMA New Media is a media company that was founded on 01-01-2000. It has Philippine Entertainment Portal and Digify Inc as subsidiary, and it also has the parent company that is GMA Network.</lex>
-      <lex comment="good" lid="Id3">GMA New Media (parent company GMA Network) is a media company founded on January 01, 2000. Philippine Entertainment Portal and Digify, Inc. are both subsidiaries of this company.</lex>
     </entry>
     <entry category="Company" eid="Id14" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -167,25 +122,6 @@
       <lex comment="good" lid="Id2">Hypermarcas, a drug maker led by their key CEO, was founded on 2001-01-01. Hypermarcas makes $1,800,000,000 a year and their net income is $108,600,000.</lex>
       <lex comment="good" lid="Id3">Hypermarcas, a company managed by their CEO that produces drugs, was founded on January 1, 2001. Hypermarcas earns $1,800,000,000 per year and has a net income of $108,600,000.</lex>
     </entry>
-    <entry category="Company" eid="Id21" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Hypermarcas | location | Brazil</otriple>
-        <otriple>Hypermarcas | product | Drugs</otriple>
-        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
-        <otriple>Hypermarcas | keyPerson | CEO</otriple>
-        <otriple>Hypermarcas | subsidiary | Mantecorp</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Hypermarcas | location | Brazil</mtriple>
-        <mtriple>Hypermarcas | product | Drugs</mtriple>
-        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
-        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
-        <mtriple>Hypermarcas | subsidiary | Mantecorp</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Hypermarcas, a pharmaceutical company located in Brazil, is managed by their CEO and has a subsidiary called Mantecorp. Hypermarcas' main product is drugs.</lex>
-      <lex comment="good" lid="Id2">Hypermarcas is a drug maker located in Brazil. The pharmaceutical company is run by its CEO and also has a subsidiary called Mantecorp.</lex>
-      <lex comment="good" lid="Id3">The CEO is the key person of Mantecorp, a subsidiary of Hypermarcas, a pharmaceutical company located in Brazil.</lex>
-    </entry>
     <entry category="Company" eid="Id22" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Hypermarcas | product | Drugs</otriple>
@@ -204,25 +140,6 @@
       <lex comment="good" lid="Id1">Founded January 1, 2001, Mantecorp subsidiary Hypermarcas is a pharmaceutical drug company which is a S.A. corporation with a net income of $108600000.</lex>
       <lex comment="good" lid="Id2">Hypermarcas makes drugs and was founded on 2001-01-01 and is a S.A. corporation with a subsidiary named Mantecorp and net income of $108,600,000.</lex>
       <lex comment="good" lid="Id3">Hypermarcas, founded on January 1, 2001, is a type of S.A. corporation with drugs as its main product. The company has a subsidiary called Mantecorp and has a net income of 108,600,000.</lex>
-    </entry>
-    <entry category="Company" eid="Id23" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
-        <otriple>Hypermarcas | product | Healthcare</otriple>
-        <otriple>Hypermarcas | product | Cosmetics</otriple>
-        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
-        <otriple>Hypermarcas | keyPerson | CEO</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
-        <mtriple>Hypermarcas | product | Healthcare</mtriple>
-        <mtriple>Hypermarcas | product | Cosmetics</mtriple>
-        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
-        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Hypermarcas is an S.A corporation in the pharmaceutical company, it makes healthcare products and sells cosmetics, its key person is the CEO.</lex>
-      <lex comment="good" lid="Id2">Hypermarcas, a pharmaceutical company that manufactures healthcare and cosmetics products, is a type of S.A. corporation. They are managed by their CEO.</lex>
-      <lex comment="good" lid="Id3">Hypermarcas is managed by a CEO that is in the pharmaceuticals industry that sells healthcare products and produces cosmetics within this type of S.A. corporation.</lex>
     </entry>
     <entry category="Company" eid="Id26" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -281,24 +198,5 @@
       <lex comment="good" lid="Id2">The Trane company has 29,000 employees and is located in Swords, Dublin; which has an urban area of 11.35 square kilometers. The company has a net income of $556.300 million USD and a revenue of $10.264 billion USD.</lex>
       <lex comment="good" lid="Id3">Trane, located in Swords, Dublin (urban area 11.35), employs 29,000 people. Trane earned net income of $556,300,000 from revenue of $10,264,000,000.</lex>
     </entry>
-    <entry category="Company" eid="Id34" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Trane | revenue | 1.0264E10</otriple>
-        <otriple>Trane | type | Subsidiary</otriple>
-        <otriple>Trane | operatingIncome | 8.754E8</otriple>
-        <otriple>Trane | foundingYear | 1913-01-01</otriple>
-        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Trane | revenue | 10264000000</mtriple>
-        <mtriple>Trane | type | Subsidiary</mtriple>
-        <mtriple>Trane | operatingIncome | 875400000</mtriple>
-        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
-        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Trane, a subsidiary company with a revenue of $10,264,000,000 and an operating income of $875,400,000, was founded in La Crosse, Wisconsin. The company was founded on January first, 1913.</lex>
-      <lex comment="good" lid="Id2">Trane was founded on 1913-01-01 in La Crosse, Wisconsin, and is a subsidiary with revenue of $10,264,000,000 and operating income of $875,400,000.</lex>
-      <lex comment="good" lid="Id3">The Trane company was founded in La Crosse, Wisconsin on January 01, 1913. It is a subsidiary company with an operating income of $875.400 million USD and has $10.264 billion USD in revenues.</lex>
-    </entry>
-  </entries>
+    </entries>
 </benchmark>

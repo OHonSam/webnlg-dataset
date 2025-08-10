@@ -1,29 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Astronaut" eid="Id1" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
-      <originaltripleset>
-        <otriple>Alan_Bean | mission | Apollo_12</otriple>
-        <otriple>Alan_Bean | nationality | United_States</otriple>
-        <otriple>Apollo_12 | operator | NASA</otriple>
-        <otriple>Alan_Bean | occupation | Test_pilot</otriple>
-        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
-        <otriple>Alan_Bean | status | "Retired"@en</otriple>
-        <otriple>Alan_Bean | birthDate | "1932-03-15"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
-        <mtriple>Alan_Bean | nationality | United_States</mtriple>
-        <mtriple>Apollo_12 | operator | NASA</mtriple>
-        <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
-        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
-        <mtriple>Alan_Bean | status | "Retired"</mtriple>
-        <mtriple>Alan_Bean | birthDate | "1932-03-15"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Bean was born on March 15, 1932 in Wheeler, Texas and is American. He worked as a test pilot and was a member of Apollo 12, which was run by NASA. Bean is retired.</lex>
-      <lex comment="good" lid="Id2">Alan Bean is an American, who was born in Wheeler, Texas on 15th March 1832. He was a test pilot and crew member on the NASA operated Apollo 12 flight mission. He is now retired.</lex>
-      <lex comment="good" lid="Id3">Alan Bean is a US national who was on the crew of Apollo 12. His birthplace is Wheeler, Texas. He was born on March 15, 1932 and he is retired. He performed as a test pilot on The Apollo 12 mission that was operated by NASA.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id2" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="7">
       <originaltripleset>
         <otriple>Alan_Bean | mission | Apollo_12</otriple>
@@ -44,28 +21,6 @@
         <mtriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean was born in Wheeler, Texas and attended UT Austin where he graduated in 1955 with a BS. Prior to his retirement he served as a test pilot and was selected by NASA to serve as a crew member on Apollo 12 alongside commander David Scott.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id6" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
-      <originaltripleset>
-        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
-        <otriple>Buzz_Aldrin | alternativeNames | "Edwin E. Aldrin, Jr."@en</otriple>
-        <otriple>Buzz_Aldrin | nationality | United_States</otriple>
-        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
-        <otriple>Buzz_Aldrin | occupation | Fighter_pilot</otriple>
-        <otriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"@en</otriple>
-        <otriple>Buzz_Aldrin | status | "Retired"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
-        <mtriple>Buzz_Aldrin | alternativeName | "Edwin E. Aldrin, Jr."</mtriple>
-        <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
-        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
-        <mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
-        <mtriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</mtriple>
-        <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Retired American fighter pilot Buzz Aldrin, also known as Edwin E. Aldrin Jr., was born in Glen Ridge, New Jersey. He graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science and was a crew member on Apollo 11.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin, whose real name was Edwin E Aldrin Jr, has now retired. He is an American born in Glen Ridge, New Jersey. After graduating from MIT in 1963 with a doctorate in science he became a fighter pilot and crew member on Apollo 11.</lex>
     </entry>
     <entry category="Astronaut" eid="Id9" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="7">
       <originaltripleset>

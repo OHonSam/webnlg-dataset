@@ -30,21 +30,6 @@
       <lex comment="good" lid="Id5">The 11th Mississippi Infantry Monument in Adams County, Pennsylvania was established in 2000.</lex>
       <lex comment="good" lid="Id6">The 11th Mississippi Infantry Monument established in 2000 is found in Adams County, Pennsylvania.</lex>
     </entry>
-    <entry category="Monument" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
-        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
-        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument is found in Pennsylvania and was established in 2000.</lex>
-      <lex comment="good" lid="Id2">11th Mississippi Infantry Monument, established in 2000 is in Pennsylvania.</lex>
-      <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument stands in the state of Pennsylvania and was established in 2000.</lex>
-      <lex comment="good" lid="Id4">11th Mississippi Infantry Monument was established in 2000 in Pennsylvania.</lex>
-      <lex comment="good" lid="Id5">The 11th Mississippi Infantry Monument was established in Pennsylvania in the year 2000.</lex>
-    </entry>
     <entry category="Monument" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
@@ -59,19 +44,6 @@
       <lex comment="good" lid="Id3">11th Mississippi Infantry Monument can be found in Gettysburg, Pennsylvania.</lex>
       <lex comment="good" lid="Id4">The 11th Mississippi Infantry Monument is located in Gettysburg, Pennsylvania.</lex>
     </entry>
-    <entry category="Monument" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
-        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
-        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the United States at the Monocacy National Battlefield.</lex>
-      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield in the United States.</lex>
-      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield in the United States.</lex>
-    </entry>
     <entry category="Monument" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
@@ -83,19 +55,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument was made on July 11, 1907 and is located in the U.S.</lex>
       <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument was established on July 11th, 1907 and is in the United States.</lex>
-    </entry>
-    <entry category="Monument" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
-        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
-        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is in the Monocacy National Battlefield and was founded July 11, 1907.</lex>
-      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield and was established on 11th July 1907.</lex>
-      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is in the Monocacy National Battlefield and was established July 11, 1907.</lex>
     </entry>
     <entry category="Monument" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -125,19 +84,6 @@
       <lex comment="good" lid="Id4">The Atatürk Monument (made of bronze) in Izmir was inaugurated on 1932-07-27.</lex>
       <lex comment="good" lid="Id5">The inauguration date of the bronze Ataturk Monument was July 27th, 1932.</lex>
     </entry>
-    <entry category="Monument" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
-        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
-        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of Azerbaijan is called the Prime Minister. The Baku Turkish Martyrs' Memorial is in Azerbaijan.</lex>
-      <lex comment="good" lid="Id2">Baku Turkish Martyrs' Memorial is located in Azerbaijan and the leader is The Prime Minister of Azerbaijan.</lex>
-      <lex comment="good" lid="Id3">Azerbaijan's leader is the Prime Minister. The Baku Turkish Martyrs' Memorial is in Azerbaijan.</lex>
-    </entry>
     <entry category="Monument" eid="Id24" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
@@ -149,18 +95,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Baku Turkish Martyrs' Memorial made of red granite and white marble can be found in Azerbaijan.</lex>
       <lex comment="good" lid="Id2">Baku Turkish Martyrs' Memorial is located in Azerbaijan and made of red granite and white marble.</lex>
-    </entry>
-    <entry category="Monument" eid="Id27" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Dead_Man's_Plack | location | England</otriple>
-        <otriple>England | capital | London</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Dead_Man's_Plack | location | England</mtriple>
-        <mtriple>England | capital | London</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Dead Man's Plack is located in England, the capital of which is London.</lex>
-      <lex comment="good" lid="Id2">The Dead Man's Plack is in London, England.</lex>
     </entry>
     <entry category="Monument" eid="Id30" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -174,17 +108,5 @@
       <lex comment="good" lid="Id1">The Atatürk Monument is located in Izmir, Turkey, where the capital is Ankara.</lex>
       <lex comment="good" lid="Id2">The Atatürk Monument is located in İzmir, Turkey which capital is Ankara.</lex>
     </entry>
-    <entry category="Monument" eid="Id32" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Turkey | largestCity | Istanbul</otriple>
-        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Turkey | largestCity | Istanbul</mtriple>
-        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Atatürk Monument is in Turkey which largest city is Istanbul.</lex>
-      <lex comment="good" lid="Id2">Istanbul is the largest city in Turkey, where the Atatürk Monument is located.</lex>
-    </entry>
-  </entries>
+    </entries>
 </benchmark>

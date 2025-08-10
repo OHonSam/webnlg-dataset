@@ -21,21 +21,6 @@
       <lex comment="good" lid="Id2">From Indiana (United States), Aaron Deer's musical genre is, indie rock.</lex>
       <lex comment="good" lid="Id3">American Aaron Deer is an Indie rock musician from Indiana.</lex>
     </entry>
-    <entry category="Artist" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Aaron_Turner | associatedMusicalArtist | Twilight_(band)</otriple>
-        <otriple>Aaron_Turner | associatedBand | Greymachine</otriple>
-        <otriple>Aaron_Turner | genre | Drone_music</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Greymachine</mtriple>
-        <mtriple>Aaron_Turner | genre | Drone_music</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Turner plays drone music and played with the bands Twilight and Greymachine.</lex>
-      <lex comment="good" lid="Id2">Aaron Turner; played with the band Twilight, is part of the drone music genre and is associated with the group Greymachine.</lex>
-      <lex comment="good" lid="Id3">Aaron Turner played with the band Twilight, is associated with the group Greymachine, and plays drone music.</lex>
-    </entry>
     <entry category="Artist" eid="Id6" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Aaron_Turner | genre | Black_metal</otriple>
@@ -50,21 +35,6 @@
       <lex comment="good" lid="Id1">Aaron Turner performed with the band Sumac and is a Black metal musician. Death metal is a musical fusion of black metal.</lex>
       <lex comment="good" lid="Id2">Aaron Turner performed with the band Sumac, his musical style being Black Metal; a musical fusion of black metal is Death Metal.</lex>
       <lex comment="good" lid="Id3">Black metal music Aaron Turner performs with Sumac. Death metal is fused with Black metal.</lex>
-    </entry>
-    <entry category="Artist" eid="Id7" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Aaron_Turner | genre | Black_metal</otriple>
-        <otriple>Aaron_Turner | instrument | Electric_guitar</otriple>
-        <otriple>Black_metal | musicFusionGenre | Death_metal</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Turner | genre | Black_metal</mtriple>
-        <mtriple>Aaron_Turner | instrument | Electric_guitar</mtriple>
-        <mtriple>Black_metal | musicFusionGenre | Death_metal</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Turner plays electric guitar in the Black Metal genre. Death metal is a fusion of black metal.</lex>
-      <lex comment="good" lid="Id2">Death metal is a musical fusion of black metal, the music played by electric guitarist, Aaron Turner.</lex>
-      <lex comment="good" lid="Id3">Death metal is a musical fusion of the black metal music performed by Aaron Turner on the electric guitar.</lex>
     </entry>
     <entry category="Artist" eid="Id11" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -156,26 +126,6 @@
       <lex comment="good" lid="Id2">Alfred Garth Jones, was born in Manchester, in the United Kingdom and died in London.</lex>
       <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester, United Kingdom and he passed away in London.</lex>
     </entry>
-    <entry category="Artist" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Alfredo_Zitarrosa | recordLabel | RCA_Records</otriple>
-        <otriple>Alfredo_Zitarrosa | background | "solo_singer"</otriple>
-        <otriple>Alfredo_Zitarrosa | genre | Zamba_(artform)</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alfredo_Zitarrosa | recordLabel | RCA_Records</otriple>
-        <otriple>Alfredo_Zitarrosa | genre | Zamba_(artform)</otriple>
-        <otriple>Alfredo_Zitarrosa | background | "solo_singer"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfredo_Zitarrosa | recordLabel | RCA_Records</mtriple>
-        <mtriple>Alfredo_Zitarrosa | genre | Zamba_(artform)</mtriple>
-        <mtriple>Alfredo_Zitarrosa | background | "solo_singer"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfredo Zitarrosa, whose record label is RCA Records, is in the genre is Zamba which is considered an art form and has a background as a solo singer.</lex>
-      <lex comment="good" lid="Id2">Solo singer, Alfredo Zitarrosa has a recording label in RCA Records and his genre is Zamba.</lex>
-      <lex comment="good" lid="Id3">Starting out as a solo singer, Alfredo Zitarrosa has a recording label with RCA Records. Alfredo Zitarrosa's genre is Zamba which is considered an art form.</lex>
-    </entry>
     <entry category="Artist" eid="Id24" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Alison_O'Donnell | genre | Jazz</otriple>
@@ -215,21 +165,6 @@
       <lex comment="good" lid="Id1">Anders Osborne has worked with Tab Benoit and is associated with the Voice of the Wetlands All-Stars and Billy Iuso.</lex>
       <lex comment="good" lid="Id2">Anders Osborne is associated with the musical artist Billy Iuso, with the band Voice of the Wetlands All-Stars and with Tab Benoit.</lex>
       <lex comment="good" lid="Id3">Associated with Tab Benoit, Anders Osborne is associated with the musical artist Billy Iuso and with Voice of the Wetlands All-Stars.</lex>
-    </entry>
-    <entry category="Artist" eid="Id27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Anders_Osborne | label | Alligator_Records</otriple>
-        <otriple>Anders_Osborne | recordLabel | Okeh_Records</otriple>
-        <otriple>Anders_Osborne | genre | Rock_music</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anders_Osborne | recordLabel | Alligator_Records</mtriple>
-        <mtriple>Anders_Osborne | recordLabel | Okeh_Records</mtriple>
-        <mtriple>Anders_Osborne | genre | Rock_music</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rock musician Anders Osborne has previously been signed to the record labels Alligator Records and Okeh Records.</lex>
-      <lex comment="good" lid="Id2">Once signed with the record label Alligator Records, Anders Osborne, is signed to the record label Okeh Records and is an exponent of Rock music.</lex>
-      <lex comment="good" lid="Id3">An exponent of Rock music, Anders Osborne's record labels are Okeh Records and Alligator Records.</lex>
     </entry>
     <entry category="Artist" eid="Id29" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

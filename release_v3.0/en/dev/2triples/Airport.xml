@@ -1,23 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Airport" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Agra_Airport | location | India</otriple>
-        <otriple>India | leaderName | T._S._Thakur</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Agra_Airport | location | India</otriple>
-        <otriple>India | leader | T._S._Thakur</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Agra_Airport | location | India</mtriple>
-        <mtriple>India | leader | T._S._Thakur</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Agra Airport is in India where one of its leaders is T.S. Thakur.</lex>
-      <lex comment="good" lid="Id2">Agra Airport is in India, where the leader is TS Thakur.</lex>
-      <lex comment="good" lid="Id3">Agra Airport is located in India, where the leader is T S Thakur.</lex>
-    </entry>
     <entry category="Airport" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Al_Asad_Airbase | elevationF | 618</otriple>
@@ -30,19 +13,6 @@
       <lex comment="good" lid="Id1">Al Asad Airbase is 618 ft above sea level and is located in Al Anbar Province, Iraq.</lex>
       <lex comment="good" lid="Id2">The Al Asad Airbase which is elevated 618 feet above sea level, is located in the Al Anbar Province in Iraq.</lex>
       <lex comment="good" lid="Id3">The Al Asad Airbase, which is 618 ft above sea level, is located in Al Anbar Province, Iraq.</lex>
-    </entry>
-    <entry category="Airport" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Al_Asad_Airbase | operator | United_States_Air_Force</otriple>
-        <otriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force</mtriple>
-        <mtriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States invasion of Panama was a battle involving the United States Air Force who operate the Al Asad Airbase.</lex>
-      <lex comment="good" lid="Id2">The United States invasion of Panama was a battle involving the United States Air Force who are the operating organisation for Al Asad airbase.</lex>
-      <lex comment="good" lid="Id3">The United States Air Force was involved in the invasion of Panama and is also the operating organisation for Al Asad air base.</lex>
     </entry>
     <entry category="Airport" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -99,18 +69,6 @@
       <lex comment="good" lid="Id2">Andrews County Airport is located in Texas which has the capital of Austin.</lex>
       <lex comment="good" lid="Id3">Andrews County Airport is located in Texas, where Austin is the capital.</lex>
     </entry>
-    <entry category="Airport" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Angola_International_Airport | cityServed | Luanda</otriple>
-        <otriple>Angola_International_Airport | elevation | "159.106"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Angola_International_Airport | cityServed | Luanda</mtriple>
-        <mtriple>Angola_International_Airport | elevationAboveTheSeaLevelInMetres | 159</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Angola International Airport serves the city of Luanda, it is 159m above sea level.</lex>
-      <lex comment="good" lid="Id2">The Angola International Airport, 159 m above sea level serves Luanda.</lex>
-    </entry>
     <entry category="Airport" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Antwerp_International_Airport | operator | "Flemish department of Mobility and Public Works"@en</otriple>
@@ -125,27 +83,6 @@
         <mtriple>Antwerp_International_Airport | elevationAboveTheSeaLevel | 12.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Antwerp International Airport, operated by The Flemish department of Mobility and Public Works, is 12 metres above sea level.</lex>
-    </entry>
-    <entry category="Airport" eid="Id18" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</otriple>
-        <otriple>Appleton,_Wisconsin | subdivisionName | Grand_Chute,_Wisconsin</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Appleton,_Wisconsin | isPartOf | Grand_Chute,_Wisconsin</otriple>
-        <otriple>Appleton_International_Airport | city | Appleton,_Wisconsin</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</otriple>
-        <otriple>Appleton,_Wisconsin | isPartOf | Grand_Chute,_Wisconsin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
-        <mtriple>Appleton,_Wisconsin | isPartOf | Grand_Chute,_Wisconsin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Appleton, Grand Chute, Wisconsin is a city which is served by Appleton International Airport.</lex>
-      <lex comment="good" lid="Id2">Appleton, Wisconsin is part of Grand Chute, Wisconsin and is served by Appletone International Airport.</lex>
-      <lex comment="good" lid="Id3">Appleton International Airport serves the city of Appleton which is part of Grand Chute, Wisconsin.</lex>
     </entry>
     <entry category="Airport" eid="Id20" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -163,30 +100,6 @@
       <lex comment="good" lid="Id1">Ardmore Airport (New Zealand)'s 3rd runway surface type is Poaceae of the class Monocotyledon.</lex>
       <lex comment="good" lid="Id2">The 3rd runway at Ardmore Airport (New Zealand) is made of Poaceae which is included in the class Monocotyledon.</lex>
       <lex comment="good" lid="Id3">Ardmore Airport (New Zealand)'s 3rd runway surface type is Poaceae which is included in the class of Monocotyledon.</lex>
-    </entry>
-    <entry category="Airport" eid="Id23" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Athens_International_Airport | cityServed | Athens</otriple>
-        <otriple>Athens_International_Airport | runwayLength | "3800.0"^^xsd:double</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Athens_International_Airport | cityServed | Athens</otriple>
-        <otriple>Athens_International_Airport | runwayLength | "3799.94"^^xsd:double</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Athens_International_Airport | city | Athens</otriple>
-        <otriple>Athens_International_Airport | runwayLength | "3800.0"^^xsd:double</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Athens_International_Airport | city | Athens</otriple>
-        <otriple>Athens_International_Airport | runwayLength | "3799.94"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Athens_International_Airport | cityServed | Athens</mtriple>
-        <mtriple>Athens_International_Airport | runwayLength | 3800.0</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Athens International Airport serves the city of Athens and has a runway length of 3800.0.</lex>
-      <lex comment="good" lid="Id2">Athens International Airport serves the city of Athens and has a runway length of 3.800 metres.</lex>
     </entry>
     </entries>
 </benchmark>

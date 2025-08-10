@@ -1,23 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="WrittenWork" eid="Id3" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
-        <otriple>United_Kingdom | capital | London</otriple>
-        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
-        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
-        <mtriple>United_Kingdom | capital | London</mtriple>
-        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
-        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDS journal is published by Lippincott, Williams &amp; Wilkins in the United Kingdom. The capital of the country is London and its leader is Elizabeth II.</lex>
-      <lex comment="good" lid="Id2">The AIDS journal was published in the United Kingdom by Lippincott, Williams &amp; Wilkins. The UK is governed by Elizabeth II and its capital is London.</lex>
-      <lex comment="good" lid="Id3">Published by Lippincott Williams &amp; Wilkins, the AIDS journal was published in the United Kingdom, the capital of the UK is London and the head of state is Elizabeth II.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>A_Severed_Wasp | oclc | "8805735"</otriple>
@@ -34,22 +17,6 @@
       <lex comment="good" lid="Id1">A Severed Wasp is available in print, with The Library of Congress Classification PS3523.E55 S4 1982. Its ISBN number is 0-374-26131-8, and its OCLC number is 8805735.</lex>
       <lex comment="good" lid="Id2">The Book A Severed Wasp (ISBN number 0-374-26131-8) is available in print and has the OCLC number 8805735. It has the Library of Congress Classification PS3523.E55 S4 1982.</lex>
       <lex comment="good" lid="Id3">A Severed Wasp is in print and has the OCLC number of 8805735 and the ISBN number 0-374-26131-8. The Library of Congress Classification is PS3523.E55 S4 1982.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id7" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>A_Severed_Wasp | language | English_language</otriple>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>A_Severed_Wasp | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Severed_Wasp | language | English_language</mtriple>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">English is spoken in Great Britain and is the language used in A Severed Wasp. The book originates from the United States where the African Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2">A Severed Wasp was written in English (the language originated in Great Britain) in the United States. The US has many ethnic groups, including African American.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -107,29 +74,6 @@
       <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians was written in English and comes from the United States where the capital city is Washington DC and the African Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is an English book written in the USA where African Americans are an ethnic group and the capital city is Washington.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>American_Journal_of_Mathematics | abbreviation | "Am. J. Math."@en</otriple>
-        <otriple>American_Journal_of_Mathematics | discipline | Mathematics</otriple>
-        <otriple>American_Journal_of_Mathematics | history | 1878</otriple>
-        <otriple>American_Journal_of_Mathematics | issn | "1080-6377"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>American_Journal_of_Mathematics | discipline | Mathematics</otriple>
-        <otriple>American_Journal_of_Mathematics | history | 1878</otriple>
-        <otriple>American_Journal_of_Mathematics | abbreviation | "Am. J. Math."</otriple>
-        <otriple>American_Journal_of_Mathematics | issn | "1080-6377"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>American_Journal_of_Mathematics | academicDiscipline | Mathematics</mtriple>
-        <mtriple>American_Journal_of_Mathematics | firstPublicationYear | 1878</mtriple>
-        <mtriple>American_Journal_of_Mathematics | abbreviation | "Am. J. Math."</mtriple>
-        <mtriple>American_Journal_of_Mathematics | issnNumber | "1080-6377"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The academic discipline of the American Journal of Mathematics is Mathematics; it was first published in 1878. Its acronym is "Am. J. Math." and its ISSN number is 1080-6377.</lex>
-      <lex comment="good" lid="Id2">The American Journal of Mathematics, abbreviated to Am. J. Math, studies mathematics. It was first published in 1878 and has an ISSN number of 1080-6377.</lex>
-      <lex comment="good" lid="Id3">The American Journal of Mathematics was first published in 1878 and has the ISSN number 1080-6377. It falls under the academic discipline of Math and the abbreviated title is Am. J. Math.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id15" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
       <originaltripleset>
         <otriple>English_language | spokenIn | Great_Britain</otriple>
@@ -146,23 +90,6 @@
       <lex comment="good" lid="Id1">English is the language in Great Britain and the United States. A Loyal Character Dancer was published by Soho Press in the United States.</lex>
       <lex comment="good" lid="Id2">English is spoken in Great Britain and the United States. A Loyal Character Dancer was published by Soho Press which are based in the United States.</lex>
       <lex comment="good" lid="Id3">A Loyal Character Dancer is published by Soho Press which is based in the United States. The language spoken in the U.S., and in Great Britain, is English.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id17" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>United_States | language | English_language</otriple>
-        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>United_States | language | English_language</mtriple>
-        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups are the Native Americans. The English language is spoken in the US as well as Great Britain.</lex>
-      <lex comment="good" lid="Id2">The Book Alcatraz Versus the Evil Librarians originated in the U.S. where Native Americans make up many of the countries ethnic groups. English is the national language of both Great Britain and the United States.</lex>
-      <lex comment="good" lid="Id3">English is spoken in Great Britain and is also the language of the United States, of which Native Americans are one of its ethnic groups and from where Alcatraz Versus the Evil Librarians has come.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id21" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>

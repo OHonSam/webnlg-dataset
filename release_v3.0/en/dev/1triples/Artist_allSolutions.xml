@@ -23,20 +23,6 @@
       <lex comment="good" lid="Id2">Aaron Turner is a Black metal musician.</lex>
       <lex comment="good" lid="Id3">Black Metal is a genre of Aaron Turner's music.</lex>
     </entry>
-    <entry category="Artist" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Abradab | associatedMusicalArtist | Magik_(rapper)</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Abradab | associatedBand | Magik_(rapper)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abradab | associatedBand/associatedMusicalArtist | Magik_(rapper)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abradab is associated with Magik (rapper).</lex>
-      <lex comment="good" lid="Id2">Abradab is musically associated with the rapper Magik.</lex>
-      <lex comment="good" lid="Id3">Abradab is associated with the rapper Magik.</lex>
-    </entry>
     <entry category="Artist" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Abradab | background | "solo_singer"@en</otriple>
@@ -57,20 +43,6 @@
       <lex comment="good" lid="Id1">Ace Wilder is signed to the record label EMI Records.</lex>
       <lex comment="good" lid="Id2">Ace Wilder' recording label is EMI records.</lex>
       <lex comment="good" lid="Id3">Ace Wilder was signed to EMI Records.</lex>
-    </entry>
-    <entry category="Artist" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Agustín_Barboza | label | Philips_Records</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Agustín_Barboza | recordLabel | Philips_Records</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Agustín_Barboza | recordLabel | Philips_Records</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Agustin Barboza is signed to Philips Records.</lex>
-      <lex comment="good" lid="Id2">Agustin Barboza is signed to the record label of Philips Records.</lex>
-      <lex comment="good" lid="Id3">Agustín Barboza is signed to Philips Records.</lex>
     </entry>
     <entry category="Artist" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -96,19 +68,6 @@
       <lex comment="good" lid="Id1">Aleksandra Kovač's genre is soul music.</lex>
       <lex comment="good" lid="Id2">Aleksandra Kovač performs soul music.</lex>
     </entry>
-    <entry category="Artist" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alfredo_Zitarrosa | associatedBand | Hilario_Pérez</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alfredo_Zitarrosa | associatedMusicalArtist | Hilario_Pérez</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Hilario_Pérez</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfredo Zitarrosa is musically associated with Hilario Perez.</lex>
-      <lex comment="good" lid="Id2">Alfredo Zitarrosa is a musician associated with Hilario Perez.</lex>
-    </entry>
     <entry category="Artist" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alfredo_Zitarrosa | recordLabel | Movieplay</otriple>
@@ -118,20 +77,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Movieplay is the record label of Alfredo Zitarrosa.</lex>
       <lex comment="good" lid="Id2">The record label of Alfredo Zitarrosa is Movieplay.</lex>
-    </entry>
-    <entry category="Artist" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Anders_Osborne | recordLabel | Shanachie_Records</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Anders_Osborne | label | Shanachie_Records</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anders_Osborne | recordLabel | Shanachie_Records</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anders Osborne is signed to Shanachie Records.</lex>
-      <lex comment="good" lid="Id2">The record label of Anders Osborne is Shanachie Records.</lex>
-      <lex comment="good" lid="Id3">Anders Osborne was signed to the Shanachie Records label.</lex>
     </entry>
     <entry category="Artist" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -145,15 +90,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel is associated with the musician Jwaydan Moyine.</lex>
     </entry>
-    <entry category="Artist" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Andrew_White_(musician) | genre | Alternative_rock</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Andrew_White_(musician) | genre | Alternative_rock</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The musician Andrew White's genre is alternative rock.</lex>
-    </entry>
     <entry category="Artist" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Deram_Records | location | London</otriple>
@@ -164,17 +100,6 @@
       <lex comment="good" lid="Id1">Deram Records is based in London.</lex>
       <lex comment="good" lid="Id2">Deram Records can be found in London.</lex>
       <lex comment="good" lid="Id3">Deram Records are located in London.</lex>
-    </entry>
-    <entry category="Artist" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Hip_hop_music | musicSubgenre | Gangsta_rap</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Hip_hop_music | musicSubgenre | Gangsta_rap</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Hip hop music has the sub genre Gangsta rap.</lex>
-      <lex comment="good" lid="Id2">Gangsta rap is a sub genre of Hip Hop music.</lex>
-      <lex comment="good" lid="Id3">Hip hop music has a sub genre called Gangsta rap.</lex>
     </entry>
     <entry category="Artist" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

@@ -1,22 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Aurakles | creators | Len_Wein</otriple>
-        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aurakles | creator | Len_Wein</otriple>
-        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aurakles | creator | Len_Wein</mtriple>
-        <mtriple>Aurakles | alternativeName | "Aurakles"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Created by Len Wein, Aurakles's alternative name is also Aurakles.</lex>
-      <lex comment="good" lid="Id2">The character Aurakles, also known as Aurakles, was created by Len Wein.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Ballistic_(DC_Comics) | creators | Doug_Moench</otriple>

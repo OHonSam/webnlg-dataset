@@ -1,17 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Food" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Ajoblanco | mainIngredient | "Bread, almonds, garlic, water, olive oil"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ajoblanco | mainIngredient | "Bread, almonds, garlic, water, olive oil"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The main ingredients in ajoblanco are bread, almonds, garlic, water and olive oil.</lex>
-      <lex comment="good" lid="Id2">Bread, almonds, garlic, water, and olive oil are the main ingredients in Ajoblanco.</lex>
-      <lex comment="good" lid="Id3">The main ingredients of Ajoblanco are bread, almonds, garlic, water, olive oil.</lex>
-    </entry>
     <entry category="Food" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Arrabbiata_sauce | ingredientName | "Tomatoes,red chili,garlic,olive oil"</otriple>
@@ -44,17 +33,6 @@
       <lex comment="good" lid="Id1">The genus of the avocado is persea.</lex>
       <lex comment="good" lid="Id2">The genus of Avocado is Persea.</lex>
     </entry>
-    <entry category="Food" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Bakewell_tart | ingredient | Frangipane</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bakewell_tart | ingredient | Frangipane</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">An ingredient of bakewell tart is frangipane.</lex>
-      <lex comment="good" lid="Id2">Frangipane is an ingredient in a Bakewell tart.</lex>
-      <lex comment="good" lid="Id3">Frangipane is an ingredient of Bakewell tart.</lex>
-    </entry>
     <entry category="Food" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Bakso | ingredient | Vermicelli</otriple>
@@ -77,16 +55,6 @@
       <lex comment="good" lid="Id2">Barny cakes were created by Mondelez International.</lex>
       <lex comment="good" lid="Id3">Barny cakes is created by Mondelez International.</lex>
     </entry>
-    <entry category="Food" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Barny_Cakes | protein | 1.8 g</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Barny cakes contain 1.8 g of protein.</lex>
-      <lex comment="good" lid="Id2">Barny cakes contain 1.8g of protein.</lex>
-    </entry>
     <entry category="Food" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Batchoy | ingredient | Vegetable</otriple>
@@ -96,17 +64,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Vegetable are used in the preparation of Batchoy.</lex>
       <lex comment="good" lid="Id2">Vegetables are an ingredient in Batchoy.</lex>
-    </entry>
-    <entry category="Food" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Derbyshire_Dales | leaderName | Patrick_McLoughlin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Derbyshire_Dales | leader | Patrick_McLoughlin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Patrick McLoughlin is a leader in the Derbyshire Dales.</lex>
-      <lex comment="good" lid="Id2">Patrick McLoughlin is a leader in Derbyshire Dales.</lex>
-      <lex comment="good" lid="Id3">Patrick McLoughlin is the leader of Derbyshire Dales.</lex>
     </entry>
     <entry category="Food" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -139,14 +96,5 @@
       <lex comment="good" lid="Id1">Mexico is inhabited by Mexicans.</lex>
       <lex comment="good" lid="Id2">Mexicans are people from Mexico.</lex>
     </entry>
-    <entry category="Food" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Native Americans in the United States are one of the ethnic groups of the country.</lex>
-    </entry>
-  </entries>
+    </entries>
 </benchmark>

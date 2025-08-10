@@ -34,23 +34,6 @@
       <lex comment="good" lid="Id2">Aaron Bertram is an artist with the band Kids Imagine Nation and plays for the Suburban Legends band.</lex>
       <lex comment="good" lid="Id3">Aaron Bertram plays for both the Suburban Legends band and the Kids Imagine Nation band.</lex>
     </entry>
-    <entry category="Artist" eid="Id2" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Aaron_Bertram | associatedActs | Suburban_Legends</otriple>
-        <otriple>Suburban_Legends | genre | Ska</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aaron_Bertram | associatedMusicalArtist | Suburban_Legends</otriple>
-        <otriple>Suburban_Legends | genre | Ska</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Suburban_Legends</mtriple>
-        <mtriple>Suburban_Legends | genre | Ska</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Bertram plays for the Suburban Legends band and their genre is Ska.</lex>
-      <lex comment="good" lid="Id2">Aaron Bertram plays for the Suburban Legends band which play Ska music.</lex>
-      <lex comment="good" lid="Id3">Aaron Bertram plays for the Suburban Legends band who perform Ska music.</lex>
-    </entry>
     <entry category="Artist" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Ace_Wilder | genre | Hip_hop_music</otriple>
@@ -102,23 +85,6 @@
       <lex comment="good" lid="Id2">Originating from blues music, rhythm and blues is the music genre of Albennie Jones.</lex>
       <lex comment="good" lid="Id3">Albennie Jones plays rhythm and blues, derived from the blues.</lex>
     </entry>
-    <entry category="Artist" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Alex_Day | genre | Synthpop</otriple>
-        <otriple>Synthpop | stylisticOrigin | New_wave_music</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alex_Day | genre | Synthpop</otriple>
-        <otriple>Synthpop | stylisticOrigins | New_wave_music</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alex_Day | genre | Synthpop</mtriple>
-        <mtriple>Synthpop | stylisticOrigin | New_wave_music</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alex Day plays Synthpop, which originated from new wave music.</lex>
-      <lex comment="good" lid="Id2">Alex Day performs Synthpop music which has its stylistic origin in new wave music.</lex>
-      <lex comment="good" lid="Id3">Alex Day plays Synthpop, which is derived from New Wave music.</lex>
-    </entry>
     <entry category="Artist" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Alfredo_Zitarrosa | background | "solo_singer"</otriple>
@@ -136,19 +102,6 @@
       <lex comment="good" lid="Id2">Alfredo Zitarrosa has a background as a solo singer and performs Zamba music.</lex>
       <lex comment="good" lid="Id3">Alfredo Zitarrosa performs Zamba music and started out as a solo singer.</lex>
     </entry>
-    <entry category="Artist" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alison_O'Donnell | associatedBand | Plastik_Mak</otriple>
-        <otriple>Alison_O'Donnell | associatedMusicalArtist | Head_South_By_Weaving</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Plastik_Mak</mtriple>
-        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Head_South_By_Weaving</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alison O'Donnell is associated with Plastik Mak and the band Head South By Weaving.</lex>
-      <lex comment="good" lid="Id2">Alison O'Donnell is associated with Plastik Mak and is musically associated with the band Head South By Weaving.</lex>
-      <lex comment="good" lid="Id3">Alison O'Donnell is musically associated with Plastik Mak and Head South By Weaving.</lex>
-    </entry>
     <entry category="Artist" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Allen_Forrest | background | "solo_singer"@en</otriple>
@@ -165,19 +118,6 @@
       <lex comment="good" lid="Id1">Allen Forrest has a background as a solo singer and was a pop artist.</lex>
       <lex comment="good" lid="Id2">Allen Forrest is a solo singer and an exponent of pop music.</lex>
       <lex comment="good" lid="Id3">Allen Forrest, a solo singer, was a pop artist.</lex>
-    </entry>
-    <entry category="Artist" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Alternative_rock | musicFusionGenre | Nu_metal</otriple>
-        <otriple>Andrew_White_(musician) | genre | Alternative_rock</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alternative_rock | musicFusionGenre | Nu_metal</mtriple>
-        <mtriple>Andrew_White_(musician) | genre | Alternative_rock</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrew White plays alternative rock, of which nu metal is a fusion genre.</lex>
-      <lex comment="good" lid="Id2">The musician Andrew White's genre is alternative rock and nu metal is an of alternative rock music fusion.</lex>
-      <lex comment="good" lid="Id3">Andrew White performs alternative rock music, a genre that nu metal is a fusion genre of.</lex>
     </entry>
     <entry category="Artist" eid="Id21" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -204,19 +144,6 @@
       <lex comment="good" lid="Id1">Andra began her Pop music singing career in 2000.</lex>
       <lex comment="good" lid="Id2">Andra is a pop singer who started in 2000.</lex>
       <lex comment="good" lid="Id3">Andra began her singing career in 2000 and sings pop music.</lex>
-    </entry>
-    <entry category="Artist" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Andrew_Rayel | associatedBand | Mark_Sixma</otriple>
-        <otriple>Andrew_Rayel | associatedMusicalArtist | Christian_Burns</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Mark_Sixma</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Musicians Andrew Rayel, who is associated with Christian Burns, and Mark Sixma are associates.</lex>
-      <lex comment="good" lid="Id2">The musicians Andrew Rayel and Christian Burns are associates and they worked with Mark Sixma.</lex>
-      <lex comment="good" lid="Id3">Musicians, Andrew Rayel, Christian Burns and Mark Sixma, are associates.</lex>
     </entry>
     </entries>
 </benchmark>

@@ -1,21 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Athlete" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Aaron_Hunt | team | VfL_Wolfsburg</otriple>
-        <otriple>Aaron_Hunt | youthclubs | Goslarer_SC_08</otriple>
-        <otriple>Aaron_Hunt | clubs | SV_Werder_Bremen</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Hunt | club | VfL_Wolfsburg</mtriple>
-        <mtriple>Aaron_Hunt | youthclub | Goslarer_SC_08</mtriple>
-        <mtriple>Aaron_Hunt | club | SV_Werder_Bremen</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Hunt plays for Vfl Wolfsburg and SV Werder Bremen. He was a member of the Goslarer SC 08 youth team.</lex>
-      <lex comment="good" lid="Id2">Aaron Hunt represented the club Goslarer SC 08 at youth level and has since played for both SV Werder Bremen and Vfl Wolfsburg.</lex>
-      <lex comment="good" lid="Id3">Aaron Hunt's club is VfL Wolfsburg but he previously played for both SV Werder Bremen and Goslarer SC 08 youth team.</lex>
-    </entry>
     <entry category="Athlete" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Abel_Hernández | youthclubs | Central_Español</otriple>
@@ -35,21 +20,6 @@
       <lex comment="good" lid="Id1">Abel Hernandez played youth football for Central Espanol. He has since been associated with clubs US Citta di Palermo and Penarol.</lex>
       <lex comment="good" lid="Id2">Abel Hernández played football at youth level for Central Español. At senior level he has played for US Citta di Palermo and Penarol.</lex>
       <lex comment="good" lid="Id3">Abel Hernández plays football for U.S. Città di Palermo, having previously played for Penarol and at youth level for Central Español.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Akeem_Ayers | formerTeam | History_of_the_St._Louis_Rams</otriple>
-        <otriple>Akeem_Ayers | draftRound | "2"</otriple>
-        <otriple>Akeem_Ayers | draftPick | "39"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akeem_Ayers | formerTeam | St._Louis_Rams</mtriple>
-        <mtriple>Akeem_Ayers | draftRound | "2"</mtriple>
-        <mtriple>Akeem_Ayers | draftPick | "39"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Ayers used to play for the St. Louis Rams. He was number 39 in the draft pick in draft round 2.</lex>
-      <lex comment="good" lid="Id2">Akeem Ayers, who formerly played for St Louis Rams, was number 39 in the draft pick and in draft round 2.</lex>
-      <lex comment="good" lid="Id3">St Louis Rams is the former team of Akeem Ayers, who was drat pick 39, in the draft round, 2.</lex>
     </entry>
     <entry category="Athlete" eid="Id11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -110,25 +80,6 @@
       <lex comment="good" lid="Id2">Aleksandr Prudnikov, who was born on 24 February 1989, plays for FC Dynamo Moscow and FC Kuban Krasnodar.</lex>
       <lex comment="good" lid="Id3">Aleksandr Prudnikov's date of birth is 1989-02-24 and he plays for the FC Kuban Krasnodar club but his club is FC Dynamo Moscow.</lex>
     </entry>
-    <entry category="Athlete" eid="Id20" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Aleksandre_Guruli | team | Olympique_Lyonnais</otriple>
-        <otriple>Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais</otriple>
-        <otriple>Aleksandre_Guruli | clubs | AZAL_PFK</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aleksandre_Guruli | clubs | Olympique_Lyonnais</otriple>
-        <otriple>Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais</otriple>
-        <otriple>Aleksandre_Guruli | team | AZAL_PFK</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksandre_Guruli | club | Olympique_Lyonnais</mtriple>
-        <mtriple>Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais</mtriple>
-        <mtriple>Aleksandre_Guruli | club | AZAL_PFK</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandre Guruli's club is Olympique Lyonnais, whose home ground is the Parc Olympique Lyonnais stadium. He also plays for AZAL PFK.</lex>
-      <lex comment="good" lid="Id2">AZAL PFK player, Aleksandre Guruli, played for the Olympique Lyonnais club, the home ground of which, is the Parc Olympique Lyonnais stadium.</lex>
-    </entry>
     <entry category="Athlete" eid="Id21" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Alessio_Romagnoli | clubs | A.C._Milan</otriple>
@@ -148,21 +99,6 @@
       <lex comment="good" lid="Id1">Alessio Romagnoli plays for A.C. Milan, managed by Siniša Mihajlović and also played for UC Sampdoria.</lex>
       <lex comment="good" lid="Id2">Alessio Romagnoli, who is connected to UC Sampdoria, plays for A.C. Milan which, is managed by, Siniša Mihajlović.</lex>
       <lex comment="good" lid="Id3">Siniša Mihajlović is the manager for A.C. Milan, of which Alessio Romagnoli is a member. Alessio Romagnoli plays for the club U.C. Sampdoria.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id24" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Canada | anthem | O_Canada</otriple>
-        <otriple>Canada | leaderName | Elizabeth_II</otriple>
-        <otriple>Alex_Plante | placeOfBirth | Canada</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Canada | anthem | O_Canada</mtriple>
-        <mtriple>Canada | leader | Elizabeth_II</mtriple>
-        <mtriple>Alex_Plante | birthPlace | Canada</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alex Plante was born in Canada; where the national anthem is O Canada and the leader is, Elizabeth II.</lex>
-      <lex comment="good" lid="Id2">Alex Plante was born in Canada, where the leader is Elizabeth II and the national anthem is O Canada.</lex>
-      <lex comment="good" lid="Id3">Canada, the birthplace of Alex Plante, is led by Elizabeth II and has a national anthem known as "O Canada".</lex>
     </entry>
     <entry category="Athlete" eid="Id25" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

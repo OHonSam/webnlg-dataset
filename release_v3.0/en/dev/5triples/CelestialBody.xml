@@ -74,25 +74,6 @@
       <lex comment="good" lid="Id2">Walter Baade, who discovered 1036 Ganymed, was born in the German Empire and died in West Germany. He graduated from the University of Gottingen and one of his doctoral students was Allan Sandage.</lex>
       <lex comment="good" lid="Id3">Walter Baade, who was born in the German empire and died in West Germany, discovered 1036 Ganymed. Baade's alma mater was the University of Gottingen and one of his doctoral students was Allan Sandage.</lex>
     </entry>
-    <entry category="CelestialBody" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>107_Camilla | discoverer | F._Vilas</otriple>
-        <otriple>107_Camilla | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
-        <otriple>107_Camilla | orbitalPeriod | "86.4"^^xsd:double</otriple>
-        <otriple>107_Camilla | periapsis | 4.79343e+11</otriple>
-        <otriple>107_Camilla | Planet/apoapsis | "5.60937E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>107_Camilla | discoverer | F._Vilas</mtriple>
-        <mtriple>107_Camilla | epoch | 2006-12-31</mtriple>
-        <mtriple>107_Camilla | orbitalPeriod | 2368.05 (days)</mtriple>
-        <mtriple>107_Camilla | periapsis | 479343000.0 (kilometres)</mtriple>
-        <mtriple>107_Camilla | apoapsis | 560937000.0 (kilometres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">107 Camilla, which has the epoch date 31 December 2006, was discovered by F Vilas and has an orbital period of 2368.05 days. The apoapsis and periapsis measurements are 560937000.0 kilometres and 479343000.0 kilometres respectively.</lex>
-      <lex comment="good" lid="Id2">107 Camilla, which has an epoch date of December 31st 2006, was discovered by F. Vilas. Its orbital period is 2,368.05 days, its periapsis is 479,343,000 kilometres and has an apoapsis of 560,937,000 kilometres.</lex>
-      <lex comment="good" lid="Id3">107 Camilla, which was discovered by F Vilas and has the epoch date of 31 December 2006, has an orbital period of 2368.05 days. It has a periapsis of 479343000.0 kms and an apoapsis of 560937000.0 kms.</lex>
-    </entry>
     <entry category="CelestialBody" eid="Id9" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>1089_Tama | epoch | "November 26, 2005 (JD2453700.5)"</otriple>

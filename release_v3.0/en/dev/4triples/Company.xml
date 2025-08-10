@@ -41,23 +41,6 @@
       <lex comment="good" lid="Id2">Chinabank was founded on 16 August, 1920. It has 295 locations, 5594 employees and a net income of 15,100,000,000.</lex>
       <lex comment="good" lid="Id3">Chinabank (founded 1920-08-16) employs 5594 people with 295 branch locations, earning net income of 15100000000 currently.</lex>
     </entry>
-    <entry category="Company" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>GMA_New_Media | product | Mobile_Applications</otriple>
-        <otriple>GMA_New_Media | keyPerson | Felipe_Gozon</otriple>
-        <otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
-        <otriple>GMA_New_Media | location | Philippines</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>GMA_New_Media | product | Mobile_Applications</mtriple>
-        <mtriple>GMA_New_Media | keyPerson | Felipe_Gozon</mtriple>
-        <mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
-        <mtriple>GMA_New_Media | location | Philippines</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">GMA New Media makes mobile apps and is located in the GMA Network Center. Felipe Gozon is the key person of GMA New Media, which is located in the Philippines.</lex>
-      <lex comment="good" lid="Id2">The Philippine mobile application company, GMA New Media, is based in the GMA Network Center. One of GMA New Media's leaders is Felipe Gozon.</lex>
-      <lex comment="good" lid="Id3">Felipe Gozon is a key person at GMA New Media, a company located in the GMA Network Center in the Philippines with product offerings that include mobile applications.</lex>
-    </entry>
     <entry category="Company" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Hypermarcas | numberOfEmployees | 10252</otriple>

@@ -18,23 +18,6 @@
       <lex comment="good" lid="Id2">Abdul Taib Mahmud was born in the Kingdom of Sarawak and his party is the Parti Pesaka Bumiputera Bersatu.</lex>
       <lex comment="good" lid="Id3">Abdul Taib Mahmud, who was born in Sarawak, belongs to the Parti Pesaka Bumiputera Bersatu.</lex>
     </entry>
-    <entry category="Politician" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Abdulsalami_Abubakar | birthPlace | Minna</otriple>
-        <otriple>Abdulsalami_Abubakar | office | Chief_of_the_Defence_Staff_(Nigeria)</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Abdulsalami_Abubakar | office | "Chief of Defence Staff"</otriple>
-        <otriple>Abdulsalami_Abubakar | birthPlace | Minna</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abdulsalami_Abubakar | office | Chief_of_the_Defence_Staff_(Nigeria)</mtriple>
-        <mtriple>Abdulsalami_Abubakar | birthPlace | Minna</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abdulsalami Abubakar, born in Minna, was the Nigerian Chief of Defense Staff.</lex>
-      <lex comment="good" lid="Id2">Minna was the birthplace of Abdulsalami Abubakar, who worked as the Nigerian Chief of the Defence Staff.</lex>
-      <lex comment="good" lid="Id3">Abdulsalami Abubakar who was born in Minna, was the Chief of the Defence Staff in Nigeria.</lex>
-    </entry>
     <entry category="Politician" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Abner_W._Sibal | militaryBranch | United_States_Army</otriple>
@@ -48,19 +31,6 @@
       <lex comment="good" lid="Id2">Abner W Sibal served in the United States Army and fought in World War II.</lex>
       <lex comment="good" lid="Id3">Abner W. Sibal, served in the United States Army, and fought during WWII.</lex>
     </entry>
-    <entry category="Politician" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Abraham_A._Ribicoff | birthPlace | United_States</otriple>
-        <otriple>Abraham_A._Ribicoff | spouse | "Ruth Ribicoff"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abraham_A._Ribicoff | birthPlace | United_States</mtriple>
-        <mtriple>Abraham_A._Ribicoff | spouse | "Ruth Ribicoff"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abraham A Ribicoff, born in the U.S., was married to Ruth Ribicoff.</lex>
-      <lex comment="good" lid="Id2">Abraham A. Ribicoff, who was born in the U.S., is married to Ruth Ribicoff.</lex>
-      <lex comment="good" lid="Id3">Abraham A. Ribicoff was born in the U.S and his spouse is Ruth Ribicoff.</lex>
-    </entry>
     <entry category="Politician" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Abraham_A._Ribicoff | spouse | Casey_Ribicoff</otriple>
@@ -73,19 +43,6 @@
       <lex comment="good" lid="Id1">Abraham A. Ribicoff's spouse was Casey Ribicoff, who was born in Chicago.</lex>
       <lex comment="good" lid="Id2">Abraham A. Ribicoff's wife was Casey Ribicoff and she was born in Chicago.</lex>
       <lex comment="good" lid="Id3">Casey Ribicoff, born in Chicago, was married to Abraham A. Ribicoff.</lex>
-    </entry>
-    <entry category="Politician" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Adam_Koc | battles | Polish–Soviet_War</otriple>
-        <otriple>Adam_Koc | award | Cross_of_Valour_(Poland)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adam_Koc | battle | Polish–Soviet_War</mtriple>
-        <mtriple>Adam_Koc | award | Cross_of_Valour_(Poland)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adam Koc, who fought in the Polish–Soviet War, has been awarded the Cross of Valour for Poland.</lex>
-      <lex comment="good" lid="Id2">Adam Koc fought in the Polish-Soviet War battles and has been awarded the Cross of Valour for Poland.</lex>
-      <lex comment="good" lid="Id3">Adam Koc, who fought in the Polish-Soviet War, was awarded the Cross of Valour (Poland).</lex>
     </entry>
     <entry category="Politician" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -157,19 +114,6 @@
       <lex comment="good" lid="Id1">Alfons Gorbach was born in the state of Tyrol, in Austria.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in Tyrol state in Austria.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was born in the state of Tyrol in Austria.</lex>
-    </entry>
-    <entry category="Politician" eid="Id27" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alfons_Gorbach | president | Adolf_Schärf</otriple>
-        <otriple>Alfons_Gorbach | birthPlace | Austria</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfons_Gorbach | inOfficeWhilePresident | Adolf_Schärf</mtriple>
-        <mtriple>Alfons_Gorbach | birthPlace | Austria</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfons Gorbach, born in Austria, was in office while Adolf Scharf was President.</lex>
-      <lex comment="good" lid="Id2">The Austrian Alfons Gorbach was in office during the reign of President Adolf Scharf.</lex>
-      <lex comment="good" lid="Id3">Alfons Gorbach, who was born in Austria, was in office while Adolf Scharf was President.</lex>
     </entry>
     <entry category="Politician" eid="Id28" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

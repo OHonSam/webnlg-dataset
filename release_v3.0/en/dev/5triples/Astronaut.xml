@@ -1,25 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Astronaut" eid="Id1" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Alan_Bean | mission | Apollo_12</otriple>
-        <otriple>Alan_Bean | nationality | United_States</otriple>
-        <otriple>Apollo_12 | operator | NASA</otriple>
-        <otriple>Alan_Bean | occupation | Test_pilot</otriple>
-        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
-        <mtriple>Alan_Bean | nationality | United_States</mtriple>
-        <mtriple>Apollo_12 | operator | NASA</mtriple>
-        <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
-        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Bean was an American born in Wheeler, Texas. He served as a test pilot and became a crew member of Apollo 12, which was operated by NASA.</lex>
-      <lex comment="good" lid="Id2">Apollo 12 was operated by NASA and its crew members included American national Alan Bean. He was born in Wheeler, Texas and served as a test pilot.</lex>
-      <lex comment="good" lid="Id3">Alan Bean, a US national, was born in Wheeler, Texas. He served as a test pilot before becoming part of the NASA operated Apollo 12 mission as a crew member.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id4" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Alan_Shepard | mission | Apollo_14</otriple>
@@ -57,25 +38,6 @@
       <lex comment="good" lid="Id1">Alan Shepard (born November 18th, 1923, New Hampshire) was awarded the United States Navy Distinguished Service Medal which is higher than the department of commerce gold medal has died in California.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was born on 18 November 1923 in New Hampshire. He was awarded the Distinguished Service Medal, which is higher than the Department of Commerce Gold Medal, by the US Navy. He died in California.</lex>
       <lex comment="good" lid="Id3">Alan Shepard was born in New Hampshire on 18 November 1923. Before his death in California he had been awarded the Distinguished Service Medal by the US Navy an award higher than the Department of Commerce Gold Medal.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id9" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
-        <otriple>University_of_Texas_at_Austin | affiliations | University_of_Texas_System</otriple>
-        <otriple>Dallas | partsType | List_of_counties_in_Texas</otriple>
-        <otriple>Elliot_See | birthPlace | Dallas</otriple>
-        <otriple>University_of_Texas_at_Austin | athletics | Big_12_Conference</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
-        <mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
-        <mtriple>Dallas | partsType | List_of_counties_in_Texas</mtriple>
-        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
-        <mtriple>University_of_Texas_at_Austin | competeIn | Big_12_Conference</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See was born in Dallas, which is a county in Texas. He attended the University of Texas at Austin, which is affiliated to the University of Texas system. The University of Texas at Austin will be part of the Big 12 Conference competition.</lex>
-      <lex comment="good" lid="Id2">Elliot See was born in Dallas county, Texas and attended the University of Texas at Austin (affiliated to the University of Texas system) which competed in the Big 12 conference.</lex>
-      <lex comment="good" lid="Id3">Elliot See, who was born in Dallas county, Texas, attended the University of Texas at Austin (affiliated to the University of Texas system) which will compete in the big 12 conference.</lex>
     </entry>
     <entry category="Astronaut" eid="Id11" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

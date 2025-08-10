@@ -10,15 +10,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AIDAluna service was started on the 22nd of March, 2009.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AIDAluna | shipClass | "Sphinx class cruise ship"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDAluna | shipClass | "Sphinx class cruise ship"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDAluna is a Sphinx class cruise ship.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AIDAstella | shipChristened | "--03-16"^^xsd:gMonthDay</otriple>
@@ -32,15 +23,6 @@
       <lex comment="good" lid="Id1">The AIDAstella was christened on the 16th of March, 2013.</lex>
       <lex comment="good" lid="Id2">The AIDAstella was christened in March 16 2013.</lex>
       <lex comment="good" lid="Id3">The christening date of AIDAstella is 2013-03-16.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AIDAstella | shipInService | "2013-03-17"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDAstella | shipInService | 2013-03-17</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDAstella ship was put in service on March 17, 2013.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -83,17 +65,6 @@
       <lex comment="good" lid="Id2">The Alhambra has a ship beam of 8.3m.</lex>
       <lex comment="good" lid="Id3">The Alhambra has an 8.3m ship beam.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alhambra_(1855) | topSpeed | "18.52"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alhambra | topSpeed | 18.52</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alhambra had a top speed of 18.52 km/h.</lex>
-      <lex comment="good" lid="Id2">The Alhambra has a top speed of 18.52.</lex>
-      <lex comment="good" lid="Id3">The top speed of the Alhambra is 18.52.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Antares_(rocket) | finalFlight | "2014-10-28"^^xsd:date</otriple>
@@ -115,15 +86,6 @@
       <lex comment="good" lid="Id2">The final flight of Atlas II was on 1998-03-16.</lex>
       <lex comment="good" lid="Id3">The final flight of the Atlas II was on the 16th March 1998.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Audi | division | Audi_e-tron</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Audi | division | Audi_e-tron</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Audi e-tron is a division of Audi.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</otriple>
@@ -134,19 +96,6 @@
       <lex comment="good" lid="Id1">The key person of Caterpillar Inc. is Douglas R. Oberhelman.</lex>
       <lex comment="good" lid="Id2">Douglas R. Oberhelman is a key person at Caterpillar Inc.</lex>
       <lex comment="good" lid="Id3">Douglas R Oberhelman is a key person at Caterpillar Inc.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Delta_II | sites | Cape_Canaveral_Air_Force_Station</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Delta_II | launchSite | Cape_Canaveral_Air_Force_Station</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Delta_II | launchSite | Cape_Canaveral_Air_Force_Station</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Delta II was launched at the Cape Canaveral Air Force Station.</lex>
-      <lex comment="good" lid="Id2">The Delta II was launched at Cape Canaveral Air Force Station.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

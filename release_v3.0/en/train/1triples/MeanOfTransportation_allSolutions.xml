@@ -51,19 +51,6 @@
       <lex comment="good" lid="Id2">The manufacturer of the 1955 Dodge is the company Dodge.</lex>
       <lex comment="good" lid="Id3">The manufacturer of the 1955 Dodge is Dodge.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>1955_Dodge | related | Plymouth_Plaza</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>1955_Dodge | relatedMeanOfTransportation | Plymouth_Plaza</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1955_Dodge | relatedMeanOfTransportation | Plymouth_Plaza</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1955 Dodge and Plymouth Plaza are related kinds of transportation.</lex>
-      <lex comment="good" lid="Id2">The 1955 Dodge and the Plymouth Plaza are related means of transport in that they are both cars.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>1955_Dodge | transmission | "3-speed automatic"</otriple>
@@ -99,17 +86,6 @@
       <lex comment="good" lid="Id1">The A-Rosa Luna was completed on April 6, 2005.</lex>
       <lex comment="good" lid="Id2">The building of A-Rosa Luna was completed on April 6th 2005.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A-Rosa_Luna | shipClass | Cruise_ship</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A-Rosa_Luna | shipClass | Cruise_ship</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna is classed as a cruise ship.</lex>
-      <lex comment="good" lid="Id2">The A-Rosa Luna is a cruise ship.</lex>
-      <lex comment="good" lid="Id3">A-Rosa Luna is classed as a Cruise ship.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A-Rosa_Luna | shipOrdered | "2004-01-22"^^xsd:date</otriple>
@@ -124,17 +100,6 @@
       <lex comment="good" lid="Id2">The A-Rosa Luna ship was ordered on January 22nd 2004.</lex>
       <lex comment="good" lid="Id3">The A-Rosa Luna ship was ordered on January 22, 2004.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A-Rosa_Luna | shipPower | "*2 × MTU 16V 2000 M60\n*"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A-Rosa_Luna | shipPower | "2 × MTU 16V 2000 M60 engine"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna has a 2 × MTU 16V 2000 M60 engine.</lex>
-      <lex comment="good" lid="Id2">The A-Rosa Luna ship has a 2 × MTU 16V 2000 M60 engine.</lex>
-      <lex comment="good" lid="Id3">The powering of the A-Rosa Luna is the "2xMTU 16V 2000 M60 engine".</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AIDAluna | builder | Meyer_Werft</otriple>
@@ -148,17 +113,6 @@
       <lex comment="good" lid="Id1">Meyer Werft was the builder of the AIDAluna.</lex>
       <lex comment="good" lid="Id2">The ship AIDAluna was built by Meyer Werft.</lex>
       <lex comment="good" lid="Id3">The AIDAluna was built by Meyer Werft.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AIDAluna | MeanOfTransportation/length | "252000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDAluna | length | 252000.0 (millimetres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDAluna is 252 metres long.</lex>
-      <lex comment="good" lid="Id2">The AIDAluna has a length of 252000.0 millimetres.</lex>
-      <lex comment="good" lid="Id3">The length of the AIDAluna is 252000.0 millimetres.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -217,17 +171,6 @@
       <lex comment="good" lid="Id2">AIDAstella is 253260.0 millimetres long.</lex>
       <lex comment="good" lid="Id3">The AIDAstella is 253260.0 millimetres in length.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AIDAstella | shipBeam | "32.2"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDAstella | shipBeam | 32.2</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDAstella has a beam of 32.2 m.</lex>
-      <lex comment="good" lid="Id2">The ship AIDAstella has a beam of 32.2 metres.</lex>
-      <lex comment="good" lid="Id3">The AIDAstella has a ship beam of 32.2.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id44" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AIDAstella | shipLaidDown | "2008-12-17"^^xsd:date</otriple>
@@ -247,16 +190,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ALCO RS-3 was produced between May 1950 and August 1956.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id50" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>ALCO_RS-3 | cylindercount | 12</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>ALCO_RS-3 | cylinderCount | 12</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ALCO RS-3 has a cylinder count of 12.</lex>
-      <lex comment="good" lid="Id2">The ALCO RS-3 has 12 cylinders.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id54" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>ALCO_RS-3 | totalproduction | 1418</otriple>
@@ -266,20 +199,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The total number of ALCO RS-3 made is 1418.</lex>
       <lex comment="good" lid="Id2">The total production amount for the ALCO RS-3 is 1418.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id56" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>ALV_X-1 | MeanOfTransportation/diameter | "1.524"^^&lt;http://dbpedia.org/datatype/metre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>ALV_X-1 | diameter | "5.0"^^&lt;http://dbpedia.org/datatype/foot&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>ALV_X-1 | diameter | 1.524 (metres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The diameter of the ALV X-1 is 1.524 metres.</lex>
-      <lex comment="good" lid="Id2">The ALV X-1 has a diameter of 1.524 metres.</lex>
-      <lex comment="good" lid="Id3">The ALV X-1 diameter is 1.524 metres.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id58" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -293,16 +212,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ALV X-1 has 2 rocket stages.</lex>
       <lex comment="good" lid="Id2">The ALV X-1 rocket has 2 stages.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id60" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AMC_Matador | aka | "Rambler Matador"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AMC_Matador | alternativeName | "Rambler Matador"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">An alternative name for the AMC Matador is the Rambler Matador.</lex>
-      <lex comment="good" lid="Id2">The AMC Matador is also known as the Rambler Matador.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id63" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -335,17 +244,6 @@
       <lex comment="good" lid="Id2">The AMC Matador is assembled in Thames, New Zealand.</lex>
       <lex comment="good" lid="Id3">AMC Matador is assembled in Thames, New Zealand.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AMC_Matador | bodyStyle | Coupé</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AMC_Matador | bodyStyle | Coupé</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AMC Matador has a Coupé style body.</lex>
-      <lex comment="good" lid="Id2">The AMC Matador is a Coupé.</lex>
-      <lex comment="good" lid="Id3">The AMC Matador's body style is Coupé.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id72" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AMC_Matador | bodyStyle | Station_wagon</otriple>
@@ -366,16 +264,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AMC Matador has a AMC V8 engine.</lex>
       <lex comment="good" lid="Id2">The AMC Matador is equipped with an AMC V8 engine.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id78" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AMC Matador is manufactured by American Motors.</lex>
-      <lex comment="good" lid="Id2">The AMC Matador is manufactured by American Motors.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id81" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -401,16 +289,6 @@
       <lex comment="good" lid="Id2">The length of the ARA Veinticinco is 192000.0 millimetres.</lex>
       <lex comment="good" lid="Id3">The length of the ARA Veinticinco de Mayo is 192000 millimetres.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id86" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>ARA_Veinticinco_de_Mayo_(V-2) | status | "Sold to Argentina 15 October 1968"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | status | "Sold to Argentina 15 October 1968"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">ARA Veinticinco de Mayo (V-2) was sold to Argentina 15 October 1968.</lex>
-      <lex comment="good" lid="Id2">The ARA Veinticinco de Mayo (V-2) was sold to Argentina on October 15, 1968.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id88" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Abarth | foundationPlace | Italy</otriple>
@@ -430,17 +308,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abarth was founded by Carlo Abarth.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id91" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Abarth 1000 GT has a coupe bodystyle.</lex>
-      <lex comment="good" lid="Id2">The Abarth 1000 GT has a Coupé body style.</lex>
-      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe has a Coupe body style.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id92" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Abarth_1000_GT_Coupé | designer | Gruppo_Bertone</otriple>
@@ -454,17 +321,6 @@
       <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe was designed by Gruppo Bertone.</lex>
       <lex comment="good" lid="Id2">Gruppo Bertone was the designer of the Abarth 1000 GT Coupe.</lex>
       <lex comment="good" lid="Id3">The Abarth 1000 GT Coupé was designed by Gruppo Bertone.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id95" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The wheelbase of the Abarth 1000 GT Coupé, is 2160.0 millimetres.</lex>
-      <lex comment="good" lid="Id2">The wheelbase of the Abarth 1000 GT Coupe is 2160 millimetres.</lex>
-      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe has a wheelbase of 2160 millimetres.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id96" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -488,16 +344,6 @@
       <lex comment="good" lid="Id2">The Acura TLX assembly line is located at the Marysville Auto Plant.</lex>
       <lex comment="good" lid="Id3">Acura TLX is assembled at the Marysville Auto Plant.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id99" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Acura_TLX | class | Luxury_vehicle</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acura_TLX | class | Luxury_vehicle</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acura TLX is a luxury class of vehicle.</lex>
-      <lex comment="good" lid="Id2">The Acura TLX is a luxury vehicle.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id101" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Acura_TLX | engine | "2.4"^^xsd:double</otriple>
@@ -506,15 +352,6 @@
         <mtriple>Acura_TLX | engine | 2.4 (litres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acura TLX has a 2.4 litre engine.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id103" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Acura_TLX | engine | Acura_TLX__5</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acura_TLX | engine | Inline-four_engine</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acura TLX has an Inline-four engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id106" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -526,16 +363,6 @@
       <lex comment="good" lid="Id1">The Acura TLX has a front engine design.</lex>
       <lex comment="good" lid="Id2">The Acura TLX had a front engine design layout.</lex>
       <lex comment="good" lid="Id3">The layout of the Acura TLX is one of front engine design.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id107" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Acura_TLX | layout | Front-wheel_drive</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acura_TLX | layout | Front-wheel_drive</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acura TLX has a front-wheel drive.</lex>
-      <lex comment="good" lid="Id2">The Acura TLX is a front wheel drive vehicle.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id108" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -561,17 +388,6 @@
       <lex comment="good" lid="Id1">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov.</lex>
       <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov was built at the Arctech Helsinki Shipyard.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id113" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aleksey_Chirikov_(icebreaker) | length | "99.83"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksey_Chirikov_(icebreaker) | length | 99.83</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The icebreaker Aleksey Chirikov is 99.83 long.</lex>
-      <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov is 99.83 metres long.</lex>
-      <lex comment="good" lid="Id3">An icebreaker, the Aleksey Chirikov, has a length of 99.83 metres.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id115" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Aleksey_Chirikov_(icebreaker) | powerType | Wärtsilä</otriple>
@@ -594,17 +410,6 @@
       <lex comment="good" lid="Id2">The Alfa Romeo 164 was assembled in Italy.</lex>
       <lex comment="good" lid="Id3">The Alfa Romeo 164 is assembled in Italy.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id121" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alfa_Romeo_164 | bodyStyle | Sedan_(automobile)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfa_Romeo_164 | bodyStyle | Sedan_(automobile)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alfa Romeo 164 has a Sedan body style.</lex>
-      <lex comment="good" lid="Id2">The bodystyle of the Alfa Romeo 164 is Sedan.</lex>
-      <lex comment="good" lid="Id3">The Alfa Romeo 164 is a sedan.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id122" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alfa_Romeo_164 | class | "Mid-size luxury / Executive car"@en</otriple>
@@ -613,16 +418,6 @@
         <mtriple>Alfa_Romeo_164 | class | "Mid-size luxury / Executive car"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alfa Romeo 164 is considered a mid-size luxury executive car.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id123" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alfa_Romeo_164 | class | Luxury_vehicle</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfa_Romeo_164 | class | Luxury_vehicle</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alfa Romeo 164 is a luxury vehicle.</lex>
-      <lex comment="good" lid="Id2">The Alfa Romeo 164 is a Luxury class vehicle.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id124" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -655,19 +450,6 @@
       <lex comment="good" lid="Id2">The Alfa Romeo 164 has a 5-speed manual transmission.</lex>
       <lex comment="good" lid="Id3">Alfa Romeo 164's transmission is a 5 speed manual.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id132" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alhambra_(1855) | shipOwner | P&amp;O_(company)</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alhambra_(1855) | owner | P&amp;O_(company)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alhambra | owner | P&amp;O_(company)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alhambra is owned by the P &amp; O company.</lex>
-      <lex comment="good" lid="Id2">The Alhambra is owned by P&amp;O.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alhambra_(1855) | shipPower | "Geared steam engine Humphrys, Tennant and Dykes 140hp"@en</otriple>
@@ -678,16 +460,6 @@
       <lex comment="good" lid="Id1">The ship Alhambra was powered by a Humphrys, Tennant and Dykes 140hp geared steam engine.</lex>
       <lex comment="good" lid="Id2">The power of the ship Alhambra was by a geared steam engine Humphrys, Tennant and Dykes 140hp.</lex>
       <lex comment="good" lid="Id3">The Alhambra had a Geared steam engine Humphrys, Tennant and Dykes 140hp.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id137" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alliant_Techsystems | product | XM25_CDTE</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alliant_Techsystems | product | XM25_CDTE</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alliant Techsystems produces the XM25-CDTE.</lex>
-      <lex comment="good" lid="Id2">Alliant Techsystems produces the XM25 CDTE.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id140" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -720,17 +492,6 @@
       <lex comment="good" lid="Id2">The Alvis Speed 25 has an engine capable of producing 31.48 tax horsepower.</lex>
       <lex comment="good" lid="Id3">The Alvis Speed 25 has a 31.48 tax hp engine.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id145" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alvis_Speed_25 | engine | Alvis_Speed_25__2</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alvis_Speed_25 | engine | 4387.0 (cubicCentimetres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alvis Speed 25 has a 4387.00 cc engine.</lex>
-      <lex comment="good" lid="Id2">The Alvis Speed 25's engine is 4387.0 cubic centimetres.</lex>
-      <lex comment="good" lid="Id3">The Alvis Speed 25 has an engine of 4387 cubic centimeters.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id147" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent"</otriple>
@@ -740,16 +501,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alvis Speed 25 has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
       <lex comment="good" lid="Id2">The Alvis Speed 25's transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id151" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>American_Locomotive_Company | locationCountry | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>American_Locomotive_Company | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The American Locomotive Company is located in the United States.</lex>
-      <lex comment="good" lid="Id2">The American Locomotive Co. is located in the U.S.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id153" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -770,20 +521,6 @@
       <lex comment="good" lid="Id1">The Wheel Horse is a subsidiary of American Motors.</lex>
       <lex comment="good" lid="Id2">Wheel Horse is a subsidiary of American Motors.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id158" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>American_submarine_NR-1 | length | "45.0"^^xsd:double</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>American_submarine_NR-1 | length | 45000.0 (millimetres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The American submarine NR-1 is 45000.0 millimetres long.</lex>
-      <lex comment="good" lid="Id2">The American Sub NR-1 is 45000 millimetres in length.</lex>
-      <lex comment="good" lid="Id3">The American submarine NR-1 is 45000.0 (millimetres) long.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id160" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
@@ -795,16 +532,6 @@
       <lex comment="good" lid="Id2">The American sub NR-1 was launched on January 25, 1969.</lex>
       <lex comment="good" lid="Id3">The American submarine NR-1 was launched on The 25th of January 1969.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id161" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>American_submarine_NR-1 | topSpeed | 8.334</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The top speed of the American submarine NR-1 is 8.334.</lex>
-      <lex comment="good" lid="Id2">The American submarine, NR-1, has a top speed of 8.334 km/h.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id162" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Antares_(rocket) | comparable | Delta_II</otriple>
@@ -815,16 +542,6 @@
       <lex comment="good" lid="Id1">The rocket Antares is comparable to Delta II.</lex>
       <lex comment="good" lid="Id2">The Antares rocket is comparable with the Delta II.</lex>
       <lex comment="good" lid="Id3">The Antares rocket is similar to the Delta II rocket.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id166" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Antares_(rocket) | function | "Medium expendable launch system"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Antares_(rocket) | function | "Medium expendable launch system"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The function of the Antares rocket was a medium expendable launch system.</lex>
-      <lex comment="good" lid="Id2">The Antares rocket function is a medium expendable launch system.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id168" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -929,16 +646,6 @@
       <lex comment="good" lid="Id2">The maiden flight of Ariane 5 took place on 9th March 2008.</lex>
       <lex comment="good" lid="Id3">The maiden flight of the Ariane 5 was 2008-03-09.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id186" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Ariane_5 | manufacturer | Arianespace</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ariane_5 | manufacturer | Arianespace</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arianespace is the manufacturer of Ariane 5.</lex>
-      <lex comment="good" lid="Id2">The Ariane 5 was manufactured by Arianespace.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id189" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Arianespace | locationCity | Courcouronnes</otriple>
@@ -948,16 +655,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arianespace is located in the city of Courcouronnes.</lex>
       <lex comment="good" lid="Id2">Arianespace is located in Courcouronnes.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id193" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aston_Martin_DBS | successor | Aston_Martin_Vantage</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aston_Martin_DBS | successor | Aston_Martin_Vantage</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The successor of the Aston Martin DBS is the Aston Martin Vantage.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin Vantage succeeded the Aston Martin DBS.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id197" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -970,16 +667,6 @@
       <lex comment="good" lid="Id2">The body style of the Aston Martin V8 is a coupe.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8 is a Coupe.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id198" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aston_Martin_V8 | engine | Aston_Martin_V8__1</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aston_Martin_V8 | engine | 5.3 (litres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8 has a 5.3 litre engine.</lex>
-      <lex comment="good" lid="Id2">The engine volume of Aston MArtin V8 is 5.3 litres.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id201" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</otriple>
@@ -989,17 +676,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin V8 was succeeded by the Aston Martin Virage.</lex>
       <lex comment="good" lid="Id2">The Aston Martin Virage succeeded the Aston Martin V8.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id202" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aston_Martin_Virage | related | Aston_Martin_DBS</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aston_Martin_Virage | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aston Martin Virage and Aston Martin DBS are related types of transportation.</lex>
-      <lex comment="good" lid="Id2">Aston Martin Virage is a related vehicle to the Aston Martin DBS.</lex>
-      <lex comment="good" lid="Id3">The Aston Martin Virage is related to the Aston Martin DBS.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id205" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1012,20 +688,6 @@
       <lex comment="good" lid="Id2">Atlas II had its final flight on the 31st of August 2004.</lex>
       <lex comment="good" lid="Id3">The Atlas II final flight was on 2004-08-31.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id207" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Atlas_II | sites | Spaceport_Florida_Launch_Complex_36</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Atlas_II | launchSite | Spaceport_Florida_Launch_Complex_36</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Atlas_II | launchSite | Spaceport_Florida_Launch_Complex_36</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Atlas II was launched from the Spaceport Florida Launch Complex 36.</lex>
-      <lex comment="good" lid="Id2">The launch site of Atlas II is Spaceport Florida Launch Complex 36.</lex>
-      <lex comment="good" lid="Id3">The Atlas II launch site was the Spaceport Florida Launch Complex 36.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id209" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Atlas_II | manufacturer | Lockheed_Martin</otriple>
@@ -1037,18 +699,6 @@
       <lex comment="good" lid="Id2">The Atlas II was manufactured by Lockheed Martin.</lex>
       <lex comment="good" lid="Id3">Lockheed Martin is the manufacturer of the Atlas II.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id212" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Audi | subsidiary | Quattro_GmbH</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Audi | subsid | Quattro_GmbH</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Audi | subsidiary | Quattro_GmbH</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Quattro Gmbh is a subsidiary of the Audi.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id213" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Audi_A1 | assembly | "Brussels, Belgium"@en</otriple>
@@ -1058,17 +708,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Audi A1 is assembled in Brussels in Belgium.</lex>
       <lex comment="good" lid="Id2">The Audi A1 is assembled in Brussels, Belgium.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id215" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Audi_A1 | class | Supermini</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Audi_A1 | class | Supermini</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Audi A1 is classed as a super mini.</lex>
-      <lex comment="good" lid="Id2">The Audi A1 is classed as a supermini.</lex>
-      <lex comment="good" lid="Id3">Audi A1 belongs to the supermini class.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id217" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1102,16 +741,6 @@
       <lex comment="good" lid="Id2">Caterpillar Inc. is located in Illinois.</lex>
       <lex comment="good" lid="Id3">The location of Caterpillar Inc. is Illinois.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id224" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Caterpillar_Inc. | location | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Caterpillar_Inc. | location | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Caterpillar Inc. is located in the U.S.</lex>
-      <lex comment="good" lid="Id2">Caterpillar Inc is located in the United States.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id226" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Costa_Crociere | parent | Carnival_Corporation_&amp;_plc</otriple>
@@ -1124,19 +753,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Carnival Corporation &amp; plc is the parent company of Costa Crociere.</lex>
       <lex comment="good" lid="Id2">The parent company of Costa Crociere is Carnival Corporation &amp; plc.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id228" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>DeSoto_Custom | relatedMeanOfTransportation | Dodge_Coronet</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>DeSoto_Custom | related | Dodge_Coronet</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>DeSoto_Custom | relatedMeanOfTransportation | Dodge_Coronet</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The DeSoto Custom is related to the Dodge Coronet.</lex>
-      <lex comment="good" lid="Id2">The DeSoto Custom and the Dodge Coronet are similar means of transport.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id229" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1181,15 +797,6 @@
       <lex comment="good" lid="Id1">Arianespace operates the ELA-3.</lex>
       <lex comment="good" lid="Id2">The ELA-3 is operated by Arianespace.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id238" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Fiat_Croma | related | Opel_Vectra</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Fiat_Croma | relatedMeanOfTransportation | Opel_Vectra</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Fiat Croma and Opel Vectra are related forms of transportation.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id241" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Finland | leader | Juha_Sipilä</otriple>
@@ -1204,16 +811,6 @@
       <lex comment="good" lid="Id2">Juha Sipilä is a leader in Finland.</lex>
       <lex comment="good" lid="Id3">Finland is led by Juha Sipila.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id245" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Germany | capital | Berlin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Germany | capital | Berlin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Berlin is the capital of Germany.</lex>
-      <lex comment="good" lid="Id2">The capital of Berlin is Germany.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id246" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Germany | leaderName | Andreas_Voßkuhle</otriple>
@@ -1226,16 +823,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andreas Voßkuhle is a leader of Germany.</lex>
       <lex comment="good" lid="Id2">Andreas Vosskuhle is a leader in Germany.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id247" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Germany | leader | Angela_Merkel</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Germany | leader | Angela_Merkel</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Angela Merkel is the leader of Germany.</lex>
-      <lex comment="good" lid="Id2">The leader of Germany is Angela Merkel.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id250" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1250,20 +837,6 @@
       <lex comment="good" lid="Id1">The Gruppo Bertone was founded in Turin.</lex>
       <lex comment="good" lid="Id2">Gruppo Bertone was founded in Turin.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id253" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Guiana_Space_Centre | headquarters | French_Guiana</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Guiana_Space_Centre | headquarter | French_Guiana</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Guiana_Space_Centre | headquarter | French_Guiana</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">French Guiana is where the headquarters of the Guiana Space Centre are located.</lex>
-      <lex comment="good" lid="Id2">The Guiana Space Centre has its HQ in French Guiana.</lex>
-      <lex comment="good" lid="Id3">The Guiana Space Centre has its headquarters in French Guiana.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id255" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Guiana_Space_Centre | location | Kourou,_French_Guiana</otriple>
@@ -1273,17 +846,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Guiana Space Centre is located in Kourou, French Guiana.</lex>
       <lex comment="good" lid="Id2">The Guiana Space Centre is in Kourou, French Guiana.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id258" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Honda_J_engine | manufacturer | Honda</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Honda_J_engine | manufacturer | Honda</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Honda J. engine is made by Honda.</lex>
-      <lex comment="good" lid="Id2">The Honda J engine was manufactured by Honda.</lex>
-      <lex comment="good" lid="Id3">Honda is the manufacturer of the Honda J engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id260" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1295,16 +857,6 @@
       <lex comment="good" lid="Id1">Humphrys, Tennant and Dykes are located in London.</lex>
       <lex comment="good" lid="Id2">Humphrys, Tennant and Dykes is located in London.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id261" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Italy | capital | Rome</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Italy | capital | Rome</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rome is the capital of Italy.</lex>
-      <lex comment="good" lid="Id2">The capital of Italy is Rome.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id264" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>MTU_Friedrichshafen | locationCity | Friedrichshafen</otriple>
@@ -1315,17 +867,6 @@
       <lex comment="good" lid="Id1">MTU Friedrichshafen is in the city of Friedrichshafen.</lex>
       <lex comment="good" lid="Id2">MTU Friedrichshafen is in Friedrichshafen.</lex>
       <lex comment="good" lid="Id3">MTU Friedrichshafen is located in the city of Friedrichshafen.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id268" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | rockets | Minotaur_IV</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | associatedRocket | Minotaur_IV</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the rocket, Minotaur IV.</lex>
-      <lex comment="good" lid="Id2">The Minotaur IV rocket is associated with the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
-      <lex comment="good" lid="Id3">The Minotaur IV rocket was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id270" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1346,16 +887,6 @@
       <lex comment="good" lid="Id1">The Plymouth Plaza was manufactured by Plymouth.</lex>
       <lex comment="good" lid="Id2">Plymouth are the manufacturers of the Plymouth Plaza.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id278" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Richard_A._Teague | employer | General_Motors</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Richard_A._Teague | employer | General_Motors</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Richard A Teague is an employee of General Motors.</lex>
-      <lex comment="good" lid="Id2">Richard A. Teague's employer is General Motors.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id280" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>SEAT_Ibiza | related | Audi_A1</otriple>
@@ -1366,18 +897,6 @@
       <lex comment="good" lid="Id1">The SEAT Ibiza and the Audi A1 are similar means of transport.</lex>
       <lex comment="good" lid="Id2">The SEAT Ibiza is related to the Audi A1.</lex>
       <lex comment="good" lid="Id3">The SEAT Ibiza and the Audi A1 are related means of transportation.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id282" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Saab_9000 | related | Alfa_Romeo_164</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Saab_9000 | relatedMeanOfTransportation | Alfa_Romeo_164</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Saab_9000 | relatedMeanOfTransportation | Alfa_Romeo_164</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Saab 9000 is related to Alfa Romeo 164.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id284" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1409,17 +928,6 @@
       <lex comment="good" lid="Id1">One of the ethnic groups in the United States is African Americans.</lex>
       <lex comment="good" lid="Id2">United States has ethnic groups including African Americans.</lex>
       <lex comment="good" lid="Id3">African Americans are among the ethnic groups in the United States.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id291" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | White_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">White Americans are an ethnic group in the United States.</lex>
-      <lex comment="good" lid="Id2">White Americans are one of the ethnic groups in the United States.</lex>
-      <lex comment="good" lid="Id3">White Americans are an ethnic group of the United States.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id295" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

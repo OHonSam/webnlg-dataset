@@ -1,21 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="University" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | president | "B.M. Reddy"@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
-        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | president | "B.M. Reddy"</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">B.M. Reddy is the president of the Acharya Institute of Technology, which is located in Bangalore, India.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology is in Bangalore, India. Its president is B.M. Reddy.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology (Bangalore, India) has B. M. Reddy as its president.</lex>
-    </entry>
     <entry category="University" eid="Id7" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Romania | patronSaint | Andrew_the_Apostle</otriple>

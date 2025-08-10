@@ -1,16 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Monument" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Azerbaijan leader's name is Artur Rasizade.</lex>
-      <lex comment="good" lid="Id2">The name of the leader of Azerbaijan is Artur Rasizade.</lex>
-    </entry>
     <entry category="Monument" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>

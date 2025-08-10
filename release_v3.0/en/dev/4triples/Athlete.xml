@@ -1,23 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Athlete" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>Akeem_Ayers | formerTeam | New_England_Patriots</otriple>
-        <otriple>Akeem_Ayers | dateOfBirth | "1989-07-10"^^xsd:date</otriple>
-        <otriple>Akeem_Ayers | debutTeam | Tennessee_Titans</otriple>
-        <otriple>Akeem_Ayers | birthYear | "1989"^^xsd:gYear</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akeem_Ayers | formerTeam | New_England_Patriots</mtriple>
-        <mtriple>Akeem_Ayers | birthDate | 1989-07-10</mtriple>
-        <mtriple>Akeem_Ayers | debutTeam | Tennessee_Titans</mtriple>
-        <mtriple>Akeem_Ayers | birthYear | 1989</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Ayers was born on 10th July 1989. He made his debut for the Tennessee Titans and used to play for the New England Patriots.</lex>
-      <lex comment="good" lid="Id2">Born on July 10th, 1989, Akeem Ayers, made his debut for the Tennessee Titans and used to play for the New England Patriots.</lex>
-      <lex comment="good" lid="Id3">Akeem Ayers was born on 10th July 1989. His debut team was the Tennessee Titans and his former team is the New England Patriots.</lex>
-    </entry>
     <entry category="Athlete" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Akeem_Dent | birthYear | "1987"^^xsd:gYear</otriple>
@@ -68,29 +51,6 @@
       <lex comment="good" lid="Id1">Alan Martin is a member of Motherwell FC, with its grounds in Fir Park. He also belongs to Clyde FC club, managed by Barry Ferguson.</lex>
       <lex comment="good" lid="Id2">Alan Martin played football for Motherwell F.C. whose home territory is Fir Park. Mr. Martin also played with the Clyde FC which is managed by Barry Ferguson.</lex>
       <lex comment="good" lid="Id3">Barry Ferguson is the manager of Clyde F.C., the club Alan Martin played for. Martin also played football for Motherwell F.C. which play their home games at Fir Park.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id10" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>FC_Samtredia | ground | Erosi_Manjgaladze_Stadium</otriple>
-        <otriple>Aleksandre_Guruli | clubs | FC_Samtredia</otriple>
-        <otriple>Aleksandre_Guruli | team | FC_Dinamo_Batumi</otriple>
-        <otriple>FC_Dinamo_Batumi | manager | Levan_Khomeriki</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aleksandre_Guruli | team | FC_Samtredia</otriple>
-        <otriple>FC_Samtredia | ground | Erosi_Manjgaladze_Stadium</otriple>
-        <otriple>FC_Dinamo_Batumi | manager | Levan_Khomeriki</otriple>
-        <otriple>Aleksandre_Guruli | clubs | FC_Dinamo_Batumi</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksandre_Guruli | club | FC_Samtredia</mtriple>
-        <mtriple>FC_Samtredia | ground | Erosi_Manjgaladze_Stadium</mtriple>
-        <mtriple>FC_Dinamo_Batumi | manager | Levan_Khomeriki</mtriple>
-        <mtriple>Aleksandre_Guruli | club | FC_Dinamo_Batumi</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandre Guruli's club is FC Samtredia who play their home games at Erosi Manjgaladze stadium. Mr. Guruli also once played for the FC Dinamo Batumi that is managed by Levan Khomeriki.</lex>
-      <lex comment="good" lid="Id2">Aleksandre Guruli plays for FC Dinamo Batumi whose manager is Levan Khomeriki. He also plays for FC Samtredia whose ground is the Erosi Manjgaladze Stadium.</lex>
-      <lex comment="good" lid="Id3">Aleksandre Guruli plays for both FC Dinamo Batumi (managed by Levan Khomeriki) and FC Samtredia, ground of which is Erosi Manjgaladze Stadium.</lex>
     </entry>
     <entry category="Athlete" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

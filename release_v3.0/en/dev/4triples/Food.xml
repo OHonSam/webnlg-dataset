@@ -1,28 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Food" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>Arem-arem | ingredient | Banana_leaf</otriple>
-        <otriple>Arem-arem | ingredientName | "compressed rice cooked inbanana leafwith vegetables or minced meat fillings"</otriple>
-        <otriple>Arem-arem | course | "Main course"@en</otriple>
-        <otriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Arem-arem | ingredient | Banana_leaf</otriple>
-        <otriple>Arem-arem | course | "Main course"@en</otriple>
-        <otriple>Arem-arem | mainIngredient | "compressed rice cooked in banana leaf with vegetables or minced meat fillings"@en</otriple>
-        <otriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Arem-arem | ingredient | Banana_leaf</mtriple>
-        <mtriple>Arem-arem | course | "Main course"</mtriple>
-        <mtriple>Arem-arem | mainIngredient | "compressed rice cooked in banana leaf with vegetables or minced meat fillings"</mtriple>
-        <mtriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arem-arem is a food that is found nationwide in Indonesia, but more specific to Java, it can be served as a main course and has a banana leaf in it. Its main ingredients are compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
-      <lex comment="good" lid="Id2">The main ingredients of Arem-arem are compressed rice cooked in banana leaf with vegetables or minced meat fillings. It is served as a main course and is found nationwide in Indonesia and more specifically in Java.</lex>
-    </entry>
     <entry category="Food" eid="Id7" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Arròs_negre | country | Spain</otriple>
@@ -124,23 +102,6 @@
       <lex comment="good" lid="Id1">Baked Alaska comes from either Paris, New York, USA, or Hong Kong. Meringue, ice cream, sponge cake or Christmas pudding are main ingredients in baked Alaska.</lex>
       <lex comment="good" lid="Id2">The American dish Baked Alaska is found in Hong Kong, New York and Paris. Meringue, ice cream, sponge cake or Christmas pudding are its main ingredients.</lex>
     </entry>
-    <entry category="Food" eid="Id18" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Bakewell_pudding | hasVariant | Bakewell_tart</otriple>
-        <otriple>Bakewell_tart | region | Derbyshire_Dales</otriple>
-        <otriple>Derbyshire_Dales | isPartOf | Derbyshire</otriple>
-        <otriple>Bakewell_tart | ingredient | Frangipane</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bakewell_pudding | dishVariation | Bakewell_tart</mtriple>
-        <mtriple>Bakewell_tart | region | Derbyshire_Dales</mtriple>
-        <mtriple>Derbyshire_Dales | isPartOf | Derbyshire</mtriple>
-        <mtriple>Bakewell_tart | ingredient | Frangipane</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The bakewell tart is popular in the Derbyshire Dales area which is part of Derbyshire. It's a variant of bakewell pudding and uses frangipane.</lex>
-      <lex comment="good" lid="Id2">Bakewell tart, a variation of Bakewell pudding, includes the ingredient frangipane and originates from the Derbyshire Dales region of Derbyshire.</lex>
-      <lex comment="good" lid="Id3">Bakewell tart is a variant of bakewell pudding and comes from the Derbyshire Dales. It contains frangipane.</lex>
-    </entry>
     <entry category="Food" eid="Id20" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Bakewell_pudding | region | Derbyshire_Dales</otriple>
@@ -157,41 +118,6 @@
       <lex comment="good" lid="Id1">From the Derbyshire Dales region (in Derbyshire), is Bakewell pudding. A variation of which, is Bakewell tart, its main ingredient is shortcrust pastry.</lex>
       <lex comment="good" lid="Id2">Bakewell tart is a variation of Bakewell pudding which uses shortcrust pastry and comes from the Derbyshire Dales in Derbyshire.</lex>
       <lex comment="good" lid="Id3">Bakewell tart is a variant of bakewell pudding from the Derbyshire Dales in Derbyshire. The main ingredient is shortcrust pastry.</lex>
-    </entry>
-    <entry category="Food" eid="Id22" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>Batagor | country | Indonesia</otriple>
-        <otriple>Batagor | ingredient | Peanut_sauce</otriple>
-        <otriple>Batagor | mainIngredient | "fried fish dumpling with tofu and vegetables in peanut sauce"@en</otriple>
-        <otriple>Batagor | variations | Siomay</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Batagor | ingredient | Peanut_sauce</otriple>
-        <otriple>Batagor | mainIngredient | "fried fish dumpling with tofu and vegetables in peanut sauce"@en</otriple>
-        <otriple>Batagor | variations | Siomay</otriple>
-        <otriple>Batagor | country | "Indonesia"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Batagor | ingredient | Peanut_sauce</otriple>
-        <otriple>Batagor | variations | Siomay</otriple>
-        <otriple>Batagor | ingredientName | "fried fish dumpling with tofu and vegetables inpeanut sauce"</otriple>
-        <otriple>Batagor | country | "Indonesia"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Batagor | country | Indonesia</otriple>
-        <otriple>Batagor | ingredient | Peanut_sauce</otriple>
-        <otriple>Batagor | variations | Siomay</otriple>
-        <otriple>Batagor | ingredientName | "fried fish dumpling with tofu and vegetables inpeanut sauce"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Batagor | country | Indonesia</mtriple>
-        <mtriple>Batagor | ingredient | Peanut_sauce</mtriple>
-        <mtriple>Batagor | dishVariation | Siomay</mtriple>
-        <mtriple>Batagor | mainIngredient | "fried fish dumpling with tofu and vegetables in peanut sauce"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Batagor is an Indonesian food and a variation of the Siomay dish. It contains a fried fish dumpling with tofu and vegetables in peanut sauce.</lex>
-      <lex comment="good" lid="Id2">Batagor, (a variation of Siomay), is a dish found in Indonesia and its main ingredients are fried fish dumpling with tofu and vegetables in peanut sauce.</lex>
-      <lex comment="good" lid="Id3">Batagor, from Indonesia, is a dish consisting of fried fish dumplings, tofu and vegetables in peanut sauce. Siomay is a variation of batagor.</lex>
     </entry>
     <entry category="Food" eid="Id23" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -214,23 +140,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Batagor is found in the country of Indonesia. It is a variation on Siomay or Shumai, the latter of which includes Shiitake.</lex>
       <lex comment="good" lid="Id2">Shumai, which has shiitake as a component and is similar to Siomay, is a variation of the Indonesian dish batagor.</lex>
-    </entry>
-    <entry category="Food" eid="Id25" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>Beef_kway_teow | mainIngredient | "Kway teow , beef tenderloin, gula Melaka ,sliced, dried black beans, garlic, dark soy sauce, lengkuas , oyster sauce, soya sauce, chilli and sesame oil"@en</otriple>
-        <otriple>Beef_kway_teow | region | "Nationwide in Singapore and Indonesia"@en</otriple>
-        <otriple>Beef_kway_teow | country | Indonesia</otriple>
-        <otriple>Beef_kway_teow | ingredient | Oyster_sauce</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Beef_kway_teow | mainIngredient | "Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil"</mtriple>
-        <mtriple>Beef_kway_teow | region | "Nationwide in Singapore and Indonesia"</mtriple>
-        <mtriple>Beef_kway_teow | country | Indonesia</mtriple>
-        <mtriple>Beef_kway_teow | ingredient | Oyster_sauce</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Indonesian dish Beef kway teow is popular nationwide in Singapore and Indonesia. Its ingredients include kway teow, beef tenderloin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil.</lex>
-      <lex comment="good" lid="Id2">Beef kway teow is available nationwide in Singapore and Indonesia and includes the ingredients: kway teow, beef tenderloin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil.</lex>
-      <lex comment="good" lid="Id3">The main ingredients for Beef Kway Teow are Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil. It is a popular food and found nationwide in both Indonesia and Singapore.</lex>
     </entry>
     <entry category="Food" eid="Id27" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -265,23 +174,6 @@
       <lex comment="good" lid="Id1">Bhajji comes from the country India in the Karnataka region where the leaders are Sumitra Mahajan and Vajubhai Vala.</lex>
       <lex comment="good" lid="Id2">Bhajji come from the Karnataka region in India. Vajubhai Vala is the leader of Karnataka and Sumitra Mahajan is a leader in India.</lex>
       <lex comment="good" lid="Id3">Bhajji originate from the Karnataka region of India. The leader in Karnataka is Vajubhai Vala, and in India is Sumitra Mahajan.</lex>
-    </entry>
-    <entry category="Food" eid="Id31" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>Binignit | ingredient | Sweet_potato</otriple>
-        <otriple>Binignit | region | Visayas</otriple>
-        <otriple>Binignit | mainIngredient | Coconut_milk</otriple>
-        <otriple>Binignit | country | Philippines</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Binignit | ingredient | Sweet_potato</mtriple>
-        <mtriple>Binignit | region | Visayas</mtriple>
-        <mtriple>Binignit | mainIngredient | Coconut_milk</mtriple>
-        <mtriple>Binignit | country | Philippines</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Binignit comes from the Visayas region of the Philippines. Its main ingredients are sweet potato and coconut milk.</lex>
-      <lex comment="good" lid="Id2">Sweet potato and coconut milk are ingredients in the dish binignit, which comes from the Visayas region of the Philippines.</lex>
-      <lex comment="good" lid="Id3">Binignit, which contains sweet potato and coconut milk, is a dish from the Visayas region of the Philippines.</lex>
     </entry>
     <entry category="Food" eid="Id33" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -338,22 +230,6 @@
       <lex comment="good" lid="Id1">Pietro Grasso and Sergio Mattarella are the leaders of Italy. The capital is Rome and Amatriciana sauce is a traditional Italian sauce.</lex>
       <lex comment="good" lid="Id2">Pietro Grasso and Sergio Mattarella are leaders of Italy whose capital is Rome. Amatriciana sauce is a traditional sauce served in Italy.</lex>
       <lex comment="good" lid="Id3">Amatriciana sauce can be found in Italy where the capital is Rome and the leaders include Pietro Grasso and Sergio Mattarella.</lex>
-    </entry>
-    <entry category="Food" eid="Id38" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Java | ethnicGroup | Banyumasan_people</otriple>
-        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
-        <otriple>Ayam_penyet | region | Singapore</otriple>
-        <otriple>Ayam_penyet | country | Java</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Java | ethnicGroup | Banyumasan_people</mtriple>
-        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
-        <mtriple>Ayam_penyet | region | Singapore</mtriple>
-        <mtriple>Ayam_penyet | country | Java</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">There is an ethnic group from Java, a region of Singapore, called the Banyumasan people. Ayam penyet is a dish from the region. The leader, Halimah Yacob, a leader, is from Singapore.</lex>
-      <lex comment="good" lid="Id2">The Banyumasan people are an ethnic group in Java, where the dish ayam penyet can be found. The dish comes from Singapore, where Halimah Yacob is a leader.</lex>
     </entry>
     </entries>
 </benchmark>

@@ -50,26 +50,6 @@
       <lex comment="good" lid="Id2">Nigerian Air Force member Abdulsalami Abubakar was succeeded by Olusegun Obasanjo who was in office whilst Atiku Abubakar was Vice President.</lex>
       <lex comment="good" lid="Id3">Abdulsalami Abubakar served in the Nigerian Air Force. Olusegun Obasanjo succeeded him. When Mr. Obasanjo was in office, Atiku Abubakar was Vice-President.</lex>
     </entry>
-    <entry category="Politician" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Abel_Caballero | birthPlace | Spain</otriple>
-        <otriple>Abel_Caballero | office | "Minister of Transport"</otriple>
-        <otriple>Abel_Caballero | placeOfBirth | Galicia_(Spain)</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Abel_Caballero | office | "Minister of Transport"</otriple>
-        <otriple>Abel_Caballero | birthPlace | Galicia_(Spain)</otriple>
-        <otriple>Abel_Caballero | placeOfBirth | Spain</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abel_Caballero | birthPlace | Spain</mtriple>
-        <mtriple>Abel_Caballero | office | "Minister of Transport"</mtriple>
-        <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abel Caballero was born in Galicia, Spain and worked as Minister of Transport.</lex>
-      <lex comment="good" lid="Id2">Abel Caballero, was born in Galicia, Spain, and worked as Minister of Transport.</lex>
-      <lex comment="good" lid="Id3">Galician and Spanish born Abel Caballero, while in office, was the Minister of Transport.</lex>
-    </entry>
     <entry category="Politician" eid="Id11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Abraham_A._Ribicoff | spouse | Casey_Ribicoff</otriple>
@@ -84,20 +64,6 @@
       <lex comment="good" lid="Id1">Abraham A. Ribicoff once worked for the United States Secretary of Health, Education, and Welfare office and was married to Chicago-born Casey Ribicoff.</lex>
       <lex comment="good" lid="Id2">Casey Ribicoff, wife of Abraham A. Ribcoff, was born in Chicago. Mr. Ribcoff worked as the United States Secretary of Health, Education, and Welfare office.</lex>
       <lex comment="good" lid="Id3">Casey Ribicoff was born in Chicago and was married to Abraham A Ribicoff who once worked for the United States Secretary of Health, Education, and Welfare office.</lex>
-    </entry>
-    <entry category="Politician" eid="Id14" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Adam_Koc | battles | Polish–Soviet_War</otriple>
-        <otriple>Adam_Koc | birthPlace | Congress_Poland</otriple>
-        <otriple>Polish–Soviet_War | commander | Leon_Trotsky</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adam_Koc | battle | Polish–Soviet_War</mtriple>
-        <mtriple>Adam_Koc | birthPlace | Congress_Poland</mtriple>
-        <mtriple>Polish–Soviet_War | commander | Leon_Trotsky</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adam Koc, who was born in Congress in Poland, fought in the Polish-Soviet War in which Leon Trotsky was a commander.</lex>
-      <lex comment="good" lid="Id2">Leon Trotsky was a commander in the Polish-Soviet war in which Adam Koc was also involved. Koc was born in Congress, Poland.</lex>
     </entry>
     <entry category="Politician" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -119,21 +85,6 @@
       <lex comment="good" lid="Id2">Adonis Georgiadis, born in Athens, Greece, worked as the Minister for Health.</lex>
       <lex comment="good" lid="Id3">Adonis Georgiadis, born Athens (Greece), held office as the Minister for Health.</lex>
     </entry>
-    <entry category="Politician" eid="Id17" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Agnes_Kant | birthPlace | Hessisch_Oldendorf</otriple>
-        <otriple>Agnes_Kant | almaMater | "Radboud University Nijmegen"@en</otriple>
-        <otriple>Agnes_Kant | office | "House of Representatives (Netherlands)"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Agnes_Kant | birthPlace | Hessisch_Oldendorf</mtriple>
-        <mtriple>Agnes_Kant | almaMater | Radboud_University_Nijmegen</mtriple>
-        <mtriple>Agnes_Kant | office | House_of_Representatives_(Netherlands)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Agnes Kant; was born in Hessisch Oldendorf, worked at the House of Representatives in Netherlands, and her alma mater is the Radboud University Nijmegen.</lex>
-      <lex comment="good" lid="Id2">Agnes Kant; was born in Hessisch Oldendorf, worked at the House of Representatives in the Netherlands, and her alma mater is the Radboud University Nijmegen.</lex>
-      <lex comment="good" lid="Id3">Agnes Kant was born in Hessisch Oldendorf and attended Radboud University Nijmegen. He worked at the House of Representatives in Netherlands.</lex>
-    </entry>
     <entry category="Politician" eid="Id19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Airey_Neave | battles | Battle_of_France</otriple>
@@ -148,21 +99,6 @@
       <lex comment="good" lid="Id1">Airey Neave, who was involved in the Battle of France, was awarded the Order of the British Empire and ended his career on 30th March 1979.</lex>
       <lex comment="good" lid="Id2">Airey Neave, who ended his career on 30 March 1979 participated in the Battle of France and was awarded the Order of the British Empire.</lex>
       <lex comment="good" lid="Id3">Airey Neave OBE, fought in the Battle of France and ended his career on 30th March 1979.</lex>
-    </entry>
-    <entry category="Politician" eid="Id21" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Airey_Neave | battles | World_War_II</otriple>
-        <otriple>Airey_Neave | award | Military_Cross</otriple>
-        <otriple>Airey_Neave | activeYearsEndDate | "1979-03-30"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Airey_Neave | battle | World_War_II</mtriple>
-        <mtriple>Airey_Neave | award | Military_Cross</mtriple>
-        <mtriple>Airey_Neave | activeYearsEndDate | 1979-03-30</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Airey Neave fought in World War II and was awarded the Military Cross before ending his career on 30 March 1979.</lex>
-      <lex comment="good" lid="Id2">Airey Neave served in World Ward II and retired on 30th Match 1979. He was awarded the Military Cross.</lex>
-      <lex comment="good" lid="Id3">Airey Neave was awarded the Military Cross whilst serving in world war 2, he retired on 30th March 1979.</lex>
     </entry>
     <entry category="Politician" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -218,21 +154,6 @@
       <lex comment="good" lid="Id1">Abraham Lincoln was a commander in the American Civil War. Alfred Moore Scales fought in the Battle of Fredericksburg during the American Civil War.</lex>
       <lex comment="good" lid="Id2">Alfred Moore Scales fought in battles such as the Battle of Fredericksburg, part of the American Civil War military conflict, during which Abraham Lincoln was a commander.</lex>
       <lex comment="good" lid="Id3">Alfred Moore Scales fought in the Battle of Fredericksburg, part of the American Civil War in which Abraham Lincoln was a commander.</lex>
-    </entry>
-    <entry category="Politician" eid="Id30" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Austria | leaderName | Doris_Bures</otriple>
-        <otriple>Alfons_Gorbach | birthPlace | Imst</otriple>
-        <otriple>Alfons_Gorbach | deathPlace | Austria</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Austria | leader | Doris_Bures</mtriple>
-        <mtriple>Alfons_Gorbach | birthPlace | Imst</mtriple>
-        <mtriple>Alfons_Gorbach | deathPlace | Austria</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst and died in Austria, where Doris Bures is a leader.</lex>
-      <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst and died in Austria, where the leader is Doris Bures.</lex>
-      <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst and later died in Austria where Doris Bures is the leader.</lex>
     </entry>
     <entry category="Politician" eid="Id31" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>

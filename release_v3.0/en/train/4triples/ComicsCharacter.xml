@@ -1,29 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="ComicsCharacter" eid="Id1" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Arion_(comics) | creators | Jan_Duursema</otriple>
-        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
-        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
-        <otriple>Arion_(comics) | creator | Paul_Kupperberg</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Arion_(comics) | creator | Jan_Duursema</otriple>
-        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
-        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
-        <otriple>Arion_(comics) | creators | Paul_Kupperberg</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Arion_(comicsCharacter) | creator | Jan_Duursema</mtriple>
-        <mtriple>Jan_Duursema | award | Eisner_Award</mtriple>
-        <mtriple>Arion_(comicsCharacter) | alternativeName | "Ahri'ahn"</mtriple>
-        <mtriple>Arion_(comicsCharacter) | creator | Paul_Kupperberg</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arion (also known as Ahri'ahn) is a comic character created by Paul Kupperberg and Jan Duursema, who won the Eisner award.</lex>
-      <lex comment="good" lid="Id2">Paul Kupperberg and Eisner Award winning Jan Duursema are the creators of the comic book character Arion, also know as Ahri'ahn.</lex>
-      <lex comment="good" lid="Id3">The comic book character Arion (also known as Ahri'ahn), was created by Paul Kupperberg and Jan Duursema, the latter having won the Eisner Award.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Dick_Dillin | nationality | United_States</otriple>
@@ -47,23 +24,6 @@
       <lex comment="good" lid="Id2">The comic book character Aurakles, with the alternative name Aurakles, was created by Dick Dillin (from the United States) and Len Wein.</lex>
       <lex comment="good" lid="Id3">The fictional character Aurakles, also known as ''Aurakles'' was created by Len Wein and Dick Dillin (American).</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id4" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
-        <otriple>Jack_Kirby | nationality | Americans</otriple>
-        <otriple>Balder_(comics) | creator | Stan_Lee</otriple>
-        <otriple>Balder_(comics) | alterEgo | "Balder Odinson"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
-        <mtriple>Jack_Kirby | nationality | Americans</mtriple>
-        <mtriple>Balder_(comicsCharacter) | creator | Stan_Lee</mtriple>
-        <mtriple>Balder_(comicsCharacter) | alternativeName | "Balder Odinson"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Balder is a comic character created by Stan Lee and the American, Jack Kirby. His alternative name is Balder Odinson.</lex>
-      <lex comment="good" lid="Id2">The comic character of Balder is also known as "Balder Odinson". It was created by Stan Lee and the American, Jack Kirby.</lex>
-      <lex comment="good" lid="Id3">The comic character, Balder has the alternative name of Balder Odinson . It was created by Stan Lee and the American, Jack Kirby.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id5" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Bananaman | network | BBC</otriple>
@@ -80,22 +40,6 @@
       <lex comment="good" lid="Id1">John Reith, 1st Baron Reith founded the BBC who have their HQ at Broadcasting House. The BBC broadcast Bananaman and also produce BBC radio.</lex>
       <lex comment="good" lid="Id2">The BBC, founded by John Reith, 1st Baron Reith, has its headquarters in Broadcasting House. The BBC produces BBC radio and broadcast the TV series Bananaman.</lex>
       <lex comment="good" lid="Id3">The founder of the BBC was 1st Baron John Reith and it is located at Broadcasting House in London. The BBC broadcast Bananaman and also produce BBC radio.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>Bananaman | network | BBC</otriple>
-        <otriple>Bananaman | creator | "Steve Bright"@en</otriple>
-        <otriple>Bananaman | starring | Bill_Oddie</otriple>
-        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
-        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
-        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
-        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bill Oddie stars in Bananaman which was created by Steve Bright. It was first broadcast by the BBC on 3 October 1983.</lex>
-      <lex comment="good" lid="Id2">Bananaman, created by Steve Bright and starring Bill Oddie, was first broadcast by the BBC on the 3rd October 1983.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -145,29 +89,6 @@
       <lex comment="good" lid="Id2">The BBC, which is located in London, showed the TV series Bananaman. It starred Bill Oddie who was born in Rochdale.</lex>
       <lex comment="good" lid="Id3">Bananaman is a tv series which starred Rochdale born Bill Oddie. The series was shown on the BBC which is located in the city of London.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id17" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
-        <otriple>Bananaman | network | BBC</otriple>
-        <otriple>Bananaman | creator | Steve_Bright</otriple>
-        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
-        <otriple>Bananaman | network | BBC</otriple>
-        <otriple>Bananaman | creator | "Steve Bright"@en</otriple>
-        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
-        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
-        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
-        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bananaman was created by Steve Bright and starred Tim Brooke-Taylor. It was first aired on 3 October 1983, being broadcast by the BBC.</lex>
-      <lex comment="good" lid="Id2">Bananaman (created by Steve Bright) was first broadcasted by the BBC on the 10/03/1983, and starred Tim Brooke-Taylor.</lex>
-      <lex comment="good" lid="Id3">Tim Brooke-Taylor starred in Bananaman which was created by Steve Bright. It was broadcast by the BBC and first aired on 3 October 1983.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id18" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Baymax | voice | Scott_Adsit</otriple>
@@ -202,29 +123,6 @@
       <lex comment="good" lid="Id1">The character Baymax first appeared in the film Big Hero 6 and is voiced by Scott Adsit. It was created by Duncan Rouleau and Steven T. Seagle.</lex>
       <lex comment="good" lid="Id2">Duncan Rouleau and Steven T Seagle created the character of Baymax who first appeared in the film Big Hero 6 and is voiced by Scott Adsit.</lex>
       <lex comment="good" lid="Id3">Baymax, voiced by Scott Adsit and created by Duncan Rouleau and Steven T. Seagle first appeared in the film Big Hero 6.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id20" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
-        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
-        <otriple>Baymax | firstAppearance | "Big Hero 6(2014)"</otriple>
-        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
-        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
-        <otriple>Baymax | firstAppearance | "Big Hero 6(2014)"</otriple>
-        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
-        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
-        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
-        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Baymax is a character created by Duncan Rouleau and Steven T. Seagle which first appeared in the film "Big Hero 6".</lex>
-      <lex comment="good" lid="Id2">Baymax is a character who first appeared in the film Big Hero 6. It was created by Steven T Seagle and Duncan Rouleau.</lex>
-      <lex comment="good" lid="Id3">Steven T Seagle and Duncan Rouleau created the character Baymax, which first appeared in the movie Big Hero 6.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id24" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -271,23 +169,6 @@
       <lex comment="good" lid="Id1">Baymax is a character in Big Hero 6 which starred Scott Adsit. The creator of Baymax is the American, Duncan Rouleau.</lex>
       <lex comment="good" lid="Id2">Baymax is a character in the film Big Hero 6 which star's Scott Adsit. The creator of this character is American national, Duncan Rouleau.</lex>
       <lex comment="good" lid="Id3">The American, Duncan Rouleau created the character of Baymax which appeared in the film Big Hero 6 alongside the star of the film, Scott Adsit.</lex>
-    </entry>
-    <entry category="ComicsCharacter" eid="Id28" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Karl_Kesel | nationality | Americans</otriple>
-        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
-        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
-        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
-        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
-        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
-        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The comic character Auron (Lambien) was created by both Marv Wolfman and American national Karl Kesel.</lex>
-      <lex comment="good" lid="Id2">Auron (Lambien) is a comic character that was created by both Marv Wolfman and American national Karl Kesel.</lex>
-      <lex comment="good" lid="Id3">Marv Wolfman and the American Karl Kesel are the creators of the comic book character Auron, whose full name is Lambien.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id32" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

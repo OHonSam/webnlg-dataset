@@ -1,23 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Politician" eid="Id1" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>Aaron_S._Daggett | battles | American_Civil_War</otriple>
-        <otriple>Aaron_S._Daggett | award | Purple_Heart</otriple>
-        <otriple>Aaron_S._Daggett | deathPlace | West_Roxbury</otriple>
-        <otriple>Aaron_S._Daggett | birthPlace | Maine</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_S._Daggett | battle | American_Civil_War</mtriple>
-        <mtriple>Aaron_S._Daggett | award | Purple_Heart</mtriple>
-        <mtriple>Aaron_S._Daggett | deathPlace | West_Roxbury</mtriple>
-        <mtriple>Aaron_S._Daggett | birthPlace | Maine</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron S Daggett was born in Maine and died in West Roxbury. He fought in the American Civil War and was awarded the Purple Heart.</lex>
-      <lex comment="good" lid="Id2">Maine born Aaron S Daggett fought in the American Civil War, was awarded the Purple Heart and died in West Roxbury.</lex>
-      <lex comment="good" lid="Id3">American Civil War soldier and Purple Heart recipient Aaron S. Daggett, was born in Maine and died in West Roxbury.</lex>
-    </entry>
     <entry category="Politician" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</otriple>
@@ -34,22 +17,6 @@
       <lex comment="good" lid="Id1">Abdul Taib Mahmud was born in Miri, Malaysia and he lives in Kuching. His party is the Parti Pesaka Bumiputera Bersatu and he represented Asajaya.</lex>
       <lex comment="good" lid="Id2">Mirir, Malaysia born Abdul Taib Mahmud, who lives in Kuching, represented the Asajaya region and was a member of the Parti Pesaka Bumiputera Bersatu.</lex>
       <lex comment="good" lid="Id3">Abdul Taib Mahmud, who was born in Miri, Malaysia and lives in Kuching, was a member of the Parti Pesaka Bumiputera Bersatu and represented Asajaya.</lex>
-    </entry>
-    <entry category="Politician" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</otriple>
-        <otriple>Abdul_Taib_Mahmud | region | Kota_Samarahan</otriple>
-        <otriple>Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak</otriple>
-        <otriple>Abdul_Taib_Mahmud | residence | "Demak Jaya, Jalan Bako, Kuching, Sarawak"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</mtriple>
-        <mtriple>Abdul_Taib_Mahmud | region | Kota_Samarahan</mtriple>
-        <mtriple>Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak</mtriple>
-        <mtriple>Abdul_Taib_Mahmud | residence | "Demak Jaya, Jalan Bako, Kuching, Sarawak"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abdul Taib Mahmud, who was born in the Kingdom of Sarawak and who lived in Demak Jaya, Jalan Bako, Kuching, Sarawak, represented Kota Samarahan and was a member of the Parti Pesaka Bumiputera Bersatu.</lex>
-      <lex comment="good" lid="Id2">Abdul Taib Mahmud belongs to the Parti Pesaka Bumiputera Bersatu and represented Kota Samarahan. He was born in the Kingdom of Sarawak and lived in Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
     </entry>
     <entry category="Politician" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -101,23 +68,6 @@
       <lex comment="good" lid="Id1">Pole Adam Koc fought in the Polish–Soviet War. A commander of that war was Joseph Stalin and one of the languages spoken in Poland is Kashubian.</lex>
       <lex comment="good" lid="Id2">Adam Koc's nationality is Polish and he fought in the Polish-Soviet War. Joseph Stalin was a commander in that war. The Kashubian language is spoken in Poland.</lex>
       <lex comment="good" lid="Id3">Adam Koc is from Poland, where the Kashubian language is spoken. He fought in the Polish-Soviet War where Joseph Stalin was a commander.</lex>
-    </entry>
-    <entry category="Politician" eid="Id17" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
-      <originaltripleset>
-        <otriple>Adam_Koc | battles | Polish–Soviet_War</otriple>
-        <otriple>Polish–Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War</otriple>
-        <otriple>Polish–Soviet_War | commander | Joseph_Stalin</otriple>
-        <otriple>Adam_Koc | birthPlace | Congress_Poland</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adam_Koc | battle | Polish–Soviet_War</mtriple>
-        <mtriple>Polish–Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War</mtriple>
-        <mtriple>Polish–Soviet_War | commander | Joseph_Stalin</mtriple>
-        <mtriple>Adam_Koc | birthPlace | Congress_Poland</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adam Koc, born in Congress Poland, was involved in battles in the Polish–Soviet War. Joseph Stalin was a commander at the Polish-Soviet War, which was a conflict within the Russian Civil War.</lex>
-      <lex comment="good" lid="Id2">Adam Koc was born in Congress, Poland, and was involved in battles in the Polish–Soviet War. This war was part of the Russian Civil War military conflict and Joseph Stalin was one of the commanders.</lex>
-      <lex comment="good" lid="Id3">Adam Koc was born in Congress in Poland and fought in the Polish-Soviet War which was part of the Russian Civil War military conflict. A commander in this war was Joseph Stalin.</lex>
     </entry>
     <entry category="Politician" eid="Id19" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -175,23 +125,6 @@
       <lex comment="good" lid="Id1">Alberto Teisaire, born on May 20, 1891, was a Rear Admiral originating from Mendoza, Argentina. He preceded Isaac Rojas.</lex>
       <lex comment="good" lid="Id2">Alberto teisaire was born in Mendoza, Argentina on May 20th, 1891, and worked as a Rear Admiral, later succeeded by Isaac Rojas.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire was born on May 20th 1891 in Mendoza, Argentina and became a Rear Admiral. He was succeeded by Isaac Rojas.</lex>
-    </entry>
-    <entry category="Politician" eid="Id26" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
-      <originaltripleset>
-        <otriple>Alfons_Gorbach | placeOfDeath | Styria</otriple>
-        <otriple>Alfons_Gorbach | deathPlace | Graz</otriple>
-        <otriple>Alfons_Gorbach | birthPlace | Austria-Hungary</otriple>
-        <otriple>Alfons_Gorbach | placeOfBirth | Tyrol_(state)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfons_Gorbach | deathPlace | Styria</mtriple>
-        <mtriple>Alfons_Gorbach | deathPlace | Graz</mtriple>
-        <mtriple>Alfons_Gorbach | birthPlace | Austria-Hungary</mtriple>
-        <mtriple>Alfons_Gorbach | birthPlace | Tyrol_(state)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfons Gorbach was born in Austria-Hungary in the state of Tyrol. He died in Styria in Graz.</lex>
-      <lex comment="good" lid="Id2">Alfons Gorbach was born in Austria-Hungary in Tyrol state. He died in Styria in Graz.</lex>
-      <lex comment="good" lid="Id3">Alfons Gorbach was born in the County of Tyrol in Austria-Hungary and died in Styria, Graz.</lex>
     </entry>
     <entry category="Politician" eid="Id28" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

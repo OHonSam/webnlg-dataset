@@ -59,19 +59,6 @@
       <lex comment="good" lid="Id2">The " Government of Addis Ababa" are the current tenants of Addis Ababa City Hall which is 42 metres high.</lex>
       <lex comment="good" lid="Id3">Addis Ababa City Hall is 42 m high and is occupied by the Government of Addis Adaba.</lex>
     </entry>
-    <entry category="Building" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alan_B._Miller_Hall | startDate | "2007-03-30"^^xsd:date</otriple>
-        <otriple>Alan_B._Miller_Hall | address | "101 Ukrop Way"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_B._Miller_Hall | buildingStartDate | "30 March 2007"</mtriple>
-        <mtriple>Alan_B._Miller_Hall | address | "101 Ukrop Way"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The construction of Alan B Miller Hall, 101 Ukrop Way, began on 30th March 2007.</lex>
-      <lex comment="good" lid="Id2">Alan B. Miller Hall's building start date was in 30th March 2007 and is located at 101 Ukrop Way.</lex>
-      <lex comment="good" lid="Id3">Alan B. Miller Hall at 101 Ukrop Way opened on March 30, 2007.</lex>
-    </entry>
     <entry category="Building" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Alan_B._Miller_Hall | tenant | Mason_School_of_Business</otriple>
@@ -84,19 +71,6 @@
       <lex comment="good" lid="Id1">Robert A. M. Stern is the architect of the Alan B. Miller Hall where the Mason School of Business is located.</lex>
       <lex comment="good" lid="Id2">Robert A M Stern designed Alan B Miller Hall and the Mason School of Business is a tenant there.</lex>
       <lex comment="good" lid="Id3">Mason School of Business is a tenant of the Alan B. Miller Hall, which was designed by Robert A.M. Stern.</lex>
-    </entry>
-    <entry category="Building" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
-        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ampara_Hospital | country | Sri_Lanka</mtriple>
-        <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Sri Jayawardenepura Kotte is the capital of Sri Lanka, where Ampara Hospital is located.</lex>
-      <lex comment="good" lid="Id2">Ampara Hospital is located in Sri Lanka whose capital is Sri Jayawardenepura Kotte.</lex>
-      <lex comment="good" lid="Id3">Ampara Hospital is located in Sri Lanka where the capital is Sri Jayawardenepura Kotte.</lex>
     </entry>
     <entry category="Building" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

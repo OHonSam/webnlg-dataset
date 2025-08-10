@@ -14,19 +14,6 @@
       <lex comment="good" lid="Id2">Abel Hernandez's club is US Citta di Palermo and Penarol.</lex>
       <lex comment="good" lid="Id3">Abel Hernández has played for the clubs US Città di Palermo and Penarol.</lex>
     </entry>
-    <entry category="Athlete" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Adam_Maher | clubs | PSV_Eindhoven</otriple>
-        <otriple>Adam_Maher | team | Netherlands_national_under-17_football_team</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adam_Maher | club | PSV_Eindhoven</mtriple>
-        <mtriple>Adam_Maher | club | Netherlands_national_under-17_football_team</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adam Maher's club is PSV Eindhoven and he played for the Netherlands national under-17 football team.</lex>
-      <lex comment="good" lid="Id2">Adam Maher played for PSV Eindhoven and represented the Netherlands under 17 football team.</lex>
-      <lex comment="good" lid="Id3">Adam Maher, whose club is PSV Eindhoven, plays for Netherlands National under 17 club.</lex>
-    </entry>
     <entry category="Athlete" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Ahmad_Kadhim_Assad | team | Steel_Azin_F.C.</otriple>
@@ -43,19 +30,6 @@
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad in the Al-Naft club, plays for Steel Azin F.C.</lex>
       <lex comment="good" lid="Id2">Ahmad Kadhim Assad plays for Al-Naft and formerly for Steel Azin FC.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad of Al-Naft plays for Steel Azin F.C.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Akeem_Dent | birthYear | "1987"^^xsd:gYear</otriple>
-        <otriple>Akeem_Dent | dateOfBirth | "1987-09-27"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akeem_Dent | birthYear | 1987</mtriple>
-        <mtriple>Akeem_Dent | birthDate | 1987-09-27</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Dent was born September 27, 1987.</lex>
-      <lex comment="good" lid="Id2">Akeem Dent date of birth is the 27th September 1987.</lex>
-      <lex comment="good" lid="Id3">Akeem Dent was born on 27 September 1987.</lex>
     </entry>
     <entry category="Athlete" eid="Id9" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -119,19 +93,6 @@
       <lex comment="good" lid="Id1">Aleksandre Guruli played for FC Karpaty Lviv and FC Dinamo Batumi.</lex>
       <lex comment="good" lid="Id2">Aleksandre Guruli's club is FC Karpaty Lviv and he also played for FC Dinamo Batumi.</lex>
       <lex comment="good" lid="Id3">Aleksandre Guruli plays for FC Karpaty Lviv club and FC Dinamo Batumi.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alessio_Romagnoli | clubs | A.C._Milan</otriple>
-        <otriple>Alessio_Romagnoli | position | Defender_(association_football)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alessio_Romagnoli | club | A.C._Milan</mtriple>
-        <mtriple>Alessio_Romagnoli | position | Defender_(football)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alessio Romagnoli is a defender for A.C. Milan football club.</lex>
-      <lex comment="good" lid="Id2">Footballer Alessio Romagnoli plays for A.C. Milan as a Defender.</lex>
-      <lex comment="good" lid="Id3">Alessio Romagnoli was a defender in his club AC Milan.</lex>
     </entry>
     <entry category="Athlete" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

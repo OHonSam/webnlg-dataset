@@ -11,15 +11,6 @@
       <lex comment="good" lid="Id1">1. FC Köln were in the 2014–15 Bundesliga season.</lex>
       <lex comment="good" lid="Id2">FC Köln played the 2014-15 season in the Bundesliga.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>1._FC_Magdeburg | capacity | 27250</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1._FC_Magdeburg | numberOfMembers | 27250</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1.FC Magdeburg has 27250 members.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A.C._Cesena | ground | Cesena</otriple>
@@ -28,16 +19,6 @@
         <mtriple>A.C._Cesena | ground | Cesena</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.C. Cesena ground is in Cesena.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.C._Cesena | ground | Stadio_Dino_Manuzzi</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.C._Cesena | ground | Stadio_Dino_Manuzzi</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.C. Cesena's ground is Stadio Dino Manuzzi.</lex>
-      <lex comment="good" lid="Id2">A.C. Cesena's ground is the Stadio Dino Manuzzi.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -140,17 +121,6 @@
       <lex comment="good" lid="Id2">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan.</lex>
       <lex comment="good" lid="Id3">A.D. Isidro Metapan's manager is Jorge Humberto Rodriguez.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.E_Dimitra_Efxeinoupolis | chairman | Antonis_Milionis</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.E_Dimitra_Efxeinoupolis | chairman | Antonis_Milionis</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Antonis Milionis is chairman of A.E Dimitra Efxeinoupolis.</lex>
-      <lex comment="good" lid="Id2">Antonis Milionis is the chairman of A.E Dimitra Efxeinoupolis.</lex>
-      <lex comment="good" lid="Id3">The chairman of A.E Dimitra Efxeinoupolis is Antonis Milionis.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</otriple>
@@ -160,16 +130,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis is in the league, EPSTH 2nd GROUP.</lex>
       <lex comment="good" lid="Id2">A.E Dimitra Efxeinoupolis play in the A EPSTH 2nd GROUP.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.F.C._Blackpool | league | English_football_league_system</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.F.C._Blackpool | league | English_football_league_system</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.F.C Blackpool play in the English Football League system.</lex>
-      <lex comment="good" lid="Id2">A.F.C. Blackpool play in the English Football League.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -191,16 +151,6 @@
       <lex comment="good" lid="Id1">A.F.C. Fylde are based at Warton, Fylde, Lancashire.</lex>
       <lex comment="good" lid="Id2">A.F.C. Fylde's ground is in Warton, Fylde, Lancashire.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id50" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.F.C._Fylde | ground | Lancashire</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.F.C._Fylde | ground | Lancashire</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ground of AFC Fylde can be found in the county of Lancashire.</lex>
-      <lex comment="good" lid="Id2">A.F.C. Fylde's ground is in Lancashire.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id51" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A.F.C._Fylde | ground | Warton,_Fylde</otriple>
@@ -210,17 +160,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Fylde's ground is located in Warton, Fylde.</lex>
       <lex comment="good" lid="Id2">A.F.C. Fylde ground is Warton Fylde.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.F.C._Fylde | manager | Dave_Challinor</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.F.C._Fylde | manager | Dave_Challinor</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AFC Fylde's manager is Dave Challinor.</lex>
-      <lex comment="good" lid="Id2">Dave Challinor is the manager of AFC Fylde.</lex>
-      <lex comment="good" lid="Id3">Dave Challinor manages A.F.C. Fylde.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id54" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -232,15 +171,6 @@
       <lex comment="good" lid="Id1">AFC Fylde has 3180 members.</lex>
       <lex comment="good" lid="Id2">A.F.C. Fylde has 3180 members.</lex>
       <lex comment="good" lid="Id3">A.F.C Fylde has 3180 members.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id56" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.F.C._Fylde | season | 2014–15_Football_Conference</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.F.C._Fylde | season | 2014–15_Football_Conference</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AFC Fylde played the 2014-15 season in the Football Conference.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id60" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -273,15 +203,6 @@
       <lex comment="good" lid="Id2">A.S. Livorno Calcio is based in Livorno, Italy.</lex>
       <lex comment="good" lid="Id3">A.S. Livorno Calcio's ground is in Livorno, Italy.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id65" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.S._Livorno_Calcio | ground | Livorno</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.S._Livorno_Calcio | ground | Livorno</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.S Livorno Calcio ground is in Livorno.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id68" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A.S._Livorno_Calcio | manager | Christian_Panucci</otriple>
@@ -303,15 +224,6 @@
       <lex comment="good" lid="Id2">A.S. Roma's full name is Associazione Sportiva Roma S.p.A.</lex>
       <lex comment="good" lid="Id3">The full name of A.S. Roma is Associazione Sportiva Roma S.p.A.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id74" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.S._Roma | ground | Rome</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.S._Roma | ground | Rome</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.S. Roma have a ground in Rome.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id75" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A.S._Roma | ground | Stadio_Olimpico</otriple>
@@ -330,17 +242,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AS Roma play in the Serie A league.</lex>
       <lex comment="good" lid="Id2">A.S. Roma play in Serie A.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id77" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AS Roma's manager is Luciano Spalletti.</lex>
-      <lex comment="good" lid="Id2">Luciano Spalletti manages A.S. Roma.</lex>
-      <lex comment="good" lid="Id3">The manager of A.S. Roma is Luciano Spalletti.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id79" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -363,16 +264,6 @@
       <lex comment="good" lid="Id2">The full name of ACF Fiorentina is ACF Fiorentina S.p.A.</lex>
       <lex comment="good" lid="Id3">ACF Fiorentina full name is ACF Fiorentina S.p.A.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id83" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>ACF_Fiorentina | capacity | 47290</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>ACF_Fiorentina | numberOfMembers | 47290</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">ACF Fiorentina has 47290 members.</lex>
-      <lex comment="good" lid="Id2">ACF Fiorentina have 47290 members.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id84" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>ACF_Fiorentina | season | 2014</otriple>
@@ -381,15 +272,6 @@
         <mtriple>ACF_Fiorentina | season | 2014</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">ACF Fiorentina competed in the 2014 season.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id86" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AEK_Athens_F.C. | ground | Greece</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AEK_Athens_F.C. | ground | Greece</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AEK Athens's ground is in Greece.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id87" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -400,17 +282,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Olympic Stadium (Athens) is the home ground of AEK Athens FC.</lex>
       <lex comment="good" lid="Id2">The ground for AEK Athens FC is the Olympic Stadium (Athens).</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id89" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AEK_Athens_F.C. | manager | Gus_Poyet</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AEK_Athens_F.C. | manager | Gus_Poyet</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AEK Athens FC had the manager Gus Poyet.</lex>
-      <lex comment="good" lid="Id2">AEK Athens F.C. manager is Gus Poyet.</lex>
-      <lex comment="good" lid="Id3">AEK Athens are managed by Gus Poyet.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id91" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -429,16 +300,6 @@
         <mtriple>AFC_Ajax | numberOfMembers | 53502</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Ajax has 53502 members.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id95" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AFC_Ajax | season | 2014</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AFC_Ajax | season | 2014</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AFC Ajax played in the 2014 season.</lex>
-      <lex comment="good" lid="Id2">AFC Ajax played in season 2014.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id98" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -480,16 +341,6 @@
       <lex comment="good" lid="Id2">AZAL Arena is located in Shuvalan.</lex>
       <lex comment="good" lid="Id3">The AZAL Arena is in Shuvalan.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id107" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AZAL_PFK | ground | AZAL_Arena</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AZAL PFK play their home matches at the AZAL Arena.</lex>
-      <lex comment="good" lid="Id2">AZAL Arena is the ground of AZAL PFK.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id109" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AZAL_PFK | season | 2014</otriple>
@@ -511,16 +362,6 @@
       <lex comment="good" lid="Id2">Alkmaar Zaanstreek is the full name of AZ Alkmaar.</lex>
       <lex comment="good" lid="Id3">AZ Alkmaar's full name is Alkmaar Zaanstreek.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id115" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AZ_Alkmaar | owner | Robert_Eenhoorn</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AZ_Alkmaar | owner | Robert_Eenhoorn</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AZ Alkmaar is owned by Robert Eenhoorn.</lex>
-      <lex comment="good" lid="Id2">Robert Eenhoorn owns AZ Alkmaar.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id116" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AZ_Alkmaar | season | 2014</otriple>
@@ -529,17 +370,6 @@
         <mtriple>AZ_Alkmaar | season | 2014</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AZ Alkmaar played in the 2014 season.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id118" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Agremiação_Sportiva_Arapiraquense | fullName | "Agremiação Sportiva Arapiraquense"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Agremiação Sportiva Arapiraquense's full name is "Agremiação Sportiva Arapiraquense".</lex>
-      <lex comment="good" lid="Id2">The full name of Agremiação Sportiva Arapiraquense is "Agremiação Sportiva Arapiraquense".</lex>
-      <lex comment="good" lid="Id3">The Agremiação Sportiva Arapiraquense's full name is"Agremiação Sportiva Arapiraquense".</lex>
     </entry>
     <entry category="SportsTeam" eid="Id121" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -563,15 +393,6 @@
       <lex comment="good" lid="Id2">Agremiação Sportiva Arapiraquense club has 17000 members.</lex>
       <lex comment="good" lid="Id3">Agremiacao Sportiva Arapiraquense has 17000 members.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id127" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Akron,_Ohio | subdivisionName | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akron,_Ohio | isPartOf | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akron, Ohio is located in the United States.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id129" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Akron_Summit_Assault | ground | Akron,_Ohio</otriple>
@@ -590,15 +411,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Denzil Antonio was the manager of Akron Summit Assault.</lex>
       <lex comment="good" lid="Id2">Denzil Antonio is the manager of Akron Summit Assault.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Athens | mayor | Giorgos_Kaminis</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Athens | mayor | Giorgos_Kaminis</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The mayor of Athens is Giorgos Kaminis.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id137" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -643,17 +455,6 @@
       <lex comment="good" lid="Id1">Christian Panucci played for the Italy national football team.</lex>
       <lex comment="good" lid="Id2">Christian Panucci plays for the Italy national football team.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id147" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Dave_Challinor | managerClub | A.F.C._Fylde</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Dave_Challinor | club | A.F.C._Fylde</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Dave Challinor is a player at the A.F.C. Fylde .</lex>
-      <lex comment="good" lid="Id2">Dave Challinor is at the A.F.C. Fylde club.</lex>
-      <lex comment="good" lid="Id3">Dave Challinor plays for A.F.C. Fylde.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id148" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Dave_Challinor | clubs | Bury_F.C.</otriple>
@@ -678,22 +479,6 @@
       <lex comment="good" lid="Id2">The Estádio Municipal Coaracy da Mata Fonseca is located in Alagoas.</lex>
       <lex comment="good" lid="Id3">Estadio Municipal Coaracy da Mata Fonseca is situated in Alagoas.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id155" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Frank_de_Boer | managerClub | AFC_Ajax</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Frank_de_Boer | team | AFC_Ajax</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Frank_de_Boer | clubs | AFC_Ajax</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Frank_de_Boer | club | AFC_Ajax</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Frank de Boer played for AFC Ajax.</lex>
-      <lex comment="good" lid="Id2">Frank de Boer plays for AFC Ajax.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id158" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Frank_de_Boer | managerClub | Netherlands_national_football_team</otriple>
@@ -705,17 +490,6 @@
         <mtriple>Frank_de_Boer | club | Netherlands_national_football_team</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Frank de Boer played for the Netherlands national football team.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id162" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Greece | language | Greek_language</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Greece | language | Greek_language</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Greek is the language of Greece.</lex>
-      <lex comment="good" lid="Id2">Greek is spoken in Greece.</lex>
-      <lex comment="good" lid="Id3">The language spoken in Greece is Greek.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id163" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -730,15 +504,6 @@
       <lex comment="good" lid="Id1">Greece's leader is Alexis Tsipras.</lex>
       <lex comment="good" lid="Id2">Alexis Tsipras heads Greece.</lex>
       <lex comment="good" lid="Id3">The leader of Greece is Alexis Tsipras.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id165" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Gubbio | leaderParty | Left_Ecology_Freedom</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Gubbio | leaderParty | Left_Ecology_Freedom</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Left Ecology Freedom are the leading party in Gubbio.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id167" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -768,20 +533,6 @@
       <lex comment="good" lid="Id2">Pietro Grasso is the leader in Italy.</lex>
       <lex comment="good" lid="Id3">The leader of Italy is Pietro Grasso.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id175" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Jens_Härtel | managerClub | 1._FC_Magdeburg</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Jens_Härtel | team | 1._FC_Magdeburg</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Jens_Härtel | club | 1._FC_Magdeburg</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Jens Hartel is a member of the 1 FC Magdeburgs.</lex>
-      <lex comment="good" lid="Id2">Jens Härtel is in the 1. FC Magdeburg club.</lex>
-      <lex comment="good" lid="Id3">Jens Hartel plays for 1. FC Magdeburg.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id177" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Jens_Härtel | managerClub | Berliner_AK_07</otriple>
@@ -791,16 +542,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Jens Härtel played for Berliner AK 07.</lex>
       <lex comment="good" lid="Id2">Jens Hartel club is Berliner AK 07.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id179" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Jens_Härtel | managerClub | RB_Leipzig</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Jens_Härtel | club | RB_Leipzig</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Jens Härtel is in the RB Leipzig club.</lex>
-      <lex comment="good" lid="Id2">Jens Härtel played for RB Leipzig.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id182" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -824,19 +565,6 @@
       <lex comment="good" lid="Id1">John van den Brom is in the Jong Ajax club.</lex>
       <lex comment="good" lid="Id2">John van den Brom plays for Jong Ajax.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id188" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>John_van_den_Brom | team | İstanbulspor_A.Ş.</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>John_van_den_Brom | clubs | İstanbulspor_A.Ş.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>John_van_den_Brom | club | İstanbulspor_A.Ş.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">John van den Brom is a player in İstanbulspor A.Ş.</lex>
-      <lex comment="good" lid="Id2">John van den Brom plays for Istanbulspor A.S.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id190" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Jorge_Humberto_Rodríguez | clubs | C.D._FAS</otriple>
@@ -850,23 +578,6 @@
       <lex comment="good" lid="Id1">Jorge Humberto Rodriguez plays for the C.D. FAS.</lex>
       <lex comment="good" lid="Id2">Jorge Humberto Rodríguez is in C.D. FAS.</lex>
       <lex comment="good" lid="Id3">Jorge Humberto Rodriguez plays for C.D. FAS.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id193" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Luciano_Spalletti | managerclubs | A.S._Roma</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Luciano_Spalletti | managerClub | A.S._Roma</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Luciano_Spalletti | team | A.S._Roma</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Luciano_Spalletti | club | A.S._Roma</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Luciano Spalletti is in the A.S. Roma club.</lex>
-      <lex comment="good" lid="Id2">Luciano Spalletti's club is A.S. Roma.</lex>
-      <lex comment="good" lid="Id3">Luciano Spalletti plays for A.S. Roma.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id195" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -890,19 +601,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Massimo Drago is in the A.C. Cesena club.</lex>
       <lex comment="good" lid="Id2">Massimo Drago plays for A.C. Cesena.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id200" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Massimo_Drago | team | U.S._Castrovillari_Calcio</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Massimo_Drago | clubs | U.S._Castrovillari_Calcio</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Massimo Drago was once a player for US Castrovillari Calcio.</lex>
-      <lex comment="good" lid="Id2">Massimo Drago plays for U.S Castrovillari Calcio.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id203" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -962,18 +660,6 @@
       <lex comment="good" lid="Id2">The Olympic Stadium (Athens) is located in Athens.</lex>
       <lex comment="good" lid="Id3">The Olympic Stadium is in Athens.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id211" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Paulo_Sousa | managerClub | ACF_Fiorentina</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Paulo_Sousa | team | ACF_Fiorentina</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Paulo_Sousa | club | ACF_Fiorentina</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Paulo Sousa plays for ACF Fiorentina.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id215" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Paulo_Sousa | team | Portugal_national_football_team</otriple>
@@ -998,18 +684,6 @@
       <lex comment="good" lid="Id2">Peter Stöger is a player in FC Admira Wacker Mödling.</lex>
       <lex comment="good" lid="Id3">Peter Stoger plays for FC Admira Wacker Modling.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id219" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Peter_Stöger | team | Favoritner_AC</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Peter_Stöger | clubs | Favoritner_AC</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Peter_Stöger | club | Favoritner_AC</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Peter Stoger plays for Favoritner AC.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id222" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
@@ -1021,16 +695,6 @@
       <lex comment="good" lid="Id2">Peter Stöger played for SC Wiener Neustadt.</lex>
       <lex comment="good" lid="Id3">Peter Stoger plays for SC Wiener Neustadt.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id226" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Rolando_Maran | managerClub | Calcio_Catania</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Rolando_Maran | club | Calcio_Catania</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rolando Maran is attached to the club Calcio Catania.</lex>
-      <lex comment="good" lid="Id2">Rolando Maran is a member of the Calcio Catania.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id228" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Rolando_Maran | managerClub | Unione_Triestina_2012_S.S.D.</otriple>
@@ -1040,17 +704,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rolando Maran is in the Unione Triestina 2012 S.S.D. club.</lex>
       <lex comment="good" lid="Id2">Rolando Maran plays for Unione Triestina 2012 S.S.D.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id230" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Rolando_Maran | managerClub | Vicenza_Calcio</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Rolando_Maran | club | Vicenza_Calcio</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rolando Maran plays at the Vicenza Calcio.</lex>
-      <lex comment="good" lid="Id2">Rolando Maran is in the Vicenza Calcio club.</lex>
-      <lex comment="good" lid="Id3">Rolando Maran plays for Vicenza Calcio.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id232" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1084,17 +737,6 @@
       <lex comment="good" lid="Id1">Sportpark De Toekomst is operated by AFC Ajax.</lex>
       <lex comment="good" lid="Id2">AFC Ajax operate Sportpark De Toekomst.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id239" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">St. Vincent–St. Mary High School is located in the city of Akron, Ohio.</lex>
-      <lex comment="good" lid="Id2">St Vincent St Mary High School is located in the city of Akron, Ohio.</lex>
-      <lex comment="good" lid="Id3">St. Vincent-St. Mary High School is in Akron, Ohio.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id241" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Stuart_Parker_(footballer) | team | A.F.C._Blackpool</otriple>
@@ -1108,19 +750,6 @@
       <lex comment="good" lid="Id1">Stuart Parker is a footballer in the A.F.C Blackpool club.</lex>
       <lex comment="good" lid="Id2">Stuart Parker (footballer) has represented AFC Blackpool.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id242" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Stuart_Parker_(footballer) | clubs | Blackburn_Rovers_F.C.</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Stuart_Parker_(footballer) | team | Blackburn_Rovers_F.C.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Stuart_Parker_(footballer) | club | Blackburn_Rovers_F.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Stuart Parker (footballer) was at Blackburn Rovers FC.</lex>
-      <lex comment="good" lid="Id2">Stuart Parker (footballer) plays for Blackburn Rovers F.C.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id243" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Stuart_Parker_(footballer) | team | Blackpool_F.C.</otriple>
@@ -1129,20 +758,6 @@
         <mtriple>Stuart_Parker_(footballer) | club | Blackpool_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Stuart Parker (footballer) plays for Blackpool F.C.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id244" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Stuart_Parker_(footballer) | team | Chesterfield_F.C.</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Stuart_Parker_(footballer) | clubs | Chesterfield_F.C.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Stuart_Parker_(footballer) | club | Chesterfield_F.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Stuart Parker was a footballer for Chesterfield FC.</lex>
-      <lex comment="good" lid="Id2">The footballer Stuart Parker is attached to Chesterfield football club.</lex>
-      <lex comment="good" lid="Id3">Stuart Parker is a member of the Chesterfield F.C.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id246" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

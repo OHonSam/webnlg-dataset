@@ -1,16 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="CelestialBody" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>(410777)_2009_FD | Planet/apoapsis | "2.5977670247055E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>(410777)_2009_FD | apoapsis | 259776702.47055 (kilometres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">(410777) 2009 FD has an apoapsis of 259776702.47055 kilometres.</lex>
-      <lex comment="good" lid="Id2">The apoapsis of (410777) 2009 FD is 259776702.47055 kilometers.</lex>
-    </entry>
     <entry category="CelestialBody" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>101_Helena | Planet/orbitalPeriod | "1516.6700000000003"^^&lt;http://dbpedia.org/datatype/day&gt;</otriple>
@@ -48,17 +38,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">107 Camilla was discovered by N.R. Pogson.</lex>
       <lex comment="good" lid="Id2">N.R. Pogson was the discoverer of 107 Camilla.</lex>
-    </entry>
-    <entry category="CelestialBody" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>1097_Vicia | rotationPeriod | "95040.0"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1097_Vicia | rotationPeriod | 95040.0</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The rotation period of 1097 Vicia is 95040.0.</lex>
-      <lex comment="good" lid="Id2">1097 Vicia has a rotation period of 95040.0.</lex>
-      <lex comment="good" lid="Id3">The rotation period of 1097 Vicia is 95040.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

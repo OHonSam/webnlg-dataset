@@ -11,17 +11,6 @@
       <lex comment="good" lid="Id1">Abilene is a part of Texas.</lex>
       <lex comment="good" lid="Id2">Abilene, Texas, is part of Texas.</lex>
     </entry>
-    <entry category="City" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Albany,_Georgia | leaderTitle | "Mayor"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albany,_Georgia | leaderTitle | Mayor</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany, Georgia has a Mayor as leader.</lex>
-      <lex comment="good" lid="Id2">Albany, Georgia is led by a Mayor.</lex>
-      <lex comment="good" lid="Id3">The leader of Albany, Georgia is the Mayor.</lex>
-    </entry>
     <entry category="City" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Albany,_Oregon | country | United_States</otriple>
@@ -32,19 +21,6 @@
       <lex comment="good" lid="Id1">Albany, Oregon is in the U.S.</lex>
       <lex comment="good" lid="Id2">Albany, Oregon is located within the United States.</lex>
     </entry>
-    <entry category="City" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Amarillo,_Texas | subdivisionName | Potter_County,_Texas</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amarillo is part of Potter County in Texas.</lex>
-      <lex comment="good" lid="Id2">Amarillo is part of Potter County, Texas.</lex>
-    </entry>
     <entry category="City" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Anderson,_Indiana | subdivisionName | "Adams, Fall Creek, Lafayette, Richland, Union"@en</otriple>
@@ -53,16 +29,6 @@
         <mtriple>Anderson,_Indiana | isPartOf | "Adams, Fall Creek, Lafayette, Richland, Union"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson, Indiana is part of Adams Fall Creek, Lafayette, Richland, Union.</lex>
-    </entry>
-    <entry category="City" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A City Administrator leads Ann Arbor, Michigan.</lex>
-      <lex comment="good" lid="Id2">The City Administrator leads Ann Arbor in Michigan.</lex>
     </entry>
     <entry category="City" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -74,16 +40,6 @@
       <lex comment="good" lid="Id1">The city of Ann Arbor, Michigan, has a population of 1580.7 as per square kilometre.</lex>
       <lex comment="good" lid="Id2">AnnArbor, Michigan has a population of 1580.7 peer square kilometer.</lex>
       <lex comment="good" lid="Id3">The population density of Ann Arbor, Michigan is 1580.7 inhabitants per sq km.</lex>
-    </entry>
-    <entry category="City" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Arlington,_Texas | elevation | "184.099"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Arlington,_Texas | elevationAboveTheSeaLevel | 184.0</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arlington Texas is has an elevation of 184 above sea level.</lex>
-      <lex comment="good" lid="Id2">Arlington in Texas is located at 184.0 above sea level.</lex>
     </entry>
     <entry category="City" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -127,17 +83,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlanta is the largest city of Fulton County, Georgia.</lex>
       <lex comment="good" lid="Id2">Atlanta is the largest city in Fulton County, Georgia.</lex>
-    </entry>
-    <entry category="City" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Georgia_(U.S._state) | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Georgia_(U.S._state) | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The state of Georgia is in the U.S.</lex>
-      <lex comment="good" lid="Id2">Georgia is in the country of United States.</lex>
-      <lex comment="good" lid="Id3">The state of Georgia is located within the United States.</lex>
     </entry>
     <entry category="City" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

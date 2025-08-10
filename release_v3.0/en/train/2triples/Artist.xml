@@ -1,27 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Artist" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Aaron_Bertram | associatedActs | Suburban_Legends</otriple>
-        <otriple>Aaron_Bertram | genre | Ska_punk</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aaron_Bertram | associatedBand | Suburban_Legends</otriple>
-        <otriple>Aaron_Bertram | genre | Ska_punk</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aaron_Bertram | associatedMusicalArtist | Suburban_Legends</otriple>
-        <otriple>Aaron_Bertram | genre | Ska_punk</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Suburban_Legends</mtriple>
-        <mtriple>Aaron_Bertram | genre | Ska_punk</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Bertram is a ska punk musician with the Suburban Legends band.</lex>
-      <lex comment="good" lid="Id2">Aaron Bertram performs ska punk music and plays for the Suburban Legends band.</lex>
-      <lex comment="good" lid="Id3">Suburban Legends' Aaron Bertram is a Ska punk musician.</lex>
-    </entry>
     <entry category="Artist" eid="Id2" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Aaron_Bertram | associatedMusicalArtist | Suburban_Legends</otriple>
@@ -82,19 +61,6 @@
       <lex comment="good" lid="Id2">Aaron Deer, a keyboardist, is a performer of the Indie rock music genre.</lex>
       <lex comment="good" lid="Id3">Aaron Deer is a performer of the music genre Indie rock and he played the Keyboard instrument.</lex>
     </entry>
-    <entry category="Artist" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Aaron_Deer | genre | Indie_rock</otriple>
-        <otriple>Aaron_Deer | instrument | Singing</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Deer | genre | Indie_rock</mtriple>
-        <mtriple>Aaron_Deer | instrument | Singing</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Deer is a singer in the music genre indie rock.</lex>
-      <lex comment="good" lid="Id2">Aaron Deer is a singer who performs Indie rock music.</lex>
-      <lex comment="good" lid="Id3">Aaron Deer is an Indie rock musician and singer.</lex>
-    </entry>
     <entry category="Artist" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Aaron_Deer | genre | Indie_rock</otriple>
@@ -107,19 +73,6 @@
       <lex comment="good" lid="Id1">The guitar is an instrument used in Indie rock, one of the musicians of that genre, is Aaron Deer.</lex>
       <lex comment="good" lid="Id2">Aaron Deer plays Indie Rock, which features the guitar.</lex>
       <lex comment="good" lid="Id3">Aaron Deer is an Indie rock musician which is a genre of music which uses guitars.</lex>
-    </entry>
-    <entry category="Artist" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Aaron_Deer | genre | Psychedelia</otriple>
-        <otriple>Aaron_Deer | instrument | Keyboard_instrument</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Deer | genre | Psychedelia</mtriple>
-        <mtriple>Aaron_Deer | instrument | Keyboard_instrument</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Deer's genre is Psychedelia and he played the keyboard.</lex>
-      <lex comment="good" lid="Id2">Aaron Deer played the keyboard and performs psychedelia music.</lex>
-      <lex comment="good" lid="Id3">Aaron Deers plays the keyboard and performs Psychedelia music.</lex>
     </entry>
     <entry category="Artist" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -150,23 +103,6 @@
       <lex comment="good" lid="Id1">Aaron Deer comes from Indianapolis, Indiana.</lex>
       <lex comment="good" lid="Id2">Aaron Deer is from Indianapolis, Indiana.</lex>
     </entry>
-    <entry category="Artist" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Aaron_Deer | hometown | United_States</otriple>
-        <otriple>Aaron_Deer | origin | Indianapolis</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aaron_Deer | hometown | Indianapolis</otriple>
-        <otriple>Aaron_Deer | origin | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Deer | origin | United_States</mtriple>
-        <mtriple>Aaron_Deer | origin | Indianapolis</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Deer was born in the Indianapolis, United States.</lex>
-      <lex comment="good" lid="Id2">Aaron Deer is an American from Indianapolis.</lex>
-      <lex comment="good" lid="Id3">Aaron Deer is American from Indianapolis.</lex>
-    </entry>
     <entry category="Artist" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Aaron_Turner | associatedMusicalArtist | Lotus_Eaters_(band)</otriple>
@@ -192,19 +128,6 @@
       <lex comment="good" lid="Id1">Aaron Turner is an artist for the band Isis and he played for Old Man Gloom.</lex>
       <lex comment="good" lid="Id2">Aaron Turner is an artist for the band Isis and formerly played for Old Man Gloom.</lex>
       <lex comment="good" lid="Id3">Aaron Turner is an artist for the band Isis, having previously played for Old Man Gloom.</lex>
-    </entry>
-    <entry category="Artist" eid="Id25" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Aaron_Turner | associatedBand | Old_Man_Gloom</otriple>
-        <otriple>Aaron_Turner | associatedMusicalArtist | Sumac_(band)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Old_Man_Gloom</mtriple>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Sumac_(band)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Turner played for Old Man Gloom and he also performed with the band Sumac.</lex>
-      <lex comment="good" lid="Id2">Aaron Turner performed with the band Sumac and with Old Man Gloom.</lex>
-      <lex comment="good" lid="Id3">Aaron Turner has played with the bands Old Man Gloom, and Sumac.</lex>
     </entry>
     <entry category="Artist" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -232,19 +155,6 @@
       <lex comment="good" lid="Id2">Aaron Turner is an artist for the band Isis and played with the band Twilight.</lex>
       <lex comment="good" lid="Id3">Aaron Turner played with both Twilight and Isis.</lex>
     </entry>
-    <entry category="Artist" eid="Id29" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Aaron_Turner | associatedMusicalArtist | Twilight_(band)</otriple>
-        <otriple>Aaron_Turner | associatedBand | Old_Man_Gloom</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Old_Man_Gloom</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Turner played for Old Man Gloom and the band Twilight.</lex>
-      <lex comment="good" lid="Id2">Aaron Turner played with the bands Twilight and Old Man Gloom.</lex>
-      <lex comment="good" lid="Id3">Aaron Turner played with the band Twilight and for Old Man Gloom.</lex>
-    </entry>
     <entry category="Artist" eid="Id33" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Aaron_Turner | associatedMusicalArtist | Twilight_(band)</otriple>
@@ -271,19 +181,6 @@
       <lex comment="good" lid="Id2">Aaron Turner, who plays electric guitar, performs the genre Ambient music.</lex>
       <lex comment="good" lid="Id3">Aaron Turner plays ambient electronic guitar.</lex>
     </entry>
-    <entry category="Artist" eid="Id36" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Aaron_Turner | genre | Ambient_music</otriple>
-        <otriple>Aaron_Turner | instrument | Singing</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Turner | genre | Ambient_music</mtriple>
-        <mtriple>Aaron_Turner | instrument | Singing</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Turner is a singer whose genre is Ambient music.</lex>
-      <lex comment="good" lid="Id2">Aaron Turner is a singer who performs ambient music.</lex>
-      <lex comment="good" lid="Id3">Aaron Turner sings for a living and performs ambient music.</lex>
-    </entry>
     <entry category="Artist" eid="Id39" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Aaron_Turner | genre | Electroacoustic_music</otriple>
@@ -308,23 +205,6 @@
       <lex comment="good" lid="Id1">Aaron Turner plays the electric guitar in avant-garde metal music.</lex>
       <lex comment="good" lid="Id2">Aaron Turner falls in the genre of avant-garde metal music and he plays electric guitar.</lex>
       <lex comment="good" lid="Id3">Aaron Turner plays the electric guitar and also uses the musical genre Avant-garde metal.</lex>
-    </entry>
-    <entry category="Artist" eid="Id44" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Abradab | birthPlace | Poland</otriple>
-        <otriple>Abradab | dateOfBirth | "1978-11-12"^^xsd:date</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Abradab | placeOfBirth | Poland</otriple>
-        <otriple>Abradab | dateOfBirth | "1978-11-12"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abradab | birthPlace | Poland</mtriple>
-        <mtriple>Abradab | birthDate | 1978-11-12</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abradab was born in Poland on November 12th 1978.</lex>
-      <lex comment="good" lid="Id2">Abradab was born on November 12, 1978 in Poland.</lex>
-      <lex comment="good" lid="Id3">Abradab was born in Poland on November 12th, 1978.</lex>
     </entry>
     <entry category="Artist" eid="Id46" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -394,23 +274,6 @@
       <lex comment="good" lid="Id2">Abradab was born in Katowice, in Poland.</lex>
       <lex comment="good" lid="Id3">Abradab originated in Katowice, in Poland.</lex>
     </entry>
-    <entry category="Artist" eid="Id53" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Ace_Wilder | background | "solo_singer"</otriple>
-        <otriple>Ace_Wilder | birthPlace | Stockholm</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Ace_Wilder | birthPlace | Stockholm</otriple>
-        <otriple>Ace_Wilder | background | "solo_singer"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ace_Wilder | birthPlace | Stockholm</mtriple>
-        <mtriple>Ace_Wilder | background | "solo_singer"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ace Wilder is a solo singer who was born in Stockholm.</lex>
-      <lex comment="good" lid="Id2">Born in Stockholm, Ace Wilder, has a background as a solo singer.</lex>
-      <lex comment="good" lid="Id3">Ace Wilder Stockholm native solo singer.</lex>
-    </entry>
     <entry category="Artist" eid="Id56" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Ace_Wilder | genre | Hip_hop_music</otriple>
@@ -441,19 +304,6 @@
       <lex comment="good" lid="Id2">Ace Wilder's musical genre is Hip hop, a music which originated from funk music.</lex>
       <lex comment="good" lid="Id3">Funk is the origin of Hip hop the genre of Ace Wilder.</lex>
     </entry>
-    <entry category="Artist" eid="Id60" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Ace_Wilder | recordLabel | EMI_Records</otriple>
-        <otriple>Ace_Wilder | background | "solo_singer"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ace_Wilder | recordLabel | EMI_Records</mtriple>
-        <mtriple>Ace_Wilder | background | "solo_singer"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ace Wilder, a solo singer, is contracted with the record label EMI Records.</lex>
-      <lex comment="good" lid="Id2">Ace Wilder has a background as a solo singer and his recording label is EMI Records.</lex>
-      <lex comment="good" lid="Id3">Ace Wilder is a solo singer who records for EMI Records.</lex>
-    </entry>
     <entry category="Artist" eid="Id63" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Agustín_Barboza | birthPlace | Paraguay</otriple>
@@ -465,22 +315,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agustin Barboza was born in Paraguay and died in Asuncion.</lex>
       <lex comment="good" lid="Id2">Paraguay born Agustin Barboza, died in Asuncion.</lex>
-    </entry>
-    <entry category="Artist" eid="Id66" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Agustín_Barboza | placeOfDeath | Paraguay</otriple>
-        <otriple>Agustín_Barboza | deathPlace | Asunción</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Agustín_Barboza | deathPlace | Paraguay</otriple>
-        <otriple>Agustín_Barboza | placeOfDeath | Asunción</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Agustín_Barboza | deathPlace | Paraguay</mtriple>
-        <mtriple>Agustín_Barboza | deathPlace | Asunción</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Agustin Barboza died in Asuncion, Paraguay.</lex>
-      <lex comment="good" lid="Id2">The birth place of Agustin Barboza was Paraguay and Asuncion is where he died.</lex>
     </entry>
     <entry category="Artist" eid="Id67" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -494,18 +328,6 @@
       <lex comment="good" lid="Id1">Born in Asunción, Agustín Barboza, is signed to Philips Records.</lex>
       <lex comment="good" lid="Id2">Agustin Barboza (born in Asuncion) is signed to Philips Records.</lex>
       <lex comment="good" lid="Id3">Agustin Barboza was born in Asuncion and is signed to the record label of Philips Records.</lex>
-    </entry>
-    <entry category="Artist" eid="Id68" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Ahmet_Ertegun | deathPlace | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ahmet_Ertegun | deathPlace | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ahmet Ertegun died in the United States which is where African Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2">African Americans are an ethnic group in the U.S., the place where Ahmet Ertegun died.</lex>
     </entry>
     <entry category="Artist" eid="Id70" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -523,19 +345,6 @@
       <lex comment="good" lid="Id1">Rhythm and blues artist Ahmet Ertegun has a background as a non-performing personnel.</lex>
       <lex comment="good" lid="Id2">Rhythm and Blues musician Ahmet Ertegun was a non performing artist.</lex>
       <lex comment="good" lid="Id3">Ahmet Ertegun music genre are Rhythm and Blues and has a background in non performing personnel.</lex>
-    </entry>
-    <entry category="Artist" eid="Id71" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Ahmet_Ertegun | genre | Rhythm_and_blues</otriple>
-        <otriple>Ahmet_Ertegun | hometown | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ahmet_Ertegun | genre | Rhythm_and_blues</mtriple>
-        <mtriple>Ahmet_Ertegun | origin | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">American Ahmet Ertegun is a rhythm and blues artist.</lex>
-      <lex comment="good" lid="Id2">American Ahmet Ertegun plays Rhythm and Blues music.</lex>
-      <lex comment="good" lid="Id3">Ahmet Ertegun is a rhythm and blues performer from the United States.</lex>
     </entry>
     <entry category="Artist" eid="Id72" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -596,23 +405,6 @@
       <lex comment="good" lid="Id2">Ahmet Ertegun is from the United States where African Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">African Americans are an ethnic group in the United States, the country where Ahmet Ertegun is from.</lex>
     </entry>
-    <entry category="Artist" eid="Id80" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Al_Anderson_(NRBQ) | associatedMusicalArtist | NRBQ</otriple>
-        <otriple>Al_Anderson_(NRBQ) | associatedBand | The_Wildweeds</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Al_Anderson_(NRBQ) | associatedBand | NRBQ</otriple>
-        <otriple>Al_Anderson_(NRBQ) | associatedMusicalArtist | The_Wildweeds</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ</mtriple>
-        <mtriple>Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Anderson plays with the band NRBQ and once also played with The WIldweeds.</lex>
-      <lex comment="good" lid="Id2">Al Anderson plays with the band NRBQ and was a member of The Wildweeds.</lex>
-      <lex comment="good" lid="Id3">Al Anderson plays with the band NRBQ and was once a member of The Wildweeds.</lex>
-    </entry>
     <entry category="Artist" eid="Id84" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Al_Anderson_(NRBQ) | associatedMusicalArtist | The_Wildweeds</otriple>
@@ -629,19 +421,6 @@
       <lex comment="good" lid="Id1">Al Anderson from the NRBQ band was a member of The Wildweeds and uses the musical genre, country music.</lex>
       <lex comment="good" lid="Id2">Al Anderson, who performs Country music, was in the band NRBQ and one played with The Wildweeds.</lex>
       <lex comment="good" lid="Id3">Al Anderson of NRBQ plays country music and was a member of The Wildweeds.</lex>
-    </entry>
-    <entry category="Artist" eid="Id87" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Al_Anderson_(NRBQ) | birthPlace | Windsor,_Connecticut</otriple>
-        <otriple>Al_Anderson_(NRBQ) | placeOfBirth | "Windsor, Connecticut, United States"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Al_Anderson_(NRBQ band) | birthPlace | Windsor,_Connecticut</mtriple>
-        <mtriple>Al_Anderson_(NRBQ band) | birthPlace | "Windsor, Connecticut, United States"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Anderson who is a member of NRBQ band, was born in Windsor, Connecticut, United States.</lex>
-      <lex comment="good" lid="Id2">Al Anderson, part of the NRBQ band, was born in Windsor, Connecticut, in the United States.</lex>
-      <lex comment="good" lid="Id3">Al Anderson, from NRBQ, was born in Windsor, Connecticut, United States.</lex>
     </entry>
     <entry category="Artist" eid="Id88" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -668,22 +447,6 @@
       <lex comment="good" lid="Id1">Al Anderson, a member of the band NRBQ, performs rock music and plays the guitar.</lex>
       <lex comment="good" lid="Id2">Rock musician and guitarist Al Anderson is with the band NRBQ.</lex>
       <lex comment="good" lid="Id3">Al Anderson is a guitarist for NRBQ, a band which performs rock music.</lex>
-    </entry>
-    <entry category="Artist" eid="Id94" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alan_Frew | birthPlace | Coatbridge</otriple>
-        <otriple>Alan_Frew | background | "solo_singer"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alan_Frew | birthPlace | Coatbridge</otriple>
-        <otriple>Alan_Frew | background | "solo_singer"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Frew | birthPlace | Coatbridge</mtriple>
-        <mtriple>Alan_Frew | background | "solo_singer"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Frew, a solo singer, was born in Coatbridge.</lex>
-      <lex comment="good" lid="Id2">The solo singer Alan Frews was born in Coatbridge.</lex>
     </entry>
     <entry category="Artist" eid="Id97" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -732,23 +495,6 @@
       <lex comment="good" lid="Id2">Alan Frew comes from Newmarket, Ontario, in Canada.</lex>
       <lex comment="good" lid="Id3">Alan Frew if from Newmarket, Ontario, Canada.</lex>
     </entry>
-    <entry category="Artist" eid="Id102" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Albennie_Jones | background | "solo_singer"</otriple>
-        <otriple>Albennie_Jones | genre | Blues</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albennie_Jones | genre | Blues</otriple>
-        <otriple>Albennie_Jones | background | "solo_singer"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albennie_Jones | background | "solo_singer"</mtriple>
-        <mtriple>Albennie_Jones | genre | Blues</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albennie Jones is a solo singer and played blues music.</lex>
-      <lex comment="good" lid="Id2">Albennie Jones is a solo singer who plays the Blues.</lex>
-      <lex comment="good" lid="Id3">Albennie Jones is a solo singer who plays blues music.</lex>
-    </entry>
     <entry category="Artist" eid="Id104" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Albennie_Jones | genre | Jazz</otriple>
@@ -783,23 +529,6 @@
       <lex comment="good" lid="Id2">Albennie Jonesis a solo singer who performs rhythm and blues.</lex>
       <lex comment="good" lid="Id3">Albennie Jones is a solo singer in the rhythm and blues genre.</lex>
     </entry>
-    <entry category="Artist" eid="Id110" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Aleksandra_Kovač | genre | Funk</otriple>
-        <otriple>Aleksandra_Kovač | background | "solo_singer"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aleksandra_Kovač | genre | Funk</otriple>
-        <otriple>Aleksandra_Kovač | background | "solo_singer"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | genre | Funk</mtriple>
-        <mtriple>Aleksandra_Kovač | background | "solo_singer"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandra Kovac is a solo singer and her genre of music is Funk.</lex>
-      <lex comment="good" lid="Id2">Aleksandra Kovac is an exponent of Funk and a solo singer.</lex>
-      <lex comment="good" lid="Id3">Aleksandra Kovac is a solo singer who performs funk music.</lex>
-    </entry>
     <entry category="Artist" eid="Id112" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Aleksandra_Kovač | genre | Rhythm_and_blues</otriple>
@@ -812,22 +541,6 @@
       <lex comment="good" lid="Id1">Aleksandra Kovac became active in 1990 and uses the musical genre, rhythm and blues.</lex>
       <lex comment="good" lid="Id2">Aleksandra Kovac, a rhythm and blues artist, started playing in 1990.</lex>
       <lex comment="good" lid="Id3">Aleksandra Kovač began her musical career in 1990 and her genre is rhythm and blues.</lex>
-    </entry>
-    <entry category="Artist" eid="Id116" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alex_Day | birthPlace | Hornchurch</otriple>
-        <otriple>Alex_Day | placeOfBirth | London_Borough_of_Havering</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alex_Day | birthPlace | London_Borough_of_Havering</otriple>
-        <otriple>Alex_Day | placeOfBirth | Hornchurch</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alex_Day | birthPlace | Hornchurch</mtriple>
-        <mtriple>Alex_Day | birthPlace | London_Borough_of_Havering</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alex Day was born in Hornchurch, in the London Borough of Havering.</lex>
-      <lex comment="good" lid="Id2">Alex Day was born in Hornchurch in the London Borough of Havering.</lex>
     </entry>
     <entry category="Artist" eid="Id119" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -859,23 +572,6 @@
       <lex comment="good" lid="Id2">Alfred Garth Jones was born in England and died in Sidcup.</lex>
       <lex comment="good" lid="Id3">Born in England, Alfred Garth Jones died in Sidcup.</lex>
     </entry>
-    <entry category="Artist" eid="Id125" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Manchester | leaderName | Labour_Party_(UK)</otriple>
-        <otriple>Alfred_Garth_Jones | placeOfBirth | Manchester</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alfred_Garth_Jones | birthPlace | Manchester</otriple>
-        <otriple>Manchester | leaderName | Labour_Party_(UK)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfred_Garth_Jones | birthPlace | Manchester</mtriple>
-        <mtriple>Manchester | leader | Labour_Party_(UK)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Labour Party is in the majority in Manchester which is the birthplace of Alfred Garth Jones.</lex>
-      <lex comment="good" lid="Id2">The United Kingdom's Labour Party is the leader of Manchester, where Alfred Garth Jones was born.</lex>
-      <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester where the Labour Party is in the majority.</lex>
-    </entry>
     <entry category="Artist" eid="Id126" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Alfred_Garth_Jones | deathPlace | London</otriple>
@@ -904,23 +600,6 @@
       <lex comment="good" lid="Id2">Alfred Garth Jones died in London, a place led by the European Parliament.</lex>
       <lex comment="good" lid="Id3">Alfred Garth Jones died in London, which is led by the European Parliament.</lex>
     </entry>
-    <entry category="Artist" eid="Id134" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alfredo_Zitarrosa | genre | Candombe</otriple>
-        <otriple>Alfredo_Zitarrosa | background | "solo_singer"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alfredo_Zitarrosa | background | "solo_singer"</otriple>
-        <otriple>Alfredo_Zitarrosa | genre | Candombe</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfredo_Zitarrosa | genre | Candombe</mtriple>
-        <mtriple>Alfredo_Zitarrosa | background | "solo_singer"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfredo Zitarrosa is solo singer and his musical genre is Candombe.</lex>
-      <lex comment="good" lid="Id2">Solo singer Alfredo Zitarrosa plays Candombe music.</lex>
-      <lex comment="good" lid="Id3">Alfredo Zitarrosa's background includes solo singing and his musical genre is Candombe.</lex>
-    </entry>
     <entry category="Artist" eid="Id136" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Alfredo_Zitarrosa | recordLabel | RCA_Records</otriple>
@@ -945,19 +624,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell was a member of the Flibbertigibbet band and he is also an artist for the band Mellow Candle.</lex>
       <lex comment="good" lid="Id2">Alison O'Donnell was a member of both the Flibbertigibbet band and the Mellow Candle band.</lex>
-    </entry>
-    <entry category="Artist" eid="Id141" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alison_O'Donnell | associatedBand | Plastik_Mak</otriple>
-        <otriple>Alison_O'Donnell | associatedMusicalArtist | Mellow_Candle</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Plastik_Mak</mtriple>
-        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Mellow_Candle</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alison O'Donnell is an artist for the bands Mellow Candle and Plastik Mak.</lex>
-      <lex comment="good" lid="Id2">Alison O’Donnell was in the band Mellow Candle and is associated with the Plastik Mak.</lex>
-      <lex comment="good" lid="Id3">Alison O'Donnell is associated with Plastik Mak and plays with Mellow Candle.</lex>
     </entry>
     <entry category="Artist" eid="Id142" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -985,19 +651,6 @@
       <lex comment="good" lid="Id2">Alison O'Donnell is a musician for the band United Bible Studies and has collaborated with the band The Owl Service.</lex>
       <lex comment="good" lid="Id3">Alison O'Donnell performed with United Bible Studies and is associated with The Owl Service.</lex>
     </entry>
-    <entry category="Artist" eid="Id148" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alison_O'Donnell | genre | Folk_rock</otriple>
-        <otriple>Alison_O'Donnell | instrument | Bodhrán</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alison_O'Donnell | genre | Folk_rock</mtriple>
-        <mtriple>Alison_O'Donnell | instrument | Bodhrán</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Folk rock musician Alison O'Donnell plays bodhrán.</lex>
-      <lex comment="good" lid="Id2">Alison O'Donnell performs folk rock music and plays the bodhran.</lex>
-      <lex comment="good" lid="Id3">Alison O'Donnell's musical genre is folk rock and she plays the bodhrán.</lex>
-    </entry>
     <entry category="Artist" eid="Id150" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Alison_O'Donnell | genre | Folk_rock</otriple>
@@ -1010,19 +663,6 @@
       <lex comment="good" lid="Id1">Alison O'Donnell, a folk rock genre artist, recorded on the record label, Static Caravan Recordings.</lex>
       <lex comment="good" lid="Id2">Folk rock musician Alison O'Donnell is signed with Static Caravan Recordings.</lex>
       <lex comment="good" lid="Id3">Alison O'Donnell performs folk rock music and is signed to Static Caravan Recordings.</lex>
-    </entry>
-    <entry category="Artist" eid="Id152" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alison_O'Donnell | genre | Jazz</otriple>
-        <otriple>Alison_O'Donnell | recordLabel | Deram_Records</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alison_O'Donnell | genre | Jazz</mtriple>
-        <mtriple>Alison_O'Donnell | recordLabel | Deram_Records</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alison O'Donnell's record label is Deram Records and she plays jazz music.</lex>
-      <lex comment="good" lid="Id2">Alison O'Donnell plays jazz music and was once signed to Deram Records.</lex>
-      <lex comment="good" lid="Id3">Alison O'Donnell is signed with the record label Deram Records and plays jazz music.</lex>
     </entry>
     <entry category="Artist" eid="Id153" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1063,18 +703,6 @@
       <lex comment="good" lid="Id2">Alison O'Donnell performs jazz music and one type jazz fusion is Afrobeat.</lex>
       <lex comment="good" lid="Id3">Afrobeat is a fusion genre of Jazz, the genre that Alison O'Donnell plays.</lex>
     </entry>
-    <entry category="Artist" eid="Id159" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alison_O'Donnell | genre | Psychedelic_folk</otriple>
-        <otriple>Alison_O'Donnell | instrument | Bodhrán</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alison_O'Donnell | genre | Psychedelic_folk</mtriple>
-        <mtriple>Alison_O'Donnell | instrument | Bodhrán</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alison O'Donnell plays the instrument called the bodhran and her music genre is Psychedelic folk.</lex>
-      <lex comment="good" lid="Id2">Alison O'Donnell genre is Psychedelic folk and she plays the bodhrán.</lex>
-    </entry>
     <entry category="Artist" eid="Id163" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Allen_Forrest | genre | Hip_hop_music</otriple>
@@ -1100,23 +728,6 @@
       <lex comment="good" lid="Id1">Allen Forrest performs rhythm and blues music and started his career in 2005.</lex>
       <lex comment="good" lid="Id2">Allen Forrest plays Rhythm and Blues and began his career in 2005.</lex>
       <lex comment="good" lid="Id3">Allen Forrest, an active musician since 2005, performs rhythm and blues music.</lex>
-    </entry>
-    <entry category="Artist" eid="Id166" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Allen_Forrest | genre | Rhythm_and_blues</otriple>
-        <otriple>Allen_Forrest | background | "solo_singer"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Allen_Forrest | genre | Rhythm_and_blues</otriple>
-        <otriple>Allen_Forrest | background | "solo_singer"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Allen_Forrest | genre | Rhythm_and_blues</mtriple>
-        <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Allen Forrest is a solo singer and his genre of music is Rhythm and Blues.</lex>
-      <lex comment="good" lid="Id2">Allen Forrest performs rhythm and blues music and was originally a solo singer.</lex>
-      <lex comment="good" lid="Id3">Allen Forrest is a solo singer who performs rhythm and blues music.</lex>
     </entry>
     <entry category="Artist" eid="Id170" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1147,19 +758,6 @@
       <lex comment="good" lid="Id2">Anders Osborne is associated with the musical artist Billy Iuso and the band, Galactic.</lex>
       <lex comment="good" lid="Id3">Anders Osborne has worked with the band Galactic and is associated with the musical artist Billy Iuso.</lex>
     </entry>
-    <entry category="Artist" eid="Id172" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Anders_Osborne | associatedBand | Billy_Iuso</otriple>
-        <otriple>Anders_Osborne | associatedMusicalArtist | Tab_Benoit</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Billy_Iuso</mtriple>
-        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Tab_Benoit</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anders Osborne is associated with Billy Iuso and Tab Benoit.</lex>
-      <lex comment="good" lid="Id2">Anders Osborne is associated with the musical artist Billy Iuso and has worked with Tab Benoit.</lex>
-      <lex comment="good" lid="Id3">Anders Osborne is associated with both the musical artist Billy Iuso and Tab Benoit.</lex>
-    </entry>
     <entry category="Artist" eid="Id174" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Anders_Osborne | associatedBand | Galactic</otriple>
@@ -1171,19 +769,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anders Osborne is associated with the band Galactic and has worked with Tab Benoit.</lex>
       <lex comment="good" lid="Id2">Anders Osborne is associated with the band Galactic and with Tab Benoit.</lex>
-    </entry>
-    <entry category="Artist" eid="Id177" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Anders_Osborne | associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars</otriple>
-        <otriple>Anders_Osborne | associatedBand | Tab_Benoit</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars</mtriple>
-        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Tab_Benoit</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anders Osborne is associated with Voice of the Wetlands All-Stars and Tab Benoit.</lex>
-      <lex comment="good" lid="Id2">Anders Osborne is associated with the band Voice of the Wetlands All-Stars and has worked with Tab Benoit.</lex>
-      <lex comment="good" lid="Id3">Anders Osborne is associated with both Tab Benoit and with the band Voice of the Wetlands All-Stars.</lex>
     </entry>
     <entry category="Artist" eid="Id178" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1210,19 +795,6 @@
       <lex comment="good" lid="Id2">Anders Osborne who is signed to the Rabadash Records label, performs Blues music.</lex>
       <lex comment="good" lid="Id3">Anders Osborne is a blues artist who is signed to the record label Rabadash Records.</lex>
     </entry>
-    <entry category="Artist" eid="Id180" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Anders_Osborne | genre | Blues</otriple>
-        <otriple>Anders_Osborne | recordLabel | Shanachie_Records</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anders_Osborne | genre | Blues</mtriple>
-        <mtriple>Anders_Osborne | recordLabel | Shanachie_Records</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anders Osborne sings the blues under the Shanachie Records label.</lex>
-      <lex comment="good" lid="Id2">Anders Osborne is a blues artist signed to the Shanachie Records label.</lex>
-      <lex comment="good" lid="Id3">Anders Osborne was signed to the Shanachie Records label and genre is Blues.</lex>
-    </entry>
     <entry category="Artist" eid="Id183" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Anders_Osborne | recordLabel | Alligator_Records</otriple>
@@ -1235,19 +807,6 @@
       <lex comment="good" lid="Id1">Anders Osborne is a blues artist signed to Alligator Records.</lex>
       <lex comment="good" lid="Id2">Anders Osborne's genre is Blues and record label is Alligator Records.</lex>
       <lex comment="good" lid="Id3">Anders Osborne's genre is Blues and is signed to the record label Alligator Records.</lex>
-    </entry>
-    <entry category="Artist" eid="Id184" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Anders_Osborne | recordLabel | Alligator_Records</otriple>
-        <otriple>Anders_Osborne | genre | Rhythm_and_blues</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anders_Osborne | recordLabel | Alligator_Records</mtriple>
-        <mtriple>Anders_Osborne | genre | Rhythm_and_blues</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anders Osborne's genre is Rhythm and blues and they are signed to the record label Alligator Records.</lex>
-      <lex comment="good" lid="Id2">Anders Osborne plays rhythm and blues and was signed to Alligator Records.</lex>
-      <lex comment="good" lid="Id3">A rhythm and blues music performer, Anders Osborne, is part of the record label, Alligator Records.</lex>
     </entry>
     <entry category="Artist" eid="Id188" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1304,22 +863,6 @@
       <lex comment="good" lid="Id1">Andra performs rhythm and blues music, a derivative of which is disco.</lex>
       <lex comment="good" lid="Id2">Rhythm and blues was the base of disco and the genre of singer Andra.</lex>
       <lex comment="good" lid="Id3">Rhythm and blues is the genre of artist Andra and is also the origin of disco.</lex>
-    </entry>
-    <entry category="Artist" eid="Id197" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Andrew_Rayel | associatedBand | Bobina</otriple>
-        <otriple>Andrew_Rayel | associatedMusicalArtist | Christian_Burns</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Andrew_Rayel | associatedMusicalArtist | Bobina</otriple>
-        <otriple>Andrew_Rayel | associatedBand | Christian_Burns</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Bobina</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrew Rayel is associated with the musical artists Bobina and Christian Burns.</lex>
-      <lex comment="good" lid="Id2">Andrew Rayel is associated with Bobina and Christian Burns.</lex>
     </entry>
     <entry category="Artist" eid="Id198" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1384,19 +927,6 @@
       <lex comment="good" lid="Id2">The musician, Andrew White, is associated with the musical artist, Marry Banilow and plays for the band Kaiser Chiefs.</lex>
       <lex comment="good" lid="Id3">The band Kaiser Chiefs included the member, musician, Andrew White, who, is associated with the musical artist, Marry Banilow.</lex>
     </entry>
-    <entry category="Artist" eid="Id207" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Asunción | isPartOf | Gran_Asunción</otriple>
-        <otriple>Agustín_Barboza | birthPlace | Asunción</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asunción | isPartOf | Gran_Asunción</mtriple>
-        <mtriple>Agustín_Barboza | birthPlace | Asunción</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Agustín Barboza was born in Asunción which is a part of Gran Asunción.</lex>
-      <lex comment="good" lid="Id2">Agustin Barboza was born in Asuncion, part of Gran Asuncion.</lex>
-      <lex comment="good" lid="Id3">Agustin Barboza was born in Asuncion, part of Gran Asunción.</lex>
-    </entry>
     <entry category="Artist" eid="Id208" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Alan_Frew | hometown | Canada</otriple>
@@ -1452,23 +982,6 @@
       <lex comment="good" lid="Id2">The birth place of Agustin Barboza is Paraguay where Juan Afara is the leader.</lex>
       <lex comment="good" lid="Id3">Agustín Barboza was born in Paraguay where the leader is Juan Afara.</lex>
     </entry>
-    <entry category="Artist" eid="Id214" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Paraguay | leaderName | Juan_Afara</otriple>
-        <otriple>Agustín_Barboza | placeOfDeath | Paraguay</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Paraguay | leaderName | Juan_Afara</otriple>
-        <otriple>Agustín_Barboza | deathPlace | Paraguay</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Paraguay | leader | Juan_Afara</mtriple>
-        <mtriple>Agustín_Barboza | deathPlace | Paraguay</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The birth place of Agustin Barboza was Paraguay and the leader there is Juan Afara.</lex>
-      <lex comment="good" lid="Id2">Agustin Barboza died in Paraguay whose leader is Juan Afara.</lex>
-      <lex comment="good" lid="Id3">The birth place of Agustin Barboza was Paraguay, where Juan Afara is the leader.</lex>
-    </entry>
     <entry category="Artist" eid="Id216" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Pop_music | fusiongenres | Disco</otriple>
@@ -1499,19 +1012,6 @@
       <lex comment="good" lid="Id2">Aaron Bertram's musical genre is Ska punk which has its origins in Ska.</lex>
       <lex comment="good" lid="Id3">Aaron Bertram performs ska punk music which originated from ska music.</lex>
     </entry>
-    <entry category="Artist" eid="Id220" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Twilight_(band) | genre | Black_metal</otriple>
-        <otriple>Aaron_Turner | associatedMusicalArtist | Twilight_(band)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Twilight_(band) | genre | Black_metal</mtriple>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Turner played with the band Twilight known for performing black metal music.</lex>
-      <lex comment="good" lid="Id2">Aaron Turner played with the band Twilight, the band's musical genre is black metal.</lex>
-      <lex comment="good" lid="Id3">Aaron Turner played with Twilight, a black metal band.</lex>
-    </entry>
     <entry category="Artist" eid="Id224" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Uruguay | leaderName | Raúl_Fernando_Sendic_Rodríguez</otriple>
@@ -1525,17 +1025,5 @@
       <lex comment="good" lid="Id2">Alfredo Zitarrosa's birth place was Uruguay, where the leader is, Raul Fernando Sendic Rodriguez.</lex>
       <lex comment="good" lid="Id3">Alfredo Zitarrosa was born in Uruguay, a country led by Raul Fernando Sendic Rodriguez.</lex>
     </entry>
-    <entry category="Artist" eid="Id226" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Uruguay | leaderName | Tabaré_Vázquez</otriple>
-        <otriple>Alfredo_Zitarrosa | deathPlace | Uruguay</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Uruguay | leader | Tabaré_Vázquez</mtriple>
-        <mtriple>Alfredo_Zitarrosa | deathPlace | Uruguay</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfredo Zitarrosa died in Uruguay where the leader is Tabaré Vázquez.</lex>
-      <lex comment="good" lid="Id2">Alfredo Zitarrosa died in Uruguay, the leader of which, is Tabare Vazquez.</lex>
-    </entry>
-  </entries>
+    </entries>
 </benchmark>

@@ -29,17 +29,6 @@
       <lex comment="good" lid="Id2">Auron was created by Marv Wolfman.</lex>
       <lex comment="good" lid="Id3">The comic book character Auron was created by Marv Wolfman.</lex>
     </entry>
-    <entry category="ComicsCharacter" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bananaman first aired on 3rd October 1983.</lex>
-      <lex comment="good" lid="Id2">Bananaman first aired on the 3rd of October, 1983.</lex>
-      <lex comment="good" lid="Id3">Bananaman was first aired on 10/03/1983.</lex>
-    </entry>
     <entry category="ComicsCharacter" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Bill_Everett | award | Eisner_Award</otriple>

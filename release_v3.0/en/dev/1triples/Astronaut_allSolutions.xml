@@ -1,15 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Astronaut" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alan_Shepard | deathPlace | California</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Shepard | deathPlace | California</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard died in California.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Apollo_11 | crew2Up | William_Anders</otriple>
@@ -34,17 +25,5 @@
       <lex comment="good" lid="Id4">Elliot See's occupation was a test pilot.</lex>
       <lex comment="good" lid="Id5">Elliot See performed as a test pilot.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>University_of_Texas_at_Austin | mascot | Hook_'em_(mascot)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>University_of_Texas_at_Austin | mascot | Hook_'em_(mascot)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The University of Texas at Austin's mascot is called Hook'em.</lex>
-      <lex comment="good" lid="Id2">Hook'em is the mascot for the University of Texas at Austin.</lex>
-      <lex comment="good" lid="Id3">The mascot of the University of Texas at Austin is Hook'em.</lex>
-      <lex comment="good" lid="Id4">The Hook 'em is the mascot of University of Texas at Austin.</lex>
-    </entry>
-  </entries>
+    </entries>
 </benchmark>

@@ -1,24 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="WrittenWork" eid="Id2" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>A_Long_Long_Way | previousWork | Annie_Dunne</otriple>
-        <otriple>A_Long_Long_Way | country | Ireland</otriple>
-        <otriple>Ireland | ethnicGroup | White_people</otriple>
-        <otriple>The_Secret_Scripture | publisher | Faber_and_Faber</otriple>
-        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Long_Long_Way | precededBy | Annie_Dunne</mtriple>
-        <mtriple>A_Long_Long_Way | country | Ireland</mtriple>
-        <mtriple>Ireland | ethnicGroup | White_people</mtriple>
-        <mtriple>The_Secret_Scripture | publisher | Faber_and_Faber</mtriple>
-        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ethnic group of Ireland is White people and is where A Long Long Way comes from. It was preceded by Annie Dunne and followed by The Secret Scripture which is published by Faber and Faber.</lex>
-      <lex comment="good" lid="Id2">An ethnic group of Ireland is white people where A Long Long Way comes from. It was preceded by Annie Dunne preceded and followed by The Secret Scripture which is published by Faber and Faber.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id3" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Above_the_Veil | country | Australians</otriple>
@@ -45,24 +27,6 @@
       <lex comment="good" lid="Id2">Above the Veil is an Australian novel and the sequel to Aenir and Castle. It was followed by Into Battle and The Violet Keystone.</lex>
       <lex comment="good" lid="Id3">Above the Veil is an Australian novel and the sequel to Aenir and Castle. It was followed by Into the Battle and The Violet Keystone.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id6" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</otriple>
-        <otriple>English_language | spokenIn | Great_Britain</otriple>
-        <otriple>United_States | leader | Barack_Obama</otriple>
-        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</mtriple>
-        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
-        <mtriple>United_States | leader | Barack_Obama</mtriple>
-        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States is home to the ethnic group of African Americans and is led by Barack Obama. The country is the origin of the book Alcatraz Versus the Evil Librarians. This book was written in English, as spoken in Great Britain.</lex>
-      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is from the United States and is written in English which is also spoken in Great Britain. The leader of the US is Barack Obama and African Americans are one of the ethnic groups.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id9" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>United_Kingdom | language | English_language</otriple>
@@ -88,31 +52,6 @@
       <lex comment="good" lid="Id1">David Cameron and Elizabeth II are leaders in the United Kingdom. The country, which uses the English language has the capital city of London and is where the AIDS journal originates.</lex>
       <lex comment="good" lid="Id2">The AIDS journal was published in the United Kingdom, where English is spoken. The leader of the UK is Elizabeth II, and another leader is David Cameron. English is spoken in the United Kingdom, where the capital is London.</lex>
       <lex comment="good" lid="Id3">AIDS journal is from the United Kingdom, which capital is London and the language is English. The leaders of that country are David Cameron and Elizabeth II.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id10" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>United_Kingdom | leaderName | Elizabeth_II</otriple>
-        <otriple>United_Kingdom | leader | David_Cameron</otriple>
-        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
-        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
-        <otriple>Lippincott_Williams_&amp;_Wilkins | parentCompany | Wolters_Kluwer</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>United_Kingdom | leaderName | David_Cameron</otriple>
-        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
-        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
-        <otriple>Lippincott_Williams_&amp;_Wilkins | parentCompany | Wolters_Kluwer</otriple>
-        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
-        <mtriple>United_Kingdom | leader | David_Cameron</mtriple>
-        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
-        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
-        <mtriple>Lippincott_Williams_&amp;_Wilkins | parentCompany | Wolters_Kluwer</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leaders of the United Kingdom are Elizabeth II and David Cameron. The AIDS journal is published in the United Kingdom by Lippincott, Williams &amp; Wilkins, whose parent company is Wolters Kluwer.</lex>
-      <lex comment="good" lid="Id2">The AIDS journal was published in the United Kingdom where Elizabeth II and David Cameron are leaders. The journal was published by Lippincott Williams &amp; Wilkins whose parent company is Wolters Kluwer.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id11" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

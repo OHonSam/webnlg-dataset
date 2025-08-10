@@ -1,19 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="WrittenWork" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>1634:_The_Ram_Rebellion | author | Eric_Flint</otriple>
-        <otriple>1634:_The_Ram_Rebellion | mediaType | Hardcover</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1634:_The_Ram_Rebellion | author | Eric_Flint</mtriple>
-        <mtriple>1634:_The_Ram_Rebellion | mediaType | Hardcover</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1634: The Ram Rebellion was written by Eric Flint and can be found in hardcover.</lex>
-      <lex comment="good" lid="Id2">The book titled 1634: The Ram Rebellion is a hardcover book by Eric Flint.</lex>
-      <lex comment="good" lid="Id3">1634: The Ram Rebellion, available in hardcover was written by Eric Flint.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
@@ -80,19 +67,6 @@
       <lex comment="good" lid="Id1">A Wizard of Mars was written by Diane Duane with on OCLC number 318875313.</lex>
       <lex comment="good" lid="Id2">Diane Duane wrote A Wizard of Mars which has the OCLC number of 318875313.</lex>
     </entry>
-    <entry category="WrittenWork" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>A_Wizard_of_Mars | numberOfPages | "560"^^xsd:positiveInteger</otriple>
-        <otriple>A_Wizard_of_Mars | isbn | "978-0-15-204770-2"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A_Wizard_of_Mars | numberOfPages | "560"</mtriple>
-        <mtriple>A_Wizard_of_Mars | isbnNumber | "978-0-15-204770-2"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Wizard of Mars is 560 pages long and has the ISBN number 978-0-15-204770-2.</lex>
-      <lex comment="good" lid="Id2">A Wizard of Mars has 560 pages and the ISBN number 978-0-15-204770-2.</lex>
-      <lex comment="good" lid="Id3">A Wizard of Mars with ISBN number "978-0-15-204770-2 contains 560 pages.</lex>
-    </entry>
     <entry category="WrittenWork" eid="Id18" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Above_the_Veil | previousWork | Aenir</otriple>
@@ -126,19 +100,6 @@
       <lex comment="good" lid="Id1">Cornell University is affiliated with the Association of Public and Land-grant Universities and published Administrative Science Quarterly.</lex>
       <lex comment="good" lid="Id2">Cornell University, affiliated with the Association of Public and Land-grant Universities, is publisher of Administrative Science Quarterly.</lex>
       <lex comment="good" lid="Id3">Cornell University, affiliated with the Association of Public and Land-grant Universities, is the publisher of the Administrative Science Quarterly.</lex>
-    </entry>
-    <entry category="WrittenWork" eid="Id22" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Aenir | author | Garth_Nix</otriple>
-        <otriple>Aenir | isbn | "0-439-17684-0"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aenir | author | Garth_Nix</mtriple>
-        <mtriple>Aenir | isbnNumber | "0-439-17684-0"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Written by Garth Nix, Aenir, has the ISBN number of "0-439-17684-0.</lex>
-      <lex comment="good" lid="Id2">Aenir was written by Garth Nix and has the ISBN number of 0-439-17684-0.</lex>
-      <lex comment="good" lid="Id3">Aenir was written by Garth Nix and has the ISBN number 0-439-17684-0.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id26" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

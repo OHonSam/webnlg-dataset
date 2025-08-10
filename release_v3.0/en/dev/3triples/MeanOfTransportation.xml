@@ -1,21 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="MeanOfTransportation" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>1955_Dodge | engine | 1955_Dodge__3</otriple>
-        <otriple>1955_Dodge | aka | "Dodge Coronet"@en</otriple>
-        <otriple>1955_Dodge | bodyStyle | Hardtop</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1955_Dodge | engine | V8_engine</mtriple>
-        <mtriple>1955_Dodge | alternativeName | "Dodge Coronet"</mtriple>
-        <mtriple>1955_Dodge | bodyStyle | Hardtop</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 1955 Dodge, also called the Dodge Coronet, has a hardtop and a V8 engine.</lex>
-      <lex comment="good" lid="Id2">The 1955 Dodge, or Dodge Coronet, is a hardtop with a V8 engine.</lex>
-      <lex comment="good" lid="Id3">The 1955 Dodge, also known as the Dodge Coronet, has a hardtop and a V8 engine.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>A-Rosa_Luna | shipClass | Cruise_ship</otriple>
@@ -45,21 +30,6 @@
       <lex comment="good" lid="Id2">ALV X-1 comes from the US where Americans live and African Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">The country of origin of the ALV X-1 is the United States, home to Americans and where African Americans are an ethnic group.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>AMC_Matador | assembly | Port_Melbourne,_Victoria</otriple>
-        <otriple>AMC_Matador | modelYears | 1971</otriple>
-        <otriple>AMC_Matador | related | AMC_Ambassador</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AMC_Matador | assembly | Port_Melbourne,_Victoria</mtriple>
-        <mtriple>AMC_Matador | modelYears | 1971</mtriple>
-        <mtriple>AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AMC Matador, including the 1971 model, and the Ambassador are related. The assembly line is in Port Melbourne, Victoria.</lex>
-      <lex comment="good" lid="Id2">The AMC Matador is assembled in Port Melbourne, Victoria. One of the model years include 1971. It is elated to the AMC Ambassador.</lex>
-      <lex comment="good" lid="Id3">The AMC Matador, related to the AMC Ambassador, is produced in Port Melbourne, Victoria, including in the year 1971.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id9" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</otriple>
@@ -74,26 +44,6 @@
       <lex comment="good" lid="Id1">Gruppo Bertone, of Turin Italy, designed the Abarth 1000 GT Coupe.</lex>
       <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe was designed by Gruppo Bertone (Italy). The Gruppo Bertone originates from Turin.</lex>
       <lex comment="good" lid="Id3">Gruppo Bertone, founded in Turin, Italy, was the designer of the Abarth 1000 GT Coupé.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Alfa_Romeo_164 | assembly | Italy</otriple>
-        <otriple>Italy | capital | Rome</otriple>
-        <otriple>Alfa_Romeo_164 | related | Lancia_Thema</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alfa_Romeo_164 | assembly | Italy</otriple>
-        <otriple>Italy | capital | Rome</otriple>
-        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfa_Romeo_164 | assembly | Italy</mtriple>
-        <mtriple>Italy | capital | Rome</mtriple>
-        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alfa Romeo 164, which was assembled in Italy, and the Lancia Thema are related types of transportation. The capital of Italy is Rome.</lex>
-      <lex comment="good" lid="Id2">The Lancia Thema and the Alfa Romeo 164 are related. The latter is built in Italy where the capital is Rome.</lex>
-      <lex comment="good" lid="Id3">The Alfa Romeo 164 was made in Italy and is related to the Lancia Thema vehicle. Rome is the capital of Italy.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id15" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -114,25 +64,6 @@
       <lex comment="good" lid="Id1">Eagle is the successor of American Motors who manufactured the AMC Matador and had Roy D Chapin Jr among their key personnel.</lex>
       <lex comment="good" lid="Id2">AMC Matador is manufactured by American Motors, a key person of which, is Roy D. Chapin Jr. American Motors successor is Eagle.</lex>
       <lex comment="good" lid="Id3">Eagle succeeded American Motors who made the AMC Matador in conjunction with Roy D Chapin Jr.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id18" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Aston_Martin_V8 | engine | Aston_Martin_V8__1</otriple>
-        <otriple>Aston_Martin_V8 | assembly | "Newport Pagnell, Buckinghamshire, England, United Kingdom"@en</otriple>
-        <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aston_Martin_V8 | assembly | "Newport Pagnell, Buckinghamshire, England, United Kingdom"@en</otriple>
-        <otriple>Aston_Martin_V8 | engine | "5.3"^^xsd:double</otriple>
-        <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aston_Martin_V8 | assembly | "Newport Pagnell, Buckinghamshire, England, United Kingdom"</mtriple>
-        <mtriple>Aston_Martin_V8 | engine | 5.3 (litres)</mtriple>
-        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8, related to the Aston Martin RHAM/1, is assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom and has a 5.3 litre engine.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin V8, (related to the Aston Martin RHAM/1), assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom, has a 5.3 liter engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id21" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -163,26 +94,6 @@
       <lex comment="good" lid="Id1">AIDAluna is powered by U.S. based Caterpillar Inc. Douglas R Oberhelman is a key person at Caterpillar Inc.</lex>
       <lex comment="good" lid="Id2">AIDAluna is powered by Caterpillar Inc, located in the United States. The key person of Caterpillar Inc. is Douglas R. Oberhelman.</lex>
       <lex comment="good" lid="Id3">The power type of the AIDAluna is the Caterpillar Inc. engine where Douglas R Oberhelman is a key person located in the United States.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id26" shape="(X (X (X (X))))" shape_type="chain" size="3">
-      <originaltripleset>
-        <otriple>Guiana_Space_Centre | headquarter | Kourou,_French_Guiana</otriple>
-        <otriple>ELA-3 | site | Guiana_Space_Centre</otriple>
-        <otriple>Ariane_5 | sites | ELA-3</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Guiana_Space_Centre | headquarters | Kourou,_French_Guiana</otriple>
-        <otriple>ELA-3 | site | Guiana_Space_Centre</otriple>
-        <otriple>Ariane_5 | sites | ELA-3</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Guiana_Space_Centre | headquarter | Kourou,_French_Guiana</mtriple>
-        <mtriple>ELA-3 | site | Guiana_Space_Centre</mtriple>
-        <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Ariane 5 was launched at ELA-3 which is located at the Guiana Space Centre whose headquarters are at Kourou in French Guiana.</lex>
-      <lex comment="good" lid="Id2">The launch site of the Ariane 5 was ELA-3 launchpad was is at Guiana Space Centre in Kourou in French Guiana.</lex>
-      <lex comment="good" lid="Id3">The Ariane 5 was launched at ELA-3 at the Guiana Space Centre which has its headquarters at Kourou in French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id27" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>

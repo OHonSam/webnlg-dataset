@@ -12,16 +12,6 @@
       <lex comment="good" lid="Id2">Alba Iulia is in the country of Romania.</lex>
       <lex comment="good" lid="Id3">Alba Iulia is in Romania.</lex>
     </entry>
-    <entry category="University" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alba_Iulia | isPartOf | Alba_County</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alba_Iulia | isPartOf | Alba_County</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alba Iulia is part of the county of Alba.</lex>
-      <lex comment="good" lid="Id2">Alba Iulia is part of Alba County.</lex>
-    </entry>
     <entry category="University" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Romania | patronSaint | Andrew_the_Apostle</otriple>

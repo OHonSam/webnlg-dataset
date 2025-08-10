@@ -1,46 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="City" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Albuquerque,_New_Mexico | areaLand | 4.862e+08</otriple>
-        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^xsd:double</otriple>
-        <otriple>Albuquerque,_New_Mexico | areaCode | 505575</otriple>
-        <otriple>Albuquerque,_New_Mexico | subdivisionName | "New Mexico"@en</otriple>
-        <otriple>Albuquerque,_New_Mexico | areaTotal | "490.9"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albuquerque,_New_Mexico | areaLand | 4.862e+08</otriple>
-        <otriple>Albuquerque,_New_Mexico | areaTotal | 4.909e+08</otriple>
-        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^xsd:double</otriple>
-        <otriple>Albuquerque,_New_Mexico | areaCode | 505575</otriple>
-        <otriple>Albuquerque,_New_Mexico | subdivisionName | "New Mexico"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albuquerque,_New_Mexico | areaCode | "505, 575"</otriple>
-        <otriple>Albuquerque,_New_Mexico | areaLand | 4.862e+08</otriple>
-        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^xsd:double</otriple>
-        <otriple>Albuquerque,_New_Mexico | subdivisionName | "New Mexico"@en</otriple>
-        <otriple>Albuquerque,_New_Mexico | areaTotal | "490.9"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albuquerque,_New_Mexico | populationDensity | "1142.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
-        <otriple>Albuquerque,_New_Mexico | areaLand | 4.862e+08</otriple>
-        <otriple>Albuquerque,_New_Mexico | areaCode | 505575</otriple>
-        <otriple>Albuquerque,_New_Mexico | subdivisionName | "New Mexico"@en</otriple>
-        <otriple>Albuquerque,_New_Mexico | areaTotal | "490.9"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albuquerque,_New_Mexico | areaOfLand | 486.2 (square kilometres)</mtriple>
-        <mtriple>Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)</mtriple>
-        <mtriple>Albuquerque,_New_Mexico | areaCode | 505, 575</mtriple>
-        <mtriple>Albuquerque,_New_Mexico | isPartOf | New_Mexico</mtriple>
-        <mtriple>Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque in New Mexico has a total area of 490.9 sq km, of which 486.2 is land. The population density is 1142.3 people per square kilometre. The area codes for Albuquerque are 505 and 575.</lex>
-      <lex comment="good" lid="Id2">The total area of Albuquerque in New Mexico is 490.9 square kilometres of which 486.2 is land. The population density is 1142.3 persons per sq km and the area codes there are 505 and 575.</lex>
-      <lex comment="good" lid="Id3">Albuquerque, N.M. has an area of land of 486.2 and total area of 490.9 square kilometers. The area codes in Albuquerque, New Mexico are 505 and 575 and there are 1142.3 people per square kilometres.</lex>
-    </entry>
     <entry category="City" eid="Id5" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Anaheim,_California | leaderName | Tom_Tait</otriple>
@@ -58,39 +18,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim is led by Tom Tait along with the United States House of Representatives located in the US Capitol. The city is located in California where the Spanish language is spoken.</lex>
       <lex comment="good" lid="Id2">Located in the United States Capitol, the United States House of Representatives leads Anaheim, California. Tom Tait is a leader in Anaheim, California, where the Spanish language is spoken.</lex>
-    </entry>
-    <entry category="City" eid="Id8" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</otriple>
-        <otriple>Antioch,_California | settlementType | California</otriple>
-        <otriple>California | language | Chinese_language</otriple>
-        <otriple>Antioch,_California | areaTotal | 7.5324e+07</otriple>
-        <otriple>Contra_Costa_County,_California | subdivisionName | San_Francisco_Bay_Area</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Contra_Costa_County,_California | isPartOf | San_Francisco_Bay_Area</otriple>
-        <otriple>Antioch,_California | settlementType | California</otriple>
-        <otriple>Antioch,_California | subdivisionName | Contra_Costa_County,_California</otriple>
-        <otriple>California | language | Chinese_language</otriple>
-        <otriple>Antioch,_California | areaTotal | 7.5324e+07</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</otriple>
-        <otriple>Antioch,_California | settlementType | California</otriple>
-        <otriple>California | language | Chinese_language</otriple>
-        <otriple>Antioch,_California | areaTotal | 7.53246e+07</otriple>
-        <otriple>Contra_Costa_County,_California | subdivisionName | San_Francisco_Bay_Area</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</mtriple>
-        <mtriple>Antioch,_California | isPartOf | California</mtriple>
-        <mtriple>California | language | Chinese_language</mtriple>
-        <mtriple>Antioch,_California | areaTotal | 75.324 (square kilometres)</mtriple>
-        <mtriple>Contra_Costa_County,_California | isPartOf | San_Francisco_Bay_Area</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">California, where some parts speak Chinese, is home to Antioch, which covers 75.324 square kilometres of Contra Costa County in the San Francisco Bay area.</lex>
-      <lex comment="good" lid="Id2">Antioch and the San Francisco bay area are parts of Contra Costa County in California. The total area of Antioch is 75.324 square km and Chinese is one of the spoken languages in California.</lex>
-      <lex comment="good" lid="Id3">With a total area of 75.324 square km, Antioch is part of Contra Costa County. This county is part of the San Francisco Bay area, in California, where, in some parts, Chinese is spoken.</lex>
     </entry>
     <entry category="City" eid="Id11" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -135,25 +62,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Austin is part of Williamson County in Texas which has the county seat of Georgetown. The largest city in Texas, which uses the Spanish language, is Houston.</lex>
       <lex comment="good" lid="Id2">Williamson County with county seat Georgetown, and Austin are located inTexas, where the largest city is Houston and Spanish is one of the spoken languages.</lex>
-    </entry>
-    <entry category="City" eid="Id16" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Tarrant_County,_Texas | largestCity | Fort_Worth,_Texas</otriple>
-        <otriple>Texas | capital | Austin,_Texas</otriple>
-        <otriple>Arlington,_Texas | subdivisionName | Tarrant_County,_Texas</otriple>
-        <otriple>Arlington,_Texas | isPartOf | Texas</otriple>
-        <otriple>Texas | largestcity | Houston</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Tarrant_County,_Texas | largestCity | Fort_Worth,_Texas</mtriple>
-        <mtriple>Texas | capital | Austin,_Texas</mtriple>
-        <mtriple>Arlington,_Texas | isPartOf | Tarrant_County,_Texas</mtriple>
-        <mtriple>Arlington,_Texas | isPartOf | Texas</mtriple>
-        <mtriple>Texas | largestCity | Houston</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arlington, Tarrant County, is in Texas where the largest city is Fort Worth. Austin is the capital of Texas but Houston is the largest city.</lex>
-      <lex comment="good" lid="Id2">Austin is Texas' capital and Houston is the largest city. Arlington, Texas is in Tarrant County; where the largest city is Fort Worth.</lex>
-      <lex comment="good" lid="Id3">Austin is the capital city of Texas, where Houston is the capital. The state, has the largest city, Fort Worth, and is where Arlington is located (Tarrant County), is located.</lex>
     </entry>
     <entry category="City" eid="Id18" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
