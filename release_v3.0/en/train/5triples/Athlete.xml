@@ -1,25 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Athlete" eid="Id1" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>A.C._Milan | league | Serie_A</otriple>
-        <otriple>Alessio_Romagnoli | clubs | A.C._Milan</otriple>
-        <otriple>A.C._Milan | manager | Siniša_Mihajlović</otriple>
-        <otriple>Alessio_Romagnoli | team | Italy_national_under-16_football_team</otriple>
-        <otriple>Alessio_Romagnoli | position | Defender_(association_football)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.C._Milan | league | Serie_A</mtriple>
-        <mtriple>Alessio_Romagnoli | club | A.C._Milan</mtriple>
-        <mtriple>A.C._Milan | manager | Siniša_Mihajlović</mtriple>
-        <mtriple>Alessio_Romagnoli | club | Italy_national_under-16_football_team</mtriple>
-        <mtriple>Alessio_Romagnoli | position | Defender_(football)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Defender and under 16 Italy international footballer Alessio Romagnoli plays for the Serie A side AC Milan, which is managed by Siniša Mihajlović.</lex>
-      <lex comment="good" lid="Id2">Alessio Romagnoli previously played for the Italian national under 16 football team where he was one of the defenders. He now plays for in Serie A for A C Milan who are managed by Sinisa Mihajlovic.</lex>
-      <lex comment="good" lid="Id3">Alessio Romagnoli is a defender and played in the Italy national under 16's football team. He also in the Serie A league for AC Milan who are managed by Sinisa Mihajlovic.</lex>
-    </entry>
     <entry category="Athlete" eid="Id2" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>A.C._Milan | league | Serie_A</otriple>
@@ -57,25 +38,6 @@
       <lex comment="good" lid="Id1">Alessio Romagnoli is a defence player in the A.C. Milan club Serie A. whose manager is Siniša Mihajlović. Mr. Romagnoli also played for the Italy national under 19 football team.</lex>
       <lex comment="good" lid="Id2">Defender Alessio Romagnoli, who has represented the Italy national football team at Under 19 level, plays for the Serie A side A.C. Milan, which is managed by Siniša Mihajlović.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli who used to play for the Italy national under - 19 football team, is currently a defender for the A.C. Milan football club which plays in Serie A. Sinisa Mihajlovic is the manager of A.C. Milan.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id5" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Abel_Hernández | youthclubs | Peñarol</otriple>
-        <otriple>Abel_Hernández | clubs | Central_Español</otriple>
-        <otriple>Central_Español | league | Uruguayan_Segunda_División</otriple>
-        <otriple>Peñarol | manager | Jorge_Orosmán_da_Silva</otriple>
-        <otriple>Abel_Hernández | team | Uruguay_Olympic_football_team</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abel_Hernández | youthclub | Peñarol</mtriple>
-        <mtriple>Abel_Hernández | club | Central_Español</mtriple>
-        <mtriple>Central_Español | league | Uruguayan_Segunda_División</mtriple>
-        <mtriple>Peñarol | manager | Jorge_Orosmán_da_Silva</mtriple>
-        <mtriple>Abel_Hernández | club | Uruguay_Olympic_football_team</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abel Hernandez, who is in the Uruguay Olympic football team, played for Penarol (managed by Jorge Orosman da Silva) in his youth. His current club is Central Espanol who play in the Uruguayan Segunda División league.</lex>
-      <lex comment="good" lid="Id2">Penarol are managed by Jorge Orosman da Silva and Abel Hernandez is a member of their youth team. He also plays for the Uruguay Olympic football team and he plays in the Uruguayan Segunda Division with Central Espanol.</lex>
-      <lex comment="good" lid="Id3">Abel Hernández was a member of youth club Peñarol that saw Jorge Orosmán da Silva as its manager. Abel Hernandez is in the Uruguay Olympic football team and played for Central Español part of the Uruguayan Segunda División league.</lex>
     </entry>
     <entry category="Athlete" eid="Id6" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -155,32 +117,6 @@
       <lex comment="good" lid="Id2">Akeem Adams club was Ferencvarosi TC and he was a member of United Petrotrin FC club whose ground is at Palo Seco Velodrome. He died in Budapest, Hungary.</lex>
       <lex comment="good" lid="Id3">Akeem Adams played for United Petrotrin F.C. at the Palo Seco Velodrome. He now plays for Ferencvarosi TC. Mr. Adams passed away in Budapest, Hungary.</lex>
     </entry>
-    <entry category="Athlete" eid="Id10" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Akeem_Ayers | formerTeam | History_of_the_St._Louis_Rams</otriple>
-        <otriple>History_of_the_St._Louis_Rams | city | St._Louis</otriple>
-        <otriple>Tennessee_Titans | locationCity | Nashville,_Tennessee</otriple>
-        <otriple>History_of_the_St._Louis_Rams | coach | Joe_Vitt</otriple>
-        <otriple>Akeem_Ayers | debutTeam | Tennessee_Titans</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Akeem_Ayers | formerTeam | History_of_the_St._Louis_Rams</otriple>
-        <otriple>History_of_the_St._Louis_Rams | locationCity | St._Louis</otriple>
-        <otriple>Tennessee_Titans | city | Nashville,_Tennessee</otriple>
-        <otriple>History_of_the_St._Louis_Rams | coach | Joe_Vitt</otriple>
-        <otriple>Akeem_Ayers | debutTeam | Tennessee_Titans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akeem_Ayers | formerTeam | St._Louis_Rams</mtriple>
-        <mtriple>St._Louis_Rams | city | St._Louis</mtriple>
-        <mtriple>Tennessee_Titans | city | Nashville,_Tennessee</mtriple>
-        <mtriple>St._Louis_Rams | coach | Joe_Vitt</mtriple>
-        <mtriple>Akeem_Ayers | debutTeam | Tennessee_Titans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Tennessee Titans, based in Nashville, TN, were Akeem Ayers debut team. He also played for the St. Louis Rams that are out of St. Louis and coached by Joe Vitt.</lex>
-      <lex comment="good" lid="Id2">Akeem Ayers first started with the Tennessee Titans of Nashville, TN. He once played for the St. Louis Rams with coach Joe Vitt out of the city of St. Louis.</lex>
-      <lex comment="good" lid="Id3">Akeem Ayers debut team was the Tennessee Titans who are based in Nashville, Tennessee. He went on to play for the St. Louis Rams, who are based in the city of St. Louis and whose coach is Joe Vitt.</lex>
-    </entry>
     <entry category="Athlete" eid="Id11" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Akeem_Ayers | formerTeam | History_of_the_St._Louis_Rams</otriple>
@@ -226,31 +162,6 @@
       <lex comment="good" lid="Id2">Alaa Abdul Zahra belongs to Shabab Al-Ordon Club (in the Jordan Premier League) and plays for, Al Khor located, Al Kharaitiyat SC (managed by Amar Osim).</lex>
       <lex comment="good" lid="Id3">Alaa Abdul-Zahra has played for the club Shabab Al-Ordon which is in the Jordan Premier League. He has also played for Al Khor based side Al Kharaitiyat, which is managed by Amar Osim.</lex>
     </entry>
-    <entry category="Athlete" eid="Id14" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Al_Kharaitiyat_SC | league | Qatar_Stars_League</otriple>
-        <otriple>Al_Kharaitiyat_SC | ground | Al_Khor</otriple>
-        <otriple>Alaa_Abdul-Zahra | clubs | Al-Merrikh_SC</otriple>
-        <otriple>Alaa_Abdul-Zahra | team | Al_Kharaitiyat_SC</otriple>
-        <otriple>Al_Kharaitiyat_SC | manager | Amar_Osim</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alaa_Abdul-Zahra | clubs | Al_Kharaitiyat_SC</otriple>
-        <otriple>Al_Kharaitiyat_SC | league | Qatar_Stars_League</otriple>
-        <otriple>Al_Kharaitiyat_SC | ground | Al_Khor</otriple>
-        <otriple>Alaa_Abdul-Zahra | team | Al-Merrikh_SC</otriple>
-        <otriple>Al_Kharaitiyat_SC | manager | Amar_Osim</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Al_Kharaitiyat_SC | league | Qatar_Stars_League</mtriple>
-        <mtriple>Al_Kharaitiyat_SC | ground | Al_Khor</mtriple>
-        <mtriple>Alaa_Abdul-Zahra | club | Al-Merrikh_SC</mtriple>
-        <mtriple>Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC</mtriple>
-        <mtriple>Al_Kharaitiyat_SC | manager | Amar_Osim</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al-Merrikh SC is a former club of Alaa Abdul Zahra who has also played for the Qatar Stars League side Al Kharaitiyat SC, who are managed by Amar Osim and play their home games at Al Khor.</lex>
-      <lex comment="good" lid="Id2">Alaa Abdul Zahra's former clubs include Al Merrikh SC and Al Kharaitiyat, the latter of which play their home games in the Qatar Stars League at Al Khor. The manager of Al Kharaitiyat SC is Amar Osim.</lex>
-    </entry>
     <entry category="Athlete" eid="Id16" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Alaa_Abdul-Zahra | clubs | Al_Kharaitiyat_SC</otriple>
@@ -277,25 +188,6 @@
       <lex comment="good" lid="Id2">Alaa Abdul Zahra plays for Al Kharaitiyat SC in the Qatar Stars League and is managed by Amar Osim. Alaa Abdul-Zahra is in the Al-Khor Sports Club who play in Al Khor.</lex>
       <lex comment="good" lid="Id3">Alaa Abdul Zahra plays for Al-Khor Sports Club, based in Al-Khor. He has also represented the Qatar Stars League side Al Kharaitiyat SC, which is managed by Amar Osim.</lex>
     </entry>
-    <entry category="Athlete" eid="Id17" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Alaa_Abdul-Zahra | clubs | Al_Kharaitiyat_SC</otriple>
-        <otriple>Al_Kharaitiyat_SC | league | Qatar_Stars_League</otriple>
-        <otriple>Al_Kharaitiyat_SC | ground | Al_Khor</otriple>
-        <otriple>Alaa_Abdul-Zahra | team | Iraq_national_under-20_football_team</otriple>
-        <otriple>Al_Kharaitiyat_SC | manager | Amar_Osim</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC</mtriple>
-        <mtriple>Al_Kharaitiyat_SC | league | Qatar_Stars_League</mtriple>
-        <mtriple>Al_Kharaitiyat_SC | ground | Al_Khor</mtriple>
-        <mtriple>Alaa_Abdul-Zahra | club | Iraq_national_under-20_football_team</mtriple>
-        <mtriple>Al_Kharaitiyat_SC | manager | Amar_Osim</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alaa Abdul Zahra, player for Al Kharaitiyat SC in the Qatar Stars League, located at Al Khor, also plays for the Iraq National Under 20 football team, when he is not being managed by Amar Osim.</lex>
-      <lex comment="good" lid="Id2">Alaa Abdul Zahra has represented the Iraq national football team at Under 20 level. He now plays for the Qatar Stars League side Al Kharaitiyat SC, who play at Al Khor and are managed by Amar Osim.</lex>
-      <lex comment="good" lid="Id3">Alaa Abdul-Zahra belongs to AL Kharaitiyat SC, which is managed by Amar Osim and has its grounds at Al Khor and play in Qatar Stars League. He plays for Iraq's national under-20 football team.</lex>
-    </entry>
     <entry category="Athlete" eid="Id18" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Alaa_Abdul-Zahra | clubs | Al_Kharaitiyat_SC</otriple>
@@ -315,25 +207,6 @@
       <lex comment="good" lid="Id2">Alaa Abdul Zahra's previous clubs have included Sanat Mes Kerman FC and the Qatar Stars League side Al Kharaitiyat SC. Al Khor is the home ground of Kharaitiyat SC and the manager there is Amar Osim.</lex>
       <lex comment="good" lid="Id3">Alaa Abdul Zahra's club is AL Kharaitiyat SC who play in the Qatar Stars League and are located in Al Khor and are managed by Amar Osim. He also plays for Sanat Mes Kerman FC.</lex>
     </entry>
-    <entry category="Athlete" eid="Id19" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Alaa_Abdul-Zahra | clubs | Al_Kharaitiyat_SC</otriple>
-        <otriple>Al_Kharaitiyat_SC | league | Qatar_Stars_League</otriple>
-        <otriple>Al_Kharaitiyat_SC | ground | Al_Khor</otriple>
-        <otriple>Alaa_Abdul-Zahra | team | Tractor_Sazi_F.C.</otriple>
-        <otriple>Al_Kharaitiyat_SC | manager | Amar_Osim</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC</mtriple>
-        <mtriple>Al_Kharaitiyat_SC | league | Qatar_Stars_League</mtriple>
-        <mtriple>Al_Kharaitiyat_SC | ground | Al_Khor</mtriple>
-        <mtriple>Alaa_Abdul-Zahra | club | Tractor_Sazi_F.C.</mtriple>
-        <mtriple>Al_Kharaitiyat_SC | manager | Amar_Osim</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alaa Abdul Zahra's club is AL Kharaitiyat SC who play in the Qatar stars league, are located in Al Khor and are managed by Amar Osim. He also played for the Tractor Sazi FC club.</lex>
-      <lex comment="good" lid="Id2">AL Kharaitiyat SC, who play at Al Khor in the Qatar Stars League, and is managed by Amar Osim, is a former team of Alaa Abdul Zahra. He has also played for Tractor Sazi FC.</lex>
-      <lex comment="good" lid="Id3">Alaa Abdul Zahra played for the club Tractor Sazi F.C. and now plays for the Al Kharaitiyat SC which is in the Qatar Stars League and whose home ground is Al Khor. Amar Osim manages Al Kharaitiyat SC.</lex>
-    </entry>
     <entry category="Athlete" eid="Id20" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Alaa_Abdul-Zahra | clubs | Al_Kharaitiyat_SC</otriple>
@@ -352,25 +225,6 @@
       <lex comment="good" lid="Id1">Alaa Abdul-Zahra, who plays for Al-Wakrah Sport Club, also plays for Al Kharaitiyat SC. The latter team are based in Al Khor and play in the Qatar Stars League under their manager, Amar Osim.</lex>
       <lex comment="good" lid="Id2">Alaa Abdul-Zahra plays for Al-Wakrah Sport Club. His club is Al Kharaitiyat SC who play in the Qatar Stars League, are located at Al Khor and managed by Amar Osim.</lex>
       <lex comment="good" lid="Id3">Alaa Abdul-Zahra plays for Al Kharaitiyat in the Qatar Stars League. The club's home is located in Al Khor and its manager is Amar Osim. Alaa Abdul-Zahra has also played for the Al-Wakrah Sport Club.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id22" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Aleksandr_Chumakov | deathPlace | Moscow</otriple>
-        <otriple>Moscow | leaderName | Sergey_Sobyanin</otriple>
-        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
-        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
-        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksandr_Chumakov | deathPlace | Moscow</mtriple>
-        <mtriple>Moscow | leader | Sergey_Sobyanin</mtriple>
-        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
-        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
-        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandr Chumakov passed away in Moscow where the leader is Sergey Sobyanin. Chumakov was a member of the Soviet Union national football team and also played for FC Torpedo Moscow under the manager, Valery Petrakov.</lex>
-      <lex comment="good" lid="Id2">Valery Petrakov is the manager of FC Torpedo Moscow, the club Aleksandr Chumakov once played for. Aleksandr Chumakov's played for the Soviet Union national football team. He died in Moscow, the leader of which, is Sergey Sobyanin.</lex>
-      <lex comment="good" lid="Id3">Aleksandr Chumakov who plays for the Soviet Union National football team, died in Moscow where the leader is Sergey Sobyanin. He has also played for FC torpedo Moscow who are managed by Valery Petrakov.</lex>
     </entry>
     <entry category="Athlete" eid="Id23" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -417,25 +271,6 @@
       <lex comment="good" lid="Id2">Former Soviet Union international footballer Aleksandr Chumakov died in Russia, where the leader is Vladimir Putin. Chumakov played for FC Torpedo Moscow, where the manager was Valery Petrakov.</lex>
       <lex comment="good" lid="Id3">Aleksandr Chumakov played for FC Torpedo Moscow and the Soviet Union national football team. He died in Russia, a country whose leader is Vladimir Putin. FC Torpedo Moscow are managed by Valery Petrakov.</lex>
     </entry>
-    <entry category="Athlete" eid="Id27" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Aleksandr_Prudnikov | clubs | FC_Amkar_Perm</otriple>
-        <otriple>FC_Spartak_Moscow | ground | Otkrytiye_Arena</otriple>
-        <otriple>Aleksandr_Prudnikov | youthclubs | FC_Spartak_Moscow</otriple>
-        <otriple>Aleksandr_Prudnikov | team | FC_Terek_Grozny</otriple>
-        <otriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksandr_Prudnikov | club | FC_Amkar_Perm</mtriple>
-        <mtriple>FC_Spartak_Moscow | ground | Otkrytiye_Arena</mtriple>
-        <mtriple>Aleksandr_Prudnikov | youthclub | FC_Spartak_Moscow</mtriple>
-        <mtriple>Aleksandr_Prudnikov | club | FC_Terek_Grozny</mtriple>
-        <mtriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandr Prudnikov played for FC Terek Grozny, managed by Rashid Rakhimov. He belongs to FC Spartak Moscow, with its grounds at Otkrytiye Arena, and plays for FC Amkar Perm.</lex>
-      <lex comment="good" lid="Id2">Aleksandr Prudnikov plays for or has played for, FC Amkar Perm, FC Terek Grozny and FC Spartak Moscow's youth team who play at the Otkrytiye Arena. The manager of FC Terek Grozny is Rashid Rakhimov.</lex>
-      <lex comment="good" lid="Id3">Aleksandr Prudnikov has played for FC Spartak Moscow's youth team, for FC Amkar Perm and for FC Terek Grozny. FC Spartak Moscow play at the Otkrytiye Arena. FC Terek Grozny are managed by Rashid Rakhimov.</lex>
-    </entry>
     <entry category="Athlete" eid="Id28" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Aleksandr_Prudnikov | clubs | FC_Amkar_Perm</otriple>
@@ -454,32 +289,6 @@
       <lex comment="good" lid="Id1">Aleksandr Prudnikov has played for FC Amkar Perm, which was managed by Gadzhi Gadzhiyev. He has also represented FC Terek Grozny, whose ground is in Grozny, as well as playing for FC Spartak Moscow's youth side.</lex>
       <lex comment="good" lid="Id2">Former FC Spartak Moscow youth player Aleksandr Prudnikov's former clubs include Grozny based FC Terek Grozny and FC Amkar Perm, which is managed by Gadzhi Gadzhiyev.</lex>
       <lex comment="good" lid="Id3">Aleksandr Prudnikov plays for the FC Amkar Perm football club who are managed by Gadzhi Gadzhiyev. He is also a member of the youth side of FC Spartak Moscow and has played for FC Terek Grozny who are based at Grozny.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id29" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Aleksandre_Guruli | team | Olympique_Lyonnais</otriple>
-        <otriple>Olympique_Lyonnais | chairman | Jean-Michel_Aulas</otriple>
-        <otriple>Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais</otriple>
-        <otriple>FC_Dinamo_Batumi | manager | Levan_Khomeriki</otriple>
-        <otriple>Aleksandre_Guruli | clubs | FC_Dinamo_Batumi</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Olympique_Lyonnais | chairman | Jean-Michel_Aulas</otriple>
-        <otriple>Aleksandre_Guruli | clubs | Olympique_Lyonnais</otriple>
-        <otriple>Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais</otriple>
-        <otriple>Aleksandre_Guruli | team | FC_Dinamo_Batumi</otriple>
-        <otriple>FC_Dinamo_Batumi | manager | Levan_Khomeriki</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksandre_Guruli | club | Olympique_Lyonnais</mtriple>
-        <mtriple>Olympique_Lyonnais | chairman | Jean-Michel_Aulas</mtriple>
-        <mtriple>Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais</mtriple>
-        <mtriple>FC_Dinamo_Batumi | manager | Levan_Khomeriki</mtriple>
-        <mtriple>Aleksandre_Guruli | club | FC_Dinamo_Batumi</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Olympique Lyonnais play their home games at the Parc Olympique Lyonnais and are chaired by Jean-Michel Aulas. Aleksandre Guruli, whose club is Olympique Lyonnais, played for FC Dinamo Batumi which is managed by, Levan Khomeriki.</lex>
-      <lex comment="good" lid="Id2">Jean-Michel Aulas is the chairman of Olympique Lyonnais, the home ground og which is, Parc Olympique Lyonnais stadium. Former Olympique Lyonnais club player, Aleksandre Guruli. plays for FC Dinamo Batumi which is managed by Levan Khomeriki.</lex>
-      <lex comment="good" lid="Id3">Aleksandre Guruli's club is Olympique Lyonnais whose home territory is at the Parc Olympique Lyonnais stadium and is chaired by Jean-Michel Aulas. Mr. Guruli plays for Dinamo Batumi FC that has Levan Khomeriki as its manager.</lex>
     </entry>
     <entry category="Athlete" eid="Id30" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -506,32 +315,6 @@
       <lex comment="good" lid="Id1">Jean-Michel Aulas owns the Olympique Lyonnais FC out of the Parc Olympique Lyonnais stadium, where Aleksandre Gurul is a member. Aleksandre Guruli also played for the FC Dinamo Batumi of which Levan Khomeriki is the manager.</lex>
       <lex comment="good" lid="Id2">Footballer, Aleksandre Guruli plays for FC Dinamo Batumi whose manager is Levan Khomeriki. He plays also for the Olympique Lyonnais club whose owner is Jean-Michel Aulas and whose home ground is the Parc Olympique Lyonnais.</lex>
       <lex comment="good" lid="Id3">Aleksandre Guruli played for the Olympique Lyonnais club who are owned by Jean-Michel Aulas and play their home games at the Parc Olympique Lyonnais. He also played for FC Dinamo Batumi who are managed by Levan Khomeriki.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id32" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Alessio_Romagnoli | clubs | A.C._Milan</otriple>
-        <otriple>A.C._Milan | manager | Siniša_Mihajlović</otriple>
-        <otriple>Alessio_Romagnoli | position | Defender_(association_football)</otriple>
-        <otriple>A.S._Roma | league | Serie_A</otriple>
-        <otriple>Alessio_Romagnoli | team | A.S._Roma</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alessio_Romagnoli | team | A.C._Milan</otriple>
-        <otriple>A.C._Milan | manager | Siniša_Mihajlović</otriple>
-        <otriple>Alessio_Romagnoli | position | Defender_(association_football)</otriple>
-        <otriple>A.S._Roma | league | Serie_A</otriple>
-        <otriple>Alessio_Romagnoli | clubs | A.S._Roma</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alessio_Romagnoli | club | A.C._Milan</mtriple>
-        <mtriple>A.C._Milan | manager | Siniša_Mihajlović</mtriple>
-        <mtriple>Alessio_Romagnoli | position | Defender_(football)</mtriple>
-        <mtriple>A.S._Roma | league | Serie_A</mtriple>
-        <mtriple>Alessio_Romagnoli | club | A.S._Roma</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Defender Alessio Romagnoli has played in Serie A with A.S. Roma and he has also played for A.C. Milan, where the manager was Siniša Mihajlović.</lex>
-      <lex comment="good" lid="Id2">Alessio Romagnoli has played football for A.C. Milan and A.S. Roma. His position is Defender. A.C. Milan are managed by Siniša Mihajlović. A.S. Roma are in the Serie A.</lex>
-      <lex comment="good" lid="Id3">Alessio Romagnoli played defender for the A.C. Milan team whose manager is Siniša Mihajlović. He also plays for A.S. Roma in Serie A.</lex>
     </entry>
     <entry category="Athlete" eid="Id33" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -590,25 +373,6 @@
       <lex comment="good" lid="Id2">Alessio Romagnoli belongs to Italy's national under 17's and plays for A.S. Roma. He is current with AC Milan, which id managed by Siniša Mihajlović and includes chairman Silvio Berlusconi.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli is in the club Italy national under 17's and plays for A.S. Roma. Mr. Romagnoli is now with A.C. Milan whose chairman is Silvio Berlusconi and manager is Siniša Mihajlović.</lex>
     </entry>
-    <entry category="Athlete" eid="Id39" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Alessio_Romagnoli | currentclub | A.C._Milan</otriple>
-        <otriple>A.C._Milan | manager | Siniša_Mihajlović</otriple>
-        <otriple>A.C._Milan | chairman | Silvio_Berlusconi</otriple>
-        <otriple>Alessio_Romagnoli | team | Italy_national_under-19_football_team</otriple>
-        <otriple>Alessio_Romagnoli | clubs | "→ Sampdoria"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alessio_Romagnoli | currentclub | A.C._Milan</mtriple>
-        <mtriple>A.C._Milan | manager | Siniša_Mihajlović</mtriple>
-        <mtriple>A.C._Milan | chairman | Silvio_Berlusconi</mtriple>
-        <mtriple>Alessio_Romagnoli | club | Italy_national_under-19_football_team</mtriple>
-        <mtriple>Alessio_Romagnoli | club | U.C._Sampdoria</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alessio Romagnoli is connected to UC Sampdoria and played for the Italian national under-19 football team. He is currently with AC Milan who are managed by Sinisa Mihajlovic and chaired by Silvio Berlusconi.</lex>
-      <lex comment="good" lid="Id2">Alessio Romagnoli, who had played for the Italian national under - 19 football team, is currently an A.C Milan player and he is also connected to UC Sampdoria. Silvio Berlusconi is the chairman of A.C. Milan and the team is managed by Sinisa Mihajlovic.</lex>
-      <lex comment="good" lid="Id3">Alessio Romagnoli belongs to A.C. Milan, which is managed by Siniša Mihajlović and includes chairman Silvio Berlusconi. Romagnoli played for Italy's national under-19 football team and has connections to UC Sampdoria.</lex>
-    </entry>
     <entry category="Athlete" eid="Id41" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Aleksandre_Guruli | team | FC_Karpaty_Lviv</otriple>
@@ -661,25 +425,6 @@
       <lex comment="good" lid="Id2">Aleksandr Prudnikov plays for FC Amkar Perm (managed by Gadzhi Gadzhiyev) and the FC Kuban Krasnodar club. He was a member of FC Spartak Moscow, with its grounds at Otkrytiye Arena.</lex>
       <lex comment="good" lid="Id3">FC Spartak Moscow play at the Otkrytiye Arena and Aleksandr Prudnikov played for their youth team. He also plays for FC Amkar Perm under Gadzhi Gadzhiyev's management, as well as FC Kuban Krasnodar.</lex>
     </entry>
-    <entry category="Athlete" eid="Id45" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>FC_Spartak_Moscow | ground | Otkrytiye_Arena</otriple>
-        <otriple>Aleksandr_Prudnikov | youthclubs | FC_Spartak_Moscow</otriple>
-        <otriple>Aleksandr_Prudnikov | team | FC_Terek_Grozny</otriple>
-        <otriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</otriple>
-        <otriple>Aleksandr_Prudnikov | clubs | FC_Dynamo_Moscow</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>FC_Spartak_Moscow | ground | Otkrytiye_Arena</mtriple>
-        <mtriple>Aleksandr_Prudnikov | youthclub | FC_Spartak_Moscow</mtriple>
-        <mtriple>Aleksandr_Prudnikov | club | FC_Terek_Grozny</mtriple>
-        <mtriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</mtriple>
-        <mtriple>Aleksandr_Prudnikov | club | FC_Dynamo_Moscow</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandr Prudnikov played youth football for FC Spartak Moscow, whose senior team play their home games at the Otkrytiye Arena. He later played for FC Dynamo Moscow and FC Terek Grozny, whose manager is Rashid Rakhimov.</lex>
-      <lex comment="good" lid="Id2">Aleksandr Prudnikov played for the youth football club, FC Spartak Moscow which play at Otkrytiye Arena, but he currently plays for FC Dynamo Moscow. FC Terek Grozny is managed by Rashid Rakhimov and also includes the footballer, Aleksandr Prudnikov.</lex>
-      <lex comment="good" lid="Id3">FC Spartak Moscow play at their home ground at Otkrytiye Arena and Aleksandr Prudnikov was a member of their youth football club. His club is FC Dynamo Moscow and he is also in the FC Terek Grozny club under the management of Rashid Rakhimov.</lex>
-    </entry>
     <entry category="Athlete" eid="Id46" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>FC_Spartak_Moscow | ground | Otkrytiye_Arena</otriple>
@@ -698,32 +443,6 @@
       <lex comment="good" lid="Id1">Aleksandr Prudnikov, who is a member of the youth side of FC Spartak Moscow also plays for FC Kuban Krasnodar. In addition, he is in the FC Terek Grozny club managed by Rashid Rakhimov. The ground of Spartak Moscow is Otkrytiye Arena.</lex>
       <lex comment="good" lid="Id2">Aleksandr Prudnikov was with the FC Spartak Moscow's youth team out of the Otkrytiye Arena. He also played for FC Terek Grozny managed by Rashid Rakhimov. Mr. Prudnikov is now playing for the Kuban Krasnodar club.</lex>
       <lex comment="good" lid="Id3">Aleksandr Prudnikov has played for FC Kuban Krasnodar and also FC Terek Grozny, where the manager was Rashid Rakhimov. Prudnikov played youth football at FC Spartak Moscow, whose home ground is the Otkrytiye Arena.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id48" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>FC_Spartak_Moscow | ground | Otkrytiye_Arena</otriple>
-        <otriple>Aleksandr_Prudnikov | youthclubs | FC_Spartak_Moscow</otriple>
-        <otriple>Aleksandr_Prudnikov | clubs | "→ Tom Tomsk"@en</otriple>
-        <otriple>Aleksandr_Prudnikov | team | FC_Amkar_Perm</otriple>
-        <otriple>FC_Amkar_Perm | manager | Gadzhi_Gadzhiyev</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aleksandr_Prudnikov | clubs | FC_Amkar_Perm</otriple>
-        <otriple>FC_Spartak_Moscow | ground | Otkrytiye_Arena</otriple>
-        <otriple>Aleksandr_Prudnikov | team | FC_Tom_Tomsk</otriple>
-        <otriple>Aleksandr_Prudnikov | youthclubs | FC_Spartak_Moscow</otriple>
-        <otriple>FC_Amkar_Perm | manager | Gadzhi_Gadzhiyev</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>FC_Spartak_Moscow | ground | Otkrytiye_Arena</mtriple>
-        <mtriple>Aleksandr_Prudnikov | youthclub | FC_Spartak_Moscow</mtriple>
-        <mtriple>Aleksandr_Prudnikov | club | FC_Tom_Tomsk</mtriple>
-        <mtriple>Aleksandr_Prudnikov | club | FC_Amkar_Perm</mtriple>
-        <mtriple>FC_Amkar_Perm | manager | Gadzhi_Gadzhiyev</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandr Prudnikov's former teams include FC Tom Tomsk and FC Amkar Perm, the latter of which is managed by Gadzhi Gadzhiyev. Prudnikov was part of the youth team of FC Spartak Moscow, whose home games are played at the Otkrytiye Arena.</lex>
-      <lex comment="good" lid="Id2">Aleksandr Prudnikov played youth football for FC Spartak Moscow, whose home ground is the Otkrytiye Arena. He later played for FC Tom Tomsk and FC Amkar Perm, where the manager is Gadzhi Gadzhiyev.</lex>
-      <lex comment="good" lid="Id3">FC Spartak Moscow plays at Otkrytiye Arena, which hosts Aleksandr Prudnikov, who plays for FC Tom Tomsk and FC Amkar Perm, managed by Gadzhi Gadzhiyev.</lex>
     </entry>
     <entry category="Athlete" eid="Id50" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -763,32 +482,6 @@
       <lex comment="good" lid="Id2">Akeem Dent made his debut for the Atlanta based team the Atlanta Falcons which is owned by Arthur Blank. He later played for the Houston Texans, who play in Texas.</lex>
       <lex comment="good" lid="Id3">Akeem Dent made his debut for Atlanta based Atlanta Falcons, owned by Arthur Blank. Dent later played for the team Houston Texans, of Texas.</lex>
     </entry>
-    <entry category="Athlete" eid="Id53" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Houston_Texans | city | Texas</otriple>
-        <otriple>Houston_Texans | owner | Bob_McNair</otriple>
-        <otriple>Akeem_Dent | debutTeam | Atlanta_Falcons</otriple>
-        <otriple>Akeem_Dent | formerTeam | Houston_Texans</otriple>
-        <otriple>Atlanta_Falcons | locationCity | Atlanta</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Houston_Texans | locationCity | Texas</otriple>
-        <otriple>Houston_Texans | owner | Bob_McNair</otriple>
-        <otriple>Akeem_Dent | debutTeam | Atlanta_Falcons</otriple>
-        <otriple>Akeem_Dent | formerTeam | Houston_Texans</otriple>
-        <otriple>Atlanta_Falcons | city | Atlanta</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Houston_Texans | city | Texas</mtriple>
-        <mtriple>Houston_Texans | owner | Bob_McNair</mtriple>
-        <mtriple>Akeem_Dent | debutTeam | Atlanta_Falcons</mtriple>
-        <mtriple>Akeem_Dent | formerTeam | Houston_Texans</mtriple>
-        <mtriple>Atlanta_Falcons | city | Atlanta</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Dent made his debut with the Atlanta Falcons who play in the city of Atlanta. He formerly played with the Houston Texans who are based in Texas and owned by Bob McNair.</lex>
-      <lex comment="good" lid="Id2">Akeem Dent made his debut with the Atlanta Falcons who play in Atlanta. His former team were the Houston Texans who are based in Texas and owned by Bob McNair.</lex>
-      <lex comment="good" lid="Id3">Akeem Dent's first team were the Atlanta Falcons who play in Atlanta. He was also formerly with the Houston Texans who play in Texas and are owned by Bob McNair.</lex>
-    </entry>
     <entry category="Athlete" eid="Id54" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Houston_Texans | locationCity | Texas</otriple>
@@ -813,25 +506,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Dent, who made his debut with the Atlanta Falcons, was formerly with the Houston Texans who are based in the city of Houston, play in Texas and are owned by Bob McNair.</lex>
       <lex comment="good" lid="Id2">Akeem Dent made his debut with the Atlanta Falcons but previously played for the Houston Texans. The latter team are based in the city of Houston, play in Texas and are owned by Bob McNair.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id56" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Los_Angeles_Rams | city | Los_Angeles_Memorial_Coliseum</otriple>
-        <otriple>Los_Angeles_Rams | locationCity | Los_Angeles</otriple>
-        <otriple>Akeem_Ayers | formerTeam | Los_Angeles_Rams</otriple>
-        <otriple>Los_Angeles_Rams | coach | Jeff_Fisher</otriple>
-        <otriple>Akeem_Ayers | debutTeam | Tennessee_Titans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Los_Angeles_Rams | city | Los_Angeles_Memorial_Coliseum</mtriple>
-        <mtriple>Los_Angeles_Rams | city | Los_Angeles</mtriple>
-        <mtriple>Akeem_Ayers | formerTeam | Los_Angeles_Rams</mtriple>
-        <mtriple>Los_Angeles_Rams | coach | Jeff_Fisher</mtriple>
-        <mtriple>Akeem_Ayers | debutTeam | Tennessee_Titans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Ayers made his debut with the Tennessee Titans and has also played with the Los Angeles Rams. They are based in LA at the Los Angeles Memorial Coliseum and are coached by Jeff Fisher.</lex>
-      <lex comment="good" lid="Id2">Akeem Ayers made his debut for the Tennessee Titans and later played for the Los Angeles Rams, who play at the Los Angeles Memorial Coliseum and whose coach is Jeff Fisher.</lex>
-      <lex comment="good" lid="Id3">The Tennessee Titans were Akeem Ayers debut team. He played also for the LA Rams that are based in that same city and play at LA Memorial Coliseum. The coach for the Rams is Jeff Fisher.</lex>
     </entry>
     <entry category="Athlete" eid="Id57" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -897,25 +571,6 @@
       <lex comment="good" lid="Id2">Peñarol, where Abel Hernandez played youth football, are part of the Uruguayan Primera División. Hernandez later played for Hull City and the club U.S. Città di Palermo, where the manager was Giuseppe Iachini .</lex>
       <lex comment="good" lid="Id3">Abel Hernández played youth football for Peñarol who are part of the Uruguayan Primera División. He has also played for Hull City and U.S. Città di Palermo, where the manager is Giuseppe Iachini.</lex>
     </entry>
-    <entry category="Athlete" eid="Id63" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Peñarol | league | Uruguayan_Primera_División</otriple>
-        <otriple>Abel_Hernández | youthclubs | Peñarol</otriple>
-        <otriple>U.S._Città_di_Palermo | manager | Giuseppe_Iachini</otriple>
-        <otriple>Abel_Hernández | team | Uruguay_national_football_team</otriple>
-        <otriple>Abel_Hernández | clubs | U.S._Città_di_Palermo</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Peñarol | league | Uruguayan_Primera_División</mtriple>
-        <mtriple>Abel_Hernández | youthclub | Peñarol</mtriple>
-        <mtriple>U.S._Città_di_Palermo | manager | Giuseppe_Iachini</mtriple>
-        <mtriple>Abel_Hernández | club | Uruguay_national_football_team</mtriple>
-        <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abel Hernández was part of the youth club Peñarol that participates in the Uruguayan Primera División. Abel Hernández also plays with the U.S. Città di Palermo club which is in the Uruguay National football team. The Palermo club is managed by Giuseppe Iachini.</lex>
-      <lex comment="good" lid="Id2">In his youth Abel Hernandez played in the Uruguayan Primera Division with Penarol. His clubs are the Uruguay National Football team and also US Citta di Palermo which is managed by Giuseppe Iachini.</lex>
-      <lex comment="good" lid="Id3">Penarol, where Abel Hernandez played youth football, is in the Uruguayan Primera División. Hernandez, who represented the Uruguay national team, played for U.S. Città di Palermo, a club managed by Giuseppe Iachini.</lex>
-    </entry>
     <entry category="Athlete" eid="Id64" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Tennessee_Titans | city | Nashville,_Tennessee</otriple>
@@ -941,25 +596,6 @@
       <lex comment="good" lid="Id1">Akeem Ayers debuted with Nashville based, Tennessee Titans and played with the Los Angeles Rams, who are coached by Jeff Fisher and plays in Los Angeles.</lex>
       <lex comment="good" lid="Id2">Akeem Ayers made his debut with the Tennessee Titans who are based in Nashville, Tennessee. He previously played for the LA based Los Angeles Rams who are coached by Jeff Fisher.</lex>
       <lex comment="good" lid="Id3">Akeem Ayers made his debut for the Tennessee Titans, based in Nashville, Tennessee. He later played for the Los Angeles Rams, who play in LA and whose coach is Jeff Fisher.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id65" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
-        <otriple>Budapest | country | Hungary</otriple>
-        <otriple>Akeem_Adams | team | Central_F.C.</otriple>
-        <otriple>Akeem_Adams | deathPlace | Budapest</otriple>
-        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco</mtriple>
-        <mtriple>Budapest | country | Hungary</mtriple>
-        <mtriple>Akeem_Adams | club | Central_F.C.</mtriple>
-        <mtriple>Akeem_Adams | deathPlace | Budapest</mtriple>
-        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Adams' club is Central F.C.and is part of the United Petrotrin F.C. that has their home ground in Palo Seco. Mr. Adams died in Budapest, Hungary.</lex>
-      <lex comment="good" lid="Id2">Akeem Adams, who died in the Hungarian city of Budapest, represented Central FC and also United Petrotrin FC, who play at Palo Seco.</lex>
-      <lex comment="good" lid="Id3">Akeem Adams, whose club was Central F.C., played for United Petrotrin F.C., the ground of which is, Palo Seco. Akeem Adams died in Budapest, a city in Hungary.</lex>
     </entry>
     <entry category="Athlete" eid="Id66" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>

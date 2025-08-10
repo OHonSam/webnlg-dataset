@@ -16,21 +16,6 @@
       <lex comment="good" lid="Id2">The nickname of the 1 Decembrie 1918 University in Alba Iulia, Alba, is Uab.</lex>
       <lex comment="good" lid="Id3">The 1 Decembrie 1918 University is also known as Uab and located in Alba Iulia, Alba.</lex>
     </entry>
-    <entry category="University" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | rector | "Breaz Valer Daniel"@en</otriple>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1_Decembrie_1918_University | rector | "Breaz Valer Daniel"</mtriple>
-        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
-        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1 Decembrie 1918 University is located in Alba Iulia, Romania and its rector is Breaz Valer Daniel.</lex>
-      <lex comment="good" lid="Id2">The rector of 1 Decembrie 1918 University in Alba Iulia in Romania is Breaz Valer Daniel.</lex>
-      <lex comment="good" lid="Id3">The rector of 1 Decembrie 1918 University, in Alba Iulia, Romania, is Breaz Valer Daniel.</lex>
-    </entry>
     <entry category="University" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>AWH_Engineering_College | country | India</otriple>
@@ -44,21 +29,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AWH Engineering College was established in India in 2001 and has 250 academic staff.</lex>
       <lex comment="good" lid="Id2">AWH Engineering College was established in 2001 and is located in India. It currently has 250 members of staff.</lex>
-    </entry>
-    <entry category="University" eid="Id8" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>AWH_Engineering_College | country | India</otriple>
-        <otriple>AWH_Engineering_College | state | Kerala</otriple>
-        <otriple>Kerala | northwest | Mahé,_India</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AWH_Engineering_College | country | India</mtriple>
-        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
-        <mtriple>Kerala | hasToItsNorthwest | Mahé,_India</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AWH Engineering College is located in Kerala, India. Kerala has Mahe, India to its northwest.</lex>
-      <lex comment="good" lid="Id2">The AWH Engineering College is located in the state of Kerala in India which is southeast of Mahe, India.</lex>
-      <lex comment="good" lid="Id3">AWH Engineering College is located in Kerala, India which is southeast of Mahe.</lex>
     </entry>
     <entry category="University" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -74,20 +44,6 @@
       <lex comment="good" lid="Id1">There are 250 academic staff at the AWH Engineering College in the state of Kerala. The College was established in 2001.</lex>
       <lex comment="good" lid="Id2">AWH Engineering College was established in 2001 in Kerala. It has an academic staff of 250.</lex>
       <lex comment="good" lid="Id3">The AWH Engineering College was established in 2001 in Kerala and has a staff compliment of 250.</lex>
-    </entry>
-    <entry category="University" eid="Id11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | facultySize | "100"^^xsd:nonNegativeInteger</otriple>
-        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
-        <mtriple>Switzerland | leader | Johann_Schneider-Ammann</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Switzerland has 100 academic staff. Switzerland's leader is Johann Schneider-Ammann.</lex>
-      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio has 100 academic staff and is located in Switzerland where Johann Schneider-Ammann is the country's leader.</lex>
     </entry>
     <entry category="University" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -133,21 +89,6 @@
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is in Switzerland. The Swiss anthem is the Swiss Psalm and its leader is Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id2">Accademia di Architettura di Mendrisio is located in Switzerland. The country's leader is Johann Schneider-Ammann and their national anthem is the Swiss Psalm.</lex>
     </entry>
-    <entry category="University" eid="Id16" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
-        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
-        <otriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
-        <mtriple>Switzerland | leader | Johann_Schneider-Ammann</mtriple>
-        <mtriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Federal Chancellor of Switzerland is called Johann Schneider-Ammann. The Accademia di Architettura di Mendrisio is located in Switzerland.</lex>
-      <lex comment="good" lid="Id2">Switzerland's leader is Federal Chancellor Johann Schneider-Ammann. The country is the location of the Accademia di Architettura di Mendrisio.</lex>
-      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio is located in Switzerland. The country's leader Johann Schneider-Ammann is officially known as the Federal Chancellor.</lex>
-    </entry>
     <entry category="University" eid="Id18" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
@@ -162,21 +103,6 @@
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio was established in Mendrisio in 1996. Its dean is Mario Botta.</lex>
       <lex comment="good" lid="Id2">Mario Botta is Dean of the Accademia di Architettura di Mendrisio which is located in the city of Mendrisio and was established in 1996.</lex>
       <lex comment="good" lid="Id3">The dean of the Accademia di Architettura di Mendrisio is Mario Botta and the university was established in 1996.</lex>
-    </entry>
-    <entry category="University" eid="Id20" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
-        <otriple>Mendrisio | neighboringMunicipalities | Meride</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
-        <mtriple>Mendrisio | neighboringMunicipality | Meride</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio and its dean is Mario Botta. The neighbouring municipality of Mendrisio is Meride.</lex>
-      <lex comment="good" lid="Id2">The Dean of the Accademia di Architettura di Mendrisio is Mario Botta. It is located in the city of Mendrisio, a neighbouring municipality of Meride.</lex>
-      <lex comment="good" lid="Id3">The dean of Accademia di Architettura di Mendrisio is Mario Botta. A neighbouring municipality to Mendrisio is Meride.</lex>
     </entry>
     <entry category="University" eid="Id21" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -271,20 +197,6 @@
       <lex comment="good" lid="Id2">The Acharya Institute of Technology is located in Soldevanahalli, at the address Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It's affiliated with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University. Its campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
     </entry>
-    <entry category="University" eid="Id29" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
-        <otriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology is located in Soldevanahalli, at the address Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. Its director is Dr. G. P. Prabhukumar.</lex>
-      <lex comment="good" lid="Id2">The director of the Acharya Institute of Technology is Dr. G. P. Prabhukumar and the university is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
-    </entry>
     <entry category="University" eid="Id31" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
@@ -315,21 +227,6 @@
       <lex comment="good" lid="Id2">The Acharya Institute of Technology was established in the state of Karnataka, India, in 2000.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology was established in 2000 in Karnataka, India.</lex>
     </entry>
-    <entry category="University" eid="Id35" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education</otriple>
-        <otriple>All_India_Council_for_Technical_Education | location | Mumbai</otriple>
-        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | wasGivenTheTechnicalCampusStatusBy | All_India_Council_for_Technical_Education</mtriple>
-        <mtriple>All_India_Council_for_Technical_Education | location | Mumbai</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology is located in Bangalore. It was given the "Technical Campus" status by the All India Council for Technical Education, which is located in Mumbai.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology in Bangalore was given the "Technical Campus" status by the All India Council for Technical Education in Mumbai.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology, Bangalore, was given 'Technical Campus' status by the All India Council for Technical Education in Mumbai.</lex>
-    </entry>
     <entry category="University" eid="Id36" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
         <otriple>Alba_Iulia | country | Romania</otriple>
@@ -343,20 +240,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1 Decembrie 1918 University is in Alba Iulia, Romania. Bucharest is the capital of Romania.</lex>
       <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is located in the city of Alba Iulia, Romania (capital Bucharest).</lex>
-    </entry>
-    <entry category="University" eid="Id37" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Alba_Iulia | isPartOf | Alba_County</otriple>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alba_Iulia | isPartOf | Alba_County</mtriple>
-        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
-        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is in Alba Iulia, Alba County, Romania.</lex>
-      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is located in the city of Alba Iulia, Alba County, Romania.</lex>
     </entry>
     <entry category="University" eid="Id38" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -372,20 +255,6 @@
       <lex comment="good" lid="Id1">Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in Bangalore. Its founder is Kempe Gowda.</lex>
       <lex comment="good" lid="Id2">Bangalore was founded by Kempe Gowda and is the location of the Acharya Institute of Technology which is affiliated with Visvesvaraya Technological University.</lex>
     </entry>
-    <entry category="University" eid="Id39" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Bangalore | founder | Kempe_Gowda_I</otriple>
-        <otriple>Acharya_Institute_of_Technology | president | "B.M. Reddy"@en</otriple>
-        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Bangalore | founder | Kempe_Gowda_I</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | president | "B.M. Reddy"</mtriple>
-        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Kempe Gowda is the founder of Bangalore, the location of the Acharya Institute of Technology whose President is B M Reddy.</lex>
-      <lex comment="good" lid="Id2">The President of the Acharya Institute of Technology is B.M. Reddy and the university is located in Bangalore. The city was foundered by Kempe Gowda I.</lex>
-    </entry>
     <entry category="University" eid="Id41" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Kerala | leaderName | Kochi</otriple>
@@ -400,21 +269,6 @@
       <lex comment="good" lid="Id1">AWH Engineering College at Kerala has 250 academic staff. Kerala's leader is Kochi.</lex>
       <lex comment="good" lid="Id2">Kochi is the leader of Kerala which is the location of the AWH Engineering College that has an academic staff of 250.</lex>
       <lex comment="good" lid="Id3">With a staff compliment of 250, AWH Engineering College is located in Kerala, the leader of that state is named Kochi.</lex>
-    </entry>
-    <entry category="University" eid="Id43" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Mendrisio | neighboringMunicipality | Meride</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Mendrisio | neighboringMunicipality | Meride</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Accademia di Architettura di Mendrisio was established in 1996. It is located in Mendrisio, which has Meride as its neighbouring municipality as Meride.</lex>
-      <lex comment="good" lid="Id2">The .Accademia di Architettura di Mendrisio was established in 1996 within the city of Mendrisio, a neighbouring municipality to Meride .</lex>
-      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio was established in 1996. It is situated in Mendrisio, which is near to Meride.</lex>
     </entry>
     <entry category="University" eid="Id44" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -434,20 +288,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The capital of Romania is Bucharest. The country is the location of the 1 Decembrie 1918 University and the home of one of the ethnic groups of Romania who are the Germans of Romania.</lex>
       <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is in Romania. Two facts about Romania are its capital is Bucharest, and one of its ethnic groups are known as the Germans of Romania.</lex>
-    </entry>
-    <entry category="University" eid="Id46" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
-        <otriple>Romania | capital | Bucharest</otriple>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Romania | leaderTitle | Prime_Minister_of_Romania</mtriple>
-        <mtriple>Romania | capital | Bucharest</mtriple>
-        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1 Decembrie 1918 University is located in Romania. Romania has a Prime Minister as its leader, and its capital is Bucharest.</lex>
-      <lex comment="good" lid="Id2">1 Decembrie 1918 University is located in Romania. Bucharest is the capital of the country, which is led by a Prime Minister.</lex>
     </entry>
     <entry category="University" eid="Id47" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -484,21 +324,6 @@
       <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University is affiliated to the European University Association. There are 737 academic staff and 16000 students.</lex>
       <lex comment="good" lid="Id3">With a staff of 737 and a student population of 1600, the School of Business and Social Sciences at the Aarhus University has an affiliation with the European University Association.</lex>
     </entry>
-    <entry category="University" eid="Id50" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
-        <otriple>Aarhus | northeast | Mols</otriple>
-        <otriple>Aarhus | governmentType | Magistrate</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
-        <mtriple>Aarhus | hasToItsNortheast | Mols</mtriple>
-        <mtriple>Aarhus | governmentType | Magistrate</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aarhus has a magistrate government. To its northeast is Mols. The School of Business and Social Sciences at the Aarhus University is located in Aarhus.</lex>
-      <lex comment="good" lid="Id2">Mols is northeast of Aarhus where the government is that of magistrate. The city is the location of the School of Business and Social Sciences at Aarhus University.</lex>
-      <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University, located in Aarus which is governed by a magistrate and is southwest of Mols.</lex>
-    </entry>
     <entry category="University" eid="Id52" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
@@ -514,20 +339,6 @@
       <lex comment="good" lid="Id2">The city of Aarhus has a magistrate type of government and is the location of the School of Business and Social Sciences at Aarhus University which was established in 1928.</lex>
       <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University was established in 1928. Aarus is governed by a magistrate.</lex>
     </entry>
-    <entry category="University" eid="Id53" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
-        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
-        <otriple>Denmark | religion | Church_of_Denmark</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
-        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
-        <mtriple>Denmark | religion | Church_of_Denmark</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University is located in Denmark. Denmark's leader is Lars Lokke Rasmussen and Denmark's religion is the Church of Denmark.</lex>
-      <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University is located in Denmark. The leader of the country is Lars Lokke Rasmussen, and the state religion is the Church of Denmark.</lex>
-    </entry>
     <entry category="University" eid="Id55" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | "Universitas Aarhusiensis"@en</otriple>
@@ -542,21 +353,6 @@
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University (Latin name - "Universitas Aarhusiensis" was established in 1928 and it is affiliated with the European University Association.</lex>
       <lex comment="good" lid="Id2">"Universitas Aarhusiensis" is the latin name of the School of Business and Social Sciences at Aarhus University which is affiliated to the European University Association. The School was established in 1928.</lex>
       <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University, affiliated with the European University Association, was established in 1928. Its Latin name is Universitas Aarhusiensis.</lex>
-    </entry>
-    <entry category="University" eid="Id56" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University is located in Denmark, has 16,000 students and was established in 1928.</lex>
-      <lex comment="good" lid="Id2">The School of Business and Social Sciences at Aarhus University in Denmark was established in 1928 and has 16000 students.</lex>
-      <lex comment="good" lid="Id3">School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928 and currently has a student body of 16000.</lex>
     </entry>
     <entry category="University" eid="Id58" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

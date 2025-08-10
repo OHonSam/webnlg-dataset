@@ -1,19 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Astronaut" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alan_Bean | birthDate | "1932-03-15"</otriple>
-        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Bean | birthDate | "1932-03-15"</mtriple>
-        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Bean was born in Wheeler, Texas on Mar 15, 1932 .</lex>
-      <lex comment="good" lid="Id2">Alan Bean was born on Mar 15, 1932, in Wheeler, Texas.</lex>
-      <lex comment="good" lid="Id3">Alan Bean was born in Wheeler, Texas on March 15th, 1932.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Alan_Bean | occupation | Test_pilot</otriple>
@@ -47,19 +34,6 @@
       <lex comment="good" lid="Id5">Alan Bean, a crew member of Apollo 12, retired in June 1981.</lex>
       <lex comment="good" lid="Id6">Alan Bean, formerly a crew member of Apollo 12 retired in June 1981.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"</otriple>
-        <otriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"</mtriple>
-        <mtriple>Alan_Shepard | award | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard, who was awarded the Distinguished Service Medal by the United States Navy, went to school at NWC and graduated with an MA in 1957.</lex>
-      <lex comment="good" lid="Id2">1957 NWC M.A. graduate Alan Shepard is a recipient of the United States Navy's Distinguished Service Medal.</lex>
-      <lex comment="good" lid="Id3">Alan Shepard who graduated from NWC with an MA in 1957 was awarded the Distinguished Service Medal by the US Navy.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
@@ -74,22 +48,6 @@
       <lex comment="good" lid="Id3">Alan Shepard, who was born in New Hampshire, was awarded the Distinguished Service Medal by the U.S. Navy.</lex>
       <lex comment="good" lid="Id4">Alan Shepard born in New Hampshire, was awarded the " Distinguished Service Medal".</lex>
       <lex comment="good" lid="Id5">Alan Shepard (born in New Hampshire) was awarded the Distinguished Service Medal of United States Navy.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
-        <otriple>Alan_Shepard | nationality | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
-        <mtriple>Alan_Shepard | nationality | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard is an American citizen who was born in New Hampshire.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard was born in the American state of New Hampshire.</lex>
-      <lex comment="good" lid="Id3">Alan Shepard is an American who was born in New Hampshire.</lex>
-      <lex comment="good" lid="Id4">Alan Shepard is a US citizen born in New Hampshire.</lex>
-      <lex comment="good" lid="Id5">Alan Shepard has a US nationality and was born in the New Hampshire.</lex>
-      <lex comment="good" lid="Id6">Alan Shepard was born in New Hampshire (US).</lex>
     </entry>
     <entry category="Astronaut" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -132,22 +90,6 @@
       <lex comment="good" lid="Id2">Alan Shepard, who was born in New Hampshire has spent 13017,0 minutes in space.</lex>
       <lex comment="good" lid="Id3">Alan Shepard was born in New Hampshire and spent 13017 minutes in space.</lex>
       <lex comment="good" lid="Id4">Alan Shepard was born in New Hampshire and spent 13017.0 minutes in space.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alan_Shepard | title | Chief_of_the_Astronaut_Office</otriple>
-        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Shepard | title | Chief_of_the_Astronaut_Office</mtriple>
-        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire and he served as the Chief of the Astronaut Office.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard, who was born in New Hampshire, later became the Chief of the Astronaut Office.</lex>
-      <lex comment="good" lid="Id3">Alan Shepard, who was born in New Hampshire, held the position of the Chief of the Astronaut Office.</lex>
-      <lex comment="good" lid="Id4">Alan Shepard is Chief of the Astronaut Office and was born in New Hampshire.</lex>
-      <lex comment="good" lid="Id5">Alan Shepard who was born in New Hampshire held the title Chief of the Astronaut Office.</lex>
-      <lex comment="good" lid="Id6">Alan Shepard, who was born in New Hampshire is the Chief of the Astronaut Office.</lex>
     </entry>
     <entry category="Astronaut" eid="Id18" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -216,19 +158,6 @@
       <lex comment="good" lid="Id2">Buzz Aldrin is a US national led by Joe Biden.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin is united states citizen whose leader is Joe Biden.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id25" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Buzz_Aldrin | ribbon | "Legion of Merit ribbon.svg"</otriple>
-        <otriple>Buzz_Aldrin | birthName | "Edwin Eugene Aldrin Jr."</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Buzz_Aldrin | ribbonAward | "Legion of Merit ribbon.svg"</mtriple>
-        <mtriple>Buzz_Aldrin | birthName | "Edwin Eugene Aldrin Jr."</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin, real name Edwin Eugene Aldrin Jr., was awarded the Legion of Merit ribbon.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin, born Edwin Eugene Aldrin Jr., was awarded the Legion of Merit ribbon.</lex>
-      <lex comment="good" lid="Id3">Buzz Aldrin's real name is Edwin Eugene Aldrin Jr. and he won the Legion of Merit ribbon.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Buzz_Aldrin | selection | 1963</otriple>
@@ -253,19 +182,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See was born in Dallas, Texas.</lex>
       <lex comment="good" lid="Id2">Elliot See was born in Dallas County, Dallas Texas.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id30" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
-        <otriple>Elliot_See | birthDate | "1927-07-23"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
-        <mtriple>Elliot_See | birthDate | "1927-07-23"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See was born on July 23rd, 1927, and was a student at University of Texas at Austin.</lex>
-      <lex comment="good" lid="Id2">Elliot See, who was born on July 23, 1927, graduated from the University of Texas at Austin.</lex>
-      <lex comment="good" lid="Id3">Elliot See, a student at University of Texas at Austin and was born on 23rd July 1927.</lex>
     </entry>
     <entry category="Astronaut" eid="Id31" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -296,23 +212,6 @@
       <lex comment="good" lid="Id3">Elliot See graduated from the University of Texas at Austin, which is affiliated with the University of Texas System.</lex>
       <lex comment="good" lid="Id4">Elliot See's alma mater is the University of Texas at Austin which is affiliated with the University of Texas System.</lex>
     </entry>
-    <entry category="Astronaut" eid="Id33" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Elliot_See | deathPlace | St._Louis</otriple>
-        <otriple>Elliot_See | deathDate | "1966-02-28"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
-        <mtriple>Elliot_See | deathDate | "1966-02-28"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See died on February 28, 1966, in St Louis.</lex>
-      <lex comment="good" lid="Id2">Elliot See died in St Louis on February 28,1966.</lex>
-      <lex comment="good" lid="Id3">Elliot See died in St Louis on February 28, 1966.</lex>
-      <lex comment="good" lid="Id4">Elliot See died in St. Louis on February 28th, 1966.</lex>
-      <lex comment="good" lid="Id5">Elliot See died in St. Louis on 1966-02-28.</lex>
-      <lex comment="good" lid="Id6">Elliot See died in St Louis on 28/02/1966.</lex>
-      <lex comment="good" lid="Id7">Elliot See passed away on 1966-02-28 in St. Louis.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id35" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Elliot_See | deathPlace | St._Louis</otriple>
@@ -327,21 +226,6 @@
       <lex comment="good" lid="Id3">Elliot See died in St. Louis which was once part of the Kingdom of France.</lex>
       <lex comment="good" lid="Id4">Elliot See died in St. Louis (part of Kingdom of France).</lex>
     </entry>
-    <entry category="Astronaut" eid="Id36" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Elliot_See | status | "Deceased"</otriple>
-        <otriple>Elliot_See | birthPlace | Dallas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Elliot_See | status | "Deceased"</mtriple>
-        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See, who is now dead, was born in Dallas.</lex>
-      <lex comment="good" lid="Id2">Elliot See, who was born in Dallas, has died.</lex>
-      <lex comment="good" lid="Id3">Elliot See (deceased) was born in Dallas.</lex>
-      <lex comment="good" lid="Id4">Elliot See, deceased, was born in Dallas.</lex>
-      <lex comment="good" lid="Id5">Elliot See, born in Dallas, has already passed away.</lex>
-    </entry>
     <entry category="Astronaut" eid="Id37" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Elliot_See | status | "Deceased"</otriple>
@@ -354,20 +238,6 @@
       <lex comment="good" lid="Id1">Elliot See died in St. Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See passed away in St Louis.</lex>
       <lex comment="good" lid="Id3">Elliot See is deceased and died in St. Louis.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id38" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>New_Hampshire | bird | Purple_finch</otriple>
-        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>New_Hampshire | bird | Purple_finch</mtriple>
-        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire, where the purple finch is a native bird.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire, a state where one can find the purple finch bird.</lex>
-      <lex comment="good" lid="Id3">The purple finch is the bird of New Hampshire, the birthplace of Alan Shepard.</lex>
-      <lex comment="good" lid="Id4">Purple finch is the bird of New Hampshire which is the birthplace of Alan Shepard.</lex>
     </entry>
     <entry category="Astronaut" eid="Id40" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -401,21 +271,6 @@
       <lex comment="good" lid="Id5">William Anders was born in British Hong Kong but has a United States nationality.</lex>
       <lex comment="good" lid="Id6">William Anders from the United States was born in British Hong Kong.</lex>
       <lex comment="good" lid="Id7">William Anders was born in British Hong Kong and is a citizen of the United States.</lex>
-    </entry>
-    <entry category="Astronaut" eid="Id42" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
-        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
-        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">William Anders was born in British Hong Kong and later in life became a fighter pilot.</lex>
-      <lex comment="good" lid="Id2">William Anders was a fighter pilot who was born in British, Hong Kong.</lex>
-      <lex comment="good" lid="Id3">William Anders (born in British Hong Kong) served as a Fighter pilot.</lex>
-      <lex comment="good" lid="Id4">William Anders who was born in British Hong Kong served as a fighter pilot.</lex>
-      <lex comment="good" lid="Id5">William Anders, born in British Hong Kong, was a fighter pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id44" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

@@ -40,17 +40,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 1955 Dodge has an AMC V8 engine.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>1955_Dodge | engine | 1955_Dodge__1</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1955_Dodge | engine | Straight-six_engine</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Dodge 1955 has a straight-six engine.</lex>
-      <lex comment="good" lid="Id2">The 1955 Dodge has a straight-six engine.</lex>
-      <lex comment="good" lid="Id3">There is a straight-six engine in the 1955 Dodge car.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>1955_Dodge | manufacturer | Dodge</otriple>
@@ -86,16 +75,6 @@
       <lex comment="good" lid="Id2">The 1955 Dodge uses a 3-speed automatic transmission.</lex>
       <lex comment="good" lid="Id3">The 1955 Dodge possesses a 3-speed automatic transmission.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A-Rosa_Luna | shipBuilder | "Neptun Werft, Warnemünde,"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A-Rosa_Luna | builder | "Neptun Werft, Warnemünde,"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna was built by Neptun Werft, Warnemunde.</lex>
-      <lex comment="good" lid="Id2">The A-Rosa Luna was built by Neptun Werft, Warnemünde.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A-Rosa_Luna | builder | Neptun_Werft</otriple>
@@ -120,17 +99,6 @@
       <lex comment="good" lid="Id1">The A-Rosa Luna was completed on April 6, 2005.</lex>
       <lex comment="good" lid="Id2">The building of A-Rosa Luna was completed on April 6th 2005.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A-Rosa_Luna | MeanOfTransportation/length | "125800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna is 125800.0 millimetres in length.</lex>
-      <lex comment="good" lid="Id2">The A Rosa Luna is 125800.0 (millimetres) long.</lex>
-      <lex comment="good" lid="Id3">The length of the A-Rosa Luna is 125.8 metres long.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A-Rosa_Luna | shipClass | Cruise_ship</otriple>
@@ -141,16 +109,6 @@
       <lex comment="good" lid="Id1">The A-Rosa Luna is classed as a cruise ship.</lex>
       <lex comment="good" lid="Id2">The A-Rosa Luna is a cruise ship.</lex>
       <lex comment="good" lid="Id3">A-Rosa Luna is classed as a Cruise ship.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A-Rosa_Luna | shipLaunch | "2004-12-16"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A-Rosa_Luna | shipLaunch | 2004-12-16</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">December 16, 2004 was the launch date for the A-Rosa Luna ship.</lex>
-      <lex comment="good" lid="Id2">The ship A-Rosa Luna's launch date was the 16th December 2004.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -177,17 +135,6 @@
       <lex comment="good" lid="Id2">The A-Rosa Luna ship has a 2 × MTU 16V 2000 M60 engine.</lex>
       <lex comment="good" lid="Id3">The powering of the A-Rosa Luna is the "2xMTU 16V 2000 M60 engine".</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AIDA_Cruises | location | Germany</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDA_Cruises | location | Germany</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AIDA Cruises are located in Germany.</lex>
-      <lex comment="good" lid="Id2">The location of AIDA Cruises is Germany.</lex>
-      <lex comment="good" lid="Id3">AIDA Cruises is located in Germany.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AIDAluna | builder | Meyer_Werft</otriple>
@@ -213,23 +160,6 @@
       <lex comment="good" lid="Id2">The AIDAluna has a length of 252000.0 millimetres.</lex>
       <lex comment="good" lid="Id3">The length of the AIDAluna is 252000.0 millimetres.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AIDAluna | shipMaidenVoyage | "2009-03-22"^^xsd:date</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>AIDAluna | maidenVoyage | "2009-03-22"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDAluna | maidenVoyage | 2009-03-22</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AIDAluna had its maiden voyage on the 22nd of March, 2009.</lex>
-      <lex comment="good" lid="Id2">The AIDAluna made her maiden voyage on March 22nd 2009.</lex>
-      <lex comment="good" lid="Id3">The AIDAluna had its maiden voyage on March 22, 2009.</lex>
-      <lex comment="good" lid="Id4">The AIDAluna had its maiden voyage on the 22nd of March 2009.</lex>
-      <lex comment="good" lid="Id5">The AIDAluna had her maiden voyage on March 22nd 2009.</lex>
-      <lex comment="good" lid="Id6">The AIDAluna made its first trip on March 22, 2009.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AIDAluna | owner | AIDA_Cruises</otriple>
@@ -253,17 +183,6 @@
       <lex comment="good" lid="Id1">AIDAluna is powered by Caterpillar Inc.</lex>
       <lex comment="good" lid="Id2">The power type of the AIDAluna is the Caterpillar Inc. engine.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AIDAluna | shipBeam | "32.2"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDAluna | shipBeam | 32.2</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDAluna has a ship beam of 32.2.</lex>
-      <lex comment="good" lid="Id2">The beam of the AIDAluna is 32.2m.</lex>
-      <lex comment="good" lid="Id3">The length of the AIDAluna ship beam is 32.2.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AIDAluna | shipInService | "2009-03-22"^^xsd:date</otriple>
@@ -274,16 +193,6 @@
       <lex comment="good" lid="Id1">The ship AIDAluna began service on March 22nd 2009.</lex>
       <lex comment="good" lid="Id2">The AIDAluna ship began serving on March 22, 2009.</lex>
       <lex comment="good" lid="Id3">The ship AIDAluna began its service on the 22nd of march 2009.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AIDAluna | status | "In service"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDAluna | status | "In service"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AIDAluna is in service.</lex>
-      <lex comment="good" lid="Id2">The AIDAluna is currently in service.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -319,16 +228,6 @@
       <lex comment="good" lid="Id2">The ship AIDAstella has a beam of 32.2 metres.</lex>
       <lex comment="good" lid="Id3">The AIDAstella has a ship beam of 32.2.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AIDAstella | shipClass | "Sphinx-class cruise ship"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDAstella | shipClass | "Sphinx-class cruise ship"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDAstella is a Sphinx-class cruise ship.</lex>
-      <lex comment="good" lid="Id2">AIDAstella is a "Sphinx-class" cruise ship.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id44" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AIDAstella | shipLaidDown | "2008-12-17"^^xsd:date</otriple>
@@ -339,16 +238,6 @@
       <lex comment="good" lid="Id1">The AIDAstella was laid down on 17th December 2008.</lex>
       <lex comment="good" lid="Id2">The ship Aidastella was laid down on 2008-12-17.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AIDAstella | status | "In service"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AIDAstella | status | "In service"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDAstella is still in service to this date.</lex>
-      <lex comment="good" lid="Id2">The AIDAstella is currently in service.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>ALCO_RS-3 | builddate | "May 1950 &amp;ndash; August 1956"@en</otriple>
@@ -357,17 +246,6 @@
         <mtriple>ALCO_RS-3 | buildDate | "May 1950 - August 1956"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ALCO RS-3 was produced between May 1950 and August 1956.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id48" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>ALCO_RS-3 | builder | American_Locomotive_Company</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>ALCO_RS-3 | builder | American_Locomotive_Company</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The American Locomotive Company built the ALCO RS-3.</lex>
-      <lex comment="good" lid="Id2">The builder of the ALCO RS-3 is the American Locomotive Company.</lex>
-      <lex comment="good" lid="Id3">The ALCO RS-3 was built by the American Locomotive Company.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id50" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -378,17 +256,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ALCO RS-3 has a cylinder count of 12.</lex>
       <lex comment="good" lid="Id2">The ALCO RS-3 has 12 cylinders.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>ALCO_RS-3 | MeanOfTransportation/length | "17068.8"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>ALCO_RS-3 | length | 17068.8 (millimetres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ALCO RS-3 is 17068.8 (millimetres) in length.</lex>
-      <lex comment="good" lid="Id2">The length of the ALCO RS-3 is 17068.8 millimetres.</lex>
-      <lex comment="good" lid="Id3">The length of ALCO RS-3 is 17068.8 millimetres.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id54" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -437,15 +304,6 @@
       <lex comment="good" lid="Id1">An alternative name for the AMC Matador is the Rambler Matador.</lex>
       <lex comment="good" lid="Id2">The AMC Matador is also known as the Rambler Matador.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id62" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AMC_Matador | assembly | ", Australia"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AMC_Matador | assembly | "Australia"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AMC matador was assembled in Australia.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id63" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AMC_Matador | assembly | ", Mexico"@en</otriple>
@@ -456,17 +314,6 @@
       <lex comment="good" lid="Id1">The AMC Matador is assembled in Mexico.</lex>
       <lex comment="good" lid="Id2">The AMC Matador was assembled in Mexico.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id65" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AMC_Matador | assembly | Australian_Motor_Industries</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AMC_Matador | assembly | Australian_Motor_Industries</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AMC Matador is assembled by the Australian Motor Industries.</lex>
-      <lex comment="good" lid="Id2">The AMC Matador's is assembled by the Australian Motor Industries.</lex>
-      <lex comment="good" lid="Id3">The AMC Matador was assembled by Australian Motor Industries.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id66" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AMC_Matador | assembly | Kenosha,_Wisconsin</otriple>
@@ -476,17 +323,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AMC Matador was assembled in Kenosha, Wisconsin.</lex>
       <lex comment="good" lid="Id2">The AMC Matador's assemble line is in Kenosha, Wisconsin.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id68" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AMC_Matador | assembly | Port_Melbourne,_Victoria</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AMC_Matador | assembly | Port_Melbourne,_Victoria</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AMC Matador is assembled at Port Melbourne, Victoria.</lex>
-      <lex comment="good" lid="Id2">The AMC Matador is assembled in Port Melbourne, Victoria.</lex>
-      <lex comment="good" lid="Id3">The assembly line on the AMC Matador is in Port Melbourne, Victoria.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id69" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -510,15 +346,6 @@
       <lex comment="good" lid="Id2">The AMC Matador is a Coupé.</lex>
       <lex comment="good" lid="Id3">The AMC Matador's body style is Coupé.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id71" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AMC_Matador | bodyStyle | Hardtop</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AMC_Matador | bodyStyle | Hardtop</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AMC Matador has a hardtop.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id72" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AMC_Matador | bodyStyle | Station_wagon</otriple>
@@ -530,17 +357,6 @@
       <lex comment="good" lid="Id2">The AMC Matador's body style is station wagon.</lex>
       <lex comment="good" lid="Id3">The AMC Matador is a station wagon.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id74" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AMC_Matador | class | Mid-size_car</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AMC_Matador | class | Mid-size_car</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AMC Matador is classed as a mid-size car.</lex>
-      <lex comment="good" lid="Id2">The AMC Matador is a mid-size car.</lex>
-      <lex comment="good" lid="Id3">The AMC Matador is in the mid-size car class.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id76" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AMC_Matador | engine | "V8"@en</otriple>
@@ -550,15 +366,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AMC Matador has a AMC V8 engine.</lex>
       <lex comment="good" lid="Id2">The AMC Matador is equipped with an AMC V8 engine.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id77" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AMC_Matador | engine | AMC_straight-6_engine</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AMC_Matador | engine | AMC_straight-6_engine</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AMC Matador has an AMC straight-6 engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id78" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -570,16 +377,6 @@
       <lex comment="good" lid="Id1">AMC Matador is manufactured by American Motors.</lex>
       <lex comment="good" lid="Id2">The AMC Matador is manufactured by American Motors.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id80" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AMC_Matador | modelYears | 1974</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AMC_Matador | modelYears | 1974</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1974 is one of the model years of the AMC Matador.</lex>
-      <lex comment="good" lid="Id2">The AMC Matador is available in a 1974 model.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id81" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>ARA_Veinticinco_de_Mayo_(V-2) | builder | Cammell_Laird</otriple>
@@ -589,21 +386,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ARA Veinticinco de Mayo (V-2) was built by Cammell Laird.</lex>
       <lex comment="good" lid="Id2">The ARA Veinticinco de Mayo (V-2) is built by Cammell Laird.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id82" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>ARA_Veinticinco_de_Mayo_(V-2) | shipCountry | "Argentina"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">ARA Veinticinco de Mayo (V-2) derives from Argentina.</lex>
-      <lex comment="good" lid="Id2">The ARA Veinticinco de Mayo (V-2) is from Argentina.</lex>
-      <lex comment="good" lid="Id3">Argentina is where the ARA Veinticinco de Mayo (V-2) comes from.</lex>
-      <lex comment="good" lid="Id4">The ARA Veinticinco De mayo (V-2) comes from Argentina.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id83" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -618,16 +400,6 @@
       <lex comment="good" lid="Id1">The ARA Veinticinco de Mayo (V-2) is 192000.0 millimetres long.</lex>
       <lex comment="good" lid="Id2">The length of the ARA Veinticinco is 192000.0 millimetres.</lex>
       <lex comment="good" lid="Id3">The length of the ARA Veinticinco de Mayo is 192000 millimetres.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id84" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>ARA_Veinticinco_de_Mayo_(V-2) | shipBeam | "24.4"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | shipBeam | 24.4</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ARA Veinticinco de Mayo V-2 ship's beam measures 24.4.</lex>
-      <lex comment="good" lid="Id2">The ARA Veinticinco de Mayo (V-2) has a ship beam length of 24.4.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id86" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -682,17 +454,6 @@
       <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe was designed by Gruppo Bertone.</lex>
       <lex comment="good" lid="Id2">Gruppo Bertone was the designer of the Abarth 1000 GT Coupe.</lex>
       <lex comment="good" lid="Id3">The Abarth 1000 GT Coupé was designed by Gruppo Bertone.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id93" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abarth is the manufacturer of the Abarth 1000 GT Coupé.</lex>
-      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe was made by Abarth.</lex>
-      <lex comment="good" lid="Id3">Abarth are the manufacturers of the Abarth 1000 GT Coupé.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id95" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -755,15 +516,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acura TLX has an Inline-four engine.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id105" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Acura_TLX | layout | "front-wheel drive / all-wheel drive"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acura_TLX | layout | "front-wheel drive / all-wheel drive"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acura TLX has front-wheel and all-wheel drive.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id106" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Acura_TLX | layout | Front-engine_design</otriple>
@@ -809,19 +561,6 @@
       <lex comment="good" lid="Id1">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov.</lex>
       <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov was built at the Arctech Helsinki Shipyard.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id112" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Helsinki</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The builder of the icebreaker, Aleksey Chirikov, is in Helsinki.</lex>
-      <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov was built in Helsinki.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id113" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Aleksey_Chirikov_(icebreaker) | length | "99.83"^^xsd:double</otriple>
@@ -844,15 +583,6 @@
       <lex comment="good" lid="Id2">The powertype of the Aleksey Chirikow icebreaker is Wärtsilä.</lex>
       <lex comment="good" lid="Id3">Aleksey Chirikov (icebreaker) is Wärtsilä powered.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id117" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aleksey_Chirikov_(icebreaker) | status | "In service"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksey_Chirikov_(icebreaker) | status | "In service"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aleksey Chirikov (icebreaker) is in service.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id119" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alfa_Romeo_164 | assembly | Italy</otriple>
@@ -863,17 +593,6 @@
       <lex comment="good" lid="Id1">The Alfa Romeo 164's assembly line is in Italy.</lex>
       <lex comment="good" lid="Id2">The Alfa Romeo 164 was assembled in Italy.</lex>
       <lex comment="good" lid="Id3">The Alfa Romeo 164 is assembled in Italy.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id120" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alfa_Romeo_164 | assembly | Milan</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfa_Romeo_164 | assembly | Milan</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alfa Romeo 164 was assembled in Milan.</lex>
-      <lex comment="good" lid="Id2">The assembly line of the Alfa Romeo 164 is in Milan.</lex>
-      <lex comment="good" lid="Id3">The Alfa Romeo 164 is assembled in Milan.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id121" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -916,17 +635,6 @@
       <lex comment="good" lid="Id2">The Alfa Romeo 164 has a 2.5 litre engine.</lex>
       <lex comment="good" lid="Id3">The Alfa Romeo 164's engine can hold 2.5 litres.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id125" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alfa_Romeo_164 | engine | Alfa_Romeo_164__2</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfa_Romeo_164 | engine | Straight-four_engine</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alfa Romeo 164 has a Straight four engine.</lex>
-      <lex comment="good" lid="Id2">The Alfa Romeo 164 has a straight-four engine.</lex>
-      <lex comment="good" lid="Id3">The Alfa Romeo 164 engine is also known as a straight-four engine.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id126" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alfa_Romeo_164 | engine | Alfa_Romeo_164__3</otriple>
@@ -935,19 +643,6 @@
         <mtriple>Alfa_Romeo_164 | engine | V6_engine</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alfa Romeo 164 has a V6 engine.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id127" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alfa_Romeo_164 | related | Saab_9000</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alfa Romeo 164 and the Saab 9000 are related means of transport in that they are both cars.</lex>
-      <lex comment="good" lid="Id2">The Alfa Romeo 164 and the Saab 9000 are similar means of transport.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id129" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -959,15 +654,6 @@
       <lex comment="good" lid="Id1">The Alfa Romeo 164 has a 5 speed manual transmission.</lex>
       <lex comment="good" lid="Id2">The Alfa Romeo 164 has a 5-speed manual transmission.</lex>
       <lex comment="good" lid="Id3">Alfa Romeo 164's transmission is a 5 speed manual.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id130" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alfa_Romeo_164 | transmission | "6-speedmanual(Getrag)"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfa_Romeo_164 | transmission | "6-speed manual (Getrag)"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alfa Romeo 164 has a 6-speed manual Getrag transmission.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id132" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -982,16 +668,6 @@
       <lex comment="good" lid="Id1">Alhambra is owned by the P &amp; O company.</lex>
       <lex comment="good" lid="Id2">The Alhambra is owned by P&amp;O.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id133" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alhambra | powerType | Humphrys,_Tennant_and_Dykes</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alhambra is powered by a Humphrys, Tennant and Dykes engine.</lex>
-      <lex comment="good" lid="Id2">The Alhambra has a Humphrys, Tennant and Dykes power type.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alhambra_(1855) | shipPower | "Geared steam engine Humphrys, Tennant and Dykes 140hp"@en</otriple>
@@ -1003,16 +679,6 @@
       <lex comment="good" lid="Id2">The power of the ship Alhambra was by a geared steam engine Humphrys, Tennant and Dykes 140hp.</lex>
       <lex comment="good" lid="Id3">The Alhambra had a Geared steam engine Humphrys, Tennant and Dykes 140hp.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id136" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alliant_Techsystems | product | AGM-88_HARM</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alliant_Techsystems | product | AGM-88_HARM</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AgM-88 HARM is produced by Alliant Techsystems.</lex>
-      <lex comment="good" lid="Id2">AGM-88 HARM is produced by Alliant Techsystems.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id137" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alliant_Techsystems | product | XM25_CDTE</otriple>
@@ -1022,16 +688,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alliant Techsystems produces the XM25-CDTE.</lex>
       <lex comment="good" lid="Id2">Alliant Techsystems produces the XM25 CDTE.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id138" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alvis Car and Engineering Company was founded in Coventry.</lex>
-      <lex comment="good" lid="Id2">Alvis Car and Engineering Company was founded in Coventry.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id140" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1043,16 +699,6 @@
       <lex comment="good" lid="Id1">The Rover Co. succeeded the Alvis Car and Engineering Co.</lex>
       <lex comment="good" lid="Id2">The Alvis Car and Engineering Company was succeeded by the Rover Company.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id141" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alvis_Speed_25 | class | "Full-size luxury car"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alvis_Speed_25 | class | "Full-size luxury car"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alvis Speed 25 is classed as a full-size luxury car.</lex>
-      <lex comment="good" lid="Id2">The Alvis Speed 25 is a full-size luxury vehicle.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id142" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alvis_Speed_25 | class | Full-size_car</otriple>
@@ -1062,15 +708,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alvis Speed 25 is classed as a Full-size car.</lex>
       <lex comment="good" lid="Id2">The Alvis Speed 25 is a full size class car.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id143" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alvis_Speed_25 | engine | ", Petrol"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alvis_Speed_25 | engine | "Petrol"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alvis Speed 25 has a petrol engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id144" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1104,16 +741,6 @@
       <lex comment="good" lid="Id1">The Alvis Speed 25 has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
       <lex comment="good" lid="Id2">The Alvis Speed 25's transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id149" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>American_Locomotive_Company | foundationPlace | Schenectady,_New_York</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>American_Locomotive_Company | foundationPlace | Schenectady,_New_York</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The American Locomotive Company was founded in Schenectady, New York.</lex>
-      <lex comment="good" lid="Id2">The foundation place of the American Locomotive Company is Schenectady, New York.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id151" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>American_Locomotive_Company | locationCountry | United_States</otriple>
@@ -1142,17 +769,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Wheel Horse is a subsidiary of American Motors.</lex>
       <lex comment="good" lid="Id2">Wheel Horse is a subsidiary of American Motors.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id156" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>American_Motors | successor | Eagle_(automobile)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>American_Motors | successor | Eagle_(automobile)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">American Motors successor is Eagle.</lex>
-      <lex comment="good" lid="Id2">Eagle succeeded American Motors.</lex>
-      <lex comment="good" lid="Id3">Eagle is the successor of American Motors.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id158" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1200,17 +816,6 @@
       <lex comment="good" lid="Id2">The Antares rocket is comparable with the Delta II.</lex>
       <lex comment="good" lid="Id3">The Antares rocket is similar to the Delta II rocket.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id164" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Antares_(rocket) | finalFlight | "2013-09-18"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Antares_(rocket) | finalFlight | 2013-09-18</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The final flight of the rocket, Antares was on the 18th of September 2013.</lex>
-      <lex comment="good" lid="Id2">September 18th 2013 was the date of the final flight of the Antares rocket.</lex>
-      <lex comment="good" lid="Id3">The Antares rocket made its final voyage on September 18, 2013.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id166" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Antares_(rocket) | function | "Medium expendable launch system"@en</otriple>
@@ -1249,17 +854,6 @@
       <lex comment="good" lid="Id2">The Antares rocket had its maiden flight on January 9th 2014.</lex>
       <lex comment="good" lid="Id3">The Antares rockets maiden flight was on the 09th January 2014.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id171" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Antares_(rocket) | manufacturer | Orbital_ATK</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Antares_(rocket) | manufacturer | Orbital_ATK</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Antares rocket was manufactured by Orbital ATK.</lex>
-      <lex comment="good" lid="Id2">The Antares (rocket) is manufactured by Orbital ATK.</lex>
-      <lex comment="good" lid="Id3">Orbital ATK built the Antares rocket.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id173" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Argentina | capital | Buenos_Aires</otriple>
@@ -1269,16 +863,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The capital of Argentina is Buenos Aires.</lex>
       <lex comment="good" lid="Id2">Buenos Aires is the capital of Argentina.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id174" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Argentina | demonym | Argentines</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Argentina | demonym | Argentines</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Argentines live in Argentina.</lex>
-      <lex comment="good" lid="Id2">The people of Argentina are called Argentines.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id175" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1301,17 +885,6 @@
       <lex comment="good" lid="Id2">The Ariane 5 has a diameter of 5.4 metres.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 had a diameter of 5.4 metres.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id177" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Ariane_5 | finalFlight | "2003-09-27"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ariane_5 | finalFlight | 2003-09-27</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The final flight of the Ariane 5 was on 2003-09-27.</lex>
-      <lex comment="good" lid="Id2">The final flight of Ariane 5 was 2003-09-27.</lex>
-      <lex comment="good" lid="Id3">The final flight of Ariane 5 was on 27th September 2003.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id178" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Ariane_5 | finalFlight | "2004-12-18"^^xsd:date</otriple>
@@ -1323,17 +896,6 @@
       <lex comment="good" lid="Id2">The final flight of the Ariane 5 was on 2004-12-18.</lex>
       <lex comment="good" lid="Id3">The final flight of the rocket Ariane 5 is 18th December 2004.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id179" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Ariane_5 | finalFlight | "2009-12-18"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ariane_5 | finalFlight | 2009-12-18</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Ariane 5's final flight was on the 18th December 2009.</lex>
-      <lex comment="good" lid="Id2">The Ariane 5 had its last flight on December 18, 2009.</lex>
-      <lex comment="good" lid="Id3">Ariane 5 had its final flight on the 18th of December 2009.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id180" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Ariane_5 | sites | ELA-3</otriple>
@@ -1344,17 +906,6 @@
       <lex comment="good" lid="Id1">The Ariane 5 was launched at ELA-3.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was launched at the ELA-3.</lex>
       <lex comment="good" lid="Id3">The launch site of the Ariane 5 was ELA-3 launchpad.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id181" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Ariane_5 | maidenFlight | "1996-06-04"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ariane_5 | maidenFlight | 1996-06-04</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ariane 5 had its maiden flight on the 4th of June, 1996.</lex>
-      <lex comment="good" lid="Id2">The Ariane 5 rocket made its maiden flight on June 4th 1996.</lex>
-      <lex comment="good" lid="Id3">The Ariane 5 had its maiden flight on June 4, 1996.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id183" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1388,17 +939,6 @@
       <lex comment="good" lid="Id1">Arianespace is the manufacturer of Ariane 5.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was manufactured by Arianespace.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id187" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Ariane_5 | manufacturer | European_Space_Agency</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ariane_5 | manufacturer | European_Space_Agency</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The European Space Agency is the manufacturer of the Ariane 5.</lex>
-      <lex comment="good" lid="Id2">The European Space Agency manufactured the Ariane 5.</lex>
-      <lex comment="good" lid="Id3">Ariane 5 is manufactured by the European Space Agency.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id189" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Arianespace | locationCity | Courcouronnes</otriple>
@@ -1409,16 +949,6 @@
       <lex comment="good" lid="Id1">Arianespace is located in the city of Courcouronnes.</lex>
       <lex comment="good" lid="Id2">Arianespace is located in Courcouronnes.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id191" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aston_Martin_DBS | manufacturer | Aston_Martin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aston_Martin_DBS | manufacturer | Aston_Martin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin DBS is manufactured by Aston Martin.</lex>
-      <lex comment="good" lid="Id2">Aston Mastin DBS is the manufacturer of the Aston Martin.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id193" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Aston_Martin_DBS | successor | Aston_Martin_Vantage</otriple>
@@ -1428,17 +958,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The successor of the Aston Martin DBS is the Aston Martin Vantage.</lex>
       <lex comment="good" lid="Id2">The Aston Martin Vantage succeeded the Aston Martin DBS.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id195" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aston_Martin_V8 | assembly | Newport_Pagnell</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aston_Martin_V8 | assembly | Newport_Pagnell</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8 assembly is located in Newport Pagnell.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin V8 was assembled at Newport Pagnell.</lex>
-      <lex comment="good" lid="Id3">The Aston Martin V8 is assembled at Newport Pagnell.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id197" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1461,19 +980,6 @@
       <lex comment="good" lid="Id1">The Aston Martin V8 has a 5.3 litre engine.</lex>
       <lex comment="good" lid="Id2">The engine volume of Aston MArtin V8 is 5.3 litres.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id199" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aston_Martin_V8 | related | Aston_Martin_DBS</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8 and the Aston Martin DBS are related means of transport.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin V8 and Aston Martin DBS are a related means of transport.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id201" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</otriple>
@@ -1494,17 +1000,6 @@
       <lex comment="good" lid="Id1">Aston Martin Virage and Aston Martin DBS are related types of transportation.</lex>
       <lex comment="good" lid="Id2">Aston Martin Virage is a related vehicle to the Aston Martin DBS.</lex>
       <lex comment="good" lid="Id3">The Aston Martin Virage is related to the Aston Martin DBS.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id203" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Atlas_II | diameter | "3.04 m"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Atlas_II | diameter | 3.04 m</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlas II is 3.04m in diameter.</lex>
-      <lex comment="good" lid="Id2">Atlas II has a diameter of 3.04m.</lex>
-      <lex comment="good" lid="Id3">The Atlas II is 3.04 m in diameter.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id205" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1542,18 +1037,6 @@
       <lex comment="good" lid="Id2">The Atlas II was manufactured by Lockheed Martin.</lex>
       <lex comment="good" lid="Id3">Lockheed Martin is the manufacturer of the Atlas II.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id211" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Audi | subsid | Lamborghini</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Audi | subsidiary | Lamborghini</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Audi | subsidiary | Lamborghini</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Lamborghini is a subsidiary of Audi.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id212" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Audi | subsidiary | Quattro_GmbH</otriple>
@@ -1575,16 +1058,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Audi A1 is assembled in Brussels in Belgium.</lex>
       <lex comment="good" lid="Id2">The Audi A1 is assembled in Brussels, Belgium.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id214" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Audi_A1 | bodyStyle | Hatchback</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Audi A1 is a hatchback.</lex>
-      <lex comment="good" lid="Id2">Audi A1 has the hatchback style of body.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id215" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1608,19 +1081,6 @@
       <lex comment="good" lid="Id2">The Audi A1 has a front engine, front-wheel drive layout.</lex>
       <lex comment="good" lid="Id3">Audi A1 has a front-engine with front-wheel-drive.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id219" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Audi_A1 | related | "Volkswagen Polo Mk5"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Audi_A1 | relatedMeanOfTransportation | Volkswagen_Polo</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Audi_A1 | relatedMeanOfTransportation | Volkswagen_Polo</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Audi A1 and Volkswagen Polo are related kinds of transportation.</lex>
-      <lex comment="good" lid="Id2">The Audi A1 is a related vehicle to the VW Polo.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id220" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Audi_A1 | transmission | "5-speedmanual"</otriple>
@@ -1630,16 +1090,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Audi A1 has a 5-speed manual transmission.</lex>
       <lex comment="good" lid="Id2">The Audi A1 has a 5 speed manual transmission.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id221" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Audi_A1 | transmission | "6-speed manual"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Audi_A1 | transmission | "6-speed manual"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Audi A1 has a 6-speed manual gearbox.</lex>
-      <lex comment="good" lid="Id2">The Audi A1 has a 6-speed manual transmission.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id223" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1721,17 +1171,6 @@
       <lex comment="good" lid="Id2">The Delta II was launched from Vandenberg AFB Space Launch Complex 2.</lex>
       <lex comment="good" lid="Id3">The launch site of the Delta II was the Vandenberg AFB Space Launch Complex 2.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id234" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Delta_II | manufacturer | United_Launch_Alliance</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Delta_II | manufacturer | United_Launch_Alliance</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Delta II was manufactured by the United Launch Alliance.</lex>
-      <lex comment="good" lid="Id2">United Launch Alliance made the Delta II.</lex>
-      <lex comment="good" lid="Id3">United Launch Alliance is the manufacturer of Delta II.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id236" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>ELA-3 | operator | Arianespace</otriple>
@@ -1751,16 +1190,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Fiat Croma and Opel Vectra are related forms of transportation.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id239" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Fiat_Croma | related | Saab_9000</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Fiat_Croma | relatedMeanOfTransportation | Saab_9000</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Fiat Croma and the Saab 9000 are related means of transport in that they are both cars.</lex>
-      <lex comment="good" lid="Id2">Fiat Croma and Saab 9000 are related forms of transportation.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id241" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Finland | leader | Juha_Sipilä</otriple>
@@ -1774,16 +1203,6 @@
       <lex comment="good" lid="Id1">Juha Sipila is a leader in Finland.</lex>
       <lex comment="good" lid="Id2">Juha Sipilä is a leader in Finland.</lex>
       <lex comment="good" lid="Id3">Finland is led by Juha Sipila.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id243" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>General_Dynamics_Electric_Boat | city | Groton,_Connecticut</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">General Dynamics Electric Boat are located in the city of Groton, Connecticut.</lex>
-      <lex comment="good" lid="Id2">The General Dynamics Electric Boat is located in Groton, CT.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id245" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1818,18 +1237,6 @@
       <lex comment="good" lid="Id1">Angela Merkel is the leader of Germany.</lex>
       <lex comment="good" lid="Id2">The leader of Germany is Angela Merkel.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id249" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Gruppo_Bertone | foundationPlace | Italy</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Gruppo_Bertone | foundation | Italy</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Gruppo_Bertone | foundationPlace | Italy</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Gruppo Bertone was founded in Italy.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id250" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Gruppo_Bertone | foundation | Turin</otriple>
@@ -1842,16 +1249,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Gruppo Bertone was founded in Turin.</lex>
       <lex comment="good" lid="Id2">Gruppo Bertone was founded in Turin.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id252" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Gruppo_Bertone | locationCountry | Italy</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Gruppo_Bertone | country | Italy</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Gruppo Bertone is located in Italy.</lex>
-      <lex comment="good" lid="Id2">Gruppo Bertone is an Italian company.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id253" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1867,16 +1264,6 @@
       <lex comment="good" lid="Id2">The Guiana Space Centre has its HQ in French Guiana.</lex>
       <lex comment="good" lid="Id3">The Guiana Space Centre has its headquarters in French Guiana.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id254" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Guiana_Space_Centre | location | French_Guiana</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Guiana_Space_Centre | location | French_Guiana</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">French Guiana is the location of the Guiana Space Centre.</lex>
-      <lex comment="good" lid="Id2">The Guiana Space Centre is located in French Guiana.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id255" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Guiana_Space_Centre | location | Kourou,_French_Guiana</otriple>
@@ -1886,17 +1273,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Guiana Space Centre is located in Kourou, French Guiana.</lex>
       <lex comment="good" lid="Id2">The Guiana Space Centre is in Kourou, French Guiana.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id256" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Honda_Accord | manufacturer | Honda</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Honda_Accord | manufacturer | Honda</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Honda Accord is made by Honda.</lex>
-      <lex comment="good" lid="Id2">Honda is the manufacturer of the Honda Accord.</lex>
-      <lex comment="good" lid="Id3">Honda manufactures a model called the Accord.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id258" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1908,17 +1284,6 @@
       <lex comment="good" lid="Id1">The Honda J. engine is made by Honda.</lex>
       <lex comment="good" lid="Id2">The Honda J engine was manufactured by Honda.</lex>
       <lex comment="good" lid="Id3">Honda is the manufacturer of the Honda J engine.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id259" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Humphrys,_Tennant_and_Dykes | location | Deptford</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Humphrys,_Tennant_and_Dykes | location | Deptford</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Humphrys, Tennant and Dykes is located in Deptford.</lex>
-      <lex comment="good" lid="Id2">Humphrys, Tennant &amp; Dykes is in Deptford.</lex>
-      <lex comment="good" lid="Id3">Humphrys, Tennant and Dykes are located in Deptford.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id260" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1940,19 +1305,6 @@
       <lex comment="good" lid="Id1">Rome is the capital of Italy.</lex>
       <lex comment="good" lid="Id2">The capital of Italy is Rome.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id262" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Lancia_Thema | relatedMeanOfTransportation | Saab_9000</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Lancia_Thema | related | Saab_9000</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Lancia_Thema | relatedMeanOfTransportation | Saab_9000</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Lancia Thema is related to the Saab 9000.</lex>
-      <lex comment="good" lid="Id2">The Saab 9000 and the Lancia Thema are related means of transportation.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id264" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>MTU_Friedrichshafen | locationCity | Friedrichshafen</otriple>
@@ -1963,15 +1315,6 @@
       <lex comment="good" lid="Id1">MTU Friedrichshafen is in the city of Friedrichshafen.</lex>
       <lex comment="good" lid="Id2">MTU Friedrichshafen is in Friedrichshafen.</lex>
       <lex comment="good" lid="Id3">MTU Friedrichshafen is located in the city of Friedrichshafen.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id266" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>MTU_Friedrichshafen | parentCompany | Rolls-Royce_Power_Systems</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>MTU_Friedrichshafen | parentCompany | Rolls-Royce_Power_Systems</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The parent company of MTU Friedrichshafen is Rolls-Royce Power Systems.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id268" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1993,16 +1336,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The saint of Milan is Ambrose.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id272" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Neptun_Werft | locationCountry | Germany</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Neptun_Werft | country | Germany</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Neptun Werft is located in Germany.</lex>
-      <lex comment="good" lid="Id2">Neptun Werft is in Germany.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id274" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Plymouth_Plaza | manufacturer | Plymouth_(automobile)</otriple>
@@ -2013,16 +1346,6 @@
       <lex comment="good" lid="Id1">The Plymouth Plaza was manufactured by Plymouth.</lex>
       <lex comment="good" lid="Id2">Plymouth are the manufacturers of the Plymouth Plaza.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id276" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Plymouth_Plaza | successor | Plymouth_Satellite</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Plymouth_Plaza | successor | Plymouth_Satellite</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Plymouth Plaza's successor is the Plymouth Satellite.</lex>
-      <lex comment="good" lid="Id2">The Plymouth Plaza was succeeded by the Plymouth Satellite.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id278" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Richard_A._Teague | employer | General_Motors</otriple>
@@ -2032,15 +1355,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Richard A Teague is an employee of General Motors.</lex>
       <lex comment="good" lid="Id2">Richard A. Teague's employer is General Motors.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id279" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Rostock | country | Germany</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Rostock | country | Germany</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rostock is in Germany.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id280" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2065,16 +1379,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Saab 9000 is related to Alfa Romeo 164.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id283" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Sovcomflot | keyPerson | Sergey_Naryshkin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Sovcomflot | keyPerson | Sergey_Naryshkin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Sergey Naryshkin is a key person at Sovcomflot.</lex>
-      <lex comment="good" lid="Id2">Sergey Naryshkin is a key person at the company Sovcomflot.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id284" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Spaceport_Florida_Launch_Complex_36 | operator | United_States_Air_Force</otriple>
@@ -2085,17 +1389,6 @@
       <lex comment="good" lid="Id1">Spaceport Florida Launch Complex 36 is operated by the United States Air Force.</lex>
       <lex comment="good" lid="Id2">The Spaceport Florida Launch Complex 36 is operated by the U.S. Air Force.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id285" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>United_Kingdom | capital | London</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_Kingdom | capital | London</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">London is the capital of the United Kingdom.</lex>
-      <lex comment="good" lid="Id2">The capital of the UK is London.</lex>
-      <lex comment="good" lid="Id3">London is the capital of the UK.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id286" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
@@ -2105,17 +1398,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elizabeth II is the leader of the United Kingdom.</lex>
       <lex comment="good" lid="Id2">The ruler of the United Kingdom is Queen Elizabeth II.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id287" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>United_States | capital | Washington,_D.C.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Washington D.C. is the capital city of the United States.</lex>
-      <lex comment="good" lid="Id2">The capital of the United States is Washington, D.C.</lex>
-      <lex comment="good" lid="Id3">Washington D.C. is the capital of the United States.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id289" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2139,17 +1421,6 @@
       <lex comment="good" lid="Id2">White Americans are one of the ethnic groups in the United States.</lex>
       <lex comment="good" lid="Id3">White Americans are an ethnic group of the United States.</lex>
     </entry>
-    <entry category="MeanOfTransportation" eid="Id293" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of the United States has the title President of the United States.</lex>
-      <lex comment="good" lid="Id2">The leader of the United States is the President of the United States.</lex>
-      <lex comment="good" lid="Id3">The title of the leader of United States is The President of the United States.</lex>
-    </entry>
     <entry category="MeanOfTransportation" eid="Id295" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Vandenberg_Air_Force_Base | location | Lompoc,_California</otriple>
@@ -2160,17 +1431,6 @@
       <lex comment="good" lid="Id1">The Vandenberg Air Force Base is located in Lompoc, California.</lex>
       <lex comment="good" lid="Id2">The Vandenberg Air Force Base is in Lompoc, CA.</lex>
       <lex comment="good" lid="Id3">Vandenberg Air Force Base is located in Lompoc, California.</lex>
-    </entry>
-    <entry category="MeanOfTransportation" eid="Id297" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Yuzhnoye_Design_Office | location | Dnipropetrovsk</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Yuzhnoye_Design_Office | location | Dnipropetrovsk</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Yuzhnoye Design Office is located in Dnipropetrovsk.</lex>
-      <lex comment="good" lid="Id2">The Yuzhnoye Design Office is in Dnipropetrovsk.</lex>
-      <lex comment="good" lid="Id3">The Yuzhnoye Design Office is situated in Dnipropetrovsk.</lex>
     </entry>
     </entries>
 </benchmark>

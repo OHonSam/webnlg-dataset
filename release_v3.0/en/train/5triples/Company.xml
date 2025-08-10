@@ -1,25 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Company" eid="Id2" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
-        <otriple>United_States | areaTotal | 9833520000000.0</otriple>
-        <otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
-        <otriple>AmeriGas | locationCountry | United_States</otriple>
-        <otriple>United_States | foundingDate | 1776-07-04</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
-        <mtriple>United_States | areaTotal | 9833516.63  (square kilometres)</mtriple>
-        <mtriple>AmeriGas | foundingDate | 1959-01-01</mtriple>
-        <mtriple>AmeriGas | country | United_States</mtriple>
-        <mtriple>United_States | foundingDate | 1776-07-04</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AmeriGas, founded on January 1, 1959 is located in the city of King of Prussia, Pennsylvania. Its home country is the United States, which was founded on 07-04-1776 with a total area of 9833516.63 (square kilometres).</lex>
-      <lex comment="good" lid="Id2">AmeriGas was founded on January 01, 1959 and is located in King of Prussia, Pennsylvania in the United States. The United States (founded on July 04, 1776) has the total area of 9,833,516.63 square kilometers.</lex>
-      <lex comment="good" lid="Id3">Located in King of Prussia, Pennsylvania, AmeriGas was founded on 01-01-1959. As a company working in the United States, AmeriGas serves a nation founded on July 4, 1776 that covers a total area of 9833516.63 square kilometres.</lex>
-    </entry>
     <entry category="Company" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>AmeriGas | regionServed | United_States</otriple>
@@ -65,25 +46,6 @@
       <lex comment="good" lid="Id2">AmeriGas, an energy industry company, serves all regions of the United States, its home country, which has a total area of 9833516.63 (square kilometres) and its capital is Washington, D.C.</lex>
       <lex comment="good" lid="Id3">AmeriGas classified in the Energy Industry works and serves the United States whose capital is Washington, D.C. and has a total area of 9,833,516.63 square kilometers.</lex>
     </entry>
-    <entry category="Company" eid="Id7" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</otriple>
-        <otriple>Insular_Government_of_the_Philippine_Islands | foundingYear | 1901-01-01</otriple>
-        <otriple>Chinabank | foundationPlace | Manila</otriple>
-        <otriple>Chinabank | location | Philippines</otriple>
-        <otriple>Philippines | officialLanguage | Philippine_English</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</mtriple>
-        <mtriple>Insular_Government_of_the_Philippine_Islands | foundingDate | 1901-07-01</mtriple>
-        <mtriple>Chinabank | foundationPlace | Manila</mtriple>
-        <mtriple>Chinabank | location | Philippines</mtriple>
-        <mtriple>Philippines | officialLanguage | Philippine_English</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Chinabank was founded in Manila in the Insular Government of the Philippine Islands (established on July 01, 1901). It is located in the Philippines where Philippine English is the official language.</lex>
-      <lex comment="good" lid="Id2">Chinabank was founded in Manila, in the Insular Government of the Philippine Islands which was founded on July 01, 1901. Chinabank is located in the Philippines, where Philippine English is the official language of the country.</lex>
-      <lex comment="good" lid="Id3">Chinabank was founded Manila, in the Insular Government of the Philippine Islands that was established on July 01, 1901. It is located in the Philippines where the official language is Philippine English.</lex>
-    </entry>
     <entry category="Company" eid="Id9" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Chinabank | foundingDate | 1920-08-16</otriple>
@@ -109,25 +71,6 @@
       <lex comment="good" lid="Id1">Chinabank is a banking service which was founded on 1920-08-16. It employs 5594 workers, distributed through 295 branches, and has a current net income of 15100000000.</lex>
       <lex comment="good" lid="Id2">Chinabank, founded on the 16th of August, 1920, offers banking service to customers. The company has 5,594 employees, 295 banking centres, and its net income is 15,100,000,000.</lex>
       <lex comment="good" lid="Id3">Chinabank, a banking service founded on 08-16-1920, has a net income of 15,100,000,000. Chinabank has 5594 employees at its 295 locations.</lex>
-    </entry>
-    <entry category="Company" eid="Id10" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Chinabank | location | Philippines</otriple>
-        <otriple>Philippines | motto | "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa"</otriple>
-        <otriple>Chinabank | foundingDate | 1920-08-16</otriple>
-        <otriple>Chinabank | foundationPlace | Manila</otriple>
-        <otriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Chinabank | location | Philippines</mtriple>
-        <mtriple>Philippines | motto | "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa"</mtriple>
-        <mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
-        <mtriple>Chinabank | foundationPlace | Manila</mtriple>
-        <mtriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Chinabank was founded in the Insular Government of the Philippine Islands, in Manila on August 16, 1920. It is located in the Philippines where the country's motto is Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa.</lex>
-      <lex comment="good" lid="Id2">Chinabank is located in the Philippines and was founded in the Insular Government of the Philippine Islands in Manila on the 16th of August, 1920. Philippine's motto is "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa".</lex>
-      <lex comment="good" lid="Id3">Chinabank was founded on 1920-08-16 in Manila, at the Insular Government of the Philippine Islands. Chinabank is located in the Philippines, where they have the motto "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa".</lex>
     </entry>
     <entry category="Company" eid="Id11" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -186,25 +129,6 @@
       <lex comment="good" lid="Id2">As a subsidiary of the GMA Network Center, GMA New Media is also located in the Philippines. As a media company, GMA New Media offers applications related to the entertainment industry.</lex>
       <lex comment="good" lid="Id3">GMA New Media is a media company in the entertainment industry, with headquarters in the GMA Network Center in the Philippines. The company's parent company is GMA Network.</lex>
     </entry>
-    <entry category="Company" eid="Id15" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
-        <otriple>GMA_New_Media | location | Philippines</otriple>
-        <otriple>GMA_New_Media | product | World_Wide_Web</otriple>
-        <otriple>GMA_New_Media | product | Online_Game</otriple>
-        <otriple>GMA_New_Media | parentCompany | GMA_Network_(company)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
-        <mtriple>GMA_New_Media | location | Philippines</mtriple>
-        <mtriple>GMA_New_Media | product | World_Wide_Web</mtriple>
-        <mtriple>GMA_New_Media | product | Online_Game</mtriple>
-        <mtriple>GMA_New_Media | parentCompany | GMA_Network_(company)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">GMA Network is the parent company of GMA New Media, which is headquartered in the GMA Network Center in the Philippines. GMA New Media produces online games and offers World Wide Web services.</lex>
-      <lex comment="good" lid="Id2">GMA New Media, Inc. is a subsidiary of GMA Network and is located in the GMA Network Center in the Philippines. The company produces web services and its main product is online games.</lex>
-      <lex comment="good" lid="Id3">GMA New Media, located inside GMA Network Centre in the Philippines, makes both web sites and online games. GMA Network is its parent company.</lex>
-    </entry>
     <entry category="Company" eid="Id17" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
@@ -242,25 +166,6 @@
       <lex comment="good" lid="Id1">Hypermarcas, whose key person is the CEO, was found on January 1, 2001, and produces pharmaceutical drugs to generate revenue of $1,800,000,000 and net income of $108,600,000.</lex>
       <lex comment="good" lid="Id2">Hypermarcas, a drug maker led by their key CEO, was founded on 2001-01-01. Hypermarcas makes $1,800,000,000 a year and their net income is $108,600,000.</lex>
       <lex comment="good" lid="Id3">Hypermarcas, a company managed by their CEO that produces drugs, was founded on January 1, 2001. Hypermarcas earns $1,800,000,000 per year and has a net income of $108,600,000.</lex>
-    </entry>
-    <entry category="Company" eid="Id19" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Hypermarcas | location | Brazil</otriple>
-        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
-        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
-        <otriple>Hypermarcas | subsidiary | Mantecorp</otriple>
-        <otriple>Hypermarcas | netIncome | 1.086E8</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Hypermarcas | location | Brazil</mtriple>
-        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
-        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
-        <mtriple>Hypermarcas | subsidiary | Mantecorp</mtriple>
-        <mtriple>Hypermarcas | netIncome | 108600000</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Hypermarcas, founded on January 1, 2001, is located in Brazil and has a net income of 108,600,000. The company is a type of S.A. and has a subsidiary called Mantecorp.</lex>
-      <lex comment="good" lid="Id2">Hypermarcas, located in Brazil is a type of S.A. corporation that contains a subsidiary called Mantecorp. It was founded in 2001-01-01 and has a net income of 108,600,000.</lex>
-      <lex comment="good" lid="Id3">Mantecorp is a subsidiary of Hypermarcas. Hypermarcas is an S.A. corporation located in Brazil which was founded on January 1, 2001 and had a net income of $108,600,000.</lex>
     </entry>
     <entry category="Company" eid="Id21" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -319,25 +224,6 @@
       <lex comment="good" lid="Id2">Hypermarcas, a pharmaceutical company that manufactures healthcare and cosmetics products, is a type of S.A. corporation. They are managed by their CEO.</lex>
       <lex comment="good" lid="Id3">Hypermarcas is managed by a CEO that is in the pharmaceuticals industry that sells healthcare products and produces cosmetics within this type of S.A. corporation.</lex>
     </entry>
-    <entry category="Company" eid="Id25" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Trane | foundingYear | 2007-01-01</otriple>
-        <otriple>Trane | location | Ireland</otriple>
-        <otriple>Trane | numberOfEmployees | 29000</otriple>
-        <otriple>Trane | product | HVAC</otriple>
-        <otriple>Trane | industry | Building_materials</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
-        <mtriple>Trane | location | Ireland</mtriple>
-        <mtriple>Trane | numberOfEmployees | 29000</mtriple>
-        <mtriple>Trane | product | HVAC</mtriple>
-        <mtriple>Trane | industry | Building_materials</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Trane is a company in Ireland founded on 1913-01-01 which employees 29,000 people to build HVAC building materials.</lex>
-      <lex comment="good" lid="Id2">Trane, founded on 01-01-1913, is located in Ireland, it has 29000 employees. Trane manufactures HVAC in the building material industry.</lex>
-      <lex comment="good" lid="Id3">The Trane company (founded on January 01, 1913) is located in Ireland and has 29,000 employees. This company is in the building materials industry with HVAC being one of its products.</lex>
-    </entry>
     <entry category="Company" eid="Id26" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Trane | location | Ireland</otriple>
@@ -357,25 +243,6 @@
       <lex comment="good" lid="Id2">The Trane industry is building materials, and the company makes building management systems. Trane is located in Europe or more specifically, Ireland, and manufactures HVAC equipment.</lex>
       <lex comment="good" lid="Id3">Trane, manufacturer of building management systems and HVAC, is in the building materials industry. The company is located in Ireland, Europe.</lex>
     </entry>
-    <entry category="Company" eid="Id28" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Trane | netIncome | 5.563E8</otriple>
-        <otriple>Trane | type | Subsidiary</otriple>
-        <otriple>Trane | operatingIncome | 8.754E8</otriple>
-        <otriple>Trane | foundingYear | 1913-01-01</otriple>
-        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Trane | netIncome | 556300000</mtriple>
-        <mtriple>Trane | type | Subsidiary</mtriple>
-        <mtriple>Trane | operatingIncome | 875400000</mtriple>
-        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
-        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Trane, founded in La Crosse, Wisconsin on 1913-01-01, is a subsidiary company. They have a net income of about $556 million and an operating income of $875.4 million USD.</lex>
-      <lex comment="good" lid="Id2">The Trane company was founded on January 01, 1913 in La Crosse, Wisconsin. It is a subsidiary company with an operating income of $875.400 million USD and a net income of $556.300 million USD.</lex>
-      <lex comment="good" lid="Id3">Trane is a subsidiary company that was founded on January 1, 1913 in La Crosse, Wisconsin. Trane has an operating income of $875.400,000 with a net income of $556,300,000.</lex>
-    </entry>
     <entry category="Company" eid="Id29" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Trane | product | Building_Management_System</otriple>
@@ -394,25 +261,6 @@
       <lex comment="good" lid="Id1">The Trane company (founded on January 01, 1913) is located in Swords, Dublin and makes building management systems. The company has a net income of $556.300 million USD and has the revenue of $10.264 billion USD.</lex>
       <lex comment="good" lid="Id2">Trane, a manufacturer of building management systems, has revenue of $10,264,000,000, with a net income of $556,300,000. The company was founded on January 1, 1913 and is located in Swords, Dublin.</lex>
       <lex comment="good" lid="Id3">With a revenue of $10,264,000,000 plus $556 net income Trane, a Swords, Dublin based building management system company, was founded on 1913-01-01.</lex>
-    </entry>
-    <entry category="Company" eid="Id31" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Trane | product | Building_Management_System</otriple>
-        <otriple>Trane | revenue | 1.0264E10</otriple>
-        <otriple>Trane | product | HVAC</otriple>
-        <otriple>Trane | location | Swords,_Dublin</otriple>
-        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Trane | product | Building_Management_System</mtriple>
-        <mtriple>Trane | revenue | 10264000000</mtriple>
-        <mtriple>Trane | product | HVAC</mtriple>
-        <mtriple>Trane | location | Swords,_Dublin</mtriple>
-        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Trane, an HVAC company located in Swords, Dublin, manufactures building management systems. Trane was founded in La Crosse, Wisconsin and has $10,264,000,000 in revenue.</lex>
-      <lex comment="good" lid="Id2">Trane, a company that manufactures building management systems and HVAC components, has a revenue of 10264000000. The company was founded in La Crosse, Wisconsin, and is located in Swords, Dublin.</lex>
-      <lex comment="good" lid="Id3">Trane is a company that produces building management systems and HVAC. It is located in Swords, Dublin and has a revenue of $10,264,000,000. The foundation place of Trane was La Crosse, Wisconsin.</lex>
     </entry>
     <entry category="Company" eid="Id33" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>

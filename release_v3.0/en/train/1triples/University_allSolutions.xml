@@ -1,16 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="University" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is located in the country of Romania.</lex>
-      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is located in Romania.</lex>
-    </entry>
     <entry category="University" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>1_Decembrie_1918_University,_Alba_Iulia | nickname | Uab</otriple>
@@ -50,16 +40,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AWH Engineering College was established in 2001.</lex>
     </entry>
-    <entry category="University" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aarhus | governmentType | Magistrate</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aarhus | governmentType | Magistrate</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The type of government of Aarhus is magistrate.</lex>
-      <lex comment="toFix" lid="Id2">The city of Aarhus is governed by Magistrates.</lex>
-    </entry>
     <entry category="University" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
@@ -80,16 +60,6 @@
       <lex comment="good" lid="Id1">The dean of the Accademia di Architettura di Mendrisio is Mario Botta.</lex>
       <lex comment="good" lid="Id2">Accademia di Architettura di Mendrisio's dean is Mario Botta.</lex>
     </entry>
-    <entry category="University" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Ticino.</lex>
-      <lex comment="good" lid="Id2">Ticino is the location of the Accademia di Architettura di Mendrisio.</lex>
-    </entry>
     <entry category="University" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Acharya_Institute_of_Technology | academicStaff | "~500"@en</otriple>
@@ -100,22 +70,6 @@
       <lex comment="good" lid="Id1">Acharya Institute of Technology's academic staff total is ~500.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology employs about 500 academic staff.</lex>
       <lex comment="good" lid="Id3">Approximately 500 employees make up the academic staff at Acharya Institute of Technology.</lex>
-    </entry>
-    <entry category="University" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University.</lex>
-      <lex comment="good" lid="Id2">Acharya Institute of Technology is affiliated to Visvesvaraya Technological University.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University.</lex>
-      <lex comment="good" lid="Id4">Acharya Institute of Technology is affiliated to the Visvesvaraya Technological University.</lex>
-      <lex comment="good" lid="Id5">Acharya Institute of Technology is affiliated with Visvesvaraya Technological University.</lex>
     </entry>
     <entry category="University" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -128,17 +82,6 @@
       <lex comment="good" lid="Id2">Acharya Institute of Technology is located in Bangalore.</lex>
       <lex comment="good" lid="Id3">Acharya Institute of Technology is in Bangalore.</lex>
     </entry>
-    <entry category="University" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acharya Institute of Technology can be found in India.</lex>
-      <lex comment="good" lid="Id2">Acharya Institute of Technology is located in India.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology is located in India.</lex>
-    </entry>
     <entry category="University" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
@@ -148,17 +91,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology was established in the year 2000.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology was established in 2000.</lex>
-    </entry>
-    <entry category="University" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | motto | "Nurturing Excellence"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | motto | "Nurturing Excellence"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acharya Institute of Technology's motto is Nurturing Excellence.</lex>
-      <lex comment="good" lid="Id2">The motto of the Acharya Institute of Technology is 'Nurturing Excellence.'.</lex>
-      <lex comment="good" lid="Id3">The motto of the Acharya Institute of Technology is "Nurturing Excellence".</lex>
     </entry>
     <entry category="University" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -176,23 +108,6 @@
       <lex comment="good" lid="Id4">There are about 700 postgraduate students at the Acharya Institute of Technology.</lex>
       <lex comment="good" lid="Id5">Acharya Institute of Technology has 700 postgraduate students.</lex>
       <lex comment="good" lid="Id6">700 students are enrolled in a post-graduate program at Acharya Institute of Technology.</lex>
-    </entry>
-    <entry category="University" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | undergrad | "~10000"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | numberOfUndergraduateStudents | "10000"^^xsd:nonNegativeInteger</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | numberOfUndergraduateStudents | 10000</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The number of undergraduates attending the Acharya Institute of Technology is roughly 10000 students.</lex>
-      <lex comment="good" lid="Id2">Acharya Institute of Technology's number of Undergraduate students total to ~10000.</lex>
-      <lex comment="good" lid="Id3">There are around 10000 undergraduate students at the Acharya Institute of Technology.</lex>
-      <lex comment="good" lid="Id4">The Acharya Institute of Technology has 10000 undergraduate students.</lex>
-      <lex comment="good" lid="Id5">The Acharya Institute of Technology has 10,000 undergraduate students.</lex>
-      <lex comment="good" lid="Id6">Acharya Institute of Technology has 10,000 undergraduate students.</lex>
     </entry>
     <entry category="University" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -223,17 +138,6 @@
       <lex comment="good" lid="Id3">One of the sports offered at the Acharya Institute of Technology is tennis.</lex>
       <lex comment="good" lid="Id4">The Acharya Institute of Technology offers sports including tennis.</lex>
     </entry>
-    <entry category="University" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology is in the state of Karnataka.</lex>
-      <lex comment="good" lid="Id2">Acharya Institute of Technology is located in the state of Karnataka.</lex>
-      <lex comment="good" lid="Id3">Acharya Institute of Technology is in Karnataka state.</lex>
-    </entry>
     <entry category="University" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education</otriple>
@@ -255,16 +159,6 @@
       <lex comment="good" lid="Id1">Kempe Gowda I founded Bangalore.</lex>
       <lex comment="good" lid="Id2">The founder of Bangalore was Kempe Gowda I.</lex>
       <lex comment="good" lid="Id3">Kempe Gowda I was the founder of Bangalore.</lex>
-    </entry>
-    <entry category="University" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Denmark | leaderTitle | Monarchy_of_Denmark</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Denmark | leaderTitle | Monarchy_of_Denmark</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Denmark is led by a Monarch.</lex>
-      <lex comment="good" lid="Id2">The Monarch of Denmark is the country's leader.</lex>
     </entry>
     <entry category="University" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -319,21 +213,6 @@
       <lex comment="good" lid="Id2">Desteapta te, romane is the Romanian anthem.</lex>
       <lex comment="good" lid="Id3">The national anthem of Romania is Desteapta-te, romane!</lex>
     </entry>
-    <entry category="University" eid="Id46" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Romania | ethnicGroup | Germans_of_Romania</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Romania | ethnicGroups | Germans_of_Romania</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Romania | ethnicGroup | Germans_of_Romania</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">One of the ethnic groups in Romania are the Germans of Romania.</lex>
-      <lex comment="good" lid="Id2">Germans of Romania is an ethnic group in Romania.</lex>
-      <lex comment="good" lid="Id3">The Germans of Romania are an ethnic group in Romania.</lex>
-      <lex comment="good" lid="Id4">Romania has many ethnic groups one of which are Germans.</lex>
-    </entry>
     <entry category="University" eid="Id48" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
@@ -368,17 +247,6 @@
       <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University was established in 1928.</lex>
       <lex comment="good" lid="Id4">The School of Business and Social Sciences at the Aarhus University is established in 1928.</lex>
     </entry>
-    <entry category="University" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | "Universitas Aarhusiensis"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | latinName | "Universitas Aarhusiensis"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The latin name of School of Business and Social Sciences at the Aarhus University is "Universitas Aarhusiensis".</lex>
-      <lex comment="good" lid="Id2">The latin name of the School of Business and Social Sciences at Aarhus University is "universitas Aarhusiensis".</lex>
-      <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University has the latin name Universitas Aarhusiensis.</lex>
-    </entry>
     <entry category="University" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Switzerland | anthem | Swiss_Psalm</otriple>
@@ -388,23 +256,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Swiss Psalm is the anthem of Switzerland.</lex>
       <lex comment="good" lid="Id2">The anthem of Switzerland is called the Swiss Psalm.</lex>
-    </entry>
-    <entry category="University" eid="Id54" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Switzerland | leader | Johann_Schneider-Ammann</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Switzerland | leader | Johann_Schneider-Ammann</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Johann Schneider-Ammann is the leader of Switzerland.</lex>
-      <lex comment="good" lid="Id2">Johann Schneider-Ammann is the Swiss leader.</lex>
-      <lex comment="good" lid="Id3">The leader of Switzerland is Johann Schneider-Ammann.</lex>
-      <lex comment="good" lid="Id4">Switzerland has a leader called Johann Schneider-Ammann.</lex>
-      <lex comment="good" lid="Id5">Johann Schneider-Ammann is the name of the leader of Switzerland.</lex>
-      <lex comment="good" lid="Id6">The Swiss leader is Johann Schneider-Ammann.</lex>
     </entry>
     <entry category="University" eid="Id55" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -416,23 +267,6 @@
       <lex comment="good" lid="Id1">The Federal Chancellor of Switzerland helps to lead the country.</lex>
       <lex comment="good" lid="Id2">The Federal Chancellor of Switzerland is the title of the leader of Switzerland.</lex>
       <lex comment="good" lid="Id3">The leader of Switzerland is titled the Federal Chancellor of Switzerland.</lex>
-    </entry>
-    <entry category="University" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Tennis | union | International_Tennis_Federation</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Tennis | sportGoverningBody | International_Tennis_Federation</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Tennis | sportGoverningBody | International_Tennis_Federation</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The sport Tennis has a Governing Body called the International Tennis Federation.</lex>
-      <lex comment="good" lid="Id2">The International Tennis Federation is the Governing Body for the tennis sport.</lex>
-      <lex comment="good" lid="Id3">The tennis sport is governed by the International Tennis Federation.</lex>
-      <lex comment="good" lid="Id4">The International Tennis Federation is the Governing Body of the sport of tennis.</lex>
-      <lex comment="good" lid="Id5">The International Tennis Federation is the governing body of tennis.</lex>
-      <lex comment="good" lid="Id6">The sports governing body of tennis is the International Tennis Federation.</lex>
     </entry>
     </entries>
 </benchmark>

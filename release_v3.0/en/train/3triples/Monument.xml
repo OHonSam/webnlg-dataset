@@ -1,21 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Monument" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
-        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
-        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
-        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
-        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument, USA, is categorised as a contributing property and was established in 2000.</lex>
-      <lex comment="good" lid="Id2">The 11th Mississippi Infantry monument was established in the US in 2000 and falls under the category of Contributing property.</lex>
-      <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument in the United States was established in the year 2000, and is categorized as a Contributing Property.</lex>
-    </entry>
     <entry category="Monument" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
@@ -60,21 +45,6 @@
       <lex comment="good" lid="Id2">The location of the 11th Mississippi Infantry Monument is Adams County, Pennsylvania and was established in 2000 where it is categorised as contributing property.</lex>
       <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument (completed in 2000) is located in Adams County, Pennsylvania, and falls under the category of Contributing property.</lex>
     </entry>
-    <entry category="Monument" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
-        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
-        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
-        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
-        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument in Pennsylvania was completed in 2000 and is categorized as a contributing property.</lex>
-      <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument, Pennsylvania, is categorised as a contributing property and was established in 2000.</lex>
-      <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument (established in 2000) stands in the state of Pennsylvania, and is categorised as a contributing property.</lex>
-    </entry>
     <entry category="Monument" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
@@ -89,20 +59,6 @@
       <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument which is located in the Monocacy National Battlefield was established on 11 July 1907. It falls within the category of Historic districts in the US.</lex>
       <lex comment="good" lid="Id2">Monocacy National Battlefield is the location of the 14th New Jersey Volunteer Infantry monument which was established on 11 July 1907 and belongs to the category of historic districts in the US.</lex>
       <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was established on 11 July 1907 and is located in the Monocacy National Battlefield. being a historic district in the United States.</lex>
-    </entry>
-    <entry category="Monument" eid="Id9" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
-        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
-        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
-        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
-        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Frederick, Maryland is the nearest city to Monocacy National Battlefield which is the location of the 14th New Jersey Volunteer Infantry Monument. The monument is categorised as a historic district in the US.</lex>
-      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument, categorised as a historic district in the United States, is located in the Monocacy National Battlefield and has Frederick, Maryland as its nearest city.</lex>
     </entry>
     <entry category="Monument" eid="Id11" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -133,20 +89,6 @@
       <lex comment="good" lid="Id2">The Monocacy National Battlefield is where the 14th New Jersey Volunteer Infantry Monument, established on 11 July 1907, is located. The closest city is Frederick, Maryland.</lex>
       <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument (established 1907-07-11) is located in the Monocacy National Battlefield, with Frederick, Maryland as its nearest city.</lex>
     </entry>
-    <entry category="Monument" eid="Id13" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
-        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
-        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
-        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
-        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument is contained within the category of Contributing property and is located in Adams County, Pennsylvania. Adams County is south of Cumberland County, Pennsylvania.</lex>
-      <lex comment="good" lid="Id2">Cumberland County is located to the north of Adams County, Pennsylvania where the 11th Mississippi Infantry monument is located and categorised as contributing property.</lex>
-    </entry>
     <entry category="Monument" eid="Id14" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
@@ -161,20 +103,6 @@
       <lex comment="good" lid="Id1">Carroll County Maryland is located to the southeast of Adams County, Pennsylvania where the 11th Mississippi Infantry Monument is located. The monument is categorised as a contributing property.</lex>
       <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument, a contributing property, is located in Adams County, Pennsylvania, which has Carroll County to its southeast.</lex>
       <lex comment="good" lid="Id3">11th Mississippi Infantry Monument, located in Adams County, Pennsylvania, northwest of Carroll County, Maryland is categorised as a contributing property.</lex>
-    </entry>
-    <entry category="Monument" eid="Id15" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
-        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
-        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
-        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
-        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument which was completed in 2000 is located in Adams County, Pennsylvania. Adams County is to the north west of Carroll County, Maryland.</lex>
-      <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument, established in 2000, is located in Adams County Pennsylvania, with Carroll County to the southeast.</lex>
     </entry>
     <entry category="Monument" eid="Id16" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -204,21 +132,6 @@
       <lex comment="good" lid="Id1">The Atatürk Monument (İzmir) was designed by Pietro Canonica, and can be found in Turkey, where the capital is Ankara.</lex>
       <lex comment="good" lid="Id2">Pietro Canonica is the designer of the Ataturk Monument (Izmir) in Turkey, where the capital is Ankara.</lex>
     </entry>
-    <entry category="Monument" eid="Id19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
-        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
-        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
-        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
-        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Pietro Canonica designed Ataturk Monument was inaugurated on 27th July, 1932 and is located in Turkey.</lex>
-      <lex comment="good" lid="Id2">Pietro Canonica designed the Ataturk monument which is located in Izmir, Turkey. It was inaugurated on 27 July 1932.</lex>
-      <lex comment="good" lid="Id3">The Ataturk Monument in Turkey, designed by Pietro Canonica, was inaugurated on the 1932-07-27.</lex>
-    </entry>
     <entry category="Monument" eid="Id21" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Azerbaijan | capital | Baku</otriple>
@@ -234,20 +147,6 @@
       <lex comment="good" lid="Id2">Artur Rasizade is the leader of Azerbaijan. The capital is Baku where the Turkish martyrs memorial is located.</lex>
       <lex comment="good" lid="Id3">The Baku Turkish Martyrs' Memorial is located in Baku, the capital of Azerbaijan, led by Artur Rasizade.</lex>
     </entry>
-    <entry category="Monument" eid="Id22" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
-        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
-        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
-        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
-        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Turkish martyrs memorial is located in Baku, Azerbaijan, which has Artur Rasizade as its Prime Minister and leader.</lex>
-      <lex comment="good" lid="Id2">The Baku Turkish Martyrs' Memorial is found in Azerbaijan, a country led by the Prime Minister Artur Rasizade.</lex>
-    </entry>
     <entry category="Monument" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
@@ -262,21 +161,6 @@
       <lex comment="good" lid="Id1">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial in red granite and white marble. It is dedicated to the soldiers of the Ottoman army who died in the battle of Baku.</lex>
       <lex comment="good" lid="Id2">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial in red granite and white marble. It is dedicated to the Ottoman Army soldiers who died in the battle of Baku.</lex>
       <lex comment="good" lid="Id3">The Baku Turkish Martyrs' Memorial, designed by Huseyin Butuner and Hilmi Guner, is made from red granite and white marble, and is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.</lex>
-    </entry>
-    <entry category="Monument" eid="Id25" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
-      <originaltripleset>
-        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
-        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
-        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
-        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
-        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Baku Turkish Martyrs memorial is made of red granite and white marble and can be found in Azerbaijan. It is also known as Turk Sehitleri Aniti.</lex>
-      <lex comment="good" lid="Id2">The red granite and white marble Baku Turkish Martyrs memorial, the native name being Turk Sehitleri Aniti, is found in Azerbaijan.</lex>
-      <lex comment="good" lid="Id3">The red granite and white marble Baku Turkish Martyrs' Memorial is located in Azerbaijan, where its local name is Turk Sehitleri Aniti.</lex>
     </entry>
     <entry category="Monument" eid="Id26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -351,20 +235,6 @@
       <lex comment="good" lid="Id2">Dead Man's Plack is a rock monument found in England where the established religion is The Church of England.</lex>
       <lex comment="good" lid="Id3">Dead Mans Plack is made of rock and located in England where the established religion is The Church of England.</lex>
     </entry>
-    <entry category="Monument" eid="Id34" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
-        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
-        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
-        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
-        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Frederick, Maryland, is the nearest city to the Monocacy National Battlefields situated in Frederick County. This district is the location of the 14th New Jersey Volunteer Infantry Monument.</lex>
-      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield in Frederick County, Maryland, which is also its nearest city.</lex>
-    </entry>
     <entry category="Monument" eid="Id36" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Turkey | capital | Ankara</otriple>
@@ -400,20 +270,6 @@
       <lex comment="good" lid="Id2">The bronze Atatürk Monument (İzmir) is found in Turkey, where the leader is Ahmet Davutoglu.</lex>
       <lex comment="good" lid="Id3">The bronze Atatürk monument is in Turkey, where the leader is Ahmet Davutoğlu.</lex>
       <lex comment="good" lid="Id4">The Atatürk Monument made of bronze is located in İzmir, Turkey, whose leader is Ahmet Davutoğlu.</lex>
-    </entry>
-    <entry category="Monument" eid="Id39" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
-      <originaltripleset>
-        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
-        <otriple>Turkey | currency | Turkish_lira</otriple>
-        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
-        <mtriple>Turkey | currency | Turkish_lira</mtriple>
-        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Ataturk Monument (Izmir) is located in Turkey, where the leader is Ahmet Davutoglu and the currency is the Turkish Lira.</lex>
-      <lex comment="good" lid="Id2">The Atatürk Monument is located in İzmir, Turkey, where the leader is Ahmet Davutoğlu and the currency is the lira.</lex>
     </entry>
     <entry category="Monument" eid="Id41" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

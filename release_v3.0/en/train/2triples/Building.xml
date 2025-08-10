@@ -14,19 +14,6 @@
       <lex comment="good" lid="Id2">John Madin is the architect of 103 Colmore Row, located in Colmore Row.</lex>
       <lex comment="good" lid="Id3">Architect John Madin designed 103 Colmore Row, located at Colmore Row.</lex>
     </entry>
-    <entry category="Building" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>103_Colmore_Row | architect | John_Madin</otriple>
-        <otriple>John_Madin | birthPlace | Birmingham</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
-        <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">103 Colmore Row was designed by John Madin, born in Birmingham.</lex>
-      <lex comment="good" lid="Id2">103 Colmore Row was designed by the architect John Madin who was born in Birmingham.</lex>
-      <lex comment="good" lid="Id3">Architect John Madin, born in Birmingham, designed 103 Colmore Row.</lex>
-    </entry>
     <entry category="Building" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>103_Colmore_Row | architect | John_Madin</otriple>
@@ -39,19 +26,6 @@
       <lex comment="good" lid="Id1">John Madin was an architect from Birmingham who designed 103 Colmore Row.</lex>
       <lex comment="good" lid="Id2">103 Colmore Row was designed by the architect John Madin whose hometown was Birmingham.</lex>
       <lex comment="good" lid="Id3">John Madin from Birmingham was the architect of 103 Colmore Row.</lex>
-    </entry>
-    <entry category="Building" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>103_Colmore_Row | buildingEndDate | "1976"</otriple>
-        <otriple>103_Colmore_Row | location | Colmore_Row</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>103_Colmore_Row | completionDate | 1976</mtriple>
-        <mtriple>103_Colmore_Row | location | Colmore_Row</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">103 Colmore Row at Colmore Row was completed in 1976.</lex>
-      <lex comment="good" lid="Id2">103 Colmore Row was completed in 1976.</lex>
-      <lex comment="good" lid="Id3">Number 103 in Colmore Row was completed in 1976.</lex>
     </entry>
     <entry category="Building" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -83,30 +57,6 @@
       <lex comment="good" lid="Id2">103 Colmore Row, designed by architect John Madin, is located in Birmingham.</lex>
       <lex comment="good" lid="Id3">103 Colmore Row is located in Birmingham and was designed by the architect John Madin.</lex>
     </entry>
-    <entry category="Building" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
-        <otriple>108_St_Georges_Terrace | cost | "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>108_St_Georges_Terrace | cost | "A$120 million"@en</otriple>
-        <otriple>108_St_Georges_Terrace | floorCount | "50"^^xsd:positiveInteger</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>108_St_Georges_Terrace | cost | "A$120 million"@en</otriple>
-        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>108_St_Georges_Terrace | cost | "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
-        <otriple>108_St_Georges_Terrace | floorCount | "50"^^xsd:positiveInteger</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>108_St_Georges_Terrace | cost | "120 million (Australian dollars)"</mtriple>
-        <mtriple>108_St_Georges_Terrace | floorCount | 50</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">108 St Georges Terrace cost 120 million Australian dollars and has 50 floors.</lex>
-      <lex comment="good" lid="Id2">108 St Georges Terrace has 50 floors and cost 120 million Australian dollars.</lex>
-    </entry>
     <entry category="Building" eid="Id11" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>108_St_Georges_Terrace | location | Perth</otriple>
@@ -136,22 +86,6 @@
       <lex comment="good" lid="Id2">Completed in 1983, the architect of 11 Diagonal Street was Helmut Jahn.</lex>
       <lex comment="good" lid="Id3">11 Diagonal Street was designed by Helmut Jahn and completed in 1983.</lex>
     </entry>
-    <entry category="Building" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
-        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
-        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>11_Diagonal_Street | completionDate | 1983</mtriple>
-        <mtriple>11_Diagonal_Street | floorCount | 20</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">11 Diagonal Street has 20 floors and was completed in 1983.</lex>
-      <lex comment="good" lid="Id2">11 Diagonal Street was completed in 1983 and has 20 floors.</lex>
-    </entry>
     <entry category="Building" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>11_Diagonal_Street | floorCount | 20</otriple>
@@ -175,17 +109,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street has 20 floors and was designed by Helmut Jahn.</lex>
       <lex comment="good" lid="Id2">11 Diagonal Street has 20 floors and its architect is Helmut Jahn.</lex>
-    </entry>
-    <entry category="Building" eid="Id16" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
-        <otriple>South_Africa | capital | Cape_Town</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
-        <mtriple>South_Africa | capital | Cape_Town</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cape Town is the capital of South Africa where 11 Diagonal Street is located.</lex>
     </entry>
     <entry category="Building" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -246,23 +169,6 @@
       <lex comment="good" lid="Id2">200 Public Square finished in 1985 has 45 floors.</lex>
       <lex comment="good" lid="Id3">200 Public Square was completed in 1985 and has 45 floors.</lex>
     </entry>
-    <entry category="Building" eid="Id22" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>200_Public_Square | location | "Cleveland, Ohio 44114"@en</otriple>
-        <otriple>200_Public_Square | floorCount | "45"^^xsd:positiveInteger</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>200_Public_Square | floorCount | 45</otriple>
-        <otriple>200_Public_Square | location | "Cleveland, Ohio 44114"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>200_Public_Square | floorCount | 45</mtriple>
-        <mtriple>200_Public_Square | location | "Cleveland, Ohio 44114"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">200 Public Square, which has 45 floors, is located in Cleveland, Ohio 44114.</lex>
-      <lex comment="good" lid="Id2">There are 45 floors of 200 Public Square in Cleveland, Ohio, 44114.</lex>
-      <lex comment="good" lid="Id3">200 Public Square, which has a floor count of 45, is located in Cleveland, Ohio 44114.</lex>
-    </entry>
     <entry category="Building" eid="Id24" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>200_Public_Square | location | Cleveland</otriple>
@@ -276,19 +182,6 @@
       <lex comment="good" lid="Id2">200 Public Square is located in Cleveland whose governing body is Cleveland City Council.</lex>
       <lex comment="good" lid="Id3">200 Public Square is in Cleveland which is governed by Cleveland City Council.</lex>
     </entry>
-    <entry category="Building" eid="Id26" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>200_Public_Square | location | Cleveland</otriple>
-        <otriple>Cleveland | isPartOf | Ohio</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>200_Public_Square | location | Cleveland</mtriple>
-        <mtriple>Cleveland | isPartOf | Ohio</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">200 Public Square is found in Cleveland, Ohio.</lex>
-      <lex comment="good" lid="Id2">200 Public Square is located in Cleveland, Ohio.</lex>
-      <lex comment="good" lid="Id3">200 Public Square is in Cleveland, Ohio.</lex>
-    </entry>
     <entry category="Building" eid="Id27" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>200_Public_Square | location | Cleveland</otriple>
@@ -299,22 +192,6 @@
         <mtriple>Cleveland | leader | Frank_G._Jackson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">200 Public square is in Cleveland which is led by Frank G Jackson.</lex>
-    </entry>
-    <entry category="Building" eid="Id29" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>20_Fenchurch_Street | startDate | "January 2009"@en</otriple>
-        <otriple>20_Fenchurch_Street | floorArea | "62145.3"^^xsd:double</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>20_Fenchurch_Street | startDate | "January 2009"@en</otriple>
-        <otriple>20_Fenchurch_Street | floorArea | "Offices:"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>20_Fenchurch_Street | buildingStartDate | "January 2009"</mtriple>
-        <mtriple>20_Fenchurch_Street | floorArea | 62145.3 (square metres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">20 Fenchurch Street has a floor area of 62145.3 square metres and was begun in January 2009.</lex>
-      <lex comment="good" lid="Id2">Construction of 20 Fenchurch Street began in January 2009 and the building has a floor area of 62145.3 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id31" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -333,18 +210,6 @@
       <lex comment="good" lid="Id2">20 Fenchurch Street was completed in April 2014, and has 34 floors.</lex>
       <lex comment="good" lid="Id3">20 Fenchurch Street, with 34 floors, was completed April 2014.</lex>
     </entry>
-    <entry category="Building" eid="Id32" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>20_Fenchurch_Street | location | London</otriple>
-        <otriple>London | leaderName | Boris_Johnson</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>20_Fenchurch_Street | location | London</mtriple>
-        <mtriple>London | leader | Boris_Johnson</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Boris Johnson is the leader of London, the city where 20 Fenchurch Street is located.</lex>
-      <lex comment="good" lid="Id2">The leader of London is Boris Johnson and is home to 20 Fenchurch Street.</lex>
-    </entry>
     <entry category="Building" eid="Id33" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>20_Fenchurch_Street | location | London</otriple>
@@ -357,19 +222,6 @@
       <lex comment="good" lid="Id1">20 Fenchurch Street is located in London whose leader is the Parliament of the United Kingdom.</lex>
       <lex comment="good" lid="Id2">20 Fenchurch Street is located in London, which is led by the parliament of the United Kingdom.</lex>
       <lex comment="good" lid="Id3">The Parliament of the United Kingdom is the leader of London, the city in which 20 Fenchurch Street is located.</lex>
-    </entry>
-    <entry category="Building" eid="Id35" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>20_Fenchurch_Street | location | United_Kingdom</otriple>
-        <otriple>United_Kingdom | demonym | British_people</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>20_Fenchurch_Street | location | United_Kingdom</mtriple>
-        <mtriple>United_Kingdom | demonym | British_people</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">20 Fenchurch Street is located in the United Kingdom where we call the natives British people.</lex>
-      <lex comment="good" lid="Id2">20 Fenchurch Street is in the United Kingdom where the demonym for natives is British people.</lex>
-      <lex comment="good" lid="Id3">20 Fenchurch Street is located in the United Kingdom which is occupied by British People which is the demonym for the natives.</lex>
     </entry>
     <entry category="Building" eid="Id36" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -464,19 +316,6 @@
       <lex comment="good" lid="Id2">250 Delaware Avenue is in Buffalo which is part of New York.</lex>
       <lex comment="good" lid="Id3">250 Delaware Avenue is located in Buffalo which is a part of New York.</lex>
     </entry>
-    <entry category="Building" eid="Id44" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>250_Delaware_Avenue | location | Buffalo,_New_York</otriple>
-        <otriple>Buffalo,_New_York | leaderName | Byron_Brown</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>250_Delaware_Avenue | location | Buffalo,_New_York</mtriple>
-        <mtriple>Buffalo,_New_York | leader | Byron_Brown</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Byron Brown is the leader of Buffalo, New York, where 250 Delaware Avenue is located.</lex>
-      <lex comment="good" lid="Id2">250 Delaware Avenue is in Buffalo, New York, where Byron Brown is the leader.</lex>
-      <lex comment="good" lid="Id3">250 Delaware Avenue is in Buffalo, New York, which is led by Byron Brown.</lex>
-    </entry>
     <entry category="Building" eid="Id45" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>250_Delaware_Avenue | location | United_States</otriple>
@@ -487,30 +326,6 @@
         <mtriple>250_Delaware_Avenue | architecturalStyle | Postmodern_architecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue has the Postmodern style of architecture and is located in the United States.</lex>
-    </entry>
-    <entry category="Building" eid="Id47" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>300_North_LaSalle | floorCount | "60"^^xsd:positiveInteger</otriple>
-        <otriple>300_North_LaSalle | completionDate | 2009</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>300_North_LaSalle | completionDate | 2009</otriple>
-        <otriple>300_North_LaSalle | floorCount | 60</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>300_North_LaSalle | buildingEndDate | "2009"</otriple>
-        <otriple>300_North_LaSalle | floorCount | "60"^^xsd:positiveInteger</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>300_North_LaSalle | buildingEndDate | "2009"</otriple>
-        <otriple>300_North_LaSalle | floorCount | 60</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>300_North_LaSalle | floorCount | 60</mtriple>
-        <mtriple>300_North_LaSalle | completionDate | 2009</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">300 North LaSalle has 60 floors and was completed in 2009.</lex>
-      <lex comment="good" lid="Id2">There are 60 floors at 300 North LaSalle, a building that was completed in 2009.</lex>
     </entry>
     <entry category="Building" eid="Id49" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -631,22 +446,6 @@
       <lex comment="good" lid="Id2">HOK SVE was the architect of 3Arena which was completed in December 2008.</lex>
       <lex comment="good" lid="Id3">3Arena, designed by HOK SVE, was completed in December 2008.</lex>
     </entry>
-    <entry category="Building" eid="Id61" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>3Arena | architect | Populous_(company)</otriple>
-        <otriple>3Arena | buildingEndDate | "December 2008"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>3Arena | architect | Populous_(company)</otriple>
-        <otriple>3Arena | completionDate | "December 2008"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>3Arena | architect | Populous_(company)</mtriple>
-        <mtriple>3Arena | completionDate | "December 2008"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">3Arena was completed on December 2008 and its architect was the company Populous.</lex>
-      <lex comment="good" lid="Id2">The 3Arena was completed in December 2008 and was designed by the company Populous.</lex>
-    </entry>
     <entry category="Building" eid="Id62" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>3Arena | architect | Populous_(company)</otriple>
@@ -685,23 +484,6 @@
       <lex comment="good" lid="Id2">The architect of 3Arena (on North Wall Quay) was the company Populous.</lex>
       <lex comment="good" lid="Id3">The 3Arena is located at "North Wall Quay.", and was built by the company Populous.</lex>
     </entry>
-    <entry category="Building" eid="Id67" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>3Arena | location | Dublin</otriple>
-        <otriple>Dublin | subdivisionName | Leinster</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>3Arena | location | Dublin</otriple>
-        <otriple>Dublin | isPartOf | Leinster</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>3Arena | location | Dublin</mtriple>
-        <mtriple>Dublin | isPartOf | Leinster</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">3Arena is in Dublin which is part of Leinster.</lex>
-      <lex comment="good" lid="Id2">Located in Dublin, a part of Leinster, is the 3Arena.</lex>
-      <lex comment="good" lid="Id3">3Arena is located in Dublin in Leinster.</lex>
-    </entry>
     <entry category="Building" eid="Id69" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>3Arena | owner | Live_Nation_Entertainment</otriple>
@@ -714,19 +496,6 @@
       <lex comment="good" lid="Id1">3Arena, in Dublin, is owned by Live Nation Entertainment.</lex>
       <lex comment="good" lid="Id2">The 3Arena (located in Dublin) is owned by Live Nation Entertainment.</lex>
       <lex comment="good" lid="Id3">The 3Arena is located in Dublin, which is owned by Live Nation Entertainment.</lex>
-    </entry>
-    <entry category="Building" eid="Id71" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</otriple>
-        <otriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | "23"^^xsd:positiveInteger</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</mtriple>
-        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The architect of the AC Hotel Bella Sky, Copenhagen, which has 23 floors, was 3XN.</lex>
-      <lex comment="good" lid="Id2">The AC Hotel Bella Sky in Copenhagen, which has 23 floors, was designed by the architects of the 3XN firm.</lex>
-      <lex comment="good" lid="Id3">The AC Hotel Bella Sky Copenhagen was designed by architect 3XN and has 23 floors.</lex>
     </entry>
     <entry category="Building" eid="Id72" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -744,19 +513,6 @@
       <lex comment="good" lid="Id1">The AC Hotel Bella Sky, Copenhagen, which has 814 rooms was developed by the Bella Center.</lex>
       <lex comment="good" lid="Id2">Bella Center were developers of AC Hotel Bella Sky Copenhagen which has 814 rooms.</lex>
       <lex comment="good" lid="Id3">The AC Hotel Bella Sky, Copenhagen has 814 rooms and was developed by the Bella Center.</lex>
-    </entry>
-    <entry category="Building" eid="Id74" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</otriple>
-        <otriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</mtriple>
-        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AC Hotel Bella Sky Copenhagen whose architect was 3XN is owned by Bella Center.</lex>
-      <lex comment="good" lid="Id2">AC Hotel Bella Sky Copenhagen was designed by the architects of 3XN and is owned by Bella Center.</lex>
-      <lex comment="good" lid="Id3">3XN was the architect of AC Hotel Bella Sky Copenhagen which is owned by Bella Center.</lex>
     </entry>
     <entry category="Building" eid="Id76" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -813,19 +569,6 @@
       <lex comment="good" lid="Id2">James Pain and George Richard Pain are the architects of the Adare Manor, completed in 1862.</lex>
       <lex comment="good" lid="Id3">James Pain and George Richard Pain were the architects of Adare Manor, completed in 1862.</lex>
     </entry>
-    <entry category="Building" eid="Id80" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Adare_Manor | architect | Augustus_Pugin</otriple>
-        <otriple>Augustus_Pugin | birthPlace | Bloomsbury</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adare_Manor | architect | Augustus_Pugin</mtriple>
-        <mtriple>Augustus_Pugin | birthPlace | Bloomsbury</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The architect of Adare Manor is Augustus Pugin, whose birthplace is Bloomsbury.</lex>
-      <lex comment="good" lid="Id2">Augustus Pugin, the architect of Adare Manor, was born in Bloomsbury.</lex>
-      <lex comment="good" lid="Id3">Augustus Pugin born in Bloomsbury, is the creator of Adare Manor.</lex>
-    </entry>
     <entry category="Building" eid="Id81" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Adare_Manor | architect | Augustus_Pugin</otriple>
@@ -858,23 +601,6 @@
       <lex comment="good" lid="Id1">James Pain was the architect of Adare Manor, which was completed in 1862.</lex>
       <lex comment="good" lid="Id2">The architect of Adare Manor was James Pain and the construction of the building was completed in 1862.</lex>
     </entry>
-    <entry category="Building" eid="Id83" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Adare_Manor | architect | Lewis_Nockalls_Cottingham</otriple>
-        <otriple>Adare_Manor | buildingEndDate | "1862"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Adare_Manor | architect | Lewis_Nockalls_Cottingham</otriple>
-        <otriple>Adare_Manor | completionDate | 1862</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adare_Manor | architect | Lewis_Nockalls_Cottingham</mtriple>
-        <mtriple>Adare_Manor | completionDate | 1862</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adare Manor, designed by Lewis N. Cottingham, was completed in 1862.</lex>
-      <lex comment="good" lid="Id2">Adare Manor was designed by Lewis Nockalls Cottingham and was completed in 1862.</lex>
-      <lex comment="good" lid="Id3">Adare Manor was completed in 1862, and was designed by Lewis Nockalls Cottingham.</lex>
-    </entry>
     <entry category="Building" eid="Id85" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Adare_Manor | locationCountry | Republic_of_Ireland</otriple>
@@ -887,18 +613,6 @@
       <lex comment="good" lid="Id1">Enda Kenny is the leader of the Republic of Ireland where Adare Manor is located.</lex>
       <lex comment="good" lid="Id2">Enda Kenny is the leader of the Republic of Ireland where Adare Manor can be found.</lex>
       <lex comment="good" lid="Id3">Adare Manor is located in the Republic of Ireland, which is led by Enda Kenny.</lex>
-    </entry>
-    <entry category="Building" eid="Id86" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
-        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
-        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Both the Addis Ababa Stadium and the Addis Ababa City Hall are located in Addis Ababa.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa.</lex>
     </entry>
     <entry category="Building" eid="Id87" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -917,23 +631,6 @@
       <lex comment="good" lid="Id2">Addis Ababa City Hall began construction in 1961 and has a floor area of 140000.0 square metres.</lex>
       <lex comment="good" lid="Id3">The Addis Ababa City Hall was built in 1961 and has 140000 square metre floor area.</lex>
     </entry>
-    <entry category="Building" eid="Id88" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
-        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
-        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Addis_Ababa_City_Hall | completionDate | 1964</mtriple>
-        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addis Ababa City Hall was completed in 1964 and has a floor area of 140000.0 square metres.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa City Hall, with a 140000.0 (square metres) floor area, was completed in 1964.</lex>
-      <lex comment="good" lid="Id3">Addis Ababa City Hall, with a floor area of 140000,0 square metres, was completed in 1964.</lex>
-    </entry>
     <entry category="Building" eid="Id89" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
@@ -946,19 +643,6 @@
       <lex comment="good" lid="Id1">Addis Ababa City Hall is in Ethiopia, where the currency is the Ethiopian birr.</lex>
       <lex comment="good" lid="Id2">The Ethiopian Birr is the currency of Ethiopia while The Addis Ababa City Hall is also located in Ethiopia.</lex>
       <lex comment="good" lid="Id3">The Addis Ababa City Hall is in the country of Ethiopia, where the currency is the Ethiopian Birr.</lex>
-    </entry>
-    <entry category="Building" eid="Id90" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
-        <otriple>Ethiopia | language | Amharic</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
-        <mtriple>Ethiopia | language | Amharic</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Addis Ababa City Hall is in the country of Ethiopia, where Amharic is spoken.</lex>
-      <lex comment="good" lid="Id2">The Addis Ababa City Hall is in Ethiopia where they speak Amharic.</lex>
-      <lex comment="good" lid="Id3">The language of Ethiopia is Amharic and the Addis Ababa City Hall is located in Ethiopia.</lex>
     </entry>
     <entry category="Building" eid="Id91" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -990,19 +674,6 @@
       <lex comment="good" lid="Id2">Addis Ababa city hall is located in the city of Addis Ababa which is in the country of Ethiopia.</lex>
       <lex comment="good" lid="Id3">Addis Ababa City Hall is located in Addis Ababa, Ethiopia.</lex>
     </entry>
-    <entry category="Building" eid="Id94" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"@en</otriple>
-        <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"</mtriple>
-        <mtriple>Adisham_Hall | location | Sri_Lanka</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adisham Hall which is located in Sri Lanka has the architectural style of Tudor and Jacobean.</lex>
-      <lex comment="good" lid="Id2">The architectural style of Adisham Hall in Sri Lanka is Tudor and Jacobean.</lex>
-      <lex comment="good" lid="Id3">Adisham Hall, Sri Lanka, has the Architectural style of Tudor and Jacobean.</lex>
-    </entry>
     <entry category="Building" eid="Id96" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Adisham_Hall | buildingEndDate | "1931"</otriple>
@@ -1017,22 +688,6 @@
         <mtriple>Adisham_Hall | location | Haputale</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall, Haputale was completed in 1931.</lex>
-    </entry>
-    <entry category="Building" eid="Id97" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
-        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Adisham_Hall | country | Sri_Lanka</otriple>
-        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
-        <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adisham Hall is located in Sri Lanka, whose capital is Sri Jayawardenepura Kotte.</lex>
-      <lex comment="good" lid="Id2">Sri Jayawardenepura Kotte is the capital of Sri Lanka where Adisham Hall is located.</lex>
     </entry>
     <entry category="Building" eid="Id99" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1058,23 +713,6 @@
       <lex comment="good" lid="Id1">Adisham Hall is in Sri Lanka where the leader is Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is located in the country of Sri Lanka, which is led by Ranil Wickremesinghe.</lex>
     </entry>
-    <entry category="Building" eid="Id101" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Adisham_Hall | completionDate | 1931</otriple>
-        <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
-        <otriple>Adisham_Hall | buildingEndDate | "1931"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adisham_Hall | location | Sri_Lanka</mtriple>
-        <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The construction of Adisham Hall, Sri Lanka, was completed in 1931.</lex>
-      <lex comment="good" lid="Id2">Adisham Hall was completed in 1931 and is located in Sri Lanka.</lex>
-      <lex comment="good" lid="Id3">Finished in 1931, Adisham Hall is located in Sri Lanka.</lex>
-    </entry>
     <entry category="Building" eid="Id103" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Akita_Museum_of_Art | country | Japan</otriple>
@@ -1095,27 +733,6 @@
       <lex comment="good" lid="Id1">Akita Museum of Art is located in Akita, Japan.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita, Japan.</lex>
       <lex comment="good" lid="Id3">The Akita Museum of Art is located in Akita, Japan.</lex>
-    </entry>
-    <entry category="Building" eid="Id104" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Akita_Museum_of_Art | country | Japan</otriple>
-        <otriple>Akita_Museum_of_Art | locationTown | Akita_Prefecture</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Akita_Museum_of_Art | country | Japan</otriple>
-        <otriple>Akita_Museum_of_Art | location | Akita_Prefecture</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Akita_Museum_of_Art | locationCountry | Japan</otriple>
-        <otriple>Akita_Museum_of_Art | location | Akita_Prefecture</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akita_Museum_of_Art | country | Japan</mtriple>
-        <mtriple>Akita_Museum_of_Art | location | Akita_Prefecture</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akita Museum of Art located in Akita Prefecture is found in Japan.</lex>
-      <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita Prefecture in Japan.</lex>
-      <lex comment="good" lid="Id3">Akita Museum of Art is located in Akita Prefecture, Japan.</lex>
     </entry>
     <entry category="Building" eid="Id105" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1142,22 +759,6 @@
       <lex comment="good" lid="Id2">The Akita Museum of Art has 3 floors and an area of 3746.66(square meters).</lex>
       <lex comment="good" lid="Id3">The Akita Museum of Art is located on 3 floors and is 3746.66 square metres.</lex>
     </entry>
-    <entry category="Building" eid="Id106" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
-        <otriple>Akita,_Akita | country | Japan</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Akita,_Akita | country | Japan</otriple>
-        <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
-        <mtriple>Akita,_Akita | country | Japan</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Akita Museum of Art is in Akita, Akita Japan.</lex>
-      <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita, which is found in Japan.</lex>
-    </entry>
     <entry category="Building" eid="Id108" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
@@ -1174,22 +775,6 @@
       <lex comment="good" lid="Id1">Akita Museum of Art is located in Akita, Akita Prefecture.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita Prefecture.</lex>
       <lex comment="good" lid="Id3">The Akita Museum of Art is located in Akita, in the Akita Prefecture.</lex>
-    </entry>
-    <entry category="Building" eid="Id110" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alan_B._Miller_Hall | address | "101 Ukrop Way"@en</otriple>
-        <otriple>Alan_B._Miller_Hall | buildingEndDate | "1 June 2009"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alan_B._Miller_Hall | completionDate | "2009-06-01"^^xsd:date</otriple>
-        <otriple>Alan_B._Miller_Hall | address | "101 Ukrop Way"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_B._Miller_Hall | completionDate | 2009-06-01</mtriple>
-        <mtriple>Alan_B._Miller_Hall | address | "101 Ukrop Way"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan B. Miller Hall is at 101 Ukrop Way and was completed on 1 June 2009.</lex>
-      <lex comment="good" lid="Id2">Alan B. Miller Hall was completed on 1 June 2009, and its address is 101 Ukrop Way.</lex>
     </entry>
     <entry category="Building" eid="Id111" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1241,23 +826,6 @@
       <lex comment="good" lid="Id1">The address for Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, Ahmedabad.</lex>
       <lex comment="good" lid="Id2">The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, Ahmedabad.</lex>
       <lex comment="good" lid="Id3">The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, Ahmedabad near CEPT University, opp. Gujarat University, University Road.</lex>
-    </entry>
-    <entry category="Building" eid="Id118" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Amdavad_ni_Gufa | country | India</otriple>
-        <otriple>India | leader | Sumitra_Mahajan</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
-        <otriple>India | leader | Sumitra_Mahajan</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
-        <mtriple>India | leader | Sumitra_Mahajan</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Sumitra Mahajan is the leader of India where Amdavad ni Gufa is found.</lex>
-      <lex comment="good" lid="Id2">Amdavad ni Gufa is located in India, the country which has Sumitra Mahajan as one of its leaders.</lex>
-      <lex comment="good" lid="Id3">Amdavad ni Gufa is located in India whose leader is Sumitra Mahajan.</lex>
     </entry>
     <entry category="Building" eid="Id119" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1420,18 +988,6 @@
       <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House is located in Asherton, Dimmit County, Texas.</lex>
       <lex comment="good" lid="Id3">Asher and Mary Isabelle Richardson House is located in Asherton, Texas, which is part of Dimmit County, Texas.</lex>
     </entry>
-    <entry category="Building" eid="Id135" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
-        <otriple>Julia_Morgan | birthPlace | California</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
-        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Julia Morgan was born in California and is the architect of Asilomar Conference Grounds.</lex>
-      <lex comment="good" lid="Id2">Asilomar Conference Grounds was designed by Julia Morgan, who was born in California.</lex>
-    </entry>
     <entry category="Building" eid="Id137" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
@@ -1448,19 +1004,6 @@
       <lex comment="good" lid="Id1">Asilomar State Beach is one of the significant buildings designed by architect Julia Morgan, who also designed The Asilomar Conference Grounds.</lex>
       <lex comment="good" lid="Id2">Julia Morgan was the architect of the grounds of Asilomar Conference and the Asilomar State Beach.</lex>
     </entry>
-    <entry category="Building" eid="Id139" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
-        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
-        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Julia Morgan designed the Asilomar Conference Grounds, and the landmark Los Angeles Herald Examiner building in California.</lex>
-      <lex comment="good" lid="Id2">Julia Morgan has designed many significant buildings, including the Los Angeles Herald Examiner building, and also designed Asilomar Conference Grounds.</lex>
-      <lex comment="good" lid="Id3">Julia Morgan is the architect of the grounds of the Asilomar Conference as well as many other significant buildings including the Los Angeles Herald Examiner building.</lex>
-    </entry>
     <entry category="Building" eid="Id141" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
@@ -1474,22 +1017,6 @@
       <lex comment="good" lid="Id2">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987.</lex>
       <lex comment="good" lid="Id3">Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987.</lex>
     </entry>
-    <entry category="Building" eid="Id143" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
-        <otriple>Asilomar_Conference_Grounds | yearOfConstruction | "1913"^^xsd:gYear</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
-        <otriple>Asilomar_Conference_Grounds | built | 1913</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
-        <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and was constructed in 1913.</lex>
-      <lex comment="good" lid="Id2">The Asilomar Conference Grounds were made in 1913 and are on the Asilomar Blvd, Pacific Grove, CA.</lex>
-    </entry>
     <entry category="Building" eid="Id144" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
@@ -1501,19 +1028,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds are located in Pacific Grove, California and has the reference number 87000823 in the National Register of Historic Places.</lex>
       <lex comment="good" lid="Id2">Asilomar Conference Grounds is located in Pacific Grove, California. 87000823 is its reference number in the National Register of Historic Places.</lex>
-    </entry>
-    <entry category="Building" eid="Id145" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
-        <otriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
-        <mtriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Asilomar Conference Grounds, with an Arts and Crafts movement style architecture, is located at Pacific Grove, California.</lex>
-      <lex comment="good" lid="Id2">Asilomar Conference Grounds, with an architectural style of the Arts and Crafts Movement, is located in Pacific Grove, California.</lex>
-      <lex comment="good" lid="Id3">Asilomar Conference Grounds are located in Pacific Grove, California and has the architectural style of Arts and Crafts Movement.</lex>
     </entry>
     <entry category="Building" eid="Id146" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1531,19 +1045,6 @@
       <lex comment="good" lid="Id1">Asilomar Conference Grounds were constructed in 1913 and are located in Pacific Grove, California.</lex>
       <lex comment="good" lid="Id2">The Asilomar Conference Grounds, constructed in 1913, is located at Pacific Grove, California.</lex>
       <lex comment="good" lid="Id3">Constructed in 1913, the Asilomar Conference Grounds are located at Pacific Grove, California.</lex>
-    </entry>
-    <entry category="Building" eid="Id148" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
-        <otriple>Pacific_Grove,_California | isPartOf | California</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
-        <mtriple>Pacific_Grove,_California | isPartOf | California</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asilomar Conference Grounds in Pacific Grove, CA is part of the state of California.</lex>
-      <lex comment="good" lid="Id2">The Asilomar Conference Grounds is located at Pacific Grove, which is part of California.</lex>
-      <lex comment="good" lid="Id3">Asilomar Conference Grounds are located in Pacific Grove, a part of California.</lex>
     </entry>
     <entry category="Building" eid="Id149" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1578,18 +1079,6 @@
       <lex comment="good" lid="Id1">Asser Levy Public Baths, built in 1904, is located in Manhattan.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths in Manhattan were constructed in 1904.</lex>
     </entry>
-    <entry category="Building" eid="Id152" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
-        <otriple>Manhattan | isPartOf | New_York</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
-        <mtriple>Manhattan | isPartOf | New_York</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asser Levy Public Baths is located in Manhattan, which is a part of New York.</lex>
-      <lex comment="good" lid="Id2">Asser Levy Public Baths are in Manhattan, New York.</lex>
-    </entry>
     <entry category="Building" eid="Id154" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
@@ -1602,23 +1091,6 @@
       <lex comment="good" lid="Id1">Gale Brewer is the leader of Manhattan, which is the location of Asser Levy Public Baths.</lex>
       <lex comment="good" lid="Id2">Gale Brewer is the leader of Manhattan, where the Asser Levy Public Baths can be found.</lex>
       <lex comment="good" lid="Id3">Asser Levy Public Baths is located in Manhattan whose leader is Gale Brewer.</lex>
-    </entry>
-    <entry category="Building" eid="Id155" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
-        <otriple>Asser_Levy_Public_Baths | built | 1904</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
-        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | "1904"^^xsd:gYear</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
-        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Asser Levy Public Baths which was built in 1904 is located in New York City.</lex>
-      <lex comment="good" lid="Id2">Asser Levy Public Baths (constructed in 1904) are located in New York City.</lex>
-      <lex comment="good" lid="Id3">The location of Asser Levy Public Baths, built in 1904, is New York City.</lex>
     </entry>
     <entry category="Building" eid="Id157" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1657,23 +1129,6 @@
       <lex comment="good" lid="Id1">3Arena is located in Dublin, in the Republic of Ireland.</lex>
       <lex comment="good" lid="Id2">3Arena is located in Dublin, Republic of Ireland.</lex>
     </entry>
-    <entry category="Building" eid="Id161" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
-        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
-        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
-        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Ethiopia whose leader is Mulatu Teshome.</lex>
-      <lex comment="good" lid="Id2">The leader of Ethiopia is Mulatu Teshome and the Addis Ababa City Hall is located in Ethiopia.</lex>
-      <lex comment="good" lid="Id3">The Addis Ababa City Hall is in Ethiopia, the country which has Mulatu Teshome as one of its leaders.</lex>
-    </entry>
     <entry category="Building" eid="Id162" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>India | demonym | Indian_people</otriple>
@@ -1686,25 +1141,6 @@
       <lex comment="good" lid="Id1">The demonym for people living in India, where Amdavad ni Gufa is located, is Indian.</lex>
       <lex comment="good" lid="Id2">Amdavad ni Gufa is located in India and the demonym for people living in India is Indian.</lex>
       <lex comment="good" lid="Id3">Amdavad ni Gufa is located in India, which is populated by Indian People.</lex>
-    </entry>
-    <entry category="Building" eid="Id163" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>India | leader | T._S._Thakur</otriple>
-        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>India | leaderName | T._S._Thakur</otriple>
-        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>India | leader | T._S._Thakur</otriple>
-        <otriple>Amdavad_ni_Gufa | country | India</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>India | leader | T._S._Thakur</mtriple>
-        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">T S Thakur is the leader of India; also the location of Amdavad ni Gufa.</lex>
     </entry>
     <entry category="Building" eid="Id165" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1735,19 +1171,6 @@
       <lex comment="good" lid="Id1">The Mason School of Business is located in the United States, and are the current tenants of Alan B Miller Hall.</lex>
       <lex comment="good" lid="Id2">The Mason School of Business is the tenant of the Alan B Miller Hall in the United States.</lex>
       <lex comment="good" lid="Id3">The Mason School of Business is located in Alan B Miller Hall in the United States.</lex>
-    </entry>
-    <entry category="Building" eid="Id168" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>United_States | leaderName | Joe_Biden</otriple>
-        <otriple>250_Delaware_Avenue | location | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | leader | Joe_Biden</mtriple>
-        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">250 Delaware Avenue is located in the United States, which is led by Joe Biden.</lex>
-      <lex comment="good" lid="Id2">Joe Biden is a leader of the United States, which is also the location of 250 Delaware Avenue.</lex>
-      <lex comment="good" lid="Id3">250 Delaware Avenue is in the United States where Joe Biden is a leader.</lex>
     </entry>
     <entry category="Building" eid="Id170" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

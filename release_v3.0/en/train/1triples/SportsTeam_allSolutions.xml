@@ -1,16 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="SportsTeam" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>1._FC_Köln | capacity | 50000</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1._FC_Köln | numberOfMembers | 50000</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1. FC Köln has 50000 members.</lex>
-      <lex comment="good" lid="Id2">F.C. Koln have 50000 members.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>1._FC_Köln | season | 2014–15_Bundesliga</otriple>
@@ -20,15 +10,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1. FC Köln were in the 2014–15 Bundesliga season.</lex>
       <lex comment="good" lid="Id2">FC Köln played the 2014-15 season in the Bundesliga.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>1._FC_Magdeburg | league | 3._Liga</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1._FC_Magdeburg | league | 3._Liga</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1 FC Magdeburg is in the 3 Liga league.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -86,16 +67,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Verona, Italy is the home to A.C. Chievo Verona.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.C._Chievo_Verona | ground | Verona</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.C._Chievo_Verona | ground | Verona</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.C. Chievo Verona is playing in his ground at Verona.</lex>
-      <lex comment="good" lid="Id2">A.C. Chievo Verona play in Verona.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
@@ -106,16 +77,6 @@
       <lex comment="good" lid="Id1">AC Chievo Verona play in the Serie A league.</lex>
       <lex comment="good" lid="Id2">A.C. Chievo Verona is in the league, Serie A.</lex>
       <lex comment="good" lid="Id3">A.C. Chievo Verona play in Serie A.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.C._Chievo_Verona | season | 2014</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.C._Chievo_Verona | season | 2014</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AC Chievo Verona competed in the 2014 season.</lex>
-      <lex comment="good" lid="Id2">A.C. Chievo Verona played in the 2014 season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -128,17 +89,6 @@
       <lex comment="good" lid="Id2">A.C. Chievo Verona were in the 2014–15 Serie A season.</lex>
       <lex comment="good" lid="Id3">A.C. Chievo Verona were in Serie A in 2014-15.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.C._Lumezzane | fullName | "Associazione Calcio Lumezzane SpA"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The "Associazione Calcio Lumezzane SpA" is the full name of A.C. Lumezzane.</lex>
-      <lex comment="good" lid="Id2">Associazione Calcio Lumezzane SpA is abbreviated to A.C. Lumezzane.</lex>
-      <lex comment="good" lid="Id3">The full name of A.C. Lumezzane is Associazione Calcio Lumezzane SpA.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A.C._Lumezzane | league | "Lega Pro/A"@en</otriple>
@@ -149,17 +99,6 @@
       <lex comment="good" lid="Id1">A.C. Lumezzane is in the Lega Pro/A league.</lex>
       <lex comment="good" lid="Id2">A.C Lumezzane play in the Lega Pro/A.</lex>
       <lex comment="good" lid="Id3">A.C. Lumezzane play in Lega Pro/A.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.C._Lumezzane | manager | Michele_Marcolini</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.C._Lumezzane | manager | Michele_Marcolini</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Michele Marcolini has been manager of AC Lumezzane.</lex>
-      <lex comment="good" lid="Id2">Michele Marcolini manages the A.C. Lumezzane.</lex>
-      <lex comment="good" lid="Id3">The manager of A.C. Lumezzane is Michele Marcolini.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -179,16 +118,6 @@
         <mtriple>A.D._Isidro_Metapán | fullName | "Isidro Metapán"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of A.D. Isidro Metapan is Isidro Metapan.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.D. Isidro Metapán are at Estadio Jorge Calero Suárez.</lex>
-      <lex comment="good" lid="Id2">A.D. Isidro Metapan play at the Estadio Jorge Calero Suarez.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -211,17 +140,6 @@
       <lex comment="good" lid="Id2">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan.</lex>
       <lex comment="good" lid="Id3">A.D. Isidro Metapan's manager is Jorge Humberto Rodriguez.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.D._Isidro_Metapán | capacity | 10000</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.D._Isidro_Metapán | numberOfMembers | 10000</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AD Isidro Metapan has 10000 members.</lex>
-      <lex comment="good" lid="Id2">A.D. Isidro Metapán has 10000 members.</lex>
-      <lex comment="good" lid="Id3">The number of members of Isidro Metapán is 10000.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A.E_Dimitra_Efxeinoupolis | chairman | Antonis_Milionis</otriple>
@@ -243,16 +161,6 @@
       <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis is in the league, EPSTH 2nd GROUP.</lex>
       <lex comment="good" lid="Id2">A.E Dimitra Efxeinoupolis play in the A EPSTH 2nd GROUP.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | "1500"^^xsd:nonNegativeInteger</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AE Dimitra Efxeinoupolis has 1500 members.</lex>
-      <lex comment="good" lid="Id2">A.E. Dimitra Efxeinoupolis has 1500 members.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A.F.C._Blackpool | league | English_football_league_system</otriple>
@@ -263,16 +171,6 @@
       <lex comment="good" lid="Id1">A.F.C Blackpool play in the English Football League system.</lex>
       <lex comment="good" lid="Id2">A.F.C. Blackpool play in the English Football League.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AFC Blackpool have had Stuart Parker as their manager.</lex>
-      <lex comment="good" lid="Id2">The manager of A.F.C. Blackpool is Stuart Parker (footballer).</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A.F.C._Blackpool | season | 2014–15_North_West_Counties_Football_League</otriple>
@@ -282,15 +180,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">In the season 2014-2015 Blackpool played in the North West Counties Football League.</lex>
       <lex comment="good" lid="Id2">AFC Blackpool played in the 2014-15 North West Counties Football League season.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.F.C._Fylde | ground | "Bryning Lane"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.F.C._Fylde | ground | "Bryning Lane"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.F.C. Fylde are based at Bryning Lane.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id49" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -353,15 +242,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Fylde played the 2014-15 season in the Football Conference.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id58" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.S._Gubbio_1910 | ground | Stadio_Pietro_Barbetti</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.S._Gubbio_1910 | ground | Stadio_Pietro_Barbetti</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ground of AS Gubbio 1910 is called Stadio Pietro Barbetti.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id60" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A.S._Gubbio_1910 | season | 2014</otriple>
@@ -381,17 +261,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.S. Gubbio 1910 was a part of the 2014–15 Lega Pro season.</lex>
       <lex comment="good" lid="Id2">A.S. Gubbio 1910 were in the Lega Pro in the 2014-15 season.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id63" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.S._Livorno_Calcio | fullname | "Livorno Calcio S.p.A."@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.S._Livorno_Calcio | fullName | "Livorno Calcio S.p.A."</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AS Livorno Calcio has the full name of "Livorno Calcio S.p.A".</lex>
-      <lex comment="good" lid="Id2">Livorno Calcio S.p.A. is abbreviated to A.S. Livorno Calcio.</lex>
-      <lex comment="good" lid="Id3">The full name of A.S. Livorno Calcio is Livorno Calcio S.p.A.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id64" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -413,17 +282,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.S Livorno Calcio ground is in Livorno.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id67" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.S._Livorno_Calcio | league | Serie_B</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.S._Livorno_Calcio | league | Serie_B</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The league that A.S. Livorno Calcio play in is Serie B.</lex>
-      <lex comment="good" lid="Id2">AS Livorno Calcio play in Serie B.</lex>
-      <lex comment="good" lid="Id3">AS Livorno club plays in Serie B.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id68" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A.S._Livorno_Calcio | manager | Christian_Panucci</otriple>
@@ -433,17 +291,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.S. Livorno Calcio is managed by Christian Panucci.</lex>
       <lex comment="good" lid="Id2">A.S. Livorno Calcio are managed by Christian Panucci.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.S._Livorno_Calcio | season | 2014–15_Serie_B</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.S._Livorno_Calcio | season | 2014–15_Serie_B</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AS Livorno Calcio played season 2014-15 in Serie B.</lex>
-      <lex comment="good" lid="Id2">A.S. Livorno Calcio were in the 2014–15 Serie B season.</lex>
-      <lex comment="good" lid="Id3">A.S. Livorno Calcio were in Serie B in the 2014-15 season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id72" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -495,16 +342,6 @@
       <lex comment="good" lid="Id2">Luciano Spalletti manages A.S. Roma.</lex>
       <lex comment="good" lid="Id3">The manager of A.S. Roma is Luciano Spalletti.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id78" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>A.S._Roma | capacity | "70634"^^xsd:nonNegativeInteger</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>A.S._Roma | numberOfMembers | 70634</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AS Roma has 70634 members.</lex>
-      <lex comment="good" lid="Id2">A.S. Roma has 70634 members.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id79" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>A.S._Roma | season | 2014</otriple>
@@ -526,16 +363,6 @@
       <lex comment="good" lid="Id2">The full name of ACF Fiorentina is ACF Fiorentina S.p.A.</lex>
       <lex comment="good" lid="Id3">ACF Fiorentina full name is ACF Fiorentina S.p.A.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id82" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>ACF_Fiorentina | manager | Paulo_Sousa</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>ACF_Fiorentina | manager | Paulo_Sousa</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Paulo Sousa is the manager of the ACF Fiorentina.</lex>
-      <lex comment="good" lid="Id2">The manager of ACF Fiorentina is Paulo Sousa.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id83" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>ACF_Fiorentina | capacity | 47290</otriple>
@@ -554,16 +381,6 @@
         <mtriple>ACF_Fiorentina | season | 2014</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">ACF Fiorentina competed in the 2014 season.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id85" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>ACF_Fiorentina | season | 2014–15_Serie_A</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>ACF_Fiorentina | season | 2014–15_Serie_A</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">ACF Fiorentina played the 2014-15 season in Serie A.</lex>
-      <lex comment="good" lid="Id2">ACF Fiorentina played in the 2014-15 Serie A season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id86" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -604,16 +421,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AEK Athens FC played in the 2014 season.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id92" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AFC_Ajax | fullname | "Amsterdamsche Football Club Ajax"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AFC_Ajax | fullName | "Amsterdamsche Football Club Ajax"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The full name of AFC Ajax is "Amsterdamsche Football Club Ajax".</lex>
-      <lex comment="good" lid="Id2">The full name of AFC Ajax is Amsterdamsche Football Club Ajax.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id93" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AFC_Ajax | capacity | "53502"^^xsd:nonNegativeInteger</otriple>
@@ -622,17 +429,6 @@
         <mtriple>AFC_Ajax | numberOfMembers | 53502</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Ajax has 53502 members.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id94" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AFC_Ajax | owner | AFC_Ajax_N.V.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AFC_Ajax | owner | AFC_Ajax_N.V.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The owner of AFC Ajax is AFC Ajax N.V.</lex>
-      <lex comment="good" lid="Id2">The owner of AFC Ajax is AFC Ajax NV.</lex>
-      <lex comment="good" lid="Id3">AFC Ajax N.V. owns AFC Ajax.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id95" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -643,17 +439,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Ajax played in the 2014 season.</lex>
       <lex comment="good" lid="Id2">AFC Ajax played in season 2014.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id97" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AFC_Ajax_(amateurs) | fullName | "Amsterdamsche Football Club Ajax Amateurs"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The full name of AFC Ajax (amateurs) is "Amsterdamsche Football Club Ajax Amateurs".</lex>
-      <lex comment="good" lid="Id2">The full name of AFC Ajax (amateurs) is Amsterdamsche Football Club Ajax Amateurs.</lex>
-      <lex comment="good" lid="Id3">The AFC Ajax (amateurs) complete name is the "Amsterdamsche Football Club Ajax Amateurs.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id98" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -674,15 +459,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id100" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AFC_Ajax_(amateurs) | league | Hoofdklasse</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AFC_Ajax_(amateurs) | league | Hoofdklasse</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AFC Ajax (amateurs) play in the Hoofdklasse league.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id102" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AFC_Ajax_(amateurs) | season | 2014</otriple>
@@ -692,17 +468,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Ajax (Amateurs) competed in the 2014 season.</lex>
       <lex comment="good" lid="Id2">AFC Ajax (amateurs) played in the 2014 season.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id104" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AZAL_Arena | location | Azerbaijan</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AZAL_Arena | location | Azerbaijan</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AZAL Arena is located in Azerbaijan.</lex>
-      <lex comment="good" lid="Id2">The AZAL arena is in Azerbaijan.</lex>
-      <lex comment="good" lid="Id3">AZAL Arena is located in Azerbaijan.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id105" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -725,16 +490,6 @@
       <lex comment="good" lid="Id1">AZAL PFK play their home matches at the AZAL Arena.</lex>
       <lex comment="good" lid="Id2">AZAL Arena is the ground of AZAL PFK.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id108" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AZAL_PFK | capacity | "3500"^^xsd:nonNegativeInteger</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">There are 3500 members of AZAL PFK.</lex>
-      <lex comment="good" lid="Id2">The number of members of Azal Pfk is 3500.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id109" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AZAL_PFK | season | 2014</otriple>
@@ -744,16 +499,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AZAL PFK competed in the season 2014.</lex>
       <lex comment="good" lid="Id2">AZAL PFK are in season 2014.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id110" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AZAL PFK Bakou is playing Azerbaijan PremierLeague, 2014–15.</lex>
-      <lex comment="good" lid="Id2">AZAL PFK were in the Azerbaijan Premier League in 2014-15.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id111" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -765,17 +510,6 @@
       <lex comment="good" lid="Id1">AZ Alkmaar full name is "Alkmaar Zaanstreek".</lex>
       <lex comment="good" lid="Id2">Alkmaar Zaanstreek is the full name of AZ Alkmaar.</lex>
       <lex comment="good" lid="Id3">AZ Alkmaar's full name is Alkmaar Zaanstreek.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id113" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AZ_Alkmaar | manager | John_van_den_Brom</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AZ_Alkmaar | manager | John_van_den_Brom</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">John van den Brom has been manager of AZ Alkmaar.</lex>
-      <lex comment="good" lid="Id2">John van den Brom manages the AZ Alkmaar.</lex>
-      <lex comment="good" lid="Id3">The manager of AZ Alkmaar is john van den Brom.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id115" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -807,15 +541,6 @@
       <lex comment="good" lid="Id2">The full name of Agremiação Sportiva Arapiraquense is "Agremiação Sportiva Arapiraquense".</lex>
       <lex comment="good" lid="Id3">The Agremiação Sportiva Arapiraquense's full name is"Agremiação Sportiva Arapiraquense".</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id120" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id121" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Agremiação_Sportiva_Arapiraquense | nickname | "''Alvinegro"@en</otriple>
@@ -827,17 +552,6 @@
       <lex comment="good" lid="Id2">Alvinegro is the nickname for Agremiação Sportiva Arapiraquense.</lex>
       <lex comment="good" lid="Id3">The nickname of Agremiacao Sportiva Arapiraquense is "Alvinegro".</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id122" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Agremiação_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Agremiação_Sportiva_Arapiraquense | nickname | "Asa Gigante ''"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Agremiação Sportiva Arapiraquense is nicknamed Asa Gigante.</lex>
-      <lex comment="good" lid="Id2">Agremiação Sportiva Arapiraquense nickname is Asa Gigante.</lex>
-      <lex comment="good" lid="Id3">Agremiacao Sportiva Arapiraquense have the nickname Asa Gigante.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id123" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Agremiação_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger</otriple>
@@ -848,16 +562,6 @@
       <lex comment="good" lid="Id1">Agremiação Sportiva Arapiraquense has 17000 members.</lex>
       <lex comment="good" lid="Id2">Agremiação Sportiva Arapiraquense club has 17000 members.</lex>
       <lex comment="good" lid="Id3">Agremiacao Sportiva Arapiraquense has 17000 members.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id125" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akron, Ohio is part of Summit County, Ohio.</lex>
-      <lex comment="good" lid="Id2">Akron, Ohio is a part of Summit County, Ohio.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id127" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -887,15 +591,6 @@
       <lex comment="good" lid="Id1">Denzil Antonio was the manager of Akron Summit Assault.</lex>
       <lex comment="good" lid="Id2">Denzil Antonio is the manager of Akron Summit Assault.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id133" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Akron_Summit_Assault | season | 2011_PDL_season</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akron_Summit_Assault | season | 2011_PDL_season</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akron Summit Assault play in the 2011 PDL season.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Athens | mayor | Giorgos_Kaminis</otriple>
@@ -914,16 +609,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Blackpool is the Conservative Party (UK).</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id139" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Blackpool | leaderName | Labour_Party_(UK)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Blackpool | leader | Labour_Party_(UK)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of Blackpool council is the Labour Party (UK).</lex>
-      <lex comment="good" lid="Id2">Blackpool's council is Labour.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id141" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
@@ -933,19 +618,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Campeonato Brasileiro Série C is from Brazil.</lex>
       <lex comment="good" lid="Id2">Campeonato Brasileiro Serie C is based in Brazil.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id142" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Christian_Panucci | team | A.S._Livorno_Calcio</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Christian_Panucci | managerClub | A.S._Livorno_Calcio</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Christian_Panucci | club | A.S._Livorno_Calcio</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Christian Panucci has been manager of A S Livorno Calcio.</lex>
-      <lex comment="good" lid="Id2">Christian Panucci plays for A.S. Livorno Calcio.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id143" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -971,18 +643,6 @@
       <lex comment="good" lid="Id1">Christian Panucci played for the Italy national football team.</lex>
       <lex comment="good" lid="Id2">Christian Panucci plays for the Italy national football team.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id146" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Christian_Panucci | team | Real_Madrid_C.F.</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Christian_Panucci | clubs | Real_Madrid_C.F.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Christian_Panucci | club | Real_Madrid_C.F.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Christian Panucci was attached to the Real Madrid CF club.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id147" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Dave_Challinor | managerClub | A.F.C._Fylde</otriple>
@@ -1007,19 +667,6 @@
       <lex comment="good" lid="Id1">Dave Challinor played football for Bury FC.</lex>
       <lex comment="good" lid="Id2">Dave Challinor played for Bury F.C.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id150" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Dave_Challinor | team | Stockport_County_F.C.</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Dave_Challinor | clubs | Stockport_County_F.C.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Dave_Challinor | club | Stockport_County_F.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Dave Challinor plays at the Stockport County F.C.</lex>
-      <lex comment="good" lid="Id2">Dave Challinor played for Stockport County F.C.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id152" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Alagoas</otriple>
@@ -1030,16 +677,6 @@
       <lex comment="good" lid="Id1">Estadio Municipal Coaracy da Mata Fonseca is located in Alagoas.</lex>
       <lex comment="good" lid="Id2">The Estádio Municipal Coaracy da Mata Fonseca is located in Alagoas.</lex>
       <lex comment="good" lid="Id3">Estadio Municipal Coaracy da Mata Fonseca is situated in Alagoas.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id154" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Estádio Municipal Coaracy da Mata Fonseca is in Brazil.</lex>
-      <lex comment="good" lid="Id2">Estádio Municipal Coaracy da Mata Fonseca is located in Brazil.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id155" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1057,16 +694,6 @@
       <lex comment="good" lid="Id1">Frank de Boer played for AFC Ajax.</lex>
       <lex comment="good" lid="Id2">Frank de Boer plays for AFC Ajax.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id156" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Frank_de_Boer | team | Ajax_Youth_Academy</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Frank_de_Boer | club | Ajax_Youth_Academy</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Frank de Boer is in the Ajax Youth Academy.</lex>
-      <lex comment="good" lid="Id2">Frank de Boer played for the Ajax Youth Academy.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id158" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Frank_de_Boer | managerClub | Netherlands_national_football_team</otriple>
@@ -1078,17 +705,6 @@
         <mtriple>Frank_de_Boer | club | Netherlands_national_football_team</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Frank de Boer played for the Netherlands national football team.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id160" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Greece | currency | Euro</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Greece | currency | Euro</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The currency in Greece is the euro.</lex>
-      <lex comment="good" lid="Id2">The Euro is the currency in Greece.</lex>
-      <lex comment="good" lid="Id3">Money used in Greece is the Euro.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id162" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1115,20 +731,6 @@
       <lex comment="good" lid="Id2">Alexis Tsipras heads Greece.</lex>
       <lex comment="good" lid="Id3">The leader of Greece is Alexis Tsipras.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id164" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Greece | leaderName | Prokopis_Pavlopoulos</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Greece's leader is Prokopis Pavlopoulos.</lex>
-      <lex comment="good" lid="Id2">Prokopis Pavlopoulos is a leader of Greece.</lex>
-      <lex comment="good" lid="Id3">Prokopis Pavlopoulos is a leader in Greece.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id165" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Gubbio | leaderParty | Left_Ecology_Freedom</otriple>
@@ -1152,17 +754,6 @@
       <lex comment="good" lid="Id2">Gus Poyet is in the Real Zaragoza club.</lex>
       <lex comment="good" lid="Id3">Gus Poyet's club is Real Zaragoza.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id169" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Italy | demonym | Italians</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Italy | demonym | Italians</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Italy is inhabited by Italians.</lex>
-      <lex comment="good" lid="Id2">Italians are the people who live in Italy.</lex>
-      <lex comment="good" lid="Id3">Italians inhabit Italy.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id171" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Italy | leader | Pietro_Grasso</otriple>
@@ -1177,16 +768,6 @@
       <lex comment="good" lid="Id2">Pietro Grasso is the leader in Italy.</lex>
       <lex comment="good" lid="Id3">The leader of Italy is Pietro Grasso.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id173" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>James_Pallotta | birthPlace | Boston</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>James_Pallotta | birthPlace | Boston</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Boston is the birthplace of James Pallotta.</lex>
-      <lex comment="good" lid="Id2">James Pallotta was born in Boston.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id175" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Jens_Härtel | managerClub | 1._FC_Magdeburg</otriple>
@@ -1200,15 +781,6 @@
       <lex comment="good" lid="Id1">Jens Hartel is a member of the 1 FC Magdeburgs.</lex>
       <lex comment="good" lid="Id2">Jens Härtel is in the 1. FC Magdeburg club.</lex>
       <lex comment="good" lid="Id3">Jens Hartel plays for 1. FC Magdeburg.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id176" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Jens_Härtel | team | 1._FC_Union_Berlin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Jens_Härtel | club | 1._FC_Union_Berlin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Jens Härtel is part of the club 1. FC Union Berlin.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id177" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1229,15 +801,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Jens Härtel is in the RB Leipzig club.</lex>
       <lex comment="good" lid="Id2">Jens Härtel played for RB Leipzig.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id181" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>John_van_den_Brom | managerClub | ADO_Den_Haag</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>John_van_den_Brom | club | ADO_Den_Haag</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">John van den Brom plays for ADO Den Haag.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id182" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1261,15 +824,6 @@
       <lex comment="good" lid="Id1">John van den Brom is in the Jong Ajax club.</lex>
       <lex comment="good" lid="Id2">John van den Brom plays for Jong Ajax.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id186" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>John_van_den_Brom | managerClub | R.S.C._Anderlecht</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>John_van_den_Brom | club | R.S.C._Anderlecht</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">John van den Brom plays for R.S.C. Anderlecht.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id188" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>John_van_den_Brom | team | İstanbulspor_A.Ş.</otriple>
@@ -1282,20 +836,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John van den Brom is a player in İstanbulspor A.Ş.</lex>
       <lex comment="good" lid="Id2">John van den Brom plays for Istanbulspor A.S.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id189" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Jorge_Humberto_Rodríguez | clubs | Alianza_F.C.</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Jorge_Humberto_Rodríguez | team | Alianza_F.C.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Jorge_Humberto_Rodríguez | club | Alianza_F.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Jorge Humberto Rodriguez plays for the Alianza F.C. club.</lex>
-      <lex comment="good" lid="Id2">Jorge Humberto Rodríguez club is Alianza F.C.</lex>
-      <lex comment="good" lid="Id3">Jorge Humberto Rodriguez plays for Alianza F.C.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id190" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1310,19 +850,6 @@
       <lex comment="good" lid="Id1">Jorge Humberto Rodriguez plays for the C.D. FAS.</lex>
       <lex comment="good" lid="Id2">Jorge Humberto Rodríguez is in C.D. FAS.</lex>
       <lex comment="good" lid="Id3">Jorge Humberto Rodriguez plays for C.D. FAS.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id192" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Jorge_Humberto_Rodríguez | managerClub | El_Salvador_national_football_team</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Jorge_Humberto_Rodríguez | team | El_Salvador_national_football_team</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Jorge_Humberto_Rodríguez | club | El_Salvador_national_football_team</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Jorge Humberto Rodríguez is a member of the El Salvador national football team.</lex>
-      <lex comment="good" lid="Id2">Jorge Humberto Rodriguez plays for the El Salvador national football team.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id193" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1364,17 +891,6 @@
       <lex comment="good" lid="Id1">Massimo Drago is in the A.C. Cesena club.</lex>
       <lex comment="good" lid="Id2">Massimo Drago plays for A.C. Cesena.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id198" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Massimo_Drago | team | Calcio_Catania</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Massimo_Drago | club | Calcio_Catania</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Massimo Drago is in club Calcio Catania.</lex>
-      <lex comment="good" lid="Id2">Massimo Drago's club was Calcio Catania.</lex>
-      <lex comment="good" lid="Id3">Massimo Drago plays for Calcio Catania.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id200" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Massimo_Drago | team | U.S._Castrovillari_Calcio</otriple>
@@ -1388,17 +904,6 @@
       <lex comment="good" lid="Id1">Massimo Drago was once a player for US Castrovillari Calcio.</lex>
       <lex comment="good" lid="Id2">Massimo Drago plays for U.S Castrovillari Calcio.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id202" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Max_Huiberts | team | AZ_Alkmaar</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Max_Huiberts | club | AZ_Alkmaar</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Max Huiberts is associated with the club AZ Alkmaar.</lex>
-      <lex comment="good" lid="Id2">Max Huiberts is in the AZ Alkmaar club.</lex>
-      <lex comment="good" lid="Id3">Max Huiberts plays for AZ Alkmaar.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id203" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Michele_Marcolini | team | A.C._Chievo_Verona</otriple>
@@ -1411,20 +916,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Michele Marcolini plays for A.C. Chievo Verona.</lex>
       <lex comment="good" lid="Id2">Michele Marcolini club is A.C. Chievo Verona.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id205" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Michele_Marcolini | clubs | F.C._Bari_1908</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Michele_Marcolini | team | F.C._Bari_1908</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Michele_Marcolini | club | F.C._Bari_1908</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Michele Marcolini has been associated with F.C. Bari 1908.</lex>
-      <lex comment="good" lid="Id2">Michele Marcolini was at FC Bari 1908.</lex>
-      <lex comment="good" lid="Id3">Michele Marcolini plays for F.C. Bari 1908.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id206" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1448,16 +939,6 @@
         <mtriple>Michele_Marcolini | birthPlace | Italy</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Michele Marcolini was born in Italy.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id208" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Michele_Marcolini | youthclubs | Torino_F.C.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Michele_Marcolini | youthclub | Torino_F.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Michele Marcolini played youth football for Torino FC.</lex>
-      <lex comment="good" lid="Id2">Michele Marcolini is affiliated with the youth club Torino F.C.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id209" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1492,20 +973,6 @@
         <mtriple>Paulo_Sousa | club | ACF_Fiorentina</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Paulo Sousa plays for ACF Fiorentina.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id213" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Paulo_Sousa | team | Juventus_F.C.</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Paulo_Sousa | clubs | Juventus_F.C.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Paulo_Sousa | club | Juventus_F.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Paulo Sousa played for Juventus FC.</lex>
-      <lex comment="good" lid="Id2">Paulo Sousa club is Juventus.</lex>
-      <lex comment="good" lid="Id3">Paulo Sousa plays for Juventus F.C.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id215" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1543,19 +1010,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stoger plays for Favoritner AC.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id221" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Peter_Stöger | clubs | LASK_Linz</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Peter_Stöger | team | LASK_Linz</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Peter_Stöger | club | LASK_Linz</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Peter Stöger played for the club LASK Linz.</lex>
-      <lex comment="good" lid="Id2">Peter Stoger plays for LASK Linz.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id222" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
@@ -1566,19 +1020,6 @@
       <lex comment="good" lid="Id1">Peter Stöger is affiliated with the SC Wiener Neustadt club.</lex>
       <lex comment="good" lid="Id2">Peter Stöger played for SC Wiener Neustadt.</lex>
       <lex comment="good" lid="Id3">Peter Stoger plays for SC Wiener Neustadt.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id224" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Peter_Stöger | clubs | SK_Vorwärts_Steyr</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Peter Stöger played football for SK Vorwärts Steyr.</lex>
-      <lex comment="good" lid="Id2">Peter Stöger is in the SK Vorwärts Steyr club.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id226" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1611,15 +1052,6 @@
       <lex comment="good" lid="Id2">Rolando Maran is in the Vicenza Calcio club.</lex>
       <lex comment="good" lid="Id3">Rolando Maran plays for Vicenza Calcio.</lex>
     </entry>
-    <entry category="SportsTeam" eid="Id231" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Rolando_Maran | placeOfBirth | Italy</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Rolando_Maran | birthPlace | Italy</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rolando Maran was born in Italy.</lex>
-    </entry>
     <entry category="SportsTeam" eid="Id232" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Serie_A | champions | Juventus_F.C.</otriple>
@@ -1630,15 +1062,6 @@
       <lex comment="good" lid="Id1">Juventus FC have been Serie A champions.</lex>
       <lex comment="good" lid="Id2">Juventus F.C. are former champions of Serie A.</lex>
       <lex comment="good" lid="Id3">The Serie A champions are Juventus F.C.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id233" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Serie_A | country | Italy</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Serie_A | country | Italy</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Serie A is based in Italy.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id234" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1660,15 +1083,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sportpark De Toekomst is operated by AFC Ajax.</lex>
       <lex comment="good" lid="Id2">AFC Ajax operate Sportpark De Toekomst.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id238" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ajax Youth Academy is a tenant of Sportpark De Toekomst.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id239" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1729,19 +1143,6 @@
       <lex comment="good" lid="Id1">Stuart Parker was a footballer for Chesterfield FC.</lex>
       <lex comment="good" lid="Id2">The footballer Stuart Parker is attached to Chesterfield football club.</lex>
       <lex comment="good" lid="Id3">Stuart Parker is a member of the Chesterfield F.C.</lex>
-    </entry>
-    <entry category="SportsTeam" eid="Id245" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Stuart_Parker_(footballer) | clubs | Drogheda_United_F.C.</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Stuart_Parker_(footballer) | team | Drogheda_United_F.C.</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Stuart_Parker_(footballer) | club | Drogheda_United_F.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Stuart Parker is a footballer with the Drogheda United F.C.</lex>
-      <lex comment="good" lid="Id2">Stuart Parker (footballer) was at Drogheda United FC.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id246" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

@@ -69,32 +69,6 @@
       <lex comment="good" lid="Id2">Aaron Bertram started performing in 1998. He plays for the bands Suburban Legends and Kids Imagine Nation with a background with a non vocal instrument. His musical genre is Ska punk.</lex>
       <lex comment="good" lid="Id3">Aaron Bertram started performing in 1998. He is a non vocal instrumentalist who plays for the bands Suburban Legends and Kids Imagine Nation. His genre is ska punk music.</lex>
     </entry>
-    <entry category="Artist" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Aaron_Deer | hometown | United_States</otriple>
-        <otriple>Aaron_Deer | associatedBand | Wee_Giant</otriple>
-        <otriple>Aaron_Deer | background | "solo_singer"</otriple>
-        <otriple>Aaron_Deer | genre | Psychedelia</otriple>
-        <otriple>Aaron_Deer | origin | Indiana</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aaron_Deer | associatedBand | Wee_Giant</otriple>
-        <otriple>Aaron_Deer | background | "solo_singer"</otriple>
-        <otriple>Aaron_Deer | genre | Psychedelia</otriple>
-        <otriple>Aaron_Deer | hometown | Indiana</otriple>
-        <otriple>Aaron_Deer | origin | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Deer | associatedBand/associatedMusicalArtist | Wee_Giant</mtriple>
-        <mtriple>Aaron_Deer | background | "solo_singer"</mtriple>
-        <mtriple>Aaron_Deer | genre | Psychedelia</mtriple>
-        <mtriple>Aaron_Deer | origin | Indiana</mtriple>
-        <mtriple>Aaron_Deer | origin | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Deer is a solo singer and Psychedelia music artist from Indiana, USA, who is in the band Wee Giant.</lex>
-      <lex comment="good" lid="Id2">Aaron Deer is an American from Indiana who is a solo singer. He was part of the band Wee Giant and his genre is Psychedelia.</lex>
-      <lex comment="good" lid="Id3">American Psychedelia singer Aaron Deer, from Indiana, is a member of Wee Giant.</lex>
-    </entry>
     <entry category="Artist" eid="Id6" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Aaron_Deer | genre | Indie_rock</otriple>
@@ -113,39 +87,6 @@
       <lex comment="good" lid="Id1">Indie rock performer Aaron Deer is a solo singer from Indiana, USA. He's a musician for the band John Wilkes Booze.</lex>
       <lex comment="good" lid="Id2">Aaron Deer as an Indie rock musician who comes from Indiana in the United states. He is a solo singer and musician for the band John Wilkes Booze.</lex>
       <lex comment="good" lid="Id3">American Indie rock singer Aaron Deer, of Indiana, is a member of John Wilkes Booze.</lex>
-    </entry>
-    <entry category="Artist" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Aaron_Deer | genre | Indie_rock</otriple>
-        <otriple>Aaron_Deer | hometown | United_States</otriple>
-        <otriple>Aaron_Deer | background | "solo_singer"</otriple>
-        <otriple>Aaron_Deer | origin | Indiana</otriple>
-        <otriple>Aaron_Deer | associatedBand | The_Horns_of_Happiness</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aaron_Deer | genre | Indie_rock</otriple>
-        <otriple>Aaron_Deer | hometown | Indiana</otriple>
-        <otriple>Aaron_Deer | origin | United_States</otriple>
-        <otriple>Aaron_Deer | background | "solo_singer"@en</otriple>
-        <otriple>Aaron_Deer | associatedBand | The_Horns_of_Happiness</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aaron_Deer | genre | Indie_rock</otriple>
-        <otriple>Aaron_Deer | hometown | United_States</otriple>
-        <otriple>Aaron_Deer | background | "solo_singer"@en</otriple>
-        <otriple>Aaron_Deer | origin | Indiana</otriple>
-        <otriple>Aaron_Deer | associatedBand | The_Horns_of_Happiness</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Deer | genre | Indie_rock</mtriple>
-        <mtriple>Aaron_Deer | origin | United_States</mtriple>
-        <mtriple>Aaron_Deer | background | "solo_singer"</mtriple>
-        <mtriple>Aaron_Deer | origin | Indiana</mtriple>
-        <mtriple>Aaron_Deer | associatedBand/associatedMusicalArtist | The_Horns_of_Happiness</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">American Aaron Deer is a solo singer from Indiana. He is an Indie rock musician and collaborates with The Horns of Happiness.</lex>
-      <lex comment="good" lid="Id2">Aaron Deer is an American from Indiana who is a performer of the music genre indie rock. He has a background as a solo singer and plays with The Horns of Happiness.</lex>
-      <lex comment="good" lid="Id3">Indie rock singer Aaron Deer is from Indiana, United States. He has collaborated with The Horns of Happiness.</lex>
     </entry>
     <entry category="Artist" eid="Id9" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -173,25 +114,6 @@
       <lex comment="good" lid="Id2">Aaron Deer plays piano in indie rock whose stylistic origins in Garage rock and New wave and guitar is played in indie rock music.</lex>
       <lex comment="good" lid="Id3">Aaron Deer is an Indie rock musician and pianist. Indie rock is known for the guitar and originates from New Wave and garage rock.</lex>
     </entry>
-    <entry category="Artist" eid="Id11" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Aaron_Deer | genre | Indie_rock</otriple>
-        <otriple>Indie_rock | stylisticOrigin | Garage_rock</otriple>
-        <otriple>Aaron_Deer | label | Kill_Rock_Stars</otriple>
-        <otriple>Aaron_Deer | instrument | Keyboard_instrument</otriple>
-        <otriple>Kill_Rock_Stars | location | Portland,_Oregon</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Deer | genre | Indie_rock</mtriple>
-        <mtriple>Indie_rock | stylisticOrigin | Garage_rock</mtriple>
-        <mtriple>Aaron_Deer | recordLabel | Kill_Rock_Stars</mtriple>
-        <mtriple>Aaron_Deer | instrument | Keyboard_instrument</mtriple>
-        <mtriple>Kill_Rock_Stars | location | Portland,_Oregon</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Keyboard player, Aaron Deer is a performer of the music genre Indie rock which has its stylistic origins in Garage rock. Aaron Deer has been signed to the record label Kill Rock Stars which is located in Portland, Oregon.</lex>
-      <lex comment="good" lid="Id2">Garage rock music was the origin of Indie rock as performed by Aaron Deer. He plays the keyboard and has been signed to the record label Kill Rock Stars located in Portland, Oregon.</lex>
-      <lex comment="good" lid="Id3">Aaron Deer plays Indie Rock keyboard and is signed to Kill Rock Stars based in Portland, Oregon. Indie rock has origins in Garage rock.</lex>
-    </entry>
     <entry category="Artist" eid="Id12" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Aaron_Deer | genre | Indie_rock</otriple>
@@ -210,32 +132,6 @@
       <lex comment="good" lid="Id1">Aaron Deer is a pianist who performs Indie rock music and is signed to Kill Rock Stars, located in Portland, Oregon. Indie rock originates from Garage music.</lex>
       <lex comment="good" lid="Id2">Aaron Deer plays piano and was signed to the Portland, Oregon based Kill Rock Stars records. He performs Indie rock, which originates from garage rock music.</lex>
       <lex comment="good" lid="Id3">Indie rock pianist Aaron Deer is signed with Kill Rock Stars, located in Portland, Oregon. Indie rock originates from garage rock.</lex>
-    </entry>
-    <entry category="Artist" eid="Id13" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Aaron_Deer | genre | Indie_rock</otriple>
-        <otriple>Indie_rock | instruments | Guitar</otriple>
-        <otriple>Indie_rock | stylisticOrigins | Garage_rock</otriple>
-        <otriple>Indie_rock | stylisticOrigin | New_wave_music</otriple>
-        <otriple>Aaron_Deer | instrument | Keyboard_instrument</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aaron_Deer | genre | Indie_rock</otriple>
-        <otriple>Indie_rock | stylisticOrigin | Garage_rock</otriple>
-        <otriple>Indie_rock | instruments | Guitar</otriple>
-        <otriple>Aaron_Deer | instrument | Keyboard_instrument</otriple>
-        <otriple>Indie_rock | stylisticOrigins | New_wave_music</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Deer | genre | Indie_rock</mtriple>
-        <mtriple>Indie_rock | stylisticOrigin | Garage_rock</mtriple>
-        <mtriple>Indie_rock | instrument | Guitar</mtriple>
-        <mtriple>Aaron_Deer | instrument | Keyboard_instrument</mtriple>
-        <mtriple>Indie_rock | stylisticOrigin | New_wave_music</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Deer plays keyboard in indie rock which has origins in Garage Rockand New Wave music. Guitar is often used to play indie rock.</lex>
-      <lex comment="good" lid="Id2">Indie rock musician Aaron Deer is a keyboardist. Indie rock includes guitar and has its origins in new wave and garage rock.</lex>
-      <lex comment="good" lid="Id3">Aaron Deer is a keyboardists and indie rock artist. Indie rock uses the guitar and originates from garage rock and new wave.</lex>
     </entry>
     <entry category="Artist" eid="Id15" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -256,25 +152,6 @@
       <lex comment="good" lid="Id2">Aaron Turner is a black metal singer with the Lotus Eaters band and Mamiffer. Death metal is a fusion of black metal.</lex>
       <lex comment="good" lid="Id3">Aaron Turner is singer who performs with the Lotus Eaters and Mamiffer. He plays black metal music of which death metal is a musical fusion.</lex>
     </entry>
-    <entry category="Artist" eid="Id17" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Aaron_Turner | associatedBand | Old_Man_Gloom</otriple>
-        <otriple>Aaron_Turner | associatedMusicalArtist | Lotus_Eaters_(band)</otriple>
-        <otriple>Aaron_Turner | genre | Black_metal</otriple>
-        <otriple>Aaron_Turner | hometown | Massachusetts</otriple>
-        <otriple>Aaron_Turner | activeYearsStartYear | "1995"^^xsd:gYear</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Old_Man_Gloom</mtriple>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Lotus_Eaters_(band)</mtriple>
-        <mtriple>Aaron_Turner | genre | Black_metal</mtriple>
-        <mtriple>Aaron_Turner | origin | Massachusetts</mtriple>
-        <mtriple>Aaron_Turner | activeYearsStartYear | 1995</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Black metal musician Aaron Turner, from Massachusetts, began performing in 1995. He has been a member of the bands Old Man Gloom and the Lotus Eaters.</lex>
-      <lex comment="good" lid="Id2">Aaron Turner is originally from Massachusetts and started performing in 1995.He is a Black metal musician and played for Old Man Gloom and Lotus Eaters.</lex>
-      <lex comment="good" lid="Id3">Black metal musician Aaron Turner, from Massachusetts, has played with the band Old Man Gloom and the Lotus Eaters. He began performing in 1995.</lex>
-    </entry>
     <entry category="Artist" eid="Id18" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Aaron_Turner | associatedBand | Sumac_(band)</otriple>
@@ -294,25 +171,6 @@
       <lex comment="good" lid="Id2">Aaron Turner is a Black metal musician who plays the electric guitar in Sumac and Old Man Gloom. He plays the electric guitar in black metal music which can be found in a fusion as Death metal.</lex>
       <lex comment="good" lid="Id3">Black metal electric guitarist Aaron Turner has performed with Sumac and Old Man Gloom. Death metal is a fusion of black metal.</lex>
     </entry>
-    <entry category="Artist" eid="Id20" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Aaron_Turner | associatedMusicalArtist | Twilight_(band)</otriple>
-        <otriple>Aaron_Turner | associatedBand | Greymachine</otriple>
-        <otriple>Aaron_Turner | genre | Black_metal</otriple>
-        <otriple>Aaron_Turner | instrument | Singing</otriple>
-        <otriple>Black_metal | musicFusionGenre | Death_metal</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Greymachine</mtriple>
-        <mtriple>Aaron_Turner | genre | Black_metal</mtriple>
-        <mtriple>Aaron_Turner | instrument | Singing</mtriple>
-        <mtriple>Black_metal | musicFusionGenre | Death_metal</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Turner is a singer who plays Black Metal music and in the Twilight band. He played for the group Greymachine also. Death metal music is a fusion of black metal.</lex>
-      <lex comment="good" lid="Id2">Aaron Turner is a black metal musician who sings for a living and has played with Twilight and Greymachine band. Black metal music is an element of the fusion genre death metal.</lex>
-      <lex comment="good" lid="Id3">Black metal singer Aaron Turner has played with Greymachine and Twilight. Black metal fusion is the origin of death metal.</lex>
-    </entry>
     <entry category="Artist" eid="Id22" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Aaron_Turner | associatedMusicalArtist | Twilight_(band)</otriple>
@@ -330,25 +188,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Singer, Aaron Turner, played with the band Twilight and is a musician in the Lotus Eaters band. His genre is Black Metal. Death metal is a musical fusion of black metal.</lex>
       <lex comment="good" lid="Id2">Aaron Turner is a professional black metal singer and he played for Twilight and the Lotus Eaters bands. Death metal is a musical fusion of black metal.</lex>
-    </entry>
-    <entry category="Artist" eid="Id24" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Aaron_Turner | associatedBand | Twilight_(band)</otriple>
-        <otriple>Aaron_Turner | associatedMusicalArtist | Lotus_Eaters_(band)</otriple>
-        <otriple>Aaron_Turner | genre | Black_metal</otriple>
-        <otriple>Aaron_Turner | hometown | Massachusetts</otriple>
-        <otriple>Aaron_Turner | activeYearsStartYear | "1995"^^xsd:gYear</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Lotus_Eaters_(band)</mtriple>
-        <mtriple>Aaron_Turner | genre | Black_metal</mtriple>
-        <mtriple>Aaron_Turner | origin | Massachusetts</mtriple>
-        <mtriple>Aaron_Turner | activeYearsStartYear | 1995</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Turner, a black metal musician, was born in Massachusetts and started performing in 1995. He used to be in a band called Twilight but now performs in a band called the Lotus Eaters band.</lex>
-      <lex comment="good" lid="Id2">Aaron Turner is a black metal musician with the Lotus Eaters and Twilight bands. He was born in Massachusetts and started performing in 1995.</lex>
-      <lex comment="good" lid="Id3">Aaron Turner is a Black metal musician in the Lotus Eaters Band, and used to play with Twilight. He is from Massachusetts and started performing in 1995.</lex>
     </entry>
     <entry category="Artist" eid="Id25" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -413,25 +252,6 @@
       <lex comment="good" lid="Id1">Electric guitarist Aaron Turner was with the group Greymachine and played with the black metal band Twilight. Black metal has a musical fusion called death metal.</lex>
       <lex comment="good" lid="Id2">The musical genre of Twilight is black metal, whose musical fusion is death metal. Aaron Turner plays electric guitar for Twilight and Greymachine.</lex>
       <lex comment="good" lid="Id3">Electric guitar player Aaron Turner is associated with the group Greymachine. He played with the band Twilight whose musical genre is black metal - a fusion of which is known as death metal.</lex>
-    </entry>
-    <entry category="Artist" eid="Id30" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Aaron_Turner | associatedBand | Twilight_(band)</otriple>
-        <otriple>Twilight_(band) | genre | Black_metal</otriple>
-        <otriple>Aaron_Turner | associatedMusicalArtist | Mamiffer</otriple>
-        <otriple>Aaron_Turner | instrument | Singing</otriple>
-        <otriple>Black_metal | musicFusionGenre | Death_metal</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
-        <mtriple>Twilight_(band) | genre | Black_metal</mtriple>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Mamiffer</mtriple>
-        <mtriple>Aaron_Turner | instrument | Singing</mtriple>
-        <mtriple>Black_metal | musicFusionGenre | Death_metal</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Turner, a singer, played with the band Twilight and Mamiffer. Twilight, can be described as a Black metal band and Death metal is a musical fusion of black metal.</lex>
-      <lex comment="good" lid="Id2">Death metal is a musical fusion of black metal which is performed by the band Twilight. Aaron Turner plays with the band and is also a singer and performs for Mamiffer.</lex>
-      <lex comment="good" lid="Id3">Singer Aaron Turner was a member of black metal band Twilight. He is now with Mamiffer. Death metal is a black metal fusion.</lex>
     </entry>
     <entry category="Artist" eid="Id31" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -546,25 +366,6 @@
       <lex comment="good" lid="Id2">Abradab is a part of the rich hip hop culture with genres such as gangsta rap and drums and bass playing. Funk and jazz are stylistic sources of hip hop.</lex>
       <lex comment="good" lid="Id3">Abradab performs hip hop music. The genre has its origins in Jazz and Funk and has Gangsta rap as a sub genre. Drum and bass is derived from hip hop.</lex>
     </entry>
-    <entry category="Artist" eid="Id35" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Abradab | genre | Hip_hop_music</otriple>
-        <otriple>Hip_hop_music | stylisticOrigin | Jazz</otriple>
-        <otriple>Abradab | background | "solo_singer"</otriple>
-        <otriple>Hip_hop_music | derivative | Drum_and_bass</otriple>
-        <otriple>Hip_hop_music | stylisticOrigins | Disco</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Abradab | genre | Hip_hop_music</mtriple>
-        <mtriple>Hip_hop_music | stylisticOrigin | Jazz</mtriple>
-        <mtriple>Abradab | background | "solo_singer"</mtriple>
-        <mtriple>Hip_hop_music | derivative | Drum_and_bass</mtriple>
-        <mtriple>Hip_hop_music | stylisticOrigin | Disco</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abradab is a solo singer and hip hop musician. Hip hop has origins in jazz and Disco, and Drum and bass is a derivative of Hip hop music.</lex>
-      <lex comment="good" lid="Id2">Abradab has a background as a solo singer and performs hip hop music. Drum and bass is a derivative of Hip hop music, which has its stylistic origins in both Jazz and Disco.</lex>
-      <lex comment="good" lid="Id3">Abradab is a solo singer that plays hip hop music. Hip hop music has its origins in Disco and Jazz music and Drum and bass music gets its sounds from Hip hop music.</lex>
-    </entry>
     <entry category="Artist" eid="Id37" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Abradab | genre | Hip_hop_music</otriple>
@@ -597,32 +398,6 @@
       <lex comment="good" lid="Id1">Abradab performs hip hop music which has the sub genre Gangsta rap. Drum and bass derives its sounds from hip hop music which has its stylistic origins in both disco and Jazz.</lex>
       <lex comment="good" lid="Id2">Abradab performs hip hop music which has its origins in Disco. Drum and bass derives its sounds from hip hop music, which originated from jazz music. Gangsta rap is a sub genre of Hip Hop music.</lex>
       <lex comment="good" lid="Id3">Hip hop music has its origins in disco and jazz while being the basis for Drum and bass and includes Gangsta rap. Abradab is a Hip hop musician.</lex>
-    </entry>
-    <entry category="Artist" eid="Id39" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Ace_Wilder | background | "solo_singer"</otriple>
-        <otriple>Ace_Wilder | birthYear | "1982"^^xsd:gYear</otriple>
-        <otriple>Ace_Wilder | occupation | Singing</otriple>
-        <otriple>Ace_Wilder | birthPlace | Stockholm</otriple>
-        <otriple>Ace_Wilder | birthDate | "1982-07-23"^^xsd:date</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Ace_Wilder | birthYear | "1982"^^xsd:gYear</otriple>
-        <otriple>Ace_Wilder | occupation | Singing</otriple>
-        <otriple>Ace_Wilder | birthPlace | Stockholm</otriple>
-        <otriple>Ace_Wilder | birthDate | "1982-07-23"^^xsd:date</otriple>
-        <otriple>Ace_Wilder | background | "solo_singer"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ace_Wilder | background | "solo_singer"</mtriple>
-        <mtriple>Ace_Wilder | birthYear | 1982</mtriple>
-        <mtriple>Ace_Wilder | occupation | Singing</mtriple>
-        <mtriple>Ace_Wilder | birthPlace | Stockholm</mtriple>
-        <mtriple>Ace_Wilder | birthDate | 1982-07-23</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Solo singer, Ace Wilder was born in Stockholm, on 23rd July, 1982 and has the occupation as singer.</lex>
-      <lex comment="good" lid="Id2">Ace Wilder is a singer with a background as a solo singer. He was born in Stockholm on July 23, 1982.</lex>
-      <lex comment="good" lid="Id3">Singer and musician Ace Wilder was born in 1982, on July 23, in Stockholm.</lex>
     </entry>
     <entry category="Artist" eid="Id41" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -824,32 +599,6 @@
       <lex comment="good" lid="Id2">Ahmet Ertegun performed rhythm and blues whose derivative is the disco. He is originally from Washington D.C. and died in the United States where African Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">Washington, D.C. born and rhythm and blues artist Ahmet Ertegun died in the United States. The U.S. is home to African Americans and R &amp; B is the origin of disco.</lex>
     </entry>
-    <entry category="Artist" eid="Id49" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Ahmet_Ertegun | origin | United_States</otriple>
-        <otriple>Ahmet_Ertegun | genre | Rhythm_and_blues</otriple>
-        <otriple>Ahmet_Ertegun | hometown | Washington,_D.C.</otriple>
-        <otriple>Rhythm_and_blues | derivative | Disco</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Ahmet_Ertegun | genre | Rhythm_and_blues</otriple>
-        <otriple>Ahmet_Ertegun | origin | Washington,_D.C.</otriple>
-        <otriple>Rhythm_and_blues | derivative | Disco</otriple>
-        <otriple>Ahmet_Ertegun | hometown | United_States</otriple>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ahmet_Ertegun | genre | Rhythm_and_blues</mtriple>
-        <mtriple>Ahmet_Ertegun | origin | Washington,_D.C.</mtriple>
-        <mtriple>Rhythm_and_blues | derivative | Disco</mtriple>
-        <mtriple>Ahmet_Ertegun | origin | United_States</mtriple>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ahmet Ertegun is a rhythm and blues musician originally from Washington DC, United States. In the United States, African Americans are an ethnic group and disco was derived from rhythm and blues.</lex>
-      <lex comment="good" lid="Id2">Disco is derived from rhythm and blues which is the musical genre of Ahmet Ertegun . He is originally from Washington DC in the United States where the African americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id3">Ahmet Ertegun is rhythm and blues artist from Washington DC in the United States whee African Americans are an ethnic group. Disco is a derivative of rhythm and blues.</lex>
-    </entry>
     <entry category="Artist" eid="Id50" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Ahmet_Ertegun | genre | Rhythm_and_blues</otriple>
@@ -889,46 +638,6 @@
       <lex comment="good" lid="Id1">Ahmet Ertegun's background is non performing personnel. Washington D.C. is the origin of Ahmet Ertegun whose genre is rhythm and blues. Disco derives from rhythm and blues which originated from the blues.</lex>
       <lex comment="good" lid="Id2">Ahmet Ertegun from Washington D.C. plays rhythm and blues and his background is as a non performing personnel. Rhythm and blues and Disco originated from blues.</lex>
       <lex comment="good" lid="Id3">Rhythm and blues artist Ahmet Ertegun, who is a non-performer, is originally from Washington, D.C. Rhythm and blues originated from the blues while disco's roots are from R and B.</lex>
-    </entry>
-    <entry category="Artist" eid="Id51" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Ahmet_Ertegun | genre | Rock_and_roll</otriple>
-        <otriple>Ahmet_Ertegun | birthYear | "1923"^^xsd:gYear</otriple>
-        <otriple>Ahmet_Ertegun | hometown | Washington,_D.C.</otriple>
-        <otriple>Ahmet_Ertegun | origin | United_States</otriple>
-        <otriple>Ahmet_Ertegun | background | "non_performing_personnel"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Ahmet_Ertegun | genre | Rock_and_roll</otriple>
-        <otriple>Ahmet_Ertegun | birthYear | "1923"^^xsd:gYear</otriple>
-        <otriple>Ahmet_Ertegun | hometown | Washington,_D.C.</otriple>
-        <otriple>Ahmet_Ertegun | background | "non_performing_personnel"@en</otriple>
-        <otriple>Ahmet_Ertegun | origin | United_States</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Ahmet_Ertegun | genre | Rock_and_roll</otriple>
-        <otriple>Ahmet_Ertegun | birthYear | "1923"^^xsd:gYear</otriple>
-        <otriple>Ahmet_Ertegun | hometown | United_States</otriple>
-        <otriple>Ahmet_Ertegun | background | "non_performing_personnel"@en</otriple>
-        <otriple>Ahmet_Ertegun | origin | Washington,_D.C.</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Ahmet_Ertegun | genre | Rock_and_roll</otriple>
-        <otriple>Ahmet_Ertegun | birthYear | "1923"^^xsd:gYear</otriple>
-        <otriple>Ahmet_Ertegun | hometown | United_States</otriple>
-        <otriple>Ahmet_Ertegun | origin | Washington,_D.C.</otriple>
-        <otriple>Ahmet_Ertegun | background | "non_performing_personnel"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ahmet_Ertegun | genre | Rock_and_roll</mtriple>
-        <mtriple>Ahmet_Ertegun | birthYear | 1923</mtriple>
-        <mtriple>Ahmet_Ertegun | origin | United_States</mtriple>
-        <mtriple>Ahmet_Ertegun | background | "non_performing_personnel"</mtriple>
-        <mtriple>Ahmet_Ertegun | origin | Washington,_D.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ahmet Ertegun was born 1923, in Washington D.C., the United States and was a Rock and roll performer who had a background as a non performing personnel.</lex>
-      <lex comment="good" lid="Id2">Ahmet Ertegun was born 1923 and is from the United States. Washington D.C. is the origin of Ahmet Ertegun whohas a background as a non performing personnel. Ahmet Ertegun performs rock and roll music.</lex>
-      <lex comment="good" lid="Id3">Ahmet Ertegun originates from Washington D.C. (United States) and was born 1923. Ahmet Ertegun performs rock and roll music and his background is non performing personnel.</lex>
     </entry>
     <entry category="Artist" eid="Id52" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1065,25 +774,6 @@
       <lex comment="good" lid="Id2">Al Anderson plays for the rock band NRBQ and was also a former member of the Wildweeds band. Mr. Anderson, born in the U.S., began his career in 1966.</lex>
       <lex comment="good" lid="Id3">Al Anderson was born in the United States and became active in 1966 with the NRBQ band while performing rock music and he also played with the Wildweeds.</lex>
     </entry>
-    <entry category="Artist" eid="Id59" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Al_Anderson_(NRBQ) | associatedMusicalArtist | NRBQ</otriple>
-        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
-        <otriple>Al_Anderson_(NRBQ) | instrument | Guitar</otriple>
-        <otriple>Al_Anderson_(NRBQ) | genre | Rock_music</otriple>
-        <otriple>Rock_music | stylisticOrigin | Blues</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ</mtriple>
-        <mtriple>Rock_music | musicFusionGenre | Bhangra_(music)</mtriple>
-        <mtriple>Al_Anderson_(NRBQ band) | instrument | Guitar</mtriple>
-        <mtriple>Al_Anderson_(NRBQ band) | genre | Rock_music</mtriple>
-        <mtriple>Rock_music | stylisticOrigin | Blues</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Anderson plays the guitar for the Rock band NRBQ. Rock music has its stylistic origins in the Blues and Bhangra comes from Rock music.</lex>
-      <lex comment="good" lid="Id2">Rock band NRBQ's guitarist is Al Anderson. Rock is the origin of bhangra and has is founding in the Blues.</lex>
-      <lex comment="good" lid="Id3">NRBQ's rock guitarist is Al Anderson. Rock originates from the Blues and lends itself to Bhangra fusion.</lex>
-    </entry>
     <entry category="Artist" eid="Id61" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Al_Anderson_(NRBQ) | associatedMusicalArtist | NRBQ</otriple>
@@ -1121,46 +811,6 @@
       <lex comment="good" lid="Id1">Al Anderson, whose genre is rock music, plays with the band NRBQ. Rock music originated from country music, where the Banjo is closely associated and bhangra music is a musical fusion of rock.</lex>
       <lex comment="good" lid="Id2">Al Anderson plays with the rock band NRBQ. Rock comes from country music which features the banjo as one of its instruments. A fusion of rock music is known as Bhangra music.</lex>
       <lex comment="good" lid="Id3">Al Anderson plays in a rock band called NRBQ, rock music originated from country music where the banjo is played. Bhangra is fusion music which partly came from Rock music.</lex>
-    </entry>
-    <entry category="Artist" eid="Id63" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Alan_Frew | genre | Rock_music</otriple>
-        <otriple>Alan_Frew | background | "solo_singer"</otriple>
-        <otriple>Rock_music | stylisticOrigins | Blues</otriple>
-        <otriple>Rock_music | stylisticOrigin | Folk_music</otriple>
-        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alan_Frew | genre | Rock_music</otriple>
-        <otriple>Alan_Frew | background | "solo_singer"@en</otriple>
-        <otriple>Rock_music | stylisticOrigins | Blues</otriple>
-        <otriple>Rock_music | stylisticOrigin | Folk_music</otriple>
-        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alan_Frew | genre | Rock_music</otriple>
-        <otriple>Alan_Frew | background | "solo_singer"</otriple>
-        <otriple>Rock_music | stylisticOrigin | Blues</otriple>
-        <otriple>Rock_music | stylisticOrigins | Folk_music</otriple>
-        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alan_Frew | genre | Rock_music</otriple>
-        <otriple>Rock_music | stylisticOrigin | Blues</otriple>
-        <otriple>Alan_Frew | background | "solo_singer"@en</otriple>
-        <otriple>Rock_music | stylisticOrigins | Folk_music</otriple>
-        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Frew | genre | Rock_music</mtriple>
-        <mtriple>Alan_Frew | background | "solo_singer"</mtriple>
-        <mtriple>Rock_music | stylisticOrigin | Blues</mtriple>
-        <mtriple>Rock_music | stylisticOrigin | Folk_music</mtriple>
-        <mtriple>Rock_music | musicFusionGenre | Bhangra_(music)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Frew is a solo singer and performer of rock music. Rock music has origins in blues music and folk music, and the music Bhangra is part of the fusion genre, partly coming from Rock music.</lex>
-      <lex comment="good" lid="Id2">Alan Frew is a solo rock music singer. Rock gets its origins from folk music and blues music gets its styles from rock music. Bhangra is a fusion genre rock music.</lex>
-      <lex comment="good" lid="Id3">Alan Frew is a solo singer, who plays rock music which has its stylistic origins in blues. Rock has its origins in folk music and one of its musical fusion is bhangra.</lex>
     </entry>
     <entry category="Artist" eid="Id65" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1235,32 +885,6 @@
       <lex comment="good" lid="Id2">Alan Frew is a rock musician from Canada, a place where French is one of the main languages. Rock music originates from country music and is an element of the fusion genre bhangra.</lex>
       <lex comment="good" lid="Id3">Alan Frew is a rock musician from Canada, a place where French is spoken. Rock music originated from country music and is an element of the fusion genre bhangra.</lex>
     </entry>
-    <entry category="Artist" eid="Id68" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Alan_Frew | hometown | Newmarket,_Ontario</otriple>
-        <otriple>Alan_Frew | occupation | Public_speaking</otriple>
-        <otriple>Alan_Frew | birthPlace | United_Kingdom</otriple>
-        <otriple>Alan_Frew | origin | Canada</otriple>
-        <otriple>Alan_Frew | background | "solo_singer"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alan_Frew | occupation | Public_speaking</otriple>
-        <otriple>Alan_Frew | birthPlace | United_Kingdom</otriple>
-        <otriple>Alan_Frew | hometown | Canada</otriple>
-        <otriple>Alan_Frew | background | "solo_singer"@en</otriple>
-        <otriple>Alan_Frew | origin | Newmarket,_Ontario</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Frew | occupation | Public_speaking</mtriple>
-        <mtriple>Alan_Frew | birthPlace | United_Kingdom</mtriple>
-        <mtriple>Alan_Frew | origin | Canada</mtriple>
-        <mtriple>Alan_Frew | background | "solo_singer"</mtriple>
-        <mtriple>Alan_Frew | origin | Newmarket,_Ontario</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Frew was born in the United Kingdom, but his origins are from Newmarket, Ontario in Canada. He is a public speaker with a background as a solo singer.</lex>
-      <lex comment="good" lid="Id2">Andrew Frew was a solo singer who makes his living public speaking. Alan Frew was born in the UK but has Canadian origins coming from Newmarket, Ontario.</lex>
-      <lex comment="good" lid="Id3">U.K. born singer and public speaker Alan Frew is from Newmarket, Ontario, Canada.</lex>
-    </entry>
     <entry category="Artist" eid="Id70" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Alan_Frew | occupation | Musician</otriple>
@@ -1305,25 +929,6 @@
       <lex comment="good" lid="Id1">Albennie Jones was born in Errata, Mississippi, and became active in the rhythm and blues genre in 1930. Disco is a derivative of Rhythm and blues, which originated from blues music.</lex>
       <lex comment="good" lid="Id2">Born in Errata, Mississippi, Albennie Jones began his musical career in 1930. He is performer of rhythm and blues which originated from the blues and has disco as a derivative.</lex>
       <lex comment="good" lid="Id3">Born in Errata, Mississippi, Albennie Jones started being active in 1930 and is a performer of rhythm and blues. Disco is a derivative of rhythm and blues which originated from blues music.</lex>
-    </entry>
-    <entry category="Artist" eid="Id72" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Albennie_Jones | activeYearsStartYear | "1930"^^xsd:gYear</otriple>
-        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
-        <otriple>Rhythm_and_blues | stylisticOrigin | Blues</otriple>
-        <otriple>Rhythm_and_blues | derivative | Disco</otriple>
-        <otriple>Albennie_Jones | birthPlace | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albennie_Jones | activeYearsStartYear | 1930</mtriple>
-        <mtriple>Albennie_Jones | genre | Rhythm_and_blues</mtriple>
-        <mtriple>Rhythm_and_blues | stylisticOrigin | Blues</mtriple>
-        <mtriple>Rhythm_and_blues | derivative | Disco</mtriple>
-        <mtriple>Albennie_Jones | birthPlace | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albennie Jones was born in the United States and started being active in 1930. She is a performer of rhythm and blues which originated from blues music. Disco derives from rhythm and blues.</lex>
-      <lex comment="good" lid="Id2">Albennie Jones was born in the United States and started his musical career in 1930. He performs rhythm and blues, which originates from blues. Disco style derives from rhythm and blues.</lex>
-      <lex comment="good" lid="Id3">Albennie Jones was born in the United States and started performing rhythm and blues in 1930. Rhythm and blues originated from blues and disco music is one of its derivative.</lex>
     </entry>
     <entry category="Artist" eid="Id74" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1436,46 +1041,6 @@
       <lex comment="good" lid="Id2">Albennie Jones, a rhythm and blues solo singer, was born in Errata, Mississippi. Rhythm and blues music originated from blues and is derived into disco.</lex>
       <lex comment="good" lid="Id3">Albennie Jones, born in Errata, Mississippi, is a rhythm and blues musician with a background as a solo singer. Rhythm and blues originated from blues music and was derived into disco.</lex>
     </entry>
-    <entry category="Artist" eid="Id81" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
-        <otriple>Albennie_Jones | birthYear | "1914"^^xsd:gYear</otriple>
-        <otriple>Albennie_Jones | birthPlace | United_States</otriple>
-        <otriple>Albennie_Jones | background | "solo_singer"@en</otriple>
-        <otriple>Albennie_Jones | placeOfBirth | Errata,_Mississippi</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
-        <otriple>Albennie_Jones | background | "solo_singer"</otriple>
-        <otriple>Albennie_Jones | birthYear | "1914"^^xsd:gYear</otriple>
-        <otriple>Albennie_Jones | birthPlace | Errata,_Mississippi</otriple>
-        <otriple>Albennie_Jones | placeOfBirth | United_States</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
-        <otriple>Albennie_Jones | background | "solo_singer"</otriple>
-        <otriple>Albennie_Jones | birthYear | "1914"^^xsd:gYear</otriple>
-        <otriple>Albennie_Jones | birthPlace | United_States</otriple>
-        <otriple>Albennie_Jones | placeOfBirth | Errata,_Mississippi</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
-        <otriple>Albennie_Jones | birthYear | "1914"^^xsd:gYear</otriple>
-        <otriple>Albennie_Jones | birthPlace | Errata,_Mississippi</otriple>
-        <otriple>Albennie_Jones | background | "solo_singer"@en</otriple>
-        <otriple>Albennie_Jones | placeOfBirth | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Albennie_Jones | genre | Rhythm_and_blues</mtriple>
-        <mtriple>Albennie_Jones | birthYear | 1914</mtriple>
-        <mtriple>Albennie_Jones | birthPlace | Errata,_Mississippi</mtriple>
-        <mtriple>Albennie_Jones | background | "solo_singer"</mtriple>
-        <mtriple>Albennie_Jones | birthPlace | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albennie Jones was born in Errata, Mississippi, in the U.S.A., in 1914. Albennie Jones is a performer of rhythm and blues and has a background as a solo singer.</lex>
-      <lex comment="good" lid="Id2">Albennie Jones was born (1914) in Errata, Mississippi, U.S.A. She performed as a background solo singer in a rhythm and blues band.</lex>
-      <lex comment="good" lid="Id3">Rhythm and blues singer Albennie Jones was born 1914 in Errata, Mississippi, U.S.A.</lex>
-    </entry>
     <entry category="Artist" eid="Id82" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Aleksandra_Kovač | associatedBand | Bebi_Dol</otriple>
@@ -1514,32 +1079,6 @@
       <lex comment="good" lid="Id2">Aleksandra Kovac is a solo soul music singer who started her career in 1990. Her associates are Bebii Dol and Kornelije Kovač, musicians.</lex>
       <lex comment="good" lid="Id3">Aleksandra Kovač, the solo singer, became active in 1990 and is associated with the musical artist Bebi Dol. His musical genre is soul music and he is in the same band as Kornelije Kovač.</lex>
     </entry>
-    <entry category="Artist" eid="Id84" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Aleksandra_Kovač | associatedBand | Kornelije_Kovač</otriple>
-        <otriple>Aleksandra_Kovač | associatedMusicalArtist | Kristina_Kovač</otriple>
-        <otriple>Aleksandra_Kovač | background | "solo_singer"@en</otriple>
-        <otriple>Aleksandra_Kovač | genre | Pop_music</otriple>
-        <otriple>Pop_music | musicFusionGenre | Disco</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aleksandra_Kovač | associatedBand | Kornelije_Kovač</otriple>
-        <otriple>Aleksandra_Kovač | associatedMusicalArtist | Kristina_Kovač</otriple>
-        <otriple>Aleksandra_Kovač | background | "solo_singer"</otriple>
-        <otriple>Aleksandra_Kovač | genre | Pop_music</otriple>
-        <otriple>Pop_music | musicFusionGenre | Disco</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kornelije_Kovač</mtriple>
-        <mtriple>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kristina_Kovač</mtriple>
-        <mtriple>Aleksandra_Kovač | background | "solo_singer"</mtriple>
-        <mtriple>Aleksandra_Kovač | genre | Pop_music</mtriple>
-        <mtriple>Pop_music | musicFusionGenre | Disco</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Musical Artist, Aleksandra Kovač, who is associated with fellow musical artist Kristina Kovač, is in same band with Kornelije Kovač. Aleksandra Kovač's has a background of solo singing, and her musical genre is pop music. Disco is a genre of music that contain elements of other genres such as pop music and therefore can be considered a fusion genre.</lex>
-      <lex comment="good" lid="Id2">Aleksandra Kovač, who was a solo singer, played with Kristina and Kornelije Kovač in the same pop band. Disco music comes from a fusion of pop music.</lex>
-      <lex comment="good" lid="Id3">Pop singer Aleksandra Kovač is associated with Kornelije Kovač and Kristina Kovač. Pop is the origin of disco.</lex>
-    </entry>
     <entry category="Artist" eid="Id85" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Aleksandra_Kovač | background | "solo_singer"</otriple>
@@ -1565,32 +1104,6 @@
       <lex comment="good" lid="Id1">Aleksandra Kovac was born in Belgrade in 1972. She is a solo singer who performs pop music. Pop music is an element of the fusion genre, disco.</lex>
       <lex comment="good" lid="Id2">Disco music is a fusion genre of pop music and it is pop music that is the musical genre of solo singer Aleksandra Kovač who was born in Belgrade in 1972.</lex>
       <lex comment="good" lid="Id3">Aleksandra Kovac was born in Belgrade in 1972. She is a pop music solo artist. Disco is a fusion genre related to pop.</lex>
-    </entry>
-    <entry category="Artist" eid="Id87" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Aleksandra_Kovač | birthYear | "1972"^^xsd:gYear</otriple>
-        <otriple>Aleksandra_Kovač | birthPlace | Serbia</otriple>
-        <otriple>Aleksandra_Kovač | background | "solo_singer"@en</otriple>
-        <otriple>Aleksandra_Kovač | genre | Pop_music</otriple>
-        <otriple>Pop_music | musicFusionGenre | Disco</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aleksandra_Kovač | background | "solo_singer"</otriple>
-        <otriple>Aleksandra_Kovač | birthYear | "1972"^^xsd:gYear</otriple>
-        <otriple>Aleksandra_Kovač | birthPlace | Serbia</otriple>
-        <otriple>Aleksandra_Kovač | genre | Pop_music</otriple>
-        <otriple>Pop_music | musicFusionGenre | Disco</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksandra_Kovač | birthYear | 1972</mtriple>
-        <mtriple>Aleksandra_Kovač | birthPlace | Serbia</mtriple>
-        <mtriple>Aleksandra_Kovač | background | "solo_singer"</mtriple>
-        <mtriple>Aleksandra_Kovač | genre | Pop_music</mtriple>
-        <mtriple>Pop_music | musicFusionGenre | Disco</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandra Kovač was born in 1972, in Serbia. She is a solo singer whose musical genre is Pop. Disco is a genre of music that contain elements of other genres such as pop music and therefore can be considered a fusion genre.</lex>
-      <lex comment="good" lid="Id2">Pop musician Aleksandra Kovac was born in Serbia in 1972 and has a background as a solo singer. Disco is a fusion genre of pop music.</lex>
-      <lex comment="good" lid="Id3">Serbia born pop singer Aleksandra Kovac was born in 1972. Disco is a fusion of pop.</lex>
     </entry>
     <entry category="Artist" eid="Id89" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1674,25 +1187,6 @@
       <lex comment="good" lid="Id1">Acoustic musician Alex Day was born in the U.K. and began performing in 2006. He plays with Chameleon Circuit and is associated with Charlie McDonnell.</lex>
       <lex comment="good" lid="Id2">Alex Day was born in the United Kingdom and started performing in 2006. He is an acoustic musician associated with Charlie McDonnell and plays in Chameleon Circuit.</lex>
       <lex comment="good" lid="Id3">U.K. born acoustic musician Alex Day is associated with the Chameleon Circuit and Charlie McDonnell. He began performing in 2006.</lex>
-    </entry>
-    <entry category="Artist" eid="Id95" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Alex_Day | birthPlace | United_Kingdom</otriple>
-        <otriple>Alex_Day | associatedMusicalArtist | Chameleon_Circuit_(band)</otriple>
-        <otriple>Alex_Day | genre | Folk_music</otriple>
-        <otriple>Alex_Day | associatedBand | Charlie_McDonnell</otriple>
-        <otriple>Alex_Day | activeYearsStartYear | "2006"^^xsd:gYear</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alex_Day | birthPlace | United_Kingdom</mtriple>
-        <mtriple>Alex_Day | associatedBand/associatedMusicalArtist | Chameleon_Circuit_(band)</mtriple>
-        <mtriple>Alex_Day | genre | Folk_music</mtriple>
-        <mtriple>Alex_Day | associatedBand/associatedMusicalArtist | Charlie_McDonnell</mtriple>
-        <mtriple>Alex_Day | activeYearsStartYear | 2006</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The folk performer Alex Day, who became active in 2006, was born in the United Kingdom and plays with the band Chameleon Circuit and is associated with the musical artist Charlie McDonnell.</lex>
-      <lex comment="good" lid="Id2">Alex Day, born in the UK, was active in 2006 in Folk music. He played for Chameleon circuit band and is associated with Charlie McDonnell, musician.</lex>
-      <lex comment="good" lid="Id3">Alex Day plays folk music with Chameleon Circuit. He was born in the UK and became active in 2006. He is associated with Charlie McDonnell.</lex>
     </entry>
     <entry category="Artist" eid="Id96" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1811,46 +1305,6 @@
       <lex comment="good" lid="Id2">Alex Day, a solo singer, performs Synthpop music which is a kind of House music and originated from Disco music and pop music.</lex>
       <lex comment="good" lid="Id3">Alex day is a Synthpop singer. Synthpop has origins in disco, house and pop music.</lex>
     </entry>
-    <entry category="Artist" eid="Id101" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Alex_Day | genre | Synthpop</otriple>
-        <otriple>Synthpop | stylisticOrigin | Pop_music</otriple>
-        <otriple>Alex_Day | background | "solo_singer"</otriple>
-        <otriple>Synthpop | derivative | House_music</otriple>
-        <otriple>Synthpop | stylisticOrigins | New_wave_music</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alex_Day | genre | Synthpop</otriple>
-        <otriple>Synthpop | stylisticOrigins | Pop_music</otriple>
-        <otriple>Synthpop | derivative | House_music</otriple>
-        <otriple>Alex_Day | background | "solo_singer"@en</otriple>
-        <otriple>Synthpop | stylisticOrigin | New_wave_music</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alex_Day | genre | Synthpop</otriple>
-        <otriple>Synthpop | stylisticOrigin | Pop_music</otriple>
-        <otriple>Synthpop | derivative | House_music</otriple>
-        <otriple>Alex_Day | background | "solo_singer"@en</otriple>
-        <otriple>Synthpop | stylisticOrigins | New_wave_music</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alex_Day | genre | Synthpop</otriple>
-        <otriple>Synthpop | stylisticOrigins | Pop_music</otriple>
-        <otriple>Alex_Day | background | "solo_singer"</otriple>
-        <otriple>Synthpop | derivative | House_music</otriple>
-        <otriple>Synthpop | stylisticOrigin | New_wave_music</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alex_Day | genre | Synthpop</mtriple>
-        <mtriple>Synthpop | stylisticOrigin | Pop_music</mtriple>
-        <mtriple>Synthpop | derivative | House_music</mtriple>
-        <mtriple>Alex_Day | background | "solo_singer"</mtriple>
-        <mtriple>Synthpop | stylisticOrigin | New_wave_music</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alex Day plays synthpop music and is a solo singer. Sythpop comes from pop music and House music. New wave music lends its style to Synthpop music.</lex>
-      <lex comment="good" lid="Id2">Alex Day uses the Synthpop genre which is a form of pop music derived from house music and which has its stylistic origin in new wave music. His background is that of solo singer.</lex>
-      <lex comment="good" lid="Id3">Alex Day is a Synthpop solo singer. Synthpop is a form of pop music derived from house music and new wave music.</lex>
-    </entry>
     <entry category="Artist" eid="Id102" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Alex_Day | genre | Synthpop</otriple>
@@ -1950,32 +1404,6 @@
       <lex comment="good" lid="Id2">Although, Alfred Garth Jones' birth (1872) place is Manchester, England, UK ; he died in Sidcup.</lex>
       <lex comment="good" lid="Id3">Alfred Garth Jones was born in 1872 in Manchester, England UK, He died in Sidcup.</lex>
     </entry>
-    <entry category="Artist" eid="Id106" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Alfred_Garth_Jones | placeOfDeath | London</otriple>
-        <otriple>Alfred_Garth_Jones | birthPlace | England</otriple>
-        <otriple>Alfred_Garth_Jones | placeOfBirth | Manchester</otriple>
-        <otriple>Alfred_Garth_Jones | deathPlace | Sidcup</otriple>
-        <otriple>Alfred_Garth_Jones | dateOfDeath | "c. 1944"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alfred_Garth_Jones | placeOfDeath | London</otriple>
-        <otriple>Alfred_Garth_Jones | birthPlace | Manchester</otriple>
-        <otriple>Alfred_Garth_Jones | deathPlace | Sidcup</otriple>
-        <otriple>Alfred_Garth_Jones | dateOfDeath | "c. 1944"@en</otriple>
-        <otriple>Alfred_Garth_Jones | placeOfBirth | England</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfred_Garth_Jones | deathPlace | London</mtriple>
-        <mtriple>Alfred_Garth_Jones | birthPlace | England</mtriple>
-        <mtriple>Alfred_Garth_Jones | birthPlace | Manchester</mtriple>
-        <mtriple>Alfred_Garth_Jones | deathPlace | Sidcup</mtriple>
-        <mtriple>Alfred_Garth_Jones | deathDate | "c. 1944"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Born in Manchester, England, Alfred Garth Jones died in 1944, in Sidcup, London.</lex>
-      <lex comment="good" lid="Id2">Alfred Garth Jones was born in Manchester, England. He died circa 1944 in Sidcup, London.</lex>
-      <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester, England. He sadly passed away in Sidcup, London in 1944.</lex>
-    </entry>
     <entry category="Artist" eid="Id107" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Alfred_Garth_Jones | placeOfDeath | London</otriple>
@@ -2001,32 +1429,6 @@
       <lex comment="good" lid="Id1">Alfred Garth Jones was born in Manchester, England UK and died in Sidcup in London.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones was born in Manchester, England in the UK and died in Sidcup, London.</lex>
       <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester, England, in the UK and died in Sidcup, London.</lex>
-    </entry>
-    <entry category="Artist" eid="Id108" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Alfred_Garth_Jones | placeOfDeath | London</otriple>
-        <otriple>Alfred_Garth_Jones | birthPlace | Manchester</otriple>
-        <otriple>Alfred_Garth_Jones | deathPlace | Sidcup</otriple>
-        <otriple>Alfred_Garth_Jones | placeOfBirth | England</otriple>
-        <otriple>Alfred_Garth_Jones | birthYear | "1872"^^xsd:gYear</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alfred_Garth_Jones | placeOfDeath | London</otriple>
-        <otriple>Alfred_Garth_Jones | birthPlace | England</otriple>
-        <otriple>Alfred_Garth_Jones | placeOfBirth | Manchester</otriple>
-        <otriple>Alfred_Garth_Jones | deathPlace | Sidcup</otriple>
-        <otriple>Alfred_Garth_Jones | birthYear | "1872"^^xsd:gYear</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfred_Garth_Jones | deathPlace | London</mtriple>
-        <mtriple>Alfred_Garth_Jones | birthPlace | Manchester</mtriple>
-        <mtriple>Alfred_Garth_Jones | deathPlace | Sidcup</mtriple>
-        <mtriple>Alfred_Garth_Jones | birthPlace | England</mtriple>
-        <mtriple>Alfred_Garth_Jones | birthYear | 1872</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred Garth Jones was born in Manchester, England in 1872 and died in London in a place called Sidcup.</lex>
-      <lex comment="good" lid="Id2">Alfred Garth Jones was born in 1872 in Manchester, England and died in Sidcup, London.</lex>
-      <lex comment="good" lid="Id3">Alfred Garth Jones was born in 1872, in Manchester, England and died in Sidcup, London.</lex>
     </entry>
     <entry category="Artist" eid="Id109" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2156,25 +1558,6 @@
       <lex comment="good" lid="Id2">Alfredo Zitarrosa is a Candombe musical with a background as a solo singer. He has RCA Records as his recording label and is associated with Hector Numa Moraes and Ciro Perez.</lex>
       <lex comment="good" lid="Id3">Alfredo Zitarrosa is a solo singer and performs Candombe. He was signed to RCA Records and he is associated with Hector Numa Moraes and Ciro Perez.</lex>
     </entry>
-    <entry category="Artist" eid="Id117" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Alfredo_Zitarrosa | recordLabel | RCA_Records</otriple>
-        <otriple>Alfredo_Zitarrosa | associatedBand | Héctor_Numa_Moraes</otriple>
-        <otriple>Alfredo_Zitarrosa | associatedMusicalArtist | Yamandú_Palacios</otriple>
-        <otriple>Alfredo_Zitarrosa | genre | Candombe</otriple>
-        <otriple>Alfredo_Zitarrosa | background | "solo_singer"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfredo_Zitarrosa | recordLabel | RCA_Records</mtriple>
-        <mtriple>Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Héctor_Numa_Moraes</mtriple>
-        <mtriple>Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Yamandú_Palacios</mtriple>
-        <mtriple>Alfredo_Zitarrosa | genre | Candombe</mtriple>
-        <mtriple>Alfredo_Zitarrosa | background | "solo_singer"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfredo Zitarrosa started out as a solo singer in the genre Candombe, and has been associated with Hector Numa Moraes and Yamandú Palacios. He was signed to the RCA Records label.</lex>
-      <lex comment="good" lid="Id2">Alfredo Zitarrosa is a Candombe musician with a background as a solo singer. He was signed to RCA Records Label and is associated with Hector Numa Moraes and Yamandu Palacios.</lex>
-      <lex comment="good" lid="Id3">Candombe singer Alfredo Zitarrosa is signed to RCA Records. He is associated with artists Hector Numa Moraes and Yamandú Palacios.</lex>
-    </entry>
     <entry category="Artist" eid="Id119" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Alison_O'Donnell | associatedBand | Flibbertigibbet</otriple>
@@ -2277,32 +1660,6 @@
       <lex comment="good" lid="Id2">Alison O'Donnell is a jazz musician signed to Fruits De Mer Records and formerly Deram Records in London. Funk is derived from jazz.</lex>
       <lex comment="good" lid="Id3">Deram Records artist and jazz musician Alison O'Donnell was with the label, Fruits de Mer Records. London is the home of Deram Records. Funk has its roots in jazz.</lex>
     </entry>
-    <entry category="Artist" eid="Id126" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Alison_O'Donnell | genre | Jazz</otriple>
-        <otriple>Jazz | derivative | Funk</otriple>
-        <otriple>Alison_O'Donnell | recordLabel | Deram_Records</otriple>
-        <otriple>Deram_Records | location | London</otriple>
-        <otriple>Alison_O'Donnell | label | Kissing_Spell_Records</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alison_O'Donnell | genre | Jazz</otriple>
-        <otriple>Jazz | derivative | Funk</otriple>
-        <otriple>Alison_O'Donnell | label | Deram_Records</otriple>
-        <otriple>Deram_Records | location | London</otriple>
-        <otriple>Alison_O'Donnell | recordLabel | Kissing_Spell_Records</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alison_O'Donnell | genre | Jazz</mtriple>
-        <mtriple>Jazz | derivative | Funk</mtriple>
-        <mtriple>Alison_O'Donnell | recordLabel | Deram_Records</mtriple>
-        <mtriple>Deram_Records | location | London</mtriple>
-        <mtriple>Alison_O'Donnell | recordLabel | Kissing_Spell_Records</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alison O'Donnell plays jazz music and is signed with Deram Records and Kissing Spell Records. The former recording studio is in London. Funk music is derived from jazz.</lex>
-      <lex comment="good" lid="Id2">Alison O'Donnell performs jazz music, whose derivative is funk. He signedcto London based Deram Records and with Kissing Spell Records.</lex>
-      <lex comment="good" lid="Id3">Former Kissing Spell Records and Deram Records artist Alison O'Donnell is a jazz musician. London is the home of Deram Records and funk has its origins in jazz.</lex>
-    </entry>
     <entry category="Artist" eid="Id128" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Alison_O'Donnell | genre | Jazz</otriple>
@@ -2329,25 +1686,6 @@
       <lex comment="good" lid="Id2">Alison O'Donnell plays jazz and has been signed to Static Caravan Recordings and Deram Records in London. Funk is a derivative of jazz.</lex>
       <lex comment="good" lid="Id3">Jazz musician Alison O'Donnell is signed with London's Deram Records and Static Caravan Recordings. Funk has its roots in jazz.</lex>
     </entry>
-    <entry category="Artist" eid="Id129" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Alison_O'Donnell | genre | Jazz</otriple>
-        <otriple>Jazz | derivative | Funk</otriple>
-        <otriple>Jazz | musicFusionGenre | Afrobeat</otriple>
-        <otriple>Alison_O'Donnell | instrument | "Voice, bodhrán, percussion, autoharp"@en</otriple>
-        <otriple>Jazz | stylisticOrigin | Folk_music</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alison_O'Donnell | genre | Jazz</mtriple>
-        <mtriple>Jazz | derivative | Funk</mtriple>
-        <mtriple>Jazz | musicFusionGenre | Afrobeat</mtriple>
-        <mtriple>Alison_O'Donnell | instrument | "Voice, bodhrán, percussion, autoharp"</mtriple>
-        <mtriple>Jazz | stylisticOrigin | Folk_music</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alison O'Donnell is a jazz musician who uses her voice, bodhran, percussion and autoharp. Jazz has its stylistic origins in folk music, and has derivative genres Funk and Afrobeat.</lex>
-      <lex comment="good" lid="Id2">Alison O'Donnell is a jazz musician who uses her voice, bodhran, percussion and autoharp. Jazz has its stylistic origins in folk music, and has helped create the genres of Funk and Afrobeat.</lex>
-      <lex comment="good" lid="Id3">Alison O'Donnell is a musician who uses her voice, bodhran, percussion and autoharp to play jazz music. Funk is one of the derivatives of Jazz which is one of the elements contained in the musical genre of Afrobeat and has its stylistic origins in folk music.</lex>
-    </entry>
     <entry category="Artist" eid="Id131" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Alison_O'Donnell | genre | Jazz</otriple>
@@ -2366,25 +1704,6 @@
       <lex comment="good" lid="Id1">Jazz music has its origins in folk music and Alison O'Donnell is a jazz musician. Both Funk and Afrobeat derive from jazz and the clarinet is a popular jazz instrument.</lex>
       <lex comment="good" lid="Id2">Alison O'Donnell plays jazz music which has its stylistic origins from folk music. The clarinet is associated with jazz. Funk and Afrobeat are derived from Jazz music.</lex>
       <lex comment="good" lid="Id3">Alison O'Donnell plays jazz, of which funk is a derivative and which has origins in folk music. Afrobeat is a fusion genre with jazz where the clarinet is often featured.</lex>
-    </entry>
-    <entry category="Artist" eid="Id133" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Alison_O'Donnell | genre | Jazz</otriple>
-        <otriple>Jazz | stylisticOrigin | Blues</otriple>
-        <otriple>Jazz | derivative | Funk</otriple>
-        <otriple>Jazz | musicFusionGenre | Afrobeat</otriple>
-        <otriple>Alison_O'Donnell | instrument | Bodhrán</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alison_O'Donnell | genre | Jazz</mtriple>
-        <mtriple>Jazz | stylisticOrigin | Blues</mtriple>
-        <mtriple>Jazz | derivative | Funk</mtriple>
-        <mtriple>Jazz | musicFusionGenre | Afrobeat</mtriple>
-        <mtriple>Alison_O'Donnell | instrument | Bodhrán</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alison O'Donnell is a jazz musician who plays the bodhran. Jazz music originates from blues, is derived into funk, and is an element of the fusion genre Afrobeat.</lex>
-      <lex comment="good" lid="Id2">Alison O'Donnell plays jazz music with the bodhrán. Jazz style originates from the Blues and has Funk as a derivative. Afrobeat is a fusion genre which contains elements of Jazz and other genres.</lex>
-      <lex comment="good" lid="Id3">Alison O'Donnell plays jazz music with the bodhrán. The Blues are the stylistic origins of Jazz. Funk derives from Jazz while Afrobeat is a fusion genre of it.</lex>
     </entry>
     <entry category="Artist" eid="Id134" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2424,25 +1743,6 @@
       <lex comment="good" lid="Id2">Allen Forrest was born 1981, born in Fort Campbell, KY and raised in Dothan, AL. Allen Forrest was a pop artist and is a solo singer.</lex>
       <lex comment="good" lid="Id3">Allen Forrest was born in Fort Campbell, KY in 1981 and was raised in Dothan, AL. He was originally a solo singer and is an exponent of pop music.</lex>
     </entry>
-    <entry category="Artist" eid="Id138" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Allen_Forrest | birthYear | "1981"^^xsd:gYear</otriple>
-        <otriple>Allen_Forrest | genre | Acoustic_music</otriple>
-        <otriple>Allen_Forrest | birthPlace | "Fort Campbell, KY, raised in Dothan, AL"@en</otriple>
-        <otriple>Allen_Forrest | background | "solo_singer"@en</otriple>
-        <otriple>Allen_Forrest | placeOfBirth | Fort_Campbell</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Allen_Forrest | birthYear | 1981</mtriple>
-        <mtriple>Allen_Forrest | genre | Acoustic_music</mtriple>
-        <mtriple>Allen_Forrest | birthPlace | "Fort Campbell, KY, raised in Dothan, AL"</mtriple>
-        <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
-        <mtriple>Allen_Forrest | birthPlace | Fort_Campbell</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Allen Forrest was born in the year 1981 in Fort Campbell, KY and was raised in Dothan, AL. He was originally a solo singer and performs acoustic music.</lex>
-      <lex comment="good" lid="Id2">Allen Forrest was born in Fort Campbell, KY in 1981 and he was raised in Dothan, AL. He is a solo singer and performs acoustic music.</lex>
-      <lex comment="good" lid="Id3">Acoustic solo singer Allen Forrest was born 1981, in Fort Campbell, Kentucky. He was raised in Dothan, Alabama.</lex>
-    </entry>
     <entry category="Artist" eid="Id139" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Allen_Forrest | genre | Hip_hop_music</otriple>
@@ -2462,25 +1762,6 @@
       <lex comment="good" lid="Id2">Allen Forrest was born in Fort Campbell, KY, in 1981 and was raised in Dothan, AL. Originally a solo singer, his musical genre is hip hop music.</lex>
       <lex comment="good" lid="Id3">Born in Fort Campbell, KY, in 1981 and raised in Dothan, AL, Allen Forrest has a background as a solo singer and performs hip hop.</lex>
     </entry>
-    <entry category="Artist" eid="Id140" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Allen_Forrest | genre | Hip_hop_music</otriple>
-        <otriple>Allen_Forrest | birthYear | "1981"^^xsd:gYear</otriple>
-        <otriple>Allen_Forrest | birthPlace | Dothan,_Alabama</otriple>
-        <otriple>Allen_Forrest | background | "solo_singer"@en</otriple>
-        <otriple>Allen_Forrest | placeOfBirth | Fort_Campbell</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Allen_Forrest | genre | Hip_hop_music</mtriple>
-        <mtriple>Allen_Forrest | birthYear | 1981</mtriple>
-        <mtriple>Allen_Forrest | birthPlace | Dothan,_Alabama</mtriple>
-        <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
-        <mtriple>Allen_Forrest | birthPlace | Fort_Campbell</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Allen Forrest was a solo singer and hip hop artist born in 1981 in Dothan (Fort Campbell), Alabama.</lex>
-      <lex comment="good" lid="Id2">Allen Forrest is a solo singer and hip hop musician who was born 1981, in Dothan (Fort Campbell), Alabama.</lex>
-      <lex comment="good" lid="Id3">Allen Forrest was born in 1981 in Fort Campbell in Dothan, Alabama. He's a solo singer who performs hip hop music.</lex>
-    </entry>
     <entry category="Artist" eid="Id141" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Allen_Forrest | genre | Rhythm_and_blues</otriple>
@@ -2499,32 +1780,6 @@
       <lex comment="good" lid="Id1">Allen Forrest, a solo singer, was born in 1981 in Fort Campbell, Kentucky and was brought up in Dothan, Alabama. Mr. Forrest plays rhythm and blues music.</lex>
       <lex comment="good" lid="Id2">Allen Forrest was born in 1981 in Fort Campbell, Kentucky and was raised in Dothan, Alabama. He's a Rhythm and Blues solo singer.</lex>
       <lex comment="good" lid="Id3">Rhythm and blues singer Allen Forrest was born in Fort Campbell, Kentucky, 1981 but raised in Dothan, Alabama.</lex>
-    </entry>
-    <entry category="Artist" eid="Id142" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Allen_Forrest | genre | Rhythm_and_blues</otriple>
-        <otriple>Allen_Forrest | birthYear | "1981"^^xsd:gYear</otriple>
-        <otriple>Allen_Forrest | birthPlace | Dothan,_Alabama</otriple>
-        <otriple>Allen_Forrest | placeOfBirth | Fort_Campbell</otriple>
-        <otriple>Allen_Forrest | background | "solo_singer"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Allen_Forrest | genre | Rhythm_and_blues</otriple>
-        <otriple>Allen_Forrest | birthYear | "1981"^^xsd:gYear</otriple>
-        <otriple>Allen_Forrest | birthPlace | Dothan,_Alabama</otriple>
-        <otriple>Allen_Forrest | background | "solo_singer"@en</otriple>
-        <otriple>Allen_Forrest | placeOfBirth | Fort_Campbell</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Allen_Forrest | genre | Rhythm_and_blues</mtriple>
-        <mtriple>Allen_Forrest | birthYear | 1981</mtriple>
-        <mtriple>Allen_Forrest | birthPlace | Dothan,_Alabama</mtriple>
-        <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
-        <mtriple>Allen_Forrest | birthPlace | Fort_Campbell</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Allen Forrest was a solo singer of rhythm and blues music and was born in 1981 in Fort Campbell, Dothan, Alabama.</lex>
-      <lex comment="good" lid="Id2">Allen Forrest was born in 1981 in Fort Campbell, Dothan, Alabama. He is a solo singer that plays rhythm and blues music.</lex>
-      <lex comment="good" lid="Id3">Allen Forrest was born in Fort Campbell, Dothan, Alabama in 1981. He has a background as a solo singer and performs rhythm and blues music.</lex>
     </entry>
     <entry category="Artist" eid="Id144" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2616,46 +1871,6 @@
       <lex comment="good" lid="Id2">Andrew White is associated with musician artist Marry Banilow and plays alternative rock music. That music type's origins are in punk rock and New wave music. Nu metal music is a fusion of punk rock.</lex>
       <lex comment="good" lid="Id3">Nu metal is a music fusion genre of Alternative rock that has origins in new wave music and punk rock. Andrew White is a musician whose genre is alternative rock and is associated with the musical artist Marry Banilow.</lex>
     </entry>
-    <entry category="Artist" eid="Id149" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Anders_Osborne | associatedMusicalArtist | Billy_Iuso</otriple>
-        <otriple>Anders_Osborne | genre | Rock_music</otriple>
-        <otriple>Anders_Osborne | associatedActs | Voice_of_the_Wetlands_All-Stars</otriple>
-        <otriple>Anders_Osborne | activeYearsStartYear | "1989"^^xsd:gYear</otriple>
-        <otriple>Anders_Osborne | associatedBand | Tab_Benoit</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Anders_Osborne | associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars</otriple>
-        <otriple>Anders_Osborne | genre | Rock_music</otriple>
-        <otriple>Anders_Osborne | associatedActs | Billy_Iuso</otriple>
-        <otriple>Anders_Osborne | activeYearsStartYear | "1989"^^xsd:gYear</otriple>
-        <otriple>Anders_Osborne | associatedBand | Tab_Benoit</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Anders_Osborne | associatedBand | Billy_Iuso</otriple>
-        <otriple>Anders_Osborne | associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars</otriple>
-        <otriple>Anders_Osborne | genre | Rock_music</otriple>
-        <otriple>Anders_Osborne | associatedActs | Tab_Benoit</otriple>
-        <otriple>Anders_Osborne | activeYearsStartYear | "1989"^^xsd:gYear</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Anders_Osborne | associatedBand | Billy_Iuso</otriple>
-        <otriple>Anders_Osborne | associatedMusicalArtist | Tab_Benoit</otriple>
-        <otriple>Anders_Osborne | genre | Rock_music</otriple>
-        <otriple>Anders_Osborne | associatedActs | Voice_of_the_Wetlands_All-Stars</otriple>
-        <otriple>Anders_Osborne | activeYearsStartYear | "1989"^^xsd:gYear</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Billy_Iuso</mtriple>
-        <mtriple>Anders_Osborne | genre | Rock_music</mtriple>
-        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars</mtriple>
-        <mtriple>Anders_Osborne | activeYearsStartYear | 1989</mtriple>
-        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Tab_Benoit</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rock musician Anders Osborne started performing in 1989. He has worked with Tab Benoit and is associated with Billy Iuso and the Voice of the Wetlands All-Stars.</lex>
-      <lex comment="good" lid="Id2">Rock musician Anders Osborne, who began performing in 1989, was with the band Voice of the Wetlands All-Stars. He has worked with Tab Benoit and the musical artist Billy Iuso.</lex>
-      <lex comment="good" lid="Id3">Rock musician Anders Osborne, who began his career in 1989 is associated with the artists: Voice of the Wetlands All-Stars, Tab Benoit and Billy Iuso.</lex>
-    </entry>
     <entry category="Artist" eid="Id150" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Anders_Osborne | associatedBand | Galactic</otriple>
@@ -2693,25 +1908,6 @@
       <lex comment="good" lid="Id1">Anders Osborne is a rock guitarist associated with Johnny Sansone and signed to Shanachie Records. Bhangra is a musical fusion of rock music.</lex>
       <lex comment="good" lid="Id2">Anders Osborne is a rock guitarist associated with Johnny Sansone and signed to the Shanachie Records label. Bhangra is a fusion genre partly coming from rock music.</lex>
       <lex comment="good" lid="Id3">Rock guitarist Anders Osborne is with Shanachie Records and an associate of musician Johnny Sansone. Bhangra is a fusion of Rock.</lex>
-    </entry>
-    <entry category="Artist" eid="Id154" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Anders_Osborne | recordLabel | Alligator_Records</otriple>
-        <otriple>Alligator_Records | genre | Blues</otriple>
-        <otriple>Alligator_Records | location | Chicago</otriple>
-        <otriple>Anders_Osborne | associatedBand | Tab_Benoit</otriple>
-        <otriple>Anders_Osborne | label | Rabadash_Records</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Anders_Osborne | recordLabel | Alligator_Records</mtriple>
-        <mtriple>Alligator_Records | genre | Blues</mtriple>
-        <mtriple>Alligator_Records | location | Chicago</mtriple>
-        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Tab_Benoit</mtriple>
-        <mtriple>Anders_Osborne | recordLabel | Rabadash_Records</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alligator Records, based in Chicago, is associated with the Blues and is the record label of Anders Osborne. Anders Osborne has worked with Tab Benoit and his record label is Rabadash Records.</lex>
-      <lex comment="good" lid="Id2">Anders Osborne, who worked with Tab Benoit, plays blues music under the recording labels: Alligator Records and Rabadash Records. The former studio is in Chicago.</lex>
-      <lex comment="good" lid="Id3">Anders Osborne was signed to Alligator Records, a Chicago located record label that is associated with blues music. Osborne is now signed with Rabadash Records and is associated with Tab Benoit.</lex>
     </entry>
     <entry category="Artist" eid="Id156" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2757,25 +1953,6 @@
       <lex comment="good" lid="Id1">Anders Osborne was a dedicated guitarist ho signed to Alligator records along with Johnny Sansone. This rock music group produced a fusion genre called Bhangra.</lex>
       <lex comment="good" lid="Id2">Rock guitarist Anders Osborne is signed with Alligator Records and associated with Johnny Sansone. Bhangra derives from rock.</lex>
       <lex comment="good" lid="Id3">Rock guitarist Anders Osborne is on the Alligator records label and is associated with artist Johnny Sansone. Bhangra is a fusion of Rock.</lex>
-    </entry>
-    <entry category="Artist" eid="Id160" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Andra_(singer) | background | "solo_singer"</otriple>
-        <otriple>Andra_(singer) | birthYear | "1986"^^xsd:gYear</otriple>
-        <otriple>Andra_(singer) | genre | Dance-pop</otriple>
-        <otriple>Andra_(singer) | occupation | Singing</otriple>
-        <otriple>Andra_(singer) | birthPlace | Câmpia_Turzii</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Andra_(singer) | background | "solo_singer"</mtriple>
-        <mtriple>Andra_(singer) | birthYear | 1986</mtriple>
-        <mtriple>Andra_(singer) | genre | Dance-pop</mtriple>
-        <mtriple>Andra_(singer) | occupation | Singing</mtriple>
-        <mtriple>Andra_(singer) | birthPlace | Câmpia_Turzii</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Solo singer, Andra, was born in 1986, in Campia Turzii. A singer for a living, Andra is a singer of Dance-pop music.</lex>
-      <lex comment="good" lid="Id2">Andra, the musical pop dance, solo singer, was born in Campia Turzii in 1986. She started her career as solo singer. Later included dance pop as part of her musical genre.</lex>
-      <lex comment="good" lid="Id3">Anders was born in Campia Turzii in 1986.She is a professional solo singer and performs Dance-pop music.</lex>
     </entry>
     <entry category="Artist" eid="Id162" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2874,46 +2051,6 @@
       <lex comment="good" lid="Id2">Andra is a rhythm and blues solo singer born in 1986. Andra was born in Campia Turzii and in addition to being a singer, she is also a Reality TV judge.</lex>
       <lex comment="good" lid="Id3">Andra was born in Campia Turzii in 1986. She is a rhythm and blues solo singer and reality TV judge.</lex>
     </entry>
-    <entry category="Artist" eid="Id168" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Andra_(singer) | genre | Rhythm_and_blues</otriple>
-        <otriple>Rhythm_and_blues | derivative | Funk</otriple>
-        <otriple>Rhythm_and_blues | stylisticOrigin | Blues</otriple>
-        <otriple>Andra_(singer) | background | "solo_singer"@en</otriple>
-        <otriple>Rhythm_and_blues | derivatives | Disco</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Andra_(singer) | genre | Rhythm_and_blues</otriple>
-        <otriple>Rhythm_and_blues | derivatives | Funk</otriple>
-        <otriple>Andra_(singer) | background | "solo_singer"</otriple>
-        <otriple>Rhythm_and_blues | stylisticOrigin | Blues</otriple>
-        <otriple>Rhythm_and_blues | derivative | Disco</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Andra_(singer) | genre | Rhythm_and_blues</otriple>
-        <otriple>Rhythm_and_blues | derivative | Funk</otriple>
-        <otriple>Andra_(singer) | background | "solo_singer"</otriple>
-        <otriple>Rhythm_and_blues | stylisticOrigin | Blues</otriple>
-        <otriple>Rhythm_and_blues | derivatives | Disco</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Andra_(singer) | genre | Rhythm_and_blues</otriple>
-        <otriple>Rhythm_and_blues | derivatives | Funk</otriple>
-        <otriple>Rhythm_and_blues | stylisticOrigin | Blues</otriple>
-        <otriple>Andra_(singer) | background | "solo_singer"@en</otriple>
-        <otriple>Rhythm_and_blues | derivative | Disco</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Andra_(singer) | genre | Rhythm_and_blues</mtriple>
-        <mtriple>Rhythm_and_blues | derivative | Funk</mtriple>
-        <mtriple>Andra_(singer) | background | "solo_singer"</mtriple>
-        <mtriple>Rhythm_and_blues | stylisticOrigin | Blues</mtriple>
-        <mtriple>Rhythm_and_blues | derivative | Disco</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rhythm and blues music originated from the blues and is the origin of Funk and Disco. Andra is a solo rhythm and blues singer.</lex>
-      <lex comment="good" lid="Id2">Andra is a rhythm and blues singer. Funk and disco have their origins in, blues influenced, R &amp; B.</lex>
-      <lex comment="good" lid="Id3">Rhythm and blues comes from blues and is the origin for Disco and Funk. Andra is an R &amp; B singer.</lex>
-    </entry>
     <entry category="Artist" eid="Id169" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Andrew_Rayel | associatedMusicalArtist | Armin_van_Buuren</otriple>
@@ -2959,25 +2096,6 @@
       <lex comment="good" lid="Id2">Andrew Rayel is a trance musician with a career start at 2009 and he was born in Chisinau, Moldova. He is associated with Christian Burns and Jwaydan Moyine.</lex>
       <lex comment="good" lid="Id3">Andrew Rayel was born in Chisinau, Moldova and began his Trance music career in 2009. He is associated with Jwaydan Moyine and Christian Burns.</lex>
     </entry>
-    <entry category="Artist" eid="Id172" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Andrew_Rayel | associatedMusicalArtist | Christian_Burns</otriple>
-        <otriple>Andrew_Rayel | genre | Trance_music</otriple>
-        <otriple>Andrew_Rayel | placeOfBirth | "Chișinău, Moldova"@en</otriple>
-        <otriple>Andrew_Rayel | activeYearsStartYear | "2009"^^xsd:gYear</otriple>
-        <otriple>Andrew_Rayel | associatedBand | Bobina</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
-        <mtriple>Andrew_Rayel | genre | Trance_music</mtriple>
-        <mtriple>Andrew_Rayel | birthPlace | "Chișinău, Moldova"</mtriple>
-        <mtriple>Andrew_Rayel | activeYearsStartYear | 2009</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Bobina</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrew Rayel, born in Chisinau, Moldova, started his career in 2009. He is a Trance genre musician who is associated with Bobina and Christian Burns, musician.</lex>
-      <lex comment="good" lid="Id2">Trance musician Andrew Rayel is associated with Bobina and Christian Burns . Rayel was born in Chisinau, Moldova and he began his musical career in 2009.</lex>
-      <lex comment="good" lid="Id3">Andrew Rayel was born in Chisinau, Moldova and his careere began in 2009. His musical genre is trance music and he is associated with Christian Burns and Bobina.</lex>
-    </entry>
     <entry category="Artist" eid="Id173" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Andrew_Rayel | associatedMusicalArtist | Christian_Burns</otriple>
@@ -2996,25 +2114,6 @@
       <lex comment="good" lid="Id1">Andrew Rayel was born in Chisinau, Moldova and started his career in 2009. He performs Trance music and is associates with Christian Burns and Mark Sixma.</lex>
       <lex comment="good" lid="Id2">Andrew Rayel was born in Chisinau, Moldova and began his musical career in 2009. He plays trance music and is associated with Mark Sixma and Christian Burns.</lex>
       <lex comment="good" lid="Id3">Trance musician Andrew Rayel, born in Chisinau, Moldova, began his career in 2009. He is associated with musician Mark Sixma and Christian Burns.</lex>
-    </entry>
-    <entry category="Artist" eid="Id175" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Andrew_Rayel | associatedBand | Jwaydan_Moyine</otriple>
-        <otriple>Andrew_Rayel | associatedMusicalArtist | Christian_Burns</otriple>
-        <otriple>Andrew_Rayel | associatedActs | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"@en</otriple>
-        <otriple>Andrew_Rayel | genre | Trance_music</otriple>
-        <otriple>Trance_music | stylisticOrigin | Pop_music</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jwaydan_Moyine</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"</mtriple>
-        <mtriple>Andrew_Rayel | genre | Trance_music</mtriple>
-        <mtriple>Trance_music | stylisticOrigin | Pop_music</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrew Rayel's musical genre is Trance which has its stylistic origins in pop music. He is associated with a number of musical artists, these include: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan Moyine, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi.</lex>
-      <lex comment="good" lid="Id2">Trance musician Andrew Rayel is associated with artists: Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan Moyine, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Trance originates from Pop.</lex>
-      <lex comment="good" lid="Id3">Trance musician Andrew Rayel is associated with artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan Moyine, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi. Trance is derived from Pop.</lex>
     </entry>
     <entry category="Artist" eid="Id176" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -3035,25 +2134,6 @@
       <lex comment="good" lid="Id2">Andrew Rayel, born in Chisinau, Moldova began his career in trance music in 2009and is associated with Jwaydan Moyine and Jonathan Mendelsohn.</lex>
       <lex comment="good" lid="Id3">Trance musician Andrew Rayel, born in Chisinau, Moldova, began in 2009. is associated with musicians Jonathan Mendelsohn and Jwaydan Moyine.</lex>
     </entry>
-    <entry category="Artist" eid="Id177" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Andrew_Rayel | associatedBand | Jwaydan_Moyine</otriple>
-        <otriple>Andrew_Rayel | associatedMusicalArtist | Mark_Sixma</otriple>
-        <otriple>Andrew_Rayel | associatedActs | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"@en</otriple>
-        <otriple>Andrew_Rayel | genre | Trance_music</otriple>
-        <otriple>Trance_music | stylisticOrigin | Pop_music</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jwaydan_Moyine</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Mark_Sixma</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"</mtriple>
-        <mtriple>Andrew_Rayel | genre | Trance_music</mtriple>
-        <mtriple>Trance_music | stylisticOrigin | Pop_music</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrew Rayel is associated with Jwaydan Moyine, Mark Sixma and many other artists: Armin Van Buuren, Bobina, Jonathan Mendelsohn, Christian Burns, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi. He performs trance which has its origin in pop music.</lex>
-      <lex comment="good" lid="Id2">Trance musician Andrew Rayel is associated with artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan Moyine, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi and Mark Sima.</lex>
-      <lex comment="good" lid="Id3">Trance musician Andrew Rayel is associated with artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan Moyine, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi. Trance has its origins in pop.</lex>
-    </entry>
     <entry category="Artist" eid="Id178" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Andrew_Rayel | associatedMusicalArtist | Jwaydan_Moyine</otriple>
@@ -3073,32 +2153,6 @@
       <lex comment="good" lid="Id2">Andrew Rayel is a trance musician who was born in Chisinau, Moldova. He started his career in 2009 and is associated with Armin van Buuren and Jwaydan Moyine.</lex>
       <lex comment="good" lid="Id3">Andrew Rayel was born in chisinau, Moldova abd began his trance music career in 2009. He is associated with Jwaydan Moyine and Armin van Buuren.</lex>
     </entry>
-    <entry category="Artist" eid="Id180" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Jwaydan_Moyine | associatedMusicalArtist | John_Digweed</otriple>
-        <otriple>Andrew_Rayel | associatedBand | Jwaydan_Moyine</otriple>
-        <otriple>Andrew_Rayel | associatedActs | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"@en</otriple>
-        <otriple>Andrew_Rayel | genre | Trance_music</otriple>
-        <otriple>Trance_music | stylisticOrigin | Pop_music</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Andrew_Rayel | associatedMusicalArtist | Jwaydan_Moyine</otriple>
-        <otriple>Jwaydan_Moyine | associatedBand | John_Digweed</otriple>
-        <otriple>Andrew_Rayel | associatedActs | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"@en</otriple>
-        <otriple>Andrew_Rayel | genre | Trance_music</otriple>
-        <otriple>Trance_music | stylisticOrigin | Pop_music</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jwaydan_Moyine</mtriple>
-        <mtriple>Jwaydan_Moyine | associatedBand/associatedMusicalArtist | John_Digweed</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"</mtriple>
-        <mtriple>Andrew_Rayel | genre | Trance_music</mtriple>
-        <mtriple>Trance_music | stylisticOrigin | Pop_music</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrew Rayel is a Trance music performer associated with artists such as Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan (associated with John Digweed), Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Trance music has its stylistic origins in pop music.</lex>
-      <lex comment="good" lid="Id2">Originating from Pop music, Trance music is the genre Andrew Rayel uses. He has been associated with a number of musical artists, such as the follow: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan Moyine, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi and John Digweed.</lex>
-      <lex comment="good" lid="Id3">Andrew Rayel's musical genre is trance which originated from pop music. He has been associated with the following musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi. and also with Jwaydan Moyine who is associated with the musical artist John Digweed.</lex>
-    </entry>
     <entry category="Artist" eid="Id181" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Andrew_Rayel | associatedMusicalArtist | Jwaydan_Moyine</otriple>
@@ -3117,24 +2171,6 @@
       <lex comment="good" lid="Id1">Andrew Rayel has been associated with the musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. He plays Trance music which originated from House music.</lex>
       <lex comment="good" lid="Id2">Trance music has its origins in House music. Andrew Rayel, a trance musician, is associated with Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
       <lex comment="good" lid="Id3">Andrew Rayel has been associated with the following musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. He has performed trance music, which has its origins in house music.</lex>
-    </entry>
-    <entry category="Artist" eid="Id182" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Andrew_Rayel | associatedMusicalArtist | Mark_Sixma</otriple>
-        <otriple>Andrew_Rayel | associatedActs | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"@en</otriple>
-        <otriple>Andrew_Rayel | associatedBand | Christian_Burns</otriple>
-        <otriple>Andrew_Rayel | genre | Trance_music</otriple>
-        <otriple>Trance_music | stylisticOrigin | Pop_music</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Mark_Sixma</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
-        <mtriple>Andrew_Rayel | genre | Trance_music</mtriple>
-        <mtriple>Trance_music | stylisticOrigin | Pop_music</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrew Rayel is a Trance music artist who has been associated with the following musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Trance music has its origins in Pop music.</lex>
-      <lex comment="good" lid="Id2">Andrew Rayel performs Trance music, which has origins in pop music and he has been associated with the following musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
     </entry>
     <entry category="Artist" eid="Id184" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -3161,39 +2197,6 @@
       <lex comment="good" lid="Id1">Andrew White is a musician who started his career in 2003 who was in the band the Kaiser Chiefs. He signed to the record label B-Unique Records, and was previously with the (now defunct) Universal Records, and has been associated with Marry Banilow.</lex>
       <lex comment="good" lid="Id2">Musician, Andrew White, started his musical career in 2003 and is associated with the musical artist Marry Banilow. He is a member of the band Kaiser CHiefs, and is signed to the record label B-Unique Records. White's record label used to be Universal records which is now a defunct label.</lex>
       <lex comment="good" lid="Id3">Andrew White started his music career in 2003 and now plays for Kaiser Chiefs. He signed with B-Unique Records and also was with Universal records which is now defunct. Mr. White is associated with Marry Banilow, musician.</lex>
-    </entry>
-    <entry category="Artist" eid="Id186" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
-      <originaltripleset>
-        <otriple>Andrew_White_(musician) | associatedBand | Kaiser_Chiefs</otriple>
-        <otriple>Andrew_White_(musician) | associatedMusicalArtist | Marry_Banilow</otriple>
-        <otriple>Andrew_White_(musician) | recordLabel | Universal_Records_(defunct_record_label)</otriple>
-        <otriple>Andrew_White_(musician) | label | Fiction</otriple>
-        <otriple>Andrew_White_(musician) | activeYearsStartYear | "2003"^^xsd:gYear</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Andrew_White_(musician) | associatedBand | Marry_Banilow</otriple>
-        <otriple>Andrew_White_(musician) | associatedMusicalArtist | Kaiser_Chiefs</otriple>
-        <otriple>Andrew_White_(musician) | recordLabel | Fiction</otriple>
-        <otriple>Andrew_White_(musician) | label | Universal_Records_(defunct_record_label)</otriple>
-        <otriple>Andrew_White_(musician) | activeYearsStartYear | "2003"^^xsd:gYear</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Andrew_White_(musician) | associatedBand | Marry_Banilow</otriple>
-        <otriple>Andrew_White_(musician) | associatedMusicalArtist | Kaiser_Chiefs</otriple>
-        <otriple>Andrew_White_(musician) | recordLabel | Universal_Records_(defunct_record_label)</otriple>
-        <otriple>Andrew_White_(musician) | label | Fiction</otriple>
-        <otriple>Andrew_White_(musician) | activeYearsStartYear | "2003"^^xsd:gYear</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Kaiser_Chiefs</mtriple>
-        <mtriple>Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Marry_Banilow</mtriple>
-        <mtriple>Andrew_White_(musician) | recordLabel | Universal_Records_(defunct_record_label)</mtriple>
-        <mtriple>Andrew_White_(musician) | recordLabel | Fiction</mtriple>
-        <mtriple>Andrew_White_(musician) | activeYearsStartYear | 2003</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrew White plays for the Kaiser Chiefs. He started his career in 2003 and is signed to the Fiction record label and formerly Universal records, now definct. He is associated with Marry Banilow.</lex>
-      <lex comment="good" lid="Id2">Andrew White started his career in 2003 and plays with Kaiser Chiefs. He is associated with Marry Banilow and has been signed to both Universal Records, now defunct, and Fiction.</lex>
-      <lex comment="good" lid="Id3">Andrew White of the Kaiser Chiefs began his career in 2003 and is associated with Marry Banilow. He is currently signed to Fiction record label and was formerly singed to the now defunct Universal Records.</lex>
     </entry>
     <entry category="Artist" eid="Id187" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3259,32 +2262,6 @@
       <lex comment="good" lid="Id2">The piano player Andrew Rayel is associated with a number of musical artists, these include: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (an exponent of house music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi.</lex>
       <lex comment="good" lid="Id3">Andrew Rayel is a pianist who is associated with artists such as Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Christian Burns musical genre is house music.</lex>
     </entry>
-    <entry category="Artist" eid="Id192" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Andrew_Rayel | associatedMusicalArtist | Jwaydan_Moyine</otriple>
-        <otriple>Christian_Burns | genre | House_music</otriple>
-        <otriple>Jwaydan_Moyine | associatedActs | John_Digweed</otriple>
-        <otriple>Andrew_Rayel | instrument | String_instrument</otriple>
-        <otriple>Andrew_Rayel | associatedBand | Christian_Burns</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Christian_Burns | genre | House_music</otriple>
-        <otriple>Andrew_Rayel | associatedBand | Jwaydan_Moyine</otriple>
-        <otriple>Jwaydan_Moyine | associatedActs | John_Digweed</otriple>
-        <otriple>Andrew_Rayel | instrument | String_instrument</otriple>
-        <otriple>Andrew_Rayel | associatedMusicalArtist | Christian_Burns</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Christian_Burns | genre | House_music</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jwaydan_Moyine</mtriple>
-        <mtriple>Jwaydan_Moyine | associatedBand/associatedMusicalArtist | John_Digweed</mtriple>
-        <mtriple>Andrew_Rayel | instrument | String_instrument</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrew Rayel is a string instrument player who is associated with the musicians Jwaydan Moyine, John Digweed, and Christian Burns, an exponent of House music.</lex>
-      <lex comment="good" lid="Id2">Andrew Rayel plays a string instrument and is associated with Christian Burns whose musical genre is house music, and also Jwaydan Moyine. Moyine is also associated with the musical artist John Digweed.</lex>
-      <lex comment="good" lid="Id3">Andrew Rayel is string instrumentalist associated with Christian Burns, an exponent of House music, and Jwaydan Moyine in turn associated with John Digweed.</lex>
-    </entry>
     <entry category="Artist" eid="Id193" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Christian_Burns | instrument | Guitar</otriple>
@@ -3349,32 +2326,6 @@
       <lex comment="good" lid="Id2">Allen Forrest is also known as Matchstick, Match, Allan, Forrester, Alan, Foster, Forest Matchstick and Matchstix. He plays hip hop which has its origins in disco and funk and has a derivative in drum and bass.</lex>
       <lex comment="good" lid="Id3">Hip hop artist Allen Forrest, has gone by the names: Matchstik, Match, Allan, Forrester, Alan, Foster, Forest Matchstick, Matchstix, and Allen Forrest. Hip hop has its origins in funk and disco, lending itself to Drum and Bass.</lex>
     </entry>
-    <entry category="Artist" eid="Id196" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Hip_hop_music | stylisticOrigins | Disco</otriple>
-        <otriple>Allen_Forrest | genre | Hip_hop_music</otriple>
-        <otriple>Allen_Forrest | associatedMusicalArtist | The_Black_Eyed_Peas</otriple>
-        <otriple>Hip_hop_music | stylisticOrigin | Funk</otriple>
-        <otriple>Hip_hop_music | derivative | Drum_and_bass</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Hip_hop_music | stylisticOrigins | Disco</otriple>
-        <otriple>Allen_Forrest | genre | Hip_hop_music</otriple>
-        <otriple>Allen_Forrest | associatedBand | The_Black_Eyed_Peas</otriple>
-        <otriple>Hip_hop_music | stylisticOrigin | Funk</otriple>
-        <otriple>Hip_hop_music | derivative | Drum_and_bass</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Hip_hop_music | stylisticOrigin | Disco</mtriple>
-        <mtriple>Allen_Forrest | genre | Hip_hop_music</mtriple>
-        <mtriple>Allen_Forrest | associatedBand/associatedMusicalArtist | The_Black_Eyed_Peas</mtriple>
-        <mtriple>Hip_hop_music | stylisticOrigin | Funk</mtriple>
-        <mtriple>Hip_hop_music | derivative | Drum_and_bass</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Hip hop music originated stylistically from disco and funk, and has given rise to drum and bass. Allen Forrest performs the musical genre of hip hop and is associated with the band The Black Eyed Peas.</lex>
-      <lex comment="good" lid="Id2">Allen Forrest is a hip hop artist with The Black Eyed Peas. Hip Hop has its origins in Disco and Funk also gives drum and bass its sounds.</lex>
-      <lex comment="good" lid="Id3">Hip hop music is the origin of drum and bass while have its own start in disco and funk. Hip hop artist Allen Forrest is associated with The Black Eyed Peas.</lex>
-    </entry>
     <entry category="Artist" eid="Id198" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>London | governingBody | Greater_London_Authority</otriple>
@@ -3413,25 +2364,6 @@
       <lex comment="good" lid="Id2">Alfred Garth Jones was born in Manchester and passed away in Sidcup, London. Parliament of the United Kingdom is the leader of London and Boris Johnson is the Mayor.</lex>
       <lex comment="good" lid="Id3">Manchester born Alfred Garth Jones died in Sidcup, London. The Parliament of the United Kingdom and Boris Johnson are leaders of London.</lex>
     </entry>
-    <entry category="Artist" eid="Id201" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>London | leaderTitle | Parliament_of_the_United_Kingdom</otriple>
-        <otriple>Alfred_Garth_Jones | deathPlace | Sidcup</otriple>
-        <otriple>Alfred_Garth_Jones | placeOfDeath | London</otriple>
-        <otriple>Alfred_Garth_Jones | nationality | United_Kingdom</otriple>
-        <otriple>London | leaderName | Boris_Johnson</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>London | leaderTitle | Parliament_of_the_United_Kingdom</mtriple>
-        <mtriple>Alfred_Garth_Jones | deathPlace | Sidcup</mtriple>
-        <mtriple>Alfred_Garth_Jones | deathPlace | London</mtriple>
-        <mtriple>Alfred_Garth_Jones | nationality | United_Kingdom</mtriple>
-        <mtriple>London | leader | Boris_Johnson</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Parliament of the United Kingdom and Boris Johnson are the leaders of London. The city where UK citizen, Alfred Garth Jones died, in Sidcup.</lex>
-      <lex comment="good" lid="Id2">UK born Alfred Garth Jones died in, Boris Johnson led, Sidcup, London. The Parliament of the United Kingdom is also a leader of London.</lex>
-      <lex comment="good" lid="Id3">United Kingdom born Alfred Garth Jones, died in Sidcup, London. Boris Johnson and the Parliament of the United Kingdom are leaders of London.</lex>
-    </entry>
     <entry category="Artist" eid="Id202" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>London | leaderTitle | Parliament_of_the_United_Kingdom</otriple>
@@ -3469,32 +2401,6 @@
       <lex comment="good" lid="Id1">Alfred Garth Jones died in Sidcup, in London, the leader of which is, Boris Johnson. While the London government is known as the Parliament of the U.K., London is governed by the Greater London Authority.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones died in Sidcup, London. Boris Johnson is a leader in London which is governed by the Greater London Authority and the UK Parliament.</lex>
       <lex comment="good" lid="Id3">Alfred Garth Jones died in, Boris Johnson led, Sidcup, London. London is also led by the Parliament of the United Kingdom and the Greater London Authority.</lex>
-    </entry>
-    <entry category="Artist" eid="Id205" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Paraguay | ethnicGroup | Mestizo</otriple>
-        <otriple>Asunción | isPartOf | Gran_Asunción</otriple>
-        <otriple>Agustín_Barboza | birthPlace | Asunción</otriple>
-        <otriple>Paraguay | leaderName | Juan_Afara</otriple>
-        <otriple>Agustín_Barboza | deathPlace | Paraguay</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Paraguay | ethnicGroup | Mestizo</otriple>
-        <otriple>Asunción | isPartOf | Gran_Asunción</otriple>
-        <otriple>Agustín_Barboza | birthPlace | Asunción</otriple>
-        <otriple>Paraguay | leaderName | Juan_Afara</otriple>
-        <otriple>Agustín_Barboza | placeOfDeath | Paraguay</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Paraguay | ethnicGroup | Mestizo</mtriple>
-        <mtriple>Asunción | isPartOf | Gran_Asunción</mtriple>
-        <mtriple>Agustín_Barboza | birthPlace | Asunción</mtriple>
-        <mtriple>Paraguay | leader | Juan_Afara</mtriple>
-        <mtriple>Agustín_Barboza | deathPlace | Paraguay</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The birth place of Agustin Barboza was Asuncion (part of Gran Asuncion), Paraguay. Juan Afara is a leader in Paraguay and Mestizo is an ethnic group in that country.</lex>
-      <lex comment="good" lid="Id2">Agustin Barboza was born in Asuncion, which is part of Gran Asuncion in Paraguay. The leader of Paraguay is Juan Afara and an ethnic group of the country is called Mestizo.</lex>
-      <lex comment="good" lid="Id3">Agustin Barboza was born in Asuncion which is part of Gran Asunción in Paraguay. The country is led by Juan Afara and its ethnic Group is called Mestizo.</lex>
     </entry>
     <entry category="Artist" eid="Id207" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3547,25 +2453,6 @@
       <lex comment="good" lid="Id1">London located Polydor Records, is the record label of Andrew White, whose genre is alternative rock. Nu metal is a music fusion genre of alternative rock which has origins in New wave music.</lex>
       <lex comment="good" lid="Id2">Andrew White is a musician signed to London based Polydor Records. He performs alternative rock, whose musical fusion genre is nu metal, and has its origins in New wave music.</lex>
     </entry>
-    <entry category="Artist" eid="Id211" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
-        <otriple>Al_Anderson_(NRBQ) | associatedMusicalArtist | The_Wildweeds</otriple>
-        <otriple>Al_Anderson_(NRBQ) | instrument | Guitar</otriple>
-        <otriple>Al_Anderson_(NRBQ) | genre | Rock_music</otriple>
-        <otriple>Rock_music | stylisticOrigin | Country_music</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Rock_music | musicFusionGenre | Bhangra_(music)</mtriple>
-        <mtriple>Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds</mtriple>
-        <mtriple>Al_Anderson_(NRBQ band) | instrument | Guitar</mtriple>
-        <mtriple>Al_Anderson_(NRBQ band) | genre | Rock_music</mtriple>
-        <mtriple>Rock_music | stylisticOrigin | Country_music</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Anderson plays the guitar for the band rock band the NRBQ and once played with the Wildweeds. Bhangra is a fusion of rock music which originated from country music.</lex>
-      <lex comment="good" lid="Id2">Guitarist Al Anderson plays rock music in a band named NRBQ. He played for a group called the Wildweeds before. Rock has its origins in country, and one of its genres is bhangra.</lex>
-      <lex comment="good" lid="Id3">A member of the band NRBQ, Al Anderson, who once played with The Wildweeds, plays the guitar and performs rock music. Rock music originated from country music and has a musical fusion called bhangra.</lex>
-    </entry>
     <entry category="Artist" eid="Id213" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
@@ -3584,25 +2471,6 @@
       <lex comment="good" lid="Id1">Al Anderson, a singer in band, NRBQ, was a member of The Wildweeds. His genre is rock music which originated from country music .A musical fusion of rock music is bhangra music.</lex>
       <lex comment="good" lid="Id2">Al Anderson, from the NRBQ band was a singing member of The Wildweeds. The music Bhangra is part of the fusion genre, partly coming from Rock music which derived from country music.</lex>
       <lex comment="good" lid="Id3">Al Anderson is a singer with the roch band NRBQ and was formerly in The Wildweeds. The origins of rock music are in country music, and bhangra music has derived from it too.</lex>
-    </entry>
-    <entry category="Artist" eid="Id214" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
-        <otriple>Al_Anderson_(NRBQ) | instrument | Singing</otriple>
-        <otriple>Al_Anderson_(NRBQ) | genre | Rock_music</otriple>
-        <otriple>Rock_music | stylisticOrigins | Country_music</otriple>
-        <otriple>Country_music | stylisticOrigin | Blues</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Rock_music | musicFusionGenre | Bhangra_(music)</mtriple>
-        <mtriple>Al_Anderson_(NRBQ band) | instrument | Singing</mtriple>
-        <mtriple>Al_Anderson_(NRBQ band) | genre | Rock_music</mtriple>
-        <mtriple>Rock_music | stylisticOrigin | Country_music</mtriple>
-        <mtriple>Country_music | stylisticOrigin | Blues</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Anderson, whose genre is rock music, is a singer for the band NRBQ. Rock music originated from country music, which in turn, originated from blues music. A musical fusion of rock music is bhangra music.</lex>
-      <lex comment="good" lid="Id2">Rock music originated from country music which has its stylistic origin in blues. The music Bhangra is part of the fusion genre, partly coming from Rock music as performed by NRBQ and their singer Al Anderson.</lex>
-      <lex comment="good" lid="Id3">Bhangra is a musical fusion of rock music as performed by Al Anderson (singer) and his band NRBQ. Rock music originated from country music which itself derived from the blues.</lex>
     </entry>
     <entry category="Artist" eid="Id216" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3629,32 +2497,6 @@
       <lex comment="good" lid="Id1">The genre of Al Anderson is rock music, which originated from country music (associated with banjos), which originated from the blues. The music Bhangra is part of the fusion genre, partly coming from Rock music.</lex>
       <lex comment="good" lid="Id2">Al Anderson plays rock music for the NRBQ band. Rock came from country music which came from blues music. Bhangra music is a fusion of rock music. The banjo is played with country music.</lex>
       <lex comment="good" lid="Id3">Al Anderson plays Rock music which originated from country music, where the banjo is a popular instrument, which in turn originated from blues. Bhangra is a fusion genre of rock.</lex>
-    </entry>
-    <entry category="Artist" eid="Id218" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
-        <otriple>Al_Anderson_(NRBQ) | instrument | Singing</otriple>
-        <otriple>Al_Anderson_(NRBQ) | genre | Rock_music</otriple>
-        <otriple>Rock_music | stylisticOrigins | Country_music</otriple>
-        <otriple>Rock_music | stylisticOrigin | Blues</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Rock_music | stylisticOrigins | Blues</otriple>
-        <otriple>Rock_music | musicFusionGenre | Bhangra_(music)</otriple>
-        <otriple>Al_Anderson_(NRBQ) | instrument | Singing</otriple>
-        <otriple>Al_Anderson_(NRBQ) | genre | Rock_music</otriple>
-        <otriple>Rock_music | stylisticOrigin | Country_music</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Rock_music | stylisticOrigin | Blues</mtriple>
-        <mtriple>Rock_music | musicFusionGenre | Bhangra_(music)</mtriple>
-        <mtriple>Al_Anderson_(NRBQ band) | instrument | Singing</mtriple>
-        <mtriple>Al_Anderson_(NRBQ band) | genre | Rock_music</mtriple>
-        <mtriple>Rock_music | stylisticOrigin | Country_music</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Anderson is a singer of the rock band RNBQ and rock music originated from country and blues music and a fusion of rock music is called bhangra music.</lex>
-      <lex comment="good" lid="Id2">Al Anderson is a singer in the rock band called NRBQ. Rock music originates from blues and country music and is an element in the fusion genre known as Bhangra.</lex>
-      <lex comment="good" lid="Id3">Singer Al Anderson is a member of rock band, NRBQ. Rock originates from the blues and country while being an influence on bhangra music.</lex>
     </entry>
     <entry category="Artist" eid="Id219" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3710,25 +2552,6 @@
       <lex comment="good" lid="Id2">Ska punk originated from ska music and is the musical genre of Aaron Bertram. He plays for the Kids Imagine Nation band and the Suburban Legends band whose trombonist is Brian Robertson.</lex>
       <lex comment="good" lid="Id3">Ska punk musician Aaron Bertram has played with Kids Imagine Nation and Suburban Legends (trombonist: Brian Robertson). Ska punk originates from Ska.</lex>
     </entry>
-    <entry category="Artist" eid="Id221" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Trance_music | stylisticOrigin | House_music</otriple>
-        <otriple>Andrew_Rayel | associatedMusicalArtist | Mark_Sixma</otriple>
-        <otriple>Andrew_Rayel | associatedActs | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"@en</otriple>
-        <otriple>Andrew_Rayel | associatedBand | Christian_Burns</otriple>
-        <otriple>Andrew_Rayel | genre | Trance_music</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Trance_music | stylisticOrigin | House_music</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Mark_Sixma</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"</mtriple>
-        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
-        <mtriple>Andrew_Rayel | genre | Trance_music</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrew Rayel is a Trance music performer who is associated with a number of musical artists, these include: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi. Trance music originated from house music.</lex>
-      <lex comment="good" lid="Id2">Andrew Rayel is associated with artists such as Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Mr. Rayel plays Trance music which originated from house music.</lex>
-      <lex comment="good" lid="Id3">Andrew Rayel, who performs trance music, has been associated with the musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Trance music has its origins in house music.</lex>
-    </entry>
     <entry category="Artist" eid="Id222" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Twilight_(band) | genre | Black_metal</otriple>
@@ -3747,25 +2570,6 @@
       <lex comment="good" lid="Id1">Aaron Turner sings for a living and has played for the bands the Greymachine and Twilight. The musical genre of the band Twilight is black metal, of which death metal is a musical fusion.</lex>
       <lex comment="good" lid="Id2">Singer Aaron Turner played with black metal band Twilight and the Greymachine band. Death metal is a fusion of blck metal.</lex>
       <lex comment="good" lid="Id3">Singer Aaron Turner was a member of black metal band Twilight and is associated with Greymachine. Death metal is a fusion of black metal.</lex>
-    </entry>
-    <entry category="Artist" eid="Id223" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Twilight_(band) | genre | Black_metal</otriple>
-        <otriple>Aaron_Turner | associatedMusicalArtist | Twilight_(band)</otriple>
-        <otriple>Aaron_Turner | associatedBand | Isis_(band)</otriple>
-        <otriple>Aaron_Turner | instrument | Electric_guitar</otriple>
-        <otriple>Black_metal | musicFusionGenre | Death_metal</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Twilight_(band) | genre | Black_metal</mtriple>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)</mtriple>
-        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Isis_(band)</mtriple>
-        <mtriple>Aaron_Turner | instrument | Electric_guitar</mtriple>
-        <mtriple>Black_metal | musicFusionGenre | Death_metal</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Turner is an electric guitar player who played with the black metal band Twilight and the band Isis. Death metal is a musical fusion of black metal.</lex>
-      <lex comment="good" lid="Id2">Aaron Turner plays the electric guitar and was with the bands Isis and Twilight, the latter of which perform music described as black metal. Death metal is a fusion of black metal.</lex>
-      <lex comment="good" lid="Id3">Death metal is a musical fusion of black metal, the genre performed by the band Twilight. Aaron Turner is an electric guitar player for the band as well as being an artist for the band Isis.</lex>
     </entry>
     <entry category="Artist" eid="Id224" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3812,32 +2616,6 @@
       <lex comment="good" lid="Id2">Electric guitarist Aaron Turner has played with Black Metal band Twilight and performs with Sumac. Death metal is a fusion of black metal.</lex>
       <lex comment="good" lid="Id3">Electric guitarist Aaron Turner was a member of the black metal band, Twilight and also Sumac. Death metal is a black metal fusion.</lex>
     </entry>
-    <entry category="Artist" eid="Id226" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-        <otriple>Albennie_Jones | placeOfBirth | United_States</otriple>
-        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
-        <otriple>Albennie_Jones | birthPlace | Errata,_Mississippi</otriple>
-        <otriple>Rhythm_and_blues | derivative | Disco</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-        <otriple>Albennie_Jones | placeOfBirth | Errata,_Mississippi</otriple>
-        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
-        <otriple>Rhythm_and_blues | derivative | Disco</otriple>
-        <otriple>Albennie_Jones | birthPlace | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-        <mtriple>Albennie_Jones | birthPlace | Errata,_Mississippi</mtriple>
-        <mtriple>Albennie_Jones | genre | Rhythm_and_blues</mtriple>
-        <mtriple>Rhythm_and_blues | derivative | Disco</mtriple>
-        <mtriple>Albennie_Jones | birthPlace | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albennie Jones was born in Errata, Mississippi, USA where African Americans are an ethnic group. He plays rhythm and blues from which disco is derived.</lex>
-      <lex comment="good" lid="Id2">Albennie Jones is a rhythm and blues performer from which Disco is derived. He is from Errata, Mississippi in the United States where African Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id3">Albennie Jones was born in Errata, Mississippi in the United States were African Americans are an ethnic group. He performs rhythm and blues music from which the disco genre was derived.</lex>
-    </entry>
     <entry category="Artist" eid="Id227" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>United_States | ethnicGroup | African_Americans</otriple>
@@ -3876,25 +2654,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albennie Jones was born in the United States and plays rhythm and blues. That music genre is derived from blues. Disco music comes from rhythm and blues music. One ethnic group in the U.S. are African Americans.</lex>
       <lex comment="good" lid="Id2">Rhythm and blues artists Albennie Jones is from the United States. R &amp; B is the origin of disco and derives from the Blues. The United States is home to African Americans.</lex>
-    </entry>
-    <entry category="Artist" eid="Id228" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Uruguay | leader | Raúl_Fernando_Sendic_Rodríguez</otriple>
-        <otriple>Alfredo_Zitarrosa | deathPlace | Montevideo</otriple>
-        <otriple>Montevideo | country | Uruguay</otriple>
-        <otriple>Uruguay | currency | Uruguayan_peso</otriple>
-        <otriple>Montevideo | leaderName | Daniel_Martínez_(politician)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Uruguay | leader | Raúl_Fernando_Sendic_Rodríguez</mtriple>
-        <mtriple>Alfredo_Zitarrosa | deathPlace | Montevideo</mtriple>
-        <mtriple>Montevideo | country | Uruguay</mtriple>
-        <mtriple>Uruguay | currency | Uruguayan_peso</mtriple>
-        <mtriple>Montevideo | leader | Daniel_Martínez_(politician)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Politician Daniel Martínez, is the leader of Montevideo, where Alfredo Zitarrosa died. Montevideo is in Uruguay, where the currency is the Uruguayan peso. The leader of the country is Raul Fernando Sendic Rodriguez.</lex>
-      <lex comment="good" lid="Id2">Alfredo Zitarrosa died in Montevideo, Uruguay. The currency used in Uruguay is the Uruguayan Peso and leaders of the country include Raúl Fernando Sendic Rodríguez and Daniel Martinez.</lex>
-      <lex comment="good" lid="Id3">Montevideo is where Alfredo Zitarrosa died and where Daniel Martinez is a political leader. Its in Uruguay where the curency is the peso and the leader is Raul Fernando Sendic Rodriguez.</lex>
     </entry>
     <entry category="Artist" eid="Id230" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3940,32 +2699,6 @@
       <lex comment="good" lid="Id1">Alfredo Zitarrosa died in Montevideo, in Uruguay. Montevideo is led by Daniel Martínez and Uruguay is led by, Tabaré Vázquez. The Uruguayan currency is the Uruguayan peso.</lex>
       <lex comment="good" lid="Id2">Alfredo Zitarrosa died in Montevideo, Uruguay. Uruguay uses Uruguayan pesos and is led by Tabare Vazquez. Montevideo is led by Daniel Martinez.</lex>
       <lex comment="good" lid="Id3">Uruguay uses the peso and is led by Tabare Vazquez. Alfredo Zitarrosa died in, Daniel Martinez led, Montevideo, Uruguay.</lex>
-    </entry>
-    <entry category="Artist" eid="Id233" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
-      <originaltripleset>
-        <otriple>Uruguay | leader | Raúl_Fernando_Sendic_Rodríguez</otriple>
-        <otriple>Uruguay | leaderName | Tabaré_Vázquez</otriple>
-        <otriple>Alfredo_Zitarrosa | deathPlace | Montevideo</otriple>
-        <otriple>Montevideo | country | Uruguay</otriple>
-        <otriple>Uruguay | currency | Uruguayan_peso</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Uruguay | leader | Tabaré_Vázquez</otriple>
-        <otriple>Uruguay | leaderName | Raúl_Fernando_Sendic_Rodríguez</otriple>
-        <otriple>Alfredo_Zitarrosa | deathPlace | Montevideo</otriple>
-        <otriple>Montevideo | country | Uruguay</otriple>
-        <otriple>Uruguay | currency | Uruguayan_peso</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Uruguay | leader | Tabaré_Vázquez</mtriple>
-        <mtriple>Uruguay | leader | Raúl_Fernando_Sendic_Rodríguez</mtriple>
-        <mtriple>Alfredo_Zitarrosa | deathPlace | Montevideo</mtriple>
-        <mtriple>Montevideo | country | Uruguay</mtriple>
-        <mtriple>Uruguay | currency | Uruguayan_peso</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfredo Zitarrosa died in Montevideo which is in Uruguay. The leaders of Uruguay are Tabare Vazquez and Raúl Fernando Sendic Rodríguez, and its currency is the peso.</lex>
-      <lex comment="good" lid="Id2">Montevideo is found in Uruguay, whose leaders are Tabare Vazquez and Raul Fernando Sendic Rodriguez. Uruguayan peso is the currency used in Uruguay. Alfredo Zitarrosa passed away in Montevideo.</lex>
-      <lex comment="good" lid="Id3">Montevideo, Uruguay is led by Raul Fernando Sendic Rodriguez and Tabare Vazquez, its currency is the peso. The final resting place of Alfredo Zitarrosa is Montevideo.</lex>
     </entry>
     </entries>
 </benchmark>
