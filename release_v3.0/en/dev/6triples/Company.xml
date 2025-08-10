@@ -1,27 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Company" eid="Id1" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>Hypermarcas | location | Brazil</otriple>
-        <otriple>Hypermarcas | product | Drugs</otriple>
-        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
-        <otriple>Hypermarcas | keyPerson | CEO</otriple>
-        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
-        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Hypermarcas | location | Brazil</mtriple>
-        <mtriple>Hypermarcas | product | Drugs</mtriple>
-        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
-        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
-        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
-        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Hypermarcas (whose main product is drugs), an S.A pharmaceutical corporation managed by their CEO and located in Brazil, was founded on January 1, 2001.</lex>
-      <lex comment="good" lid="Id2">Founded on January 1, 2001, Hypermarcas is a pharmaceutical company located in Brazil. Headed by the CEO, Hypermarcas is an S.A. corporation producing pharmaceutical drugs.</lex>
-      <lex comment="good" lid="Id3">Hypermarcas, founded on 2001-01-01, is a pharmaceutical company in Brazil that manufactures drugs. It is an S.A. corporation, and the key person in the company is the CEO.</lex>
-    </entry>
     <entry category="Company" eid="Id2" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
         <otriple>Trane | revenue | 1.0264E10</otriple>

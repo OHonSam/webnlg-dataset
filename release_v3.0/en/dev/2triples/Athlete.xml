@@ -1,19 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Athlete" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Aaron_Hunt | team | VfL_Wolfsburg</otriple>
-        <otriple>Aaron_Hunt | clubs | SV_Werder_Bremen_II</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aaron_Hunt | club | VfL_Wolfsburg</mtriple>
-        <mtriple>Aaron_Hunt | club | SV_Werder_Bremen_II</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Hunt plays for Vfl Wolfsburg and used to play for SV Werder Bremen II.</lex>
-      <lex comment="good" lid="Id2">Aaron Hunt's club is VfL Wolfsburg and he plays for SV Werder Bremen II.</lex>
-      <lex comment="good" lid="Id3">Aaron Hunt plays for Vfl Wolfsburg and SV Werder Bremen II.</lex>
-    </entry>
     <entry category="Athlete" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Abel_Hernández | team | U.S._Città_di_Palermo</otriple>
@@ -57,23 +44,6 @@
       <lex comment="good" lid="Id2">Ahmad Kadhim Assad plays for Al-Naft and formerly for Steel Azin FC.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad of Al-Naft plays for Steel Azin F.C.</lex>
     </entry>
-    <entry category="Athlete" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
-        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
-        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
-        <mtriple>Ferencvárosi_TC | manager | Thomas_Doll</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Adams played for Ferencvarosi TC, where the manager is Thomas Doll.</lex>
-      <lex comment="good" lid="Id2">Akeem Adams club is Ferencvarosi TC, where the manager is Thomas Doll.</lex>
-      <lex comment="good" lid="Id3">Ferencvarosi TC is managed by Thomas Doll and is the club of Akeem Adams.</lex>
-    </entry>
     <entry category="Athlete" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Akeem_Dent | birthYear | "1987"^^xsd:gYear</otriple>
@@ -86,31 +56,6 @@
       <lex comment="good" lid="Id1">Akeem Dent was born September 27, 1987.</lex>
       <lex comment="good" lid="Id2">Akeem Dent date of birth is the 27th September 1987.</lex>
       <lex comment="good" lid="Id3">Akeem Dent was born on 27 September 1987.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Akeem_Dent | birthYear | "1987"^^xsd:gYear</otriple>
-        <otriple>Akeem_Dent | placeOfBirth | "Atlanta, Georgia"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akeem_Dent | birthYear | 1987</mtriple>
-        <mtriple>Akeem_Dent | birthPlace | "Atlanta, Georgia"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Dent was born in Atlanta, Georgia in 1987.</lex>
-      <lex comment="good" lid="Id2">Akeem Dent was born in Atlanta Georgia in 1987.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Akeem_Dent | debutTeam | Atlanta_Falcons</otriple>
-        <otriple>Atlanta_Falcons | owner | Arthur_Blank</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akeem_Dent | debutTeam | Atlanta_Falcons</mtriple>
-        <mtriple>Atlanta_Falcons | owner | Arthur_Blank</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Dent started with the Atlanta Falcons which is owned by Arthur Blank.</lex>
-      <lex comment="good" lid="Id2">Akeem Dent made his debut with the Atlanta Falcons who are owned by Arthur Blank.</lex>
-      <lex comment="good" lid="Id3">Akeem Dent's first team were the Atlanta Falcons owned by Arthur Blank.</lex>
     </entry>
     <entry category="Athlete" eid="Id9" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -129,32 +74,6 @@
       <lex comment="good" lid="Id2">Akeem Priestley was born in Jamaica where the leader is Patrick Allen.</lex>
       <lex comment="good" lid="Id3">Akeem Priestley was born in Jamaica whose political leader is Patrick Allen.</lex>
     </entry>
-    <entry category="Athlete" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alaa_Abdul-Zahra | clubs | Shabab_Al-Ordon_Club</otriple>
-        <otriple>Alaa_Abdul-Zahra | team | Al-Zawra'a_SC</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alaa_Abdul-Zahra | club | Shabab_Al-Ordon_Club</mtriple>
-        <mtriple>Alaa_Abdul-Zahra | club | Al-Zawra'a_SC</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alaa Abdul-Zahra's clubs are the Shabab Al-Ordon Club and the Al-Zawra'a SC.</lex>
-      <lex comment="good" lid="Id2">Former clubs of Alaa Abdul-Zahra include Shabab Al-Ordon and Al-Zawra'a SC.</lex>
-      <lex comment="good" lid="Id3">Alaa Abdul-Zahra's club is Shabab Al-Ordon Club and he formerly played for the club Al-Zawra'a SC.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alan_Martin_(footballer,_born_1989) | team | Hamilton_Academical_F.C.</otriple>
-        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | "→ Barrow"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_Martin_(footballer) | club | Hamilton_Academical_F.C.</mtriple>
-        <mtriple>Alan_Martin_(footballer) | club | Barrow_A.F.C.</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Martin plays for Barrow AFC and Hamilton Academical FC.</lex>
-      <lex comment="good" lid="Id2">Alan Martin plays for Hamilton Academical F.C. and Barrow A.F.C.</lex>
-      <lex comment="good" lid="Id3">The footballer Alan Martin plays for Barrow AFC and also played for Hamilton Academical FC.</lex>
-    </entry>
     <entry category="Athlete" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
@@ -171,45 +90,6 @@
       <lex comment="good" lid="Id1">Aleksandr Chumakov has played for the club FC Torpedo Moscow, which is managed by Valery Petrakov.</lex>
       <lex comment="good" lid="Id2">FC Torpedo Moscow, managed by Valery Petrakov, is a former club of Aleksandr Chumakov.</lex>
       <lex comment="good" lid="Id3">FC Torpedo Moscow, managed by Valery Petrakov, is the former club of Aleksandr Chumakov.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
-        <otriple>Russia | leaderName | Sergey_Naryshkin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
-        <mtriple>Russia | leader | Sergey_Naryshkin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Russia is led by Sergey Naryshkin and is where Aleksandr Chumakov died.</lex>
-      <lex comment="good" lid="Id2">Aleksandr Chumakov died in Russia where the leader is Sergey Naryshkin.</lex>
-      <lex comment="good" lid="Id3">Aleksandr Chumakov died in Russia, where the leader is Sergey Naryshkin.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id14" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
-        <otriple>Russia | leaderName | Vladimir_Putin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
-        <mtriple>Russia | leader | Vladimir_Putin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandr Chumakov died in Russia which is led by Vladimir Putin.</lex>
-      <lex comment="good" lid="Id2">Aleksandr Chumakov died in Russia, where the leader is Vladimir Putin.</lex>
-      <lex comment="good" lid="Id3">Aleksandr Chumakov died in Russia where the leader is Vladimir Putin.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id15" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Aleksandr_Prudnikov | team | FC_Tom_Tomsk</otriple>
-        <otriple>FC_Tom_Tomsk | league | Russian_Football_National_League</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aleksandr_Prudnikov | club | FC_Tom_Tomsk</mtriple>
-        <mtriple>FC_Tom_Tomsk | league | Russian_Football_National_League</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandr Prudnikov plays for FC Tom Tomsk, which plays in the Russian National Football League.</lex>
-      <lex comment="good" lid="Id2">Aleksandr Prudnikov plays for FC Tom Tomsk which plays in the Russian Football National league.</lex>
-      <lex comment="good" lid="Id3">Aleksandr Prudnikov is with the FC Tom Tomsk which is in the Russian Football National League.</lex>
     </entry>
     <entry category="Athlete" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -253,19 +133,6 @@
       <lex comment="good" lid="Id2">Footballer Alessio Romagnoli plays for A.C. Milan as a Defender.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli was a defender in his club AC Milan.</lex>
     </entry>
-    <entry category="Athlete" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Alessio_Romagnoli | youthclubs | A.S._Roma</otriple>
-        <otriple>A.S._Roma | league | Serie_A</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alessio_Romagnoli | youthclub | A.S._Roma</mtriple>
-        <mtriple>A.S._Roma | league | Serie_A</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AS Roma play in the Serie A league and Alessio Romagnoli played for their youth team.</lex>
-      <lex comment="good" lid="Id2">A.S. Roma play in Serie A and Alessio Romagnoli plays for the club's youth team.</lex>
-      <lex comment="good" lid="Id3">A.S. Roma plays in the Serie A and Alessio Romagnoli played in their youth team.</lex>
-    </entry>
     <entry category="Athlete" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Alex_Plante | birthYear | "1989"^^xsd:gYear</otriple>
@@ -277,32 +144,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Plante was born in 1989 in Manitoba.</lex>
       <lex comment="good" lid="Id2">Alex Plante was born in Manitoba in 1989.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id21" shape="(X (X) (X))" shape_type="sibling" size="2">
-      <originaltripleset>
-        <otriple>Alex_Tyus | team | Pallacanestro_Cantù</otriple>
-        <otriple>Alex_Tyus | dateOfBirth | "1988-01-08"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alex_Tyus | club | Pallacanestro_Cantù</mtriple>
-        <mtriple>Alex_Tyus | birthDate | 1988-01-08</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alex Tyus was born on the 8th January 1988 and plays for the club Pallacanestro Cantu.</lex>
-      <lex comment="good" lid="Id2">Born on January 8th 1988, Alex Tyus plays for the club Pallacanestro Cantu.</lex>
-      <lex comment="good" lid="Id3">Alex Tyus was born on the 8th January 1988 and his club is Pallacanestro Cantu.</lex>
-    </entry>
-    <entry category="Athlete" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
-      <originaltripleset>
-        <otriple>Canada | language | English_language</otriple>
-        <otriple>Aaron_Boogaard | placeOfBirth | Canada</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Canada | language | English_language</mtriple>
-        <mtriple>Aaron_Boogaard | birthPlace | Canada</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Canada uses the spoken language of English and is the birthplace of Aaron Boogaard.</lex>
-      <lex comment="good" lid="Id2">Canada uses the English language and is the birthplace of Aaron Boogaard.</lex>
-      <lex comment="good" lid="Id3">Aaron Boogaard was born in Canada, where the English language is spoken.</lex>
     </entry>
     <entry category="Athlete" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
