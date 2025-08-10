@@ -11,17 +11,6 @@
       <lex comment="good" lid="Id1">The architecture style of 103 Colmore Row falls under Brutalist architecture.</lex>
       <lex comment="good" lid="Id2">103 Colmore Row is in the architectural style " Brutalist architecture".</lex>
     </entry>
-    <entry category="Building" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>103_Colmore_Row | buildingStartDate | "1973"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>103_Colmore_Row | buildingStartDate | "1973"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">1973 was the start date for the building at 103 Colmore Row.</lex>
-      <lex comment="good" lid="Id2">The building of 103 Colmore Row began in 1973.</lex>
-      <lex comment="good" lid="Id3">103 Colmore Row opened in 1973.</lex>
-    </entry>
     <entry category="Building" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>103_Colmore_Row | buildingEndDate | "1976"</otriple>
@@ -35,16 +24,6 @@
       <lex comment="good" lid="Id1">103 Colmore Row was completed in 1976.</lex>
       <lex comment="good" lid="Id2">The building of 103 Colmore Row was completed in 1976.</lex>
     </entry>
-    <entry category="Building" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>103_Colmore_Row | floorCount | "23"^^xsd:positiveInteger</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>103_Colmore_Row | floorCount | 23</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">There are 23 floors at 103 Colmore Row.</lex>
-      <lex comment="good" lid="Id2">103 Colmore Row has 23 floors.</lex>
-    </entry>
     <entry category="Building" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>103_Colmore_Row | location | "Colmore Row, Birmingham, England"@en</otriple>
@@ -55,15 +34,6 @@
       <lex comment="good" lid="Id1">103 Colmore Row is located on Colmore Row, Birmingham, England.</lex>
       <lex comment="good" lid="Id2">103 Colmore Row is located in Colmore Row, Birmingham, England.</lex>
       <lex comment="good" lid="Id3">103 Colmore Row is in Birmingham, England.</lex>
-    </entry>
-    <entry category="Building" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>103_Colmore_Row | location | Birmingham</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>103_Colmore_Row | location | Birmingham</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">103 Colmore Row is located in Birmingham.</lex>
     </entry>
     <entry category="Building" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -90,17 +60,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">108 St Georges Terrace was completed in 1988.</lex>
     </entry>
-    <entry category="Building" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>108_St_Georges_Terrace | cost | "A$120 million"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>108_St_Georges_Terrace | cost | "120 million (Australian dollars)"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">108 St Georges Terrace cost 120 million Australian dollars.</lex>
-      <lex comment="good" lid="Id2">108 St Georges Terrace cost 120m Australian dollars.</lex>
-      <lex comment="good" lid="Id3">The cost of 108 St. Georges Terrace is 120 million AUD.</lex>
-    </entry>
     <entry category="Building" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>108_St_Georges_Terrace | floorArea | "39500.0"^^xsd:double</otriple>
@@ -112,16 +71,6 @@
         <mtriple>108_St_Georges_Terrace | floorArea | 39500.0 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">108 St. Georges Terrace has a floor area of 39500.0 square metres.</lex>
-    </entry>
-    <entry category="Building" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>108_St_Georges_Terrace | floorCount | 50</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">108 St Georges Terrace has a floor count of 50.</lex>
-      <lex comment="good" lid="Id2">There are 50 floors at 108 St Georges Terrace.</lex>
     </entry>
     <entry category="Building" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -142,17 +91,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architect of 11 Diagonal Street is Helmut Jahn.</lex>
     </entry>
-    <entry category="Building" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>11_Diagonal_Street | buildingStartDate | "1978"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>11_Diagonal_Street | buildingStartDate | "1978"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 11 Diagonal Street originated in 1978.</lex>
-      <lex comment="good" lid="Id2">11 Diagonal Street was built in 1978.</lex>
-      <lex comment="good" lid="Id3">The building at 11 Diagonal Street was started to be erected in 1978.</lex>
-    </entry>
     <entry category="Building" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>11_Diagonal_Street | floorArea | "1200.0"^^xsd:double</otriple>
@@ -171,16 +109,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street has 20 floors.</lex>
     </entry>
-    <entry category="Building" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>11_Diagonal_Street | location | Johannesburg</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>11_Diagonal_Street | location | Johannesburg</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">11 Diagonal Street is in Johannesburg.</lex>
-      <lex comment="good" lid="Id2">11 Diagonal Street is located in Johannesburg.</lex>
-    </entry>
     <entry category="Building" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
@@ -191,16 +119,6 @@
       <lex comment="good" lid="Id1">Redefine Properties Limited is the owner of 11 Diagonal Street.</lex>
       <lex comment="good" lid="Id2">11 Diagonal Street is owned by Redefine Properties Limited.</lex>
       <lex comment="good" lid="Id3">Redefine Properties Limited owns 11 Diagonal Street.</lex>
-    </entry>
-    <entry category="Building" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>200_Public_Square | architect | HOK_(firm)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>200_Public_Square | architect | HOK_(firm)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The architect of 200 Public Square is HOK.</lex>
-      <lex comment="good" lid="Id2">HOK (firm) were the architects of 200 Public Square.</lex>
     </entry>
     <entry category="Building" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -215,16 +133,6 @@
       <lex comment="good" lid="Id1">200 Public Square has a floor area of 111484 square metres.</lex>
       <lex comment="good" lid="Id2">200 Public Square is 111484 square metres.</lex>
     </entry>
-    <entry category="Building" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>200_Public_Square | floorCount | 45</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>200_Public_Square | floorCount | 45</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">There are 45 floors at 200 Public Square.</lex>
-      <lex comment="good" lid="Id2">200 Public Square has a floor count of 45.</lex>
-    </entry>
     <entry category="Building" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>200_Public_Square | location | "Cleveland, Ohio 44114"@en</otriple>
@@ -234,15 +142,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">200 Public Square is located in Cleveland, Ohio 44114.</lex>
       <lex comment="good" lid="Id2">200 Public Square is located in Cleveland Ohio 44114.</lex>
-    </entry>
-    <entry category="Building" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>200_Public_Square | location | "United States"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>200_Public_Square | location | "United States"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">200 Public Square is located in the United States.</lex>
     </entry>
     <entry category="Building" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -273,19 +172,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street was designed by the architect Rafael Viñoly.</lex>
       <lex comment="good" lid="Id2">Rafael Viñoly designed 20 Fenchurch Street.</lex>
-    </entry>
-    <entry category="Building" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>20_Fenchurch_Street | completionDate | "April 2014"@en</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>20_Fenchurch_Street | buildingEndDate | "April 2014"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>20_Fenchurch_Street | completionDate | "April 2014"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">20 Fenchurch Street was completed in April of 2014.</lex>
-      <lex comment="good" lid="Id2">20 Fenchurch Street was completed in April 2014.</lex>
     </entry>
     <entry category="Building" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -339,17 +225,6 @@
       <lex comment="good" lid="Id1">250 Delaware Avenue cost 110 million dollars.</lex>
       <lex comment="good" lid="Id2">The cost to build 250 Delaware Avenue is "110 million (dollars)".</lex>
     </entry>
-    <entry category="Building" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>250_Delaware_Avenue | floorArea | "30843.8"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>250_Delaware_Avenue | floorArea | 30843.8 (square metres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">250 Delaware Avenue has a floor area of 30843.8 square metres.</lex>
-      <lex comment="good" lid="Id2">250 Delaware Avenue has a floor area of 30843.8 (square metres).</lex>
-      <lex comment="good" lid="Id3">250 Delaware Avenue possesses a floor area of 30843.8 square metres.</lex>
-    </entry>
     <entry category="Building" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>250_Delaware_Avenue | floorCount | 12</otriple>
@@ -372,15 +247,6 @@
       <lex comment="good" lid="Id2">250 Delaware Avenue is located in Buffalo, New York.</lex>
       <lex comment="good" lid="Id3">250 Delaware Avenue is in Buffalo, New York.</lex>
     </entry>
-    <entry category="Building" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>250_Delaware_Avenue | location | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">250 Delaware Avenue is located in the United States.</lex>
-    </entry>
     <entry category="Building" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>300_North_LaSalle | architect | Pickard_Chilton</otriple>
@@ -391,19 +257,6 @@
       <lex comment="good" lid="Id1">Pickard Chilton is the architect of 300 North LaSalle.</lex>
       <lex comment="good" lid="Id2">The architect of 300 North LaSalle is Pickard Chilton.</lex>
       <lex comment="good" lid="Id3">The architect of 300 North LaSalle was Pickard Chilton.</lex>
-    </entry>
-    <entry category="Building" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>300_North_LaSalle | completionDate | 2009</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>300_North_LaSalle | buildingEndDate | "2009"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>300_North_LaSalle | completionDate | 2009</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">300 North LaSalle was completed in 2009.</lex>
-      <lex comment="good" lid="Id2">The building at 300 North LaSalle was completed in 2009.</lex>
     </entry>
     <entry category="Building" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -422,20 +275,6 @@
         <mtriple>300_North_LaSalle | location | Illinois</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle is in Illinois.</lex>
-    </entry>
-    <entry category="Building" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>320_South_Boston_Building | buildingEndDate | "1929"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>320_South_Boston_Building | completionDate | 1929</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>320_South_Boston_Building | completionDate | 1929</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The construction of 320 South Boston Building was completed in 1929.</lex>
-      <lex comment="good" lid="Id2">320 South Boston was completed in 1929.</lex>
-      <lex comment="good" lid="Id3">320 South Boston Building was completed in 1929.</lex>
     </entry>
     <entry category="Building" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -457,17 +296,6 @@
       <lex comment="good" lid="Id1">320 South Boston Building was formerly called the Exchange National Bank Building.</lex>
       <lex comment="good" lid="Id2">The previous name of 320 South Boston Building was the Exchange National Bank Building.</lex>
     </entry>
-    <entry category="Building" eid="Id44" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>320_South_Boston_Building | height | "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>320_South_Boston_Building | height | 121.92 (metres)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 320 South Boston Building is 121.92 metres high.</lex>
-      <lex comment="good" lid="Id2">The 320 South Boston Building has a height of 121.92 metres.</lex>
-      <lex comment="good" lid="Id3">320 South Boston Building is 121.92 metres in height.</lex>
-    </entry>
     <entry category="Building" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>3Arena | architect | Populous_(company)</otriple>
@@ -487,19 +315,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 3Arena is a concerts and events venue type building.</lex>
       <lex comment="good" lid="Id2">The 3Arena hosts concerts and events.</lex>
-    </entry>
-    <entry category="Building" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>3Arena | buildingEndDate | "December 2008"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>3Arena | completionDate | "December 2008"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>3Arena | completionDate | "December 2008"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The completion date of 3Arena is December 2008.</lex>
-      <lex comment="good" lid="Id2">The 3Arena was completed in December 2008.</lex>
     </entry>
     <entry category="Building" eid="Id48" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -544,16 +359,6 @@
       <lex comment="good" lid="Id1">3Arena is located at North Wall, Dublin.</lex>
       <lex comment="good" lid="Id2">The 3Arena is located at North Wall, Dublin.</lex>
     </entry>
-    <entry category="Building" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>3Arena | owner | Live_Nation_Entertainment</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>3Arena | owner | Live_Nation_Entertainment</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The owner of 3Arena is Live Nation Entertainment.</lex>
-      <lex comment="good" lid="Id2">3Arena is owned by Live Nation Entertainment.</lex>
-    </entry>
     <entry category="Building" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</otriple>
@@ -576,17 +381,6 @@
       <lex comment="good" lid="Id2">The developer of the AC Hotel Bella Sky in Copenhagen is Bella Center.</lex>
       <lex comment="good" lid="Id3">Bella Center were developers of AC Hotel Bella Sky Copenhagen.</lex>
     </entry>
-    <entry category="Building" eid="Id55" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | "23"^^xsd:positiveInteger</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AC Hotel Bella Sky Copenhagen has 23 floors.</lex>
-      <lex comment="good" lid="Id2">There are 23 floors in the AC Hotel Bella Sky Copenhagen.</lex>
-      <lex comment="good" lid="Id3">The Bella Sky hotel in Copenhagen has 23 floors.</lex>
-    </entry>
     <entry category="Building" eid="Id56" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AC_Hotel_Bella_Sky_Copenhagen | location | Copenhagen</otriple>
@@ -597,16 +391,6 @@
       <lex comment="good" lid="Id1">The AC Hotel Bella Sky is in Copenhagen.</lex>
       <lex comment="good" lid="Id2">AC Hotel Bella Sky Copenhagen is located in Copenhagen.</lex>
       <lex comment="good" lid="Id3">The AC Hotel Bella Sky is located in Copenhagen.</lex>
-    </entry>
-    <entry category="Building" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AC_Hotel_Bella_Sky_Copenhagen | location | Denmark</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | location | Denmark</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AC Hotel Bella Sky is in Copenhagen, Denmark.</lex>
-      <lex comment="good" lid="Id2">AC Hotel Bella Sky Copenhagen is located in Denmark.</lex>
     </entry>
     <entry category="Building" eid="Id58" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -644,15 +428,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adare is part of Munster.</lex>
     </entry>
-    <entry category="Building" eid="Id61" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Adare_Manor | architect | Augustus_Pugin</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adare_Manor | architect | Augustus_Pugin</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The architect of Adare Manor is Augustus Pugin.</lex>
-    </entry>
     <entry category="Building" eid="Id62" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Adare_Manor | architect | George_Richard_Pain</otriple>
@@ -663,16 +438,6 @@
       <lex comment="good" lid="Id1">The architect of Adare Manor is George Richard Pain.</lex>
       <lex comment="good" lid="Id2">Adare Manor's architect was George Richard Pain.</lex>
       <lex comment="good" lid="Id3">The architect of Adare Manor was George Richard Pain.</lex>
-    </entry>
-    <entry category="Building" eid="Id63" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Adare_Manor | architect | James_Pain</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adare_Manor | architect | James_Pain</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The architect of Adare Manor was James Pain.</lex>
-      <lex comment="good" lid="Id2">James Pain was the architect of the Adare Manor.</lex>
     </entry>
     <entry category="Building" eid="Id64" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -695,20 +460,6 @@
       <lex comment="good" lid="Id1">Philip Charles Hardwick was the architect of Adare Manor.</lex>
       <lex comment="good" lid="Id2">Adare Manor's architect was Philip Charles Hardwick.</lex>
       <lex comment="good" lid="Id3">The architect responsible for Adare Manor was Philip Charles Hardwick.</lex>
-    </entry>
-    <entry category="Building" eid="Id66" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Adare_Manor | completionDate | 1862</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Adare_Manor | buildingEndDate | "1862"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adare_Manor | completionDate | 1862</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The construction of Adare Manor was completed in 1862.</lex>
-      <lex comment="good" lid="Id2">Adare Manor was completed in 1862.</lex>
-      <lex comment="good" lid="Id3">The completion date of Adare Manor is 1862.</lex>
     </entry>
     <entry category="Building" eid="Id67" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -756,17 +507,6 @@
       <lex comment="good" lid="Id1">Addis Ababa is located in Ethiopia.</lex>
       <lex comment="good" lid="Id2">Addis Ababa is in Ethiopia.</lex>
     </entry>
-    <entry category="Building" eid="Id71" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addis Ababa Stadium is part of Addid Ababa.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa Stadium is situated in Addis Ababa.</lex>
-      <lex comment="good" lid="Id3">The Addis Ababa Stadium is part of Addis Ababa.</lex>
-    </entry>
     <entry category="Building" eid="Id72" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
@@ -799,17 +539,6 @@
       <lex comment="good" lid="Id2">Addis Ababa City Hall's completion date was in 1964.</lex>
       <lex comment="good" lid="Id3">Addis Ababa City Hall was finished in 1964.</lex>
     </entry>
-    <entry category="Building" eid="Id75" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in the country of Ethiopia.</lex>
-      <lex comment="good" lid="Id2">The Addis Ababa City Hall is in the country of Ethiopia.</lex>
-      <lex comment="good" lid="Id3">Addis Ababa City Hall is in Ethiopia.</lex>
-    </entry>
     <entry category="Building" eid="Id76" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
@@ -835,16 +564,6 @@
       <lex comment="good" lid="Id2">Addis Ababa City Hall has a 140000.0 (square metres) floor area.</lex>
       <lex comment="good" lid="Id3">Addis Ababa City Hall has a floor area of 140000.0 square metres.</lex>
     </entry>
-    <entry category="Building" eid="Id78" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Addis_Ababa_City_Hall | height | "42 m"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addis Ababa City Hall has a height of 42 metres.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa City Hall is 42 m high.</lex>
-    </entry>
     <entry category="Building" eid="Id79" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
@@ -865,17 +584,6 @@
       <lex comment="good" lid="Id2">The address of Adisham Hall is St. Benedicts Monastery, Adisham, Haputhale, Sri Lanka.</lex>
       <lex comment="good" lid="Id3">The address of Adisham Hall is St Benedict's Monastery, Adisham, Haputhale, Sri Lanka.</lex>
     </entry>
-    <entry category="Building" eid="Id81" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adisham Halls Architectural style`is Tudor and Jacabian.</lex>
-      <lex comment="good" lid="Id2">The architecture style of Adisham Hall is Tudor and Jacabian.</lex>
-      <lex comment="good" lid="Id3">Adisham Hall is in the architectural style of "Tudor and Jacobean".</lex>
-    </entry>
     <entry category="Building" eid="Id82" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</otriple>
@@ -886,16 +594,6 @@
       <lex comment="good" lid="Id1">Adisham Hall has the Tudor Revival architectural style.</lex>
       <lex comment="good" lid="Id2">Adisham Hall has the architectural style 'Tudor Revival'.</lex>
       <lex comment="good" lid="Id3">The Adisham Hall's style of architecture is Tudor Revival.</lex>
-    </entry>
-    <entry category="Building" eid="Id83" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Adisham_Hall | buildingStartDate | "1927"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Construction of Adisham Hall began in 1927.</lex>
-      <lex comment="good" lid="Id2">Adisham Hall was begun to be built in 1927.</lex>
     </entry>
     <entry category="Building" eid="Id84" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -910,20 +608,6 @@
       <lex comment="good" lid="Id1">Adisham Hall was completed in 1931.</lex>
       <lex comment="good" lid="Id2">The construction of Adisham Hall was completed in 1931.</lex>
       <lex comment="good" lid="Id3">Adisham Hall was finished in 1931.</lex>
-    </entry>
-    <entry category="Building" eid="Id85" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Adisham_Hall | country | Sri_Lanka</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adisham Hall is located in Sri Lanka.</lex>
-      <lex comment="good" lid="Id2">Adisham Hall is located in the country of Sri Lanka.</lex>
-      <lex comment="good" lid="Id3">Adisham Hall is in Sri Lanka.</lex>
     </entry>
     <entry category="Building" eid="Id86" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -957,16 +641,6 @@
       <lex comment="good" lid="Id1">Ahmedabad is in India.</lex>
       <lex comment="good" lid="Id2">Ahmedabad is located in India.</lex>
     </entry>
-    <entry category="Building" eid="Id89" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Akita,_Akita | country | Japan</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akita,_Akita | country | Japan</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akita Akita is found in the country of Japan.</lex>
-      <lex comment="good" lid="Id2">Akita is located in Japan.</lex>
-    </entry>
     <entry category="Building" eid="Id90" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Akita,_Akita | isPartOf | Akita_Prefecture</otriple>
@@ -988,17 +662,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The address of Akita Museum of Art is "1-4-2 Nakadori".</lex>
       <lex comment="good" lid="Id2">The address of Akita Museum of Art is 142 Nakadori.</lex>
-    </entry>
-    <entry category="Building" eid="Id92" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Akita_Museum_of_Art | architect | Tadao_Ando</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akita_Museum_of_Art | architect | Tadao_Ando</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Tadao Ando is the architect who designed the Akita Museum of Art.</lex>
-      <lex comment="good" lid="Id2">Tadao Ando is the architect of the Akita Museum of Art.</lex>
-      <lex comment="good" lid="Id3">Tadao Ando is the architect of Akita Museum of Art.</lex>
     </entry>
     <entry category="Building" eid="Id93" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1024,20 +687,6 @@
       <lex comment="good" lid="Id1">The Akita Museum of Art has 3 floors.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art 3 floors.</lex>
     </entry>
-    <entry category="Building" eid="Id95" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akita Museum of Art is an art museum in the city of Akita.</lex>
-      <lex comment="good" lid="Id2">Akita Museum of Art is located in Akita, Akita.</lex>
-      <lex comment="good" lid="Id3">The Akita Museum of Art is located in Akita, Akita.</lex>
-    </entry>
     <entry category="Building" eid="Id96" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Akita_Museum_of_Art | location | Akita_Prefecture</otriple>
@@ -1050,17 +699,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akita Museum of Art is located in Akita Prefecture.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita Prefecture.</lex>
-    </entry>
-    <entry category="Building" eid="Id97" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Akita_Prefecture | country | Japan</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Akita_Prefecture | country | Japan</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Akita Prefecture is located in Japan.</lex>
-      <lex comment="good" lid="Id2">The Akita Prefecture is part of the country of Japan.</lex>
-      <lex comment="good" lid="Id3">Akita Prefecture is located in Japan.</lex>
     </entry>
     <entry category="Building" eid="Id98" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1083,17 +721,6 @@
       <lex comment="good" lid="Id2">The architect of Alan B Miller Hall is Robert A M Stern.</lex>
       <lex comment="good" lid="Id3">Alan B. Miller Hall was designed by Robert A.M. Stern.</lex>
     </entry>
-    <entry category="Building" eid="Id100" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The architectural style of the Alan B. Miller Hall is Georgian.</lex>
-      <lex comment="good" lid="Id2">The architectural style of the Alan B Miller Hall is Georgian.</lex>
-      <lex comment="good" lid="Id3">Alan B Miller Hall was built in the Georgian architecture style.</lex>
-    </entry>
     <entry category="Building" eid="Id101" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alan_B._Miller_Hall | startDate | "2007-03-30"^^xsd:date</otriple>
@@ -1107,20 +734,6 @@
       <lex comment="good" lid="Id1">Alan B. Miller Hall's building start date was in 30th March 2007.</lex>
       <lex comment="good" lid="Id2">They started to build Alan B Miller Hall on 30 March, 2007.</lex>
     </entry>
-    <entry category="Building" eid="Id102" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alan_B._Miller_Hall | buildingEndDate | "1 June 2009"</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alan_B._Miller_Hall | completionDate | "2009-06-01"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_B._Miller_Hall | completionDate | 2009-06-01</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan B. Miller Hall was completed on June 1st, 2009.</lex>
-      <lex comment="good" lid="Id2">Alan B. Miller Hall was completed on "1 June 2009".</lex>
-      <lex comment="good" lid="Id3">The Alan B. Miller Hall was completed on 1st June 2009.</lex>
-    </entry>
     <entry category="Building" eid="Id103" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alan_B._Miller_Hall | cost | "7.5E7"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
@@ -1131,20 +744,6 @@
       <lex comment="good" lid="Id1">The Alan B Miller Hall cost 75 million dollars.</lex>
       <lex comment="good" lid="Id2">Alan B. Miller Hall cost 75 million dollars.</lex>
     </entry>
-    <entry category="Building" eid="Id104" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alan_B._Miller_Hall | openingDate | "2009-10-02"^^xsd:date</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Alan_B._Miller_Hall | inaugurationDate | "2009-10-02"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_B._Miller_Hall | inaugurationDate | "2009-10-02"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan B. Miller Hall was inaugurated on 2009-10-02.</lex>
-      <lex comment="good" lid="Id2">Alan B. Miller Hall was inaugurated on "2009-10-02".</lex>
-      <lex comment="good" lid="Id3">The inauguration date of the Alan B. Miller Hall was 2nd October, 2009.</lex>
-    </entry>
     <entry category="Building" eid="Id105" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Alan_B._Miller_Hall | location | Virginia</otriple>
@@ -1154,17 +753,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan B Miller Hall is located in Virginia.</lex>
       <lex comment="good" lid="Id2">Alan B. Miller Hall is situated in Virginia.</lex>
-    </entry>
-    <entry category="Building" eid="Id106" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alan_B._Miller_Hall | location | Williamsburg,_Virginia</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alan_B._Miller_Hall | location | Williamsburg,_Virginia</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alan B. Miller Hall is in Williamsburg, Virginia.</lex>
-      <lex comment="good" lid="Id2">The Alan B Miller Hall's location is Williamsburg, Virginia.</lex>
-      <lex comment="good" lid="Id3">The Alan B Miller Hall is located in Williamsburg, Virginia.</lex>
     </entry>
     <entry category="Building" eid="Id107" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1188,16 +776,6 @@
       <lex comment="good" lid="Id1">The architect Alfred Giles was born in England.</lex>
       <lex comment="good" lid="Id2">Architect, Alfred Giles was born in England.</lex>
     </entry>
-    <entry category="Building" eid="Id109" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Alfred_Giles_(architect) | placeOfDeath | Kendall_County,_Texas</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Alfred_Giles_(architect) | deathPlace | Kendall_County,_Texas</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The architect Alfred Giles died in Kendall County, Texas.</lex>
-      <lex comment="good" lid="Id2">The architect Alfred Giles died in Kendall County Texas.</lex>
-    </entry>
     <entry category="Building" eid="Id110" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Amdavad_ni_Gufa | buildingEndDate | "1995"</otriple>
@@ -1209,18 +787,6 @@
         <mtriple>Amdavad_ni_Gufa | completionDate | 1995</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amdavad ni Gufa was completed in 1995.</lex>
-    </entry>
-    <entry category="Building" eid="Id111" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Amdavad_ni_Gufa | country | India</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amdavad ni Gufa is located in India.</lex>
     </entry>
     <entry category="Building" eid="Id112" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1246,19 +812,6 @@
         <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amdavad ni Gufa is located in Gujarat.</lex>
-    </entry>
-    <entry category="Building" eid="Id114" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Ampara_Hospital | bedCount | "476"^^xsd:nonNegativeInteger</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Ampara_Hospital | beds | 476</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ampara_Hospital | bedCount | 476</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The bed count of Ampara Hospital is 476.</lex>
-      <lex comment="good" lid="Id2">Ampara Hospital has 476 beds.</lex>
     </entry>
     <entry category="Building" eid="Id115" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1300,17 +853,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ampara Hospital has a website: http://www.ghampara.gov.lk/.</lex>
     </entry>
-    <entry category="Building" eid="Id119" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred Giles was the architect of Asher and Mary Isabelle Richardson House.</lex>
-      <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House was designed by architect Alfred Giles.</lex>
-      <lex comment="good" lid="Id3">The architect of Asher and Mary Isabelle Richardson House was Alfred Giles.</lex>
-    </entry>
     <entry category="Building" eid="Id120" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | ".Asherton, Texas"@en</otriple>
@@ -1319,16 +861,6 @@
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House is located in Asherton, Texas.</lex>
-    </entry>
-    <entry category="Building" eid="Id121" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House is located at U.S. Route 83.</lex>
-      <lex comment="good" lid="Id2">The Asher and Mary Isabelle Richardson House is located on U.S. Route 83.</lex>
     </entry>
     <entry category="Building" eid="Id122" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1342,17 +874,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House was built in 1911.</lex>
       <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House was constructed in 1911.</lex>
-    </entry>
-    <entry category="Building" eid="Id123" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Asherton,_Texas | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asherton,_Texas | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asherton Texas is in the United States.</lex>
-      <lex comment="good" lid="Id2">Asherton is situated in Texas, United States.</lex>
-      <lex comment="good" lid="Id3">Asherton, Texas is in the country of the United States.</lex>
     </entry>
     <entry category="Building" eid="Id124" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1387,16 +908,6 @@
       <lex comment="good" lid="Id2">The reference number in the National Register of Historic Places for Asilomar Conference Grounds is 87000823.</lex>
       <lex comment="good" lid="Id3">"87000823" is Asilomar Conference Grounds' reference number in the National Register of Historic Places.</lex>
     </entry>
-    <entry category="Building" eid="Id127" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Asilomar_Conference_Grounds | added | "1987-02-27"^^xsd:date</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asilomar_Conference_Grounds | addedToTheNationalRegisterOfHistoricPlaces | "1987-02-27"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Asilomar Conference Grounds were added to the National Register of Historic Places on 27 February 1987.</lex>
-      <lex comment="good" lid="Id2">Asilomar Conference Grounds was added to the National Register of Historic Places on February the 27nd 1987.</lex>
-    </entry>
     <entry category="Building" eid="Id128" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architecturalStyle | American_Craftsman</otriple>
@@ -1405,17 +916,6 @@
         <mtriple>Asilomar_Conference_Grounds | architecturalStyle | American_Craftsman</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asilomar Conference Grounds have the architectural style of American Craftsman.</lex>
-    </entry>
-    <entry category="Building" eid="Id129" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asilomar Conference Grounds has the architectural style of the Arts and Crafts Movement.</lex>
-      <lex comment="good" lid="Id2">The Asilomar Conference Grounds has an Arts and Crafts movement style architecture.</lex>
-      <lex comment="good" lid="Id3">The Asilomar Conference Grounds are in the architectural style of the Arts and Crafts Movement.</lex>
     </entry>
     <entry category="Building" eid="Id130" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1437,17 +937,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asilomar Conference Grounds is located at Pacific Grove, California.</lex>
       <lex comment="good" lid="Id2">Asilomar Conference Grounds are located in Pacific Grove, California.</lex>
-    </entry>
-    <entry category="Building" eid="Id132" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Asser_Levy_Public_Baths | nrhpReferenceNumber | "80002709"</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asser_Levy_Public_Baths | NationalRegisterOfHistoricPlacesReferenceNumber | "80002709"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asser Levy Public Baths has the reference number 80002709 in the National Register of Historic Places.</lex>
-      <lex comment="good" lid="Id2">The Reference Number in the National Register of Historic Places of Asser Levy Public Baths is 80002709.</lex>
-      <lex comment="good" lid="Id3">Asser Levy Public Baths' reference number is 80002709 in the National Register of Historic Places.</lex>
     </entry>
     <entry category="Building" eid="Id133" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1492,15 +981,6 @@
       <lex comment="good" lid="Id1">Asser Levy Public Baths is located at 23rd Street (Manhattan).</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths is located on 23rd Street, Manhattan.</lex>
     </entry>
-    <entry category="Building" eid="Id137" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Asser_Levy_Public_Baths | location | Avenue_A_(Manhattan)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Asser_Levy_Public_Baths | location | Avenue_A_(Manhattan)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asser Levy Public Baths is located in Avenue A, Manhattan.</lex>
-    </entry>
     <entry category="Building" eid="Id138" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
@@ -1532,17 +1012,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the significant buildings designed by Augustus Pugin is the Palace Of Westminster.</lex>
     </entry>
-    <entry category="Building" eid="Id141" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Birmingham | governingBody | Birmingham_City_Council</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Birmingham | governingBody | Birmingham_City_Council</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Birmingham's governing body is Birmingham City Council.</lex>
-      <lex comment="good" lid="Id2">The Birmingham City Council is the governing body of Birmingham.</lex>
-      <lex comment="good" lid="Id3">The governing body of Birmingham is Birmingham City Council.</lex>
-    </entry>
     <entry category="Building" eid="Id142" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Birmingham | leaderName | Andrew_Mitchell</otriple>
@@ -1562,15 +1031,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Birmingham is the Conservative Party (UK).</lex>
     </entry>
-    <entry category="Building" eid="Id144" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Birmingham | leaderName | John_Clancy_(Labour_politician)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Birmingham | leader | John_Clancy_(Labour_politician)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Labour politician, John Clancy is the leader of Birmingham.</lex>
-    </entry>
     <entry category="Building" eid="Id145" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Birmingham | leaderName | Khalid_Mahmood_(British_politician)</otriple>
@@ -1579,16 +1039,6 @@
         <mtriple>Birmingham | leader | Khalid_Mahmood_(British_politician)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Khalid Mahmood (British politician) is one of the leaders of Birmingham.</lex>
-    </entry>
-    <entry category="Building" eid="Id146" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Birmingham | leaderName | Labour_Party_(UK)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Birmingham | leader | Labour_Party_(UK)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Birmingham Council is led by the Labour Party (UK).</lex>
-      <lex comment="good" lid="Id2">The Labour Party leads Birmingham.</lex>
     </entry>
     <entry category="Building" eid="Id147" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1601,15 +1051,6 @@
       <lex comment="good" lid="Id2">The leader of Birmingham are the Liberal Democrats.</lex>
       <lex comment="good" lid="Id3">Liberal Democrats are leaders of Birmingham.</lex>
     </entry>
-    <entry category="Building" eid="Id148" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Buffalo,_New_York | isPartOf | New_York</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Buffalo,_New_York | isPartOf | New_York</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buffalo New York is part of New York.</lex>
-    </entry>
     <entry category="Building" eid="Id149" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Chicago | country | United_States</otriple>
@@ -1621,16 +1062,6 @@
       <lex comment="good" lid="Id2">Chicago is located in the U.S.</lex>
       <lex comment="good" lid="Id3">Chicago is in the United States.</lex>
     </entry>
-    <entry category="Building" eid="Id150" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Chicago | isPartOf | Cook_County,_Illinois</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Chicago | isPartOf | Cook_County,_Illinois</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Chicago is part of Cook County, Illinois.</lex>
-      <lex comment="good" lid="Id2">Chicago is in Cook County, Illinois.</lex>
-    </entry>
     <entry category="Building" eid="Id151" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Chicago | isPartOf | Illinois</otriple>
@@ -1641,17 +1072,6 @@
       <lex comment="good" lid="Id1">Chicago is part of Illinois.</lex>
       <lex comment="good" lid="Id2">Chicago is part of the State of Illinois.</lex>
       <lex comment="good" lid="Id3">The city of Chicago is part of the state of Illinois.</lex>
-    </entry>
-    <entry category="Building" eid="Id152" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Chicago | leaderName | Rahm_Emanuel</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Chicago | leader | Rahm_Emanuel</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rahm Emanuel is a leader in Chicago.</lex>
-      <lex comment="good" lid="Id2">Chicago's leader is called Rahm Emanuel.</lex>
-      <lex comment="good" lid="Id3">Rahm Emanuel is the leader of Chicago.</lex>
     </entry>
     <entry category="Building" eid="Id153" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1685,19 +1105,6 @@
       <lex comment="good" lid="Id2">The Cleveland City Council is the governing body of Cleveland.</lex>
       <lex comment="good" lid="Id3">The governing body of Cleveland is Cleveland City Council.</lex>
     </entry>
-    <entry category="Building" eid="Id156" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Cleveland | isPartOf | Cuyahoga_County,_Ohio</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Cleveland | subdivisionName | Cuyahoga_County,_Ohio</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Cleveland | isPartOf | Cuyahoga_County,_Ohio</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cleveland is part of Cuyahoga County, Ohio.</lex>
-      <lex comment="good" lid="Id2">Cleveland is part of the Cuyahoga County in Ohio.</lex>
-    </entry>
     <entry category="Building" eid="Id157" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Cleveland | isPartOf | Ohio</otriple>
@@ -1718,17 +1125,6 @@
       <lex comment="good" lid="Id1">Frank G Jackson is a leader in Cleveland.</lex>
       <lex comment="good" lid="Id2">The leader in Cleveland is Frank G Jackson.</lex>
     </entry>
-    <entry category="Building" eid="Id159" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>College_of_William_&amp;_Mary | chancellor | Robert_Gates</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>College_of_William_&amp;_Mary | chancellor | Robert_Gates</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Robert Gates is the chancellor of the College of William &amp; Mary.</lex>
-      <lex comment="good" lid="Id2">The Chancellor of the College of William and Mary is Robert Gates.</lex>
-      <lex comment="good" lid="Id3">Robert Gates served as chancellor of the College of William and Mary.</lex>
-    </entry>
     <entry category="Building" eid="Id160" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>County_Limerick | governmentType | Limerick_City_and_County_Council</otriple>
@@ -1739,16 +1135,6 @@
       <lex comment="good" lid="Id1">County Limerick is governed by the Limerick City and County Council.</lex>
       <lex comment="good" lid="Id2">Limerick City and County Council governs County Limerick.</lex>
     </entry>
-    <entry category="Building" eid="Id161" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Denmark | capital | Copenhagen</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Denmark | capital | Copenhagen</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Copenhagen is the capital of Denmark.</lex>
-      <lex comment="good" lid="Id2">The capital of Denmark is Copenhagen.</lex>
-    </entry>
     <entry category="Building" eid="Id162" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Denmark | language | Faroese_language</otriple>
@@ -1758,16 +1144,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Faroese Language is spoken in Denmark.</lex>
       <lex comment="good" lid="Id2">The language Faroese is spoken in Denmark.</lex>
-    </entry>
-    <entry category="Building" eid="Id163" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Denmark | language | German_language</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Denmark | language | German_language</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">One of the languages in Denmark is German.</lex>
-      <lex comment="good" lid="Id2">One of the languages used in Denmark is the German language.</lex>
     </entry>
     <entry category="Building" eid="Id164" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1799,16 +1175,6 @@
       <lex comment="good" lid="Id1">Margrethe II of Denmark is the leader of Denmark.</lex>
       <lex comment="good" lid="Id2">Margrethe II of Denmark is the name of Denmark's leader.</lex>
     </entry>
-    <entry category="Building" eid="Id167" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Dublin | subdivisionName | Republic_of_Ireland</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Dublin | isPartOf | Republic_of_Ireland</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Dublin is part of the Republic of Ireland.</lex>
-      <lex comment="good" lid="Id2">Dublin is a part of the Republic of Ireland.</lex>
-    </entry>
     <entry category="Building" eid="Id168" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Dublin | leaderTitle | Dáil_Éireann</otriple>
@@ -1828,17 +1194,6 @@
       <lex comment="good" lid="Id1">Dublin is led by the European Parliament.</lex>
       <lex comment="good" lid="Id2">European Parliament is the title of the leader of Dublin.</lex>
       <lex comment="good" lid="Id3">The leader of the government in Dublin is the European Parliament.</lex>
-    </entry>
-    <entry category="Building" eid="Id170" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Eastern_Province,_Sri_Lanka | governingBody | Eastern_Provincial_Council</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Eastern_Province,_Sri_Lanka | governingBody | Eastern_Provincial_Council</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The governing body of the Eastern Province Sri Lanka is the Eastern Provincial Council.</lex>
-      <lex comment="good" lid="Id2">Eastern Provincial Council is the governing body of Eastern Province in Sri Lanka.</lex>
-      <lex comment="good" lid="Id3">The Eastern Provincial Council is the governing body of Eastern Province, Sri Lanka.</lex>
     </entry>
     <entry category="Building" eid="Id171" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1873,19 +1228,6 @@
       <lex comment="good" lid="Id2">The language spoken in Ethiopia is Amharic.</lex>
       <lex comment="good" lid="Id3">Amharic is the language of Ethiopia.</lex>
     </entry>
-    <entry category="Building" eid="Id174" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Ethiopia | leader | Hailemariam_Desalegn</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of Ethiopia is Hailemariam Desalegn.</lex>
-      <lex comment="good" lid="Id2">Hailemariam Desalegn is the leader of Ethiopia.</lex>
-    </entry>
     <entry category="Building" eid="Id175" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>George_Winkler | country | United_States</otriple>
@@ -1905,15 +1247,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anandiben Patel is the leader of Gujarat.</lex>
       <lex comment="good" lid="Id2">Anandiben Patel was the leader of Gujarat.</lex>
-    </entry>
-    <entry category="Building" eid="Id177" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Gujarat's leader is known as the Gujarat Legislative Assembly.</lex>
     </entry>
     <entry category="Building" eid="Id178" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1935,16 +1268,6 @@
       <lex comment="good" lid="Id1">Illinois is in the United States.</lex>
       <lex comment="good" lid="Id2">Illinois state is in the United States.</lex>
       <lex comment="good" lid="Id3">Illinois is situated in the United States.</lex>
-    </entry>
-    <entry category="Building" eid="Id180" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Illinois | language | English_language</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Illinois | language | English_language</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The English language is spoken in Illinois.</lex>
-      <lex comment="good" lid="Id2">The language of Illinois is the English language.</lex>
     </entry>
     <entry category="Building" eid="Id181" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1992,15 +1315,6 @@
         <mtriple>Japan | ethnicGroup | Filipinos_in_Japan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the ethnic groups in Japan is the Filipinos.</lex>
-    </entry>
-    <entry category="Building" eid="Id185" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Japan | ethnicGroup | Japanese_people</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Japan | ethnicGroup | Japanese_people</mtriple>
-      </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">The main ethnic group in Japan is the Japanese.</lex>
     </entry>
     <entry category="Building" eid="Id186" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2052,16 +1366,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John Madin was born in Birmingham.</lex>
     </entry>
-    <entry category="Building" eid="Id191" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>John_Madin | hometown | Birmingham</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>John_Madin | origin | Birmingham</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Birmingham is the home town of John Madin.</lex>
-      <lex comment="good" lid="Id2">The hometown of John Madin is Birmingham.</lex>
-    </entry>
     <entry category="Building" eid="Id192" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Julia_Morgan | birthPlace | California</otriple>
@@ -2093,16 +1397,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the significant buildings designed by Julia Morgan is the Asilomar State Beach.</lex>
     </entry>
-    <entry category="Building" eid="Id195" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Julia Morgan designed significant buildings in Chinatown, San Francisco.</lex>
-      <lex comment="good" lid="Id2">Julia Morgan is the architect behind Chinatown in San Francisco.</lex>
-    </entry>
     <entry category="Building" eid="Id196" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</otriple>
@@ -2114,17 +1408,6 @@
         <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Riverside Art Museum is one of Julia Morgan's significant buildings.</lex>
-    </entry>
-    <entry category="Building" eid="Id197" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Julia_Morgan | significantProject | Hearst_Castle</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Julia_Morgan | significantProject | Hearst_Castle</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Hearst Castle was a significant project of Julia Morgan.</lex>
-      <lex comment="good" lid="Id2">Julia Morgan was the architect of the landmark Hearst Castle.</lex>
-      <lex comment="good" lid="Id3">Hearst Castle was a significant project for Julia Morgan.</lex>
     </entry>
     <entry category="Building" eid="Id198" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2197,15 +1480,6 @@
       <lex comment="good" lid="Id2">Marriott International is located in Bethesda Maryland.</lex>
       <lex comment="good" lid="Id3">The Marriott International is located in Bethesda, Maryland.</lex>
     </entry>
-    <entry category="Building" eid="Id205" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Mason_School_of_Business | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Mason_School_of_Business | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Mason School of Business is located in the United States.</lex>
-    </entry>
     <entry category="Building" eid="Id206" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>New_York_City | country | United_States</otriple>
@@ -2216,19 +1490,6 @@
       <lex comment="good" lid="Id1">New York city is located in the U.S.</lex>
       <lex comment="good" lid="Id2">New York City is in the United States.</lex>
       <lex comment="good" lid="Id3">New York City is located in the United States.</lex>
-    </entry>
-    <entry category="Building" eid="Id207" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>New_York_City | subdivisionName | Brooklyn</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>New_York_City | isPartOf | Brooklyn</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>New_York_City | isPartOf | Brooklyn</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Brooklyn is part of New York City.</lex>
-      <lex comment="good" lid="Id2">Brooklyn is a part of New York City.</lex>
     </entry>
     <entry category="Building" eid="Id208" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2242,15 +1503,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Manhattan is part of New York City.</lex>
       <lex comment="good" lid="Id2">New York City is part of Manhattan.</lex>
-    </entry>
-    <entry category="Building" eid="Id209" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>New_York_City | isPartOf | New_York</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>New_York_City | isPartOf | New_York</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">New York City is part of New York.</lex>
     </entry>
     <entry category="Building" eid="Id210" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2271,16 +1523,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Perth is located in Australia.</lex>
       <lex comment="good" lid="Id2">Perth is in Australia.</lex>
-    </entry>
-    <entry category="Building" eid="Id212" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Republic_of_Ireland | currency | Euro</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Republic_of_Ireland | currency | Euro</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The currency of the Republic of Ireland is the euro.</lex>
-      <lex comment="good" lid="Id2">The Republic of Ireland's currency is the Euro.</lex>
     </entry>
     <entry category="Building" eid="Id213" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2307,18 +1549,6 @@
       <lex comment="good" lid="Id2">Irish is one of the official language in the Republic of Ireland.</lex>
       <lex comment="good" lid="Id3">Irish is the official language of the Republic of Ireland.</lex>
     </entry>
-    <entry category="Building" eid="Id215" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Republic_of_Ireland | leaderName | Enda_Kenny</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Republic_of_Ireland | leader | Enda_Kenny</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Republic_of_Ireland | leader | Enda_Kenny</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of the Republic of Ireland is Enda Kenny.</lex>
-    </entry>
     <entry category="Building" eid="Id216" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>South_Africa | demonym | South_Africa</otriple>
@@ -2341,19 +1571,6 @@
       <lex comment="good" lid="Id1">In South Africa there is an ethnic group of Asian South Africans.</lex>
       <lex comment="good" lid="Id2">One of the ethnic groups within South Africa is Asian South Africans.</lex>
     </entry>
-    <entry category="Building" eid="Id218" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>South_Africa | ethnicGroups | Coloured</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>South_Africa | ethnicGroup | Coloured</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">One of South Africa's ethnic groups are the Coloured.</lex>
-      <lex comment="good" lid="Id2">Coloured people are an ethnic group in South Africa.</lex>
-    </entry>
     <entry category="Building" eid="Id219" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>South_Africa | leader | Cyril_Ramaphosa</otriple>
@@ -2368,20 +1585,6 @@
       <lex comment="good" lid="Id2">Cyril Ramaphosa is one of the leaders of South Africa.</lex>
       <lex comment="good" lid="Id3">The leader of South Africa is called Cyril Ramaphosa.</lex>
     </entry>
-    <entry category="Building" eid="Id220" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>South_Africa | leader | Jacob_Zuma</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>South_Africa | leader | Jacob_Zuma</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">South Africa's leader is called Jacob Zuma.</lex>
-      <lex comment="good" lid="Id2">The leader of South Africa is Jacob Zuma.</lex>
-      <lex comment="good" lid="Id3">Jacob Zuma is a leader in South Africa.</lex>
-    </entry>
     <entry category="Building" eid="Id221" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
@@ -2392,16 +1595,6 @@
       <lex comment="good" lid="Id1">The capital of Sri Lanka is Sri Jayawardenepura Kotte.</lex>
       <lex comment="good" lid="Id2">Sri Jayawardenepura Kotte is the capital of Sri Lanka.</lex>
     </entry>
-    <entry category="Building" eid="Id222" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Sri_Lanka | currency | Sri_Lankan_rupee</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ski Lanka's currency is the Sri Lankan rupee.</lex>
-      <lex comment="good" lid="Id2">The currency of Sri Lanka is the Sri Lankan rupee.</lex>
-    </entry>
     <entry category="Building" eid="Id223" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Sri_Lanka | language | Tamil_language</otriple>
@@ -2410,20 +1603,6 @@
         <mtriple>Sri_Lanka | language | Tamil_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The language of Sri Lanka is the Tamil language.</lex>
-    </entry>
-    <entry category="Building" eid="Id224" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Sri_Lanka | leader | Ranil_Wickremesinghe</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ranil Wickremesinghe is a leader of Sri Lanka.</lex>
-      <lex comment="good" lid="Id2">Sri Lanka's leader is called Ranil Wickremesinghe.</lex>
-      <lex comment="good" lid="Id3">The leader of Sri Lanka is Ranil Wickremesinghe.</lex>
     </entry>
     <entry category="Building" eid="Id225" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2434,15 +1613,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United Kingdom's currency is Pound sterling.</lex>
       <lex comment="good" lid="Id2">The currency of the United Kingdom is the Pound sterling.</lex>
-    </entry>
-    <entry category="Building" eid="Id226" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>United_Kingdom | demonym | British_people</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_Kingdom | demonym | British_people</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The demonym for natives of the United kingdom is British people.</lex>
     </entry>
     <entry category="Building" eid="Id227" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2455,15 +1625,6 @@
       <lex comment="good" lid="Id2">The capital of the United States is Washington D.C.</lex>
       <lex comment="good" lid="Id3">Washington D.C. is the capital of the USA.</lex>
     </entry>
-    <entry category="Building" eid="Id228" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | African_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">One of the ethnic groups of the United States are the African Americans.</lex>
-    </entry>
     <entry category="Building" eid="Id229" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
@@ -2474,15 +1635,6 @@
       <lex comment="good" lid="Id1">An ethnic group of the United States is Asian Americans.</lex>
       <lex comment="good" lid="Id2">Asian Americans are an ethnic group in the U.S.</lex>
       <lex comment="good" lid="Id3">There is an ethnic group of Asian Americans in the United States.</lex>
-    </entry>
-    <entry category="Building" eid="Id230" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>United_States | ethnicGroup | White_Americans</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">One United States ethnic group is White Americans.</lex>
     </entry>
     <entry category="Building" eid="Id231" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2509,20 +1661,6 @@
       <lex comment="good" lid="Id2">Barack Obama is the leader of the U.S.</lex>
       <lex comment="good" lid="Id3">Barack Obama is the leader of the United States.</lex>
     </entry>
-    <entry category="Building" eid="Id233" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>United_States | leaderName | Joe_Biden</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>United_States | leader | Joe_Biden</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>United_States | leader | Joe_Biden</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Joe Biden is a leader of the United States.</lex>
-      <lex comment="good" lid="Id2">The leader of the United States is Joe Biden.</lex>
-      <lex comment="good" lid="Id3">Joe Biden is a leader of the U.S.</lex>
-    </entry>
     <entry category="Building" eid="Id234" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>United_States | leaderName | John_Roberts</otriple>
@@ -2547,14 +1685,5 @@
       <lex comment="good" lid="Id2">The title of the leader of the United States is President of the United States.</lex>
       <lex comment="good" lid="Id3">The leader of the United States has the title President of the United States.</lex>
     </entry>
-    <entry category="Building" eid="Id236" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Virginia | country | United_States</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Virginia | country | United_States</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Virginia is in the United States.</lex>
-    </entry>
-  </entries>
+    </entries>
 </benchmark>

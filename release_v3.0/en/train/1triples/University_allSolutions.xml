@@ -1,17 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="University" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The "1 Decembrie 1918 University" is in the city Alba Iulia.</lex>
-      <lex comment="good" lid="Id2">The city of Alba Iulia has a University called "1 Decembrie 1918 University".</lex>
-      <lex comment="good" lid="Id3">The 1 Decembrie 1918 University is located in the city of Alba Iulia.</lex>
-    </entry>
     <entry category="University" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
@@ -21,17 +10,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is located in the country of Romania.</lex>
       <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is located in Romania.</lex>
-    </entry>
-    <entry category="University" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>1_Decembrie_1918_University,_Alba_Iulia | latinName | "Universitas Apulensis"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>1_Decembrie_1918_University | latinName | "Universitas Apulensis"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Latin name of the 1 Decembrie 1918 University is "Universitas Apulensis".</lex>
-      <lex comment="good" lid="Id2">The Latin name of 1 Decembrie 1918 University is Universitas Apulensis.</lex>
-      <lex comment="good" lid="Id3">The latin name for 1 Decembrie 1918 University is Universitas Apulensis.</lex>
     </entry>
     <entry category="University" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -52,20 +30,6 @@
       <lex comment="good" lid="Id1">Breaz Valer Daniel is rector of the 1 Decembrie 1918 University.</lex>
       <lex comment="good" lid="Id2">The rector of the 1 Decembrie 1918 University is Breaz Valer Daniel.</lex>
     </entry>
-    <entry category="University" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AWH_Engineering_College | facultySize | "250"^^xsd:nonNegativeInteger</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>AWH_Engineering_College | faculty | 250</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The academic staff at the AWH Engineering College number 250.</lex>
-      <lex comment="good" lid="Id2">The AWH Engineering College has academic staff size of 250.</lex>
-      <lex comment="good" lid="Id3">AWH Engineering College has an academic staff of 250.</lex>
-    </entry>
     <entry category="University" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AWH_Engineering_College | city | "Kuttikkattoor"@en</otriple>
@@ -77,15 +41,6 @@
       <lex comment="good" lid="Id2">AWH Engineering College is in the city of Kuttikkattoor.</lex>
       <lex comment="good" lid="Id3">AWH Engineering College is located in Kuttikkattoor.</lex>
     </entry>
-    <entry category="University" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AWH_Engineering_College | country | India</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AWH_Engineering_College | country | India</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AWH Engineering College is located in India.</lex>
-    </entry>
     <entry category="University" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>AWH_Engineering_College | established | 2001</otriple>
@@ -94,16 +49,6 @@
         <mtriple>AWH_Engineering_College | established | 2001</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AWH Engineering College was established in 2001.</lex>
-    </entry>
-    <entry category="University" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>AWH_Engineering_College | state | Kerala</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AWH Engineering College is located in Kerala state.</lex>
-      <lex comment="good" lid="Id2">The AWH Engineering College is in the State of Kerala.</lex>
     </entry>
     <entry category="University" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -115,17 +60,6 @@
       <lex comment="good" lid="Id1">The type of government of Aarhus is magistrate.</lex>
       <lex comment="toFix" lid="Id2">The city of Aarhus is governed by Magistrates.</lex>
     </entry>
-    <entry category="University" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aarhus | northeast | Mols</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Aarhus | hasToItsNortheast | Mols</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Mols is to the northeast of Aarhus.</lex>
-      <lex comment="good" lid="Id2">Aarhus has to its northeast Mols.</lex>
-      <lex comment="good" lid="Id3">Mols is the area to the northeast of Aarhus.</lex>
-    </entry>
     <entry category="University" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
@@ -135,17 +69,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Accademia di Architettura di Mendrisio is located in the city of Mendrisio.</lex>
       <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio is located in the city of Mendrisio.</lex>
-    </entry>
-    <entry category="University" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Switzerland.</lex>
-      <lex comment="good" lid="Id2">Accademia di Architettura di Mendrisio is located in Switzerland.</lex>
-      <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio is in Switzerland.</lex>
     </entry>
     <entry category="University" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -157,15 +80,6 @@
       <lex comment="good" lid="Id1">The dean of the Accademia di Architettura di Mendrisio is Mario Botta.</lex>
       <lex comment="good" lid="Id2">Accademia di Architettura di Mendrisio's dean is Mario Botta.</lex>
     </entry>
-    <entry category="University" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio was established in 1996.</lex>
-    </entry>
     <entry category="University" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
@@ -175,22 +89,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Ticino.</lex>
       <lex comment="good" lid="Id2">Ticino is the location of the Accademia di Architettura di Mendrisio.</lex>
-    </entry>
-    <entry category="University" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | "600"^^xsd:nonNegativeInteger</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">There are 600 students at the Accademia di Architettura di Mendrisio.</lex>
-      <lex comment="good" lid="Id2">Six hundred students attend the Accademia di Architettura di Mendrisio.</lex>
-      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio has 600 students.</lex>
-      <lex comment="good" lid="Id4">Accademia di Architettura di Mendrisio has 600 students enrolled.</lex>
-      <lex comment="good" lid="Id5">There are 600 students attending the Accademia di Architettura di Mendrisio.</lex>
     </entry>
     <entry category="University" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -241,17 +139,6 @@
       <lex comment="good" lid="Id2">Acharya Institute of Technology is located in India.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology is located in India.</lex>
     </entry>
-    <entry category="University" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Dr. G. P. Prabhukumar is the director of the Acharya Institute of Technology.</lex>
-      <lex comment="good" lid="Id2">The director of Acharya Institute of Technology is Dr. G. P. Prabhukumar.</lex>
-      <lex comment="good" lid="Id3">Acharya Institute of Technology's director is Dr. G. P. Prabhukumar.</lex>
-    </entry>
     <entry category="University" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
@@ -272,17 +159,6 @@
       <lex comment="good" lid="Id1">Acharya Institute of Technology's motto is Nurturing Excellence.</lex>
       <lex comment="good" lid="Id2">The motto of the Acharya Institute of Technology is 'Nurturing Excellence.'.</lex>
       <lex comment="good" lid="Id3">The motto of the Acharya Institute of Technology is "Nurturing Excellence".</lex>
-    </entry>
-    <entry category="University" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | nickname | "AIT"@en</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | nickname | "AIT"</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AIT is the nickname for the Acharya Institute of Technology.</lex>
-      <lex comment="good" lid="Id2">The nickname of the Acharya Institute of Technology is AIT.</lex>
-      <lex comment="good" lid="Id3">Acharya Institute of Technology is known as AIT.</lex>
     </entry>
     <entry category="University" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -335,17 +211,6 @@
       <lex comment="good" lid="Id5">Acharya Institute of Technology official school colors are Blue White and Orange.</lex>
       <lex comment="good" lid="Id6">Acharya Institute of Technology official school colours are blue, white and orange.</lex>
     </entry>
-    <entry category="University" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Acharya_Institute_of_Technology | outlook | 63</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Acharya_Institute_of_Technology | outlookRanking | 63</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The outlook ranking for the Acharya Institute of Technology is 63.</lex>
-      <lex comment="good" lid="Id2">Acharya Institute of Technology's outlook ranking is 63.</lex>
-      <lex comment="good" lid="Id3">Acharya Institute of Technology has an outlook ranking of 63.</lex>
-    </entry>
     <entry category="University" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Acharya_Institute_of_Technology | sport | Tennis</otriple>
@@ -380,16 +245,6 @@
       <lex comment="good" lid="Id2">Acharya Institute of Technology was given the Technical Campus status by the All India Council for Technical Education.</lex>
       <lex comment="good" lid="Id3">Acharya Institute of Technology was given the 'Technical Campus' status by All India Council for Technical Education.</lex>
     </entry>
-    <entry category="University" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>All_India_Council_for_Technical_Education | location | Mumbai</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>All_India_Council_for_Technical_Education | location | Mumbai</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">All India Council for Technical Education is located in Mumbai.</lex>
-      <lex comment="good" lid="Id2">The All India Council for Technical Education is located in Mumbai.</lex>
-    </entry>
     <entry category="University" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Bangalore | founder | Kempe_Gowda_I</otriple>
@@ -401,23 +256,6 @@
       <lex comment="good" lid="Id2">The founder of Bangalore was Kempe Gowda I.</lex>
       <lex comment="good" lid="Id3">Kempe Gowda I was the founder of Bangalore.</lex>
     </entry>
-    <entry category="University" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Lars Lokke Rasmussen is the leader of Denmark.</lex>
-      <lex comment="good" lid="Id2">One of Denmark's leaders is Lars Lokke Rasmussen.</lex>
-      <lex comment="good" lid="Id3">Denmark's leader is Lars Løkke Rasmussen.</lex>
-      <lex comment="good" lid="Id4">The leader of Denmark is Lars Lokke Rasmussen.</lex>
-      <lex comment="good" lid="Id5">The Leader of Denmark is Lars Løkke Rasmussen.</lex>
-      <lex comment="good" lid="Id6">Lars Løkke Rasmussen is the leader of Denmark.</lex>
-    </entry>
     <entry category="University" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Denmark | leaderTitle | Monarchy_of_Denmark</otriple>
@@ -428,17 +266,6 @@
       <lex comment="good" lid="Id1">Denmark is led by a Monarch.</lex>
       <lex comment="good" lid="Id2">The Monarch of Denmark is the country's leader.</lex>
     </entry>
-    <entry category="University" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Denmark | religion | Church_of_Denmark</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Denmark | religion | Church_of_Denmark</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The official religion of Denmark is the Church of Denmark.</lex>
-      <lex comment="good" lid="Id2">Denmark's religion is led by Church of Denmark.</lex>
-      <lex comment="good" lid="Id3">Church of Denmark is the religion of Denmark.</lex>
-    </entry>
     <entry category="University" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>European_University_Association | headquarters | Brussels</otriple>
@@ -448,16 +275,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The headquarters of the European University Association is in Brussels.</lex>
       <lex comment="good" lid="Id2">The European University Association headquarter is in Brussels.</lex>
-    </entry>
-    <entry category="University" eid="Id40" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>India | largestCity | Mumbai</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>India | largestCity | Mumbai</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The largest city in India is Mumbai.</lex>
-      <lex comment="good" lid="Id2">Mumbai is India's largest city.</lex>
     </entry>
     <entry category="University" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -491,17 +308,6 @@
       <lex comment="good" lid="Id2">The west of Karnataka is the Arabian Sea.</lex>
       <lex comment="good" lid="Id3">To the west Karnataka borders on the Arabian Sea.</lex>
     </entry>
-    <entry category="University" eid="Id44" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Kerala | leaderName | Kochi</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Kerala | leader | Kochi</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Kochi is the leader of Kerala.</lex>
-      <lex comment="good" lid="Id2">The leader of Kerala is Kochi.</lex>
-      <lex comment="good" lid="Id3">The Kerala leader is in Kochi.</lex>
-    </entry>
     <entry category="University" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Romania | anthem | Deșteaptă-te,_române!</otriple>
@@ -528,19 +334,6 @@
       <lex comment="good" lid="Id3">The Germans of Romania are an ethnic group in Romania.</lex>
       <lex comment="good" lid="Id4">Romania has many ethnic groups one of which are Germans.</lex>
     </entry>
-    <entry category="University" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Romania | leaderName | Klaus_Iohannis</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Romania | leader | Klaus_Iohannis</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Romania | leader | Klaus_Iohannis</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of Romania is Klaus Iohannis.</lex>
-      <lex comment="good" lid="Id2">Romania's leader is Klaus Iohannis.</lex>
-    </entry>
     <entry category="University" eid="Id48" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
@@ -551,21 +344,6 @@
       <lex comment="good" lid="Id1">The leader of Romania is known as the Prime Minister.</lex>
       <lex comment="good" lid="Id2">Romania's leader is called the Prime Minister of Romania.</lex>
       <lex comment="good" lid="Id3">The title of the leader of Romania is "Prime Minister".</lex>
-    </entry>
-    <entry category="University" eid="Id49" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aarhus University School of Business and Social Sciences is affiliated with the European University Association.</lex>
-      <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University is affiliated to European University Association.</lex>
-      <lex comment="good" lid="Id3">The School of Business and Social Sciences at Aarhus University is affiliated to the European University Association.</lex>
-      <lex comment="good" lid="Id4">The School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association.</lex>
     </entry>
     <entry category="University" eid="Id50" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -639,17 +417,6 @@
       <lex comment="good" lid="Id2">The Federal Chancellor of Switzerland is the title of the leader of Switzerland.</lex>
       <lex comment="good" lid="Id3">The leader of Switzerland is titled the Federal Chancellor of Switzerland.</lex>
     </entry>
-    <entry category="University" eid="Id56" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Switzerland | legislature | Federal_Assembly_(Switzerland)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Switzerland | legislature | Federal_Assembly_(Switzerland)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Switzerland's legislature is formed in the Federal Assembly.</lex>
-      <lex comment="good" lid="Id2">Switzerland's legislature is known as the Federal Assembly.</lex>
-      <lex comment="good" lid="Id3">The Federal Assembly legislates in Switzerland.</lex>
-    </entry>
     <entry category="University" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Tennis | union | International_Tennis_Federation</otriple>
@@ -667,16 +434,5 @@
       <lex comment="good" lid="Id5">The International Tennis Federation is the governing body of tennis.</lex>
       <lex comment="good" lid="Id6">The sports governing body of tennis is the International Tennis Federation.</lex>
     </entry>
-    <entry category="University" eid="Id58" shape="(X (X))" shape_type="NA" size="1">
-      <originaltripleset>
-        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Visvesvaraya Technological University is in the city of Belgaum.</lex>
-      <lex comment="good" lid="Id2">Visvesvaraya Technological University is in the city of Belgaum.</lex>
-      <lex comment="good" lid="Id3">Visvesvaraya Technological University is located in Belgaum.</lex>
-    </entry>
-  </entries>
+    </entries>
 </benchmark>

@@ -1,5 +1,4 @@
 from pathlib import Path
-from typing import List
 import glob
 import xml.etree.ElementTree as ET
 import random
@@ -9,7 +8,7 @@ def random_cut (xml_file: Path, num_deleted_entry: int) -> None:
     tree = ET.parse(xml_file)
     benchmark = tree.getroot()
 
-    all_entry = List()
+    all_entry = list()
     for entries in benchmark:
         for entry in entries:
             all_entry.append(entry)
@@ -46,7 +45,7 @@ for i in range(1, num_sub_folders + 1):
         print(f"Folder {data_path} does not exist, skip")
         continue
     
-    xml_files = List(data_path.glob("*.xml"))
+    xml_files = list(data_path.glob("*.xml"))
 
     for xml_file in xml_files:
         num_deleted_entry = count_num_entry(xml_file) // 2

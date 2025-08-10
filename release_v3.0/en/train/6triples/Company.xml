@@ -1,35 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="Company" eid="Id1" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>AmeriGas | regionServed | United_States</otriple>
-        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
-        <otriple>AmeriGas | operatingIncome | 3.807E8</otriple>
-        <otriple>AmeriGas | industry | Energy_industry</otriple>
-        <otriple>AmeriGas | country | United_States</otriple>
-        <otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
-      </originaltripleset>
-      <originaltripleset>
-        <otriple>AmeriGas | regionServed | United_States</otriple>
-        <otriple>AmeriGas | locationCity | King_of_Prussia,_Pennsylvania</otriple>
-        <otriple>AmeriGas | operatingIncome | 3.807E8</otriple>
-        <otriple>AmeriGas | industry | Energy_industry</otriple>
-        <otriple>AmeriGas | locationCountry | United_States</otriple>
-        <otriple>AmeriGas | foundingYear | 1959-01-01</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>AmeriGas | regionServed | United_States</mtriple>
-        <mtriple>AmeriGas | city | King_of_Prussia,_Pennsylvania</mtriple>
-        <mtriple>AmeriGas | operatingIncome | 380700000</mtriple>
-        <mtriple>AmeriGas | industry | Energy_industry</mtriple>
-        <mtriple>AmeriGas | country | United_States</mtriple>
-        <mtriple>AmeriGas | foundingDate | 1959-01-01</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">AmeriGas (founded on January 01, 1959) is located in King of Prussia, Pennsylvania and works as well as provides its services in the United States. It is in the energy industry, and has an operating income of $380,700,000.</lex>
-      <lex comment="good" lid="Id2">Serving all regions of the United States, AmeriGas is located in the city of King of Prussia, Pennsylvania in the United States. Founded on January 1, 1959, and focused in the energy industry, Amerigas currently has earned an operating income of $380,700,000.</lex>
-      <lex comment="good" lid="Id3">AmeriGas (founded on January 01, 1959) is located in the King of Prussia, Pennsylvania in the United States, the country it is working in and serves. It has an operating income of $380,700,000 and is classified as the energy industry.</lex>
-    </entry>
     <entry category="Company" eid="Id2" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
         <otriple>AmeriGas | regionServed | United_States</otriple>
@@ -58,27 +29,6 @@
       <lex comment="good" lid="Id1">AmeriGas, located in King of Prussia, Pennsylvania, USA, is an energy company that serves all regions of the United States. It employs 8500 people and earns 380700000 operating income.</lex>
       <lex comment="good" lid="Id2">Located in King of Prussia, Pennsylvania in the United States, the country in which AmeriGas is working and serves. The company has 8500 employees with an operating income of $380,700,000 and is classified as the energy industry.</lex>
       <lex comment="good" lid="Id3">AmeriGas, located in King of Prussia, Pennsylvania, is an energy company that provides its services in the U.S. It has 8,500 employees and operates on a $380,700,000 income.</lex>
-    </entry>
-    <entry category="Company" eid="Id3" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>Chinabank | foundingYear | 1920-01-01</otriple>
-        <otriple>Chinabank | numberOfLocations | 295</otriple>
-        <otriple>Chinabank | foundationPlace | Manila</otriple>
-        <otriple>Chinabank | type | Public_company</otriple>
-        <otriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</otriple>
-        <otriple>Chinabank | location | Philippines</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Chinabank | foundingDate | 1920-08-16</mtriple>
-        <mtriple>Chinabank | numberOfLocations | 295</mtriple>
-        <mtriple>Chinabank | foundationPlace | Manila</mtriple>
-        <mtriple>Chinabank | type | Public_company</mtriple>
-        <mtriple>Chinabank | foundationPlace | Insular_Government_of_the_Philippine_Islands</mtriple>
-        <mtriple>Chinabank | location | Philippines</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Chinabank was founded on August 16, 1920 in the Insular Government of the Philippine Islands In Manila. Located in the Philippines, it is a publicly traded company with 295 branches.</lex>
-      <lex comment="good" lid="Id2">Chinabank was founded on August 16, 1920 in Manila, in the Insular Government of the Philippine Islands. It is a publicly traded company, located in the Philippines with 295 branches.</lex>
-      <lex comment="good" lid="Id3">Publicly traded Chinabank, founded in Manila, Philippines, at the time of the Insular Government of the Philippine Islands, on August 16, 1920, operates 295 banking centers.</lex>
     </entry>
     <entry category="Company" eid="Id4" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -201,27 +151,6 @@
       <lex comment="good" lid="Id2">GMA New Media Inc is a media company and a subsidiary of GMA Network in the mass media industry. They produce web services, offer applications in the entertainment industry, and they're main product line is online games.</lex>
       <lex comment="good" lid="Id3">GMA New Media (a GMA Network company) offers media, web and online gaming services in the entertainment and mass media industries.</lex>
     </entry>
-    <entry category="Company" eid="Id9" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>GMA_New_Media | location | GMA_Network_Center</otriple>
-        <otriple>GMA_New_Media | location | Philippines</otriple>
-        <otriple>GMA_New_Media | industry | Entertainment</otriple>
-        <otriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</otriple>
-        <otriple>GMA_New_Media | subsidiary | Digify,_Inc.</otriple>
-        <otriple>GMA_New_Media | parentCompany | GMA_Network_(company)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>GMA_New_Media | location | GMA_Network_Center</mtriple>
-        <mtriple>GMA_New_Media | location | Philippines</mtriple>
-        <mtriple>GMA_New_Media | industry | Entertainment</mtriple>
-        <mtriple>GMA_New_Media | subsidiary | Philippine_Entertainment_Portal</mtriple>
-        <mtriple>GMA_New_Media | subsidiary | Digify,_Inc.</mtriple>
-        <mtriple>GMA_New_Media | parentCompany | GMA_Network_(company)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">GMA New Media, Inc. (parent company GMA Network) is located inside the GMA Network Center in the Philippines. The company is in the entertainment industry with Philippine Entertainment Portal and Digify, Inc. being its subsidiaries.</lex>
-      <lex comment="good" lid="Id2">GMA New Media's headquarters are located in the GMA Network Center in the Philippines. GMA New Media (parent company GMA network) is an entertainment industry and Philippine Entertainment Portal and Digify Inc. are its subsidiaries.</lex>
-      <lex comment="good" lid="Id3">Located in the GMA Network Center in the Philippines, GMA New Media is a subsidiary of GMA Network that offers applications in the entertainment industry. Philippine Entertainment Portal and Digify Inc. are subsidiaries of GMA New Media.</lex>
-    </entry>
     <entry category="Company" eid="Id10" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
         <otriple>GMA_New_Media | product | Mobile_Applications</otriple>
@@ -305,27 +234,6 @@
       <lex comment="good" lid="Id1">Founded on 193-01-01, Trane, an HVAC producer in La Crosse, Wisconsin with 29,000 employees, netted a $556,300,000 income and an operating income of $875,400,000.</lex>
       <lex comment="good" lid="Id2">Trane is a company which was founded on 1913-01-01 in La Crosse, Wisconsin. The company employs 29000 people, and HVAC appliances are among the products manufactured by them. Trane has an operating income of 875.4 million USD, which equates to a net income of about $556 million.</lex>
       <lex comment="good" lid="Id3">Founded in La Crosse, Wisconsin on 01-01-1913, the 29,000 employee Trane company manufactures HVAC equipment. Trane generates $556,300,000 of net income and $875,400,000 of operating income.</lex>
-    </entry>
-    <entry category="Company" eid="Id14" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
-      <originaltripleset>
-        <otriple>Trane | product | Building_Management_System</otriple>
-        <otriple>Trane | operatingIncome | 8.754E8</otriple>
-        <otriple>Trane | foundingYear | 1913-01-01</otriple>
-        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
-        <otriple>Trane | numberOfEmployees | 29000</otriple>
-        <otriple>Trane | product | HVAC</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Trane | product | Building_Management_System</mtriple>
-        <mtriple>Trane | operatingIncome | 875400000</mtriple>
-        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
-        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
-        <mtriple>Trane | numberOfEmployees | 29000</mtriple>
-        <mtriple>Trane | product | HVAC</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Trane was founded in La Crosse, Wisconsin on January 1, 1913. With 29,000 employees and an operating income of 875.4 million USD, Trane produces building management systems, including HVACs.</lex>
-      <lex comment="good" lid="Id2">The Trane company was founded on January 01, 1913 in La Crosse, Wisconsin. It has an operating income of $875,400,000 with 29,000 employees and it manufactures building management systems and produces HVAC.</lex>
-      <lex comment="good" lid="Id3">Trane makes building management systems and HVAC. They were founded on Jan 1 1913 in La Crosse WI, and employ 29,000 people. Their operating income is $875,400,000.</lex>
     </entry>
     <entry category="Company" eid="Id15" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>

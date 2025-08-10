@@ -47,29 +47,6 @@
       <lex comment="good" lid="Id2">GMA New Media is a media company that creates mobile apps and produces services for the web. Primarily led by Felipe Gozon, the company was created on January 1, 2000. Two of their subsidiaries include Philippine Entertainment Portal, Inc and Digify Inc.</lex>
       <lex comment="good" lid="Id3">GMA New Media, founded in January, 2000, is a media company which make websites and offers mobile application products. Its chairman and CEO is Felipe Gozon. GMA New Media subsidiaries include Philippine Entertainment Portal and Digify, Inc.</lex>
     </entry>
-    <entry category="Company" eid="Id3" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
-      <originaltripleset>
-        <otriple>GMA_New_Media | industry | Mass_Media</otriple>
-        <otriple>GMA_New_Media | keyPerson | Felipe_Gozon</otriple>
-        <otriple>GMA_New_Media | industry | Entertainment</otriple>
-        <otriple>GMA_New_Media | type | Media_company</otriple>
-        <otriple>GMA_New_Media | product | World_Wide_Web</otriple>
-        <otriple>GMA_New_Media | product | Online_Game</otriple>
-        <otriple>GMA_New_Media | parentCompany | GMA_Network_(company)</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>GMA_New_Media | industry | Mass_Media</mtriple>
-        <mtriple>GMA_New_Media | keyPerson | Felipe_Gozon</mtriple>
-        <mtriple>GMA_New_Media | industry | Entertainment</mtriple>
-        <mtriple>GMA_New_Media | type | Media_company</mtriple>
-        <mtriple>GMA_New_Media | product | World_Wide_Web</mtriple>
-        <mtriple>GMA_New_Media | product | Online_Game</mtriple>
-        <mtriple>GMA_New_Media | parentCompany | GMA_Network_(company)</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">GMA New Media is a mass media company in the entertainment industry. They are headed up by Felipe Gozon, and are owned by GMA Network. They develop web sites and online games.</lex>
-      <lex comment="good" lid="Id2">GMA New Media, Inc. is a media company that offers services in the entertainment industry: different internet services and online games. It is managed by Felipe Gozon, and it is a subsidiary of GMA Network.</lex>
-      <lex comment="good" lid="Id3">GMA New Media, a mass media entertainment industry company, produces, offers World Wide Web-related services. The company also produces online games. The company is a subsidiary of parent company, GMA Network, and features Felipe Gozon as a key person.</lex>
-    </entry>
     <entry category="Company" eid="Id4" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
       <originaltripleset>
         <otriple>Hypermarcas | location | Brazil</otriple>
@@ -93,29 +70,6 @@
       <lex comment="good" lid="Id2">Hypermarcas was founded in Brazil on Jan 1, 2001. They are an S.A. corporation which produces pharmaceutical drugs. Their key person is their CEO, and they have a net income of $108,600,000.</lex>
       <lex comment="good" lid="Id3">Hypermarcas is an S.A. corporation who sells pharmaceuticals in Brazil. Their primary product is drugs. Managed by their CEO, they were founded on 1/1/2001 and have a $108,600,000 net income.</lex>
     </entry>
-    <entry category="Company" eid="Id5" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
-      <originaltripleset>
-        <otriple>Hypermarcas | location | Brazil</otriple>
-        <otriple>Hypermarcas | product | Drugs</otriple>
-        <otriple>Hypermarcas | industry | Pharmaceuticals</otriple>
-        <otriple>Hypermarcas | keyPerson | CEO</otriple>
-        <otriple>Hypermarcas | foundingYear | 2001-01-01</otriple>
-        <otriple>Hypermarcas | type | S.A._(corporation)</otriple>
-        <otriple>Hypermarcas | subsidiary | Mantecorp</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Hypermarcas | location | Brazil</mtriple>
-        <mtriple>Hypermarcas | product | Drugs</mtriple>
-        <mtriple>Hypermarcas | industry | Pharmaceuticals</mtriple>
-        <mtriple>Hypermarcas | keyPerson | CEO</mtriple>
-        <mtriple>Hypermarcas | foundingDate | 2001-01-01</mtriple>
-        <mtriple>Hypermarcas | type | S.A._(corporation)</mtriple>
-        <mtriple>Hypermarcas | subsidiary | Mantecorp</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">Hypermarcas was founded in Brazil on 2001-01-01. They are an S.A. corporation making drugs in the pharmaceutical industry. Their key person is a CEO, and they are the owners of the subsidiary Mantecorp.</lex>
-      <lex comment="good" lid="Id2">Hypermarcas is a Brazilian pharmaceutical company whose main product is drugs. They were founded on January 1, 2001 as an S.A. corporation. They are managed by a CEO, and own the subsidiary Mantecorp.</lex>
-      <lex comment="good" lid="Id3">Mantecorp is a subsidiary of the pharmaceutical company Hypermarcas, an S.A. Corporation located in Brazil, which was founded on January 1, 2001. Hypermarcas is ruled by a CEO.</lex>
-    </entry>
     <entry category="Company" eid="Id6" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
       <originaltripleset>
         <otriple>Hypermarcas | product | Drugs</otriple>
@@ -138,29 +92,6 @@
       <lex comment="good" lid="Id1">Mantecorp is a subsidiary of Hypermarcas, located in Sao Paulo, which is a maker of healthcare products including producing pharmaceutical drugs. Hypermarcas employs 10,252 people, has a net income of $108,600,000, and their revenue is $1,800,000,000.</lex>
       <lex comment="good" lid="Id2">Hypermarcas is primarily a drug company, which also sells healthcare products. They are located in Sao Paulo and employ 10,252 people. They are the owners of the subsidiary Mantecorp, and they have a net income of 108,600,000. They earn 18,000,00,000 yearly.</lex>
       <lex comment="good" lid="Id3">Hypermarcas, a producer of healthcare products and drugs, is located in São Paulo. They have a subsidary called Mantecorp. Hypermarcas employs 10,252 people and makes $1,800,000,000 a year with a net income of $108,600,000.</lex>
-    </entry>
-    <entry category="Company" eid="Id7" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
-      <originaltripleset>
-        <otriple>Trane | location | Swords,_Dublin</otriple>
-        <otriple>Trane | foundingYear | 1913-01-01</otriple>
-        <otriple>Trane | location | Ireland</otriple>
-        <otriple>Trane | foundationPlace | La_Crosse,_Wisconsin</otriple>
-        <otriple>Trane | numberOfEmployees | 29000</otriple>
-        <otriple>Trane | product | HVAC</otriple>
-        <otriple>Trane | industry | Building_materials</otriple>
-      </originaltripleset>
-      <modifiedtripleset>
-        <mtriple>Trane | location | Swords,_Dublin</mtriple>
-        <mtriple>Trane | foundingDate | 1913-01-01</mtriple>
-        <mtriple>Trane | location | Ireland</mtriple>
-        <mtriple>Trane | foundationPlace | La_Crosse,_Wisconsin</mtriple>
-        <mtriple>Trane | numberOfEmployees | 29000</mtriple>
-        <mtriple>Trane | product | HVAC</mtriple>
-        <mtriple>Trane | industry | Building_materials</mtriple>
-      </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 29,000 employee building materials company Trane, the manufacturer of HVAC, which was founded in La Crosse, Wisconsin, is located in Swords, Dublin, Ireland.</lex>
-      <lex comment="good" lid="Id2">Trane was founded in La Crosse, Wisconsin on 01-01-1913 but has since moved to Swords, Dublin in Ireland. Trane's 29,000 employees are involved in the manufacturing of HVAC building materials.</lex>
-      <lex comment="good" lid="Id3">Trane, Inc., an international company in the building materials industry, was founded in La Crosse, Wisconsin in 1913. Today 29,000 people are employed by Trane, whose corporate headquarters are located in Swords, Dublin, Ireland. Trane is best known for manufacturing heating, ventilating and air conditioning (HVAC) systems.</lex>
     </entry>
     <entry category="Company" eid="Id8" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
       <originaltripleset>
